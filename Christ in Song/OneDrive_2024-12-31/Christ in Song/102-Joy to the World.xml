@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Joy to the World</title>
+      <title>102</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="102"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Joy to the world, the Lord is come
+Let earth receive her King
+Let every heart prepare Him room
+And heaven and nature sing
+And heaven and nature sing
+And heaven, and heaven and nature sing</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Joy to the world, the Savior reigns
+Let all their songs employ
+While fields and floods rocks, hills and plains
+Repeat the sounding joy
+Repeat the sounding joy
+Repeat, repeat the sounding joy</lines>
+    </verse>
+	<verse name="v3">
+      <lines>No more let sins and sorrows grow
+nor thorns infest the ground;
+he comes to make his blessings flow
+far as the curse is found,
+far as the curse is found,
+far as, far as the curse is found.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>He rules the world with truth and grace
+and makes the nations prove
+the glories of his righteousness
+and wonders of his love,
+and wonders of his love,
+and wonders, wonders of his love.</lines>
+    </verse>
+  </lyrics>
+</song>

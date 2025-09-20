@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Ask in faith, the Name of Jesus</title>
+      <title>326</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="326"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>“Ask in faith,” the Name of Jesus
+  All your plea before the throne;
+As you trust, the Lord will whisper,
+  “See, my child, the work is done.”</lines>
+    </verse>
+	<verse name="v2">
+      <lines>“Ask in faith,” God waits to answer
+  Each petition, Spirit-wrought;
+He will work in wondrous power,
+  Far beyond your highest thought.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>“Ask in faith,” ’tis just the asking,
+  In a faith that dares to stand,
+Full of joyful expectation,
+  With an open, outstretched hand.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>“Ask in faith,” for God is waiting
+  For thy faith-filled, earnest prayer.
+Faith delights Him; faith can touch Him,
+  Every moment, everywhere.</lines>
+    </verse>
+  </lyrics>
+</song>

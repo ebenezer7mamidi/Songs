@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>My God, I thank Thee</title>
+      <title>399</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="399"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My God, I thank Thee, who hast made
+The earth so bright,
+So full of splendor and of joy,
+Beauty and light;
+So many glorious things are here,
+Noble and right.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>I thank Thee, too, that Thou hast made
+Joy to abound;
+So many gentle thoughts and deeds
+Circling us round,
+That in the darkest spot of earth
+Some love is found.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>I thank Thee more that all our joy
+Is touched with pain,
+That shadows fall on brightest hours,
+That thorns remain;
+So that earth’s bliss may be our guide,
+And not our chain.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>For thou who knowest, Lord, how soon
+Our weak heart clings,
+Hast given us joys, tender and true,
+Yet all with wings;
+So that we see gleaming on high
+Diviner things.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I thank Thee, Lord, that Thou hast kept
+The best in store;
+We have enough, yet not too much
+To long for more:
+A yearning for a deeper peace
+Not known before.</lines>
+    </verse>
+	<verse name="v6">
+      <lines>I thank Thee, Lord, that here our souls
+Though amply blessed,
+Can never find, although they seek
+A perfect rest;
+Nor ever shall, until they lean
+On Jesus’ breast.</lines>
+    </verse>	
+  </lyrics>
+</song>

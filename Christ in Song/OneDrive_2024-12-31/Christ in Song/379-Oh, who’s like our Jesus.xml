@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Oh, who’s like our Jesus</title>
+      <title>379</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="379"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh, who’s like our Jesus? He’s all we desire!
+His love draws us near—sets our spirits afire!
+We cannot but love Him—As one we proclaim:
+“Lord Jesus, we love Thee—exalt Thy dear name!”</lines>
+    </verse>
+	<verse name="v2">
+      <lines>O Jesus, our Jesus, with Thee we are blest—
+Our Life, our Enjoyment, our Peace and our Rest:
+Thy name be our theme, and Thy love be our song;
+Thy love has inspired both our heart and our tongue!</lines>
+    </verse>
+	<verse name="v3">
+      <lines>O Jesus, our Jesus, how can we express
+Thy dearness, so precious, and Thy loveliness?
+When we see Thy beauty, all else fades away—
+All shadows must flee at the breaking of day!</lines>
+    </verse>
+	<verse name="v4">
+      <lines>We love Thee, we love Thee, we love Thee, O Lord.
+We love Thee, our Jesus, we love Thee, our God!
+We love Thee, we love Thee, and that Thou dost know;
+As we’re in Thy presence, love for Thee will grow!</lines>
+    </verse>
+  </lyrics>
+</song>

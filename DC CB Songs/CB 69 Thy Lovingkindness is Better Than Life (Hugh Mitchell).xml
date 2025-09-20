@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T16:30:11">
+  <properties>
+    <titles>
+      <title>CB 69 Thy Lovingkindness is Better Than Life</title>
+    </titles>
+    <copyright>©1956 New
+Spring (Brentwood-Benson
+Music Publishing Company)</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>11012</ccliNo>
+    <authors>
+      <author>Hugh Mitchell</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="69"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>THY LOVINGKINDNESS IS BETTER THAN<br/>LIFE,<br/>Thy lovingkindness is better than life.<br/>My lips shall praise Thee,<br/>Thus will I bless Thee;<br/>I will lift up my hands in Thy name.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>I lift my hands up unto Thy name.<br/>I lift my hands up unto Thy name.<br/>My lips shall praise Thee,<br/>Thus will I bless Thee;<br/>I will lift up my hands in Thy name.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T19:34:27">
+  <properties>
+    <titles>
+      <title>CB 182 The Law of the Lord is Perfect</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="182"/>
+    </songbooks>
+    <themes>
+      <theme>Psalm 19:7-
+11,14</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>THE LAW OF THE LORD IS PERFECT,<br/>Converting the soul; the testimony of the Lord is<br/>sure, making wise the simple.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>More to be desired are they than gold, yea, than<br/>much fine gold; sweeter also than honey and the<br/>honeycomb.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>The statutes of the Lord are right, rejoicing the<br/>heart; the commandment of the Lord is pure,<br/>enlightening the eyes.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The fear of the Lord is clean, enduring forever; the<br/>judgments of the Lord are true and righteous<br/>altogether.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Chorus Tune:<br/>Moreover by them is Thy servant warned, is Thy<br/>servant warned; and in keeping of them there is<br/>great reward.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Let the words of my mouth, and the meditation of<br/>my heart, be acceptable in Thy sight, O Lord, my<br/>strength and my Redeemer.</lines>
+    </verse>
+  </lyrics>
+</song>

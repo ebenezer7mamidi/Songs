@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T16:30:25">
+  <properties>
+    <titles>
+      <title>CB 72 From the Rising of the Sun</title>
+    </titles>
+    <copyright>©1979
+Ascential Praise! Music</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>3221682</ccliNo>
+    <authors>
+      <author>Stephen Smith</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="72"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>FROM THE RISING OF THE SUN<br/>To the going down of the same, the name of the<br/>Lord is to be praised.<br/>(Repeat)<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Praise ye the Lord! Praise ye the Lord!<br/>(Repeat first verse)</lines>
+    </verse>
+  </lyrics>
+</song>

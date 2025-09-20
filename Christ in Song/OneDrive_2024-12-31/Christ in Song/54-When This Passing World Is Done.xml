@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>When This Passing World Is Done</title>
+      <title>54</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="54"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When this passing world is done,
+when has sunk yon glaring sun,
+when we stand with Christ on high
+looking o'er life's history,
+then, Lord, shall I fully know,
+not till then, how much I owe.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>When I stand before the throne,
+dressed in beauty not my own,
+when I see thee as thou art,
+love thee with unsinning heart,
+then, Lord, shall I fully know,
+not till then, how much I owe.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>When the praise of heav'n I hear,
+loud as thunders to the ear,
+loud as many waters' noise,
+sweet as harp's melodious voice,
+then, Lord, shall I fully know,
+not till then, how much I owe.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>E'en on earth, as through a glass
+Darkly, let Thy glory pass,
+Make forgiveness feel so sweet,
+Make Thy Spirit’s help so meet,
+E'en on earth, Lord, make me know
+Something of how much I owe.</lines>
+    </verse>
+	<verse name="v5">
+      <lines>When in flowery paths I tread,
+Oft by sin I’m captive led;
+Oft I fall—but still arise—
+The Spirit comes—the tempter flies;
+Blessed Spirit! bid me show
+Weary sinners all I owe.</lines>
+    </verse>
+	<verse name="v6">
+      <lines>Chosen not for good in me,
+Wakened up from wrath to flee,
+Hidden in the Savior’s side,
+By the Spirit sanctified,
+Teach me, Lord, on earth to show,
+By my love, how much I owe.</lines>
+    </verse>	
+  </lyrics>
+</song>

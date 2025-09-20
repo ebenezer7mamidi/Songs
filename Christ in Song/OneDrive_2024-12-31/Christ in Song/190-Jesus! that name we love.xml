@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Jesus! that name we love</title>
+      <title>190</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="190"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus! that name we love,
+  Jesus, our Lord!
+Jesus, all names above,
+  Jesus, the Lord!
+Thou, Lord, our all must be;
+Nothing that’s good have we,
+Nothing apart from Thee.
+  Jesus, our Lord!</lines>
+    </verse>
+	<verse name="v2">
+      <lines>As Son of Man it was,
+  Jesus, the Lord!
+Thou gav’st Thy life for us,
+  Jesus, our Lord!
+Great was indeed Thy love,
+All other loves above,
+Love Thou didst dearly prove,
+  Jesus, our Lord!</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Righteous alone in Thee,
+  Jesus, the Lord!
+Thou wilt a refuge be,
+  Jesus, our Lord!
+Whom, then, have we to fear,
+What trouble, grief, or care,
+Since Thou art ever near,
+  Jesus, our Lord!</lines>
+    </verse>
+	<verse name="v4">
+      <lines>Soon Thou wilt come again,
+  Jesus, the Lord!
+We shall be happy then,
+  Jesus, our Lord!
+When Thine own face we see,
+Then shall we like Thee be,
+Then evermore with Thee,
+  Jesus, our Lord!</lines>
+    </verse>
+  </lyrics>
+</song>

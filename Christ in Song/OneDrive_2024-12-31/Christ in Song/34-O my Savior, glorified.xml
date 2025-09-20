@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>O my Savior, glorified</title>
+      <title>34</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="34"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O my Savior, glorified!
+  Now the heavens, opened wide,
+Show to faith’s exultant eye
+  One in beauteous majesty.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Worthy of the sweetest praise
+  That my ransomed heart can raise,
+Is that Man in whom alone
+  God Himself is fully known.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>For those clust’ring glories prove
+  That glad gospel, “God is Love,”
+Whilst those wounds, in glory bright.
+  Voice the solemn, “God is Light.”</lines>
+    </verse>
+	<verse name="v4">
+      <lines>Hark, my soul! thy Savior sings;
+  Catch the joy that music brings,
+And, with that sweet flood of song,
+  Pour thy whisp’ring praise along.</lines>
+    </verse>
+	<verse name="v5">
+      <lines>O my Savior, glorified,
+  Turn my eye from all beside,
+Let me but Thy beauty see,
+  Other light is dark to me.</lines>
+    </verse>	
+  </lyrics>
+</song>

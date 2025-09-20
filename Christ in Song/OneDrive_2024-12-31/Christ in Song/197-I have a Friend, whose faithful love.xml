@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>I have a Friend, whose faithful love</title>
+      <title>197</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="197"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have a Friend, whose faithful love
+Is more than all the world to me:
+’Tis higher than the heights above,
+And deeper than the soundless sea;
+    So old, so new,
+    So strong, so true;
+Before the earth received its frame,
+He loved me—Blessed be His name!</lines>
+    </verse>
+	<verse name="v2">
+      <lines>He held the highest place above,
+Adored by all the sons of flame,
+Yet such His self-denying love,
+He laid aside His crown and came
+    To seek the lost,
+    And at the cost
+Of heavenly rank and earthly fame
+He sought me—Blessed be His name!</lines>
+    </verse>
+	<verse name="v3">
+      <lines>It was a lonely path He trod,
+From every human soul apart;
+Known only to Himself and God
+Was all the grief that filled His heart,
+    Yet from the track
+    He turned not back,
+Till where I lay in want and shame,
+He found me—Blessed be His name!</lines>
+    </verse>
+	<verse name="v4">
+      <lines>Then dawned at last that day of dread,
+When desolate, yet undismayed,
+With wearied frame and thorn-crowned head,
+He, God-forsaken, man-betrayed,
+    Was then made sin
+    On Calvary,
+And, dying there in grief and shame,
+He saved me—Blessed be His name!</lines>
+    </verse>
+	<verse name="v5">
+      <lines>Long as I live my song shall tell
+The wonders of His dying love;
+And when at last I go to dwell
+With Him His sovereign grace to prove,
+    My joy shall be
+    His face to see,
+And bowing there with loud acclaim
+I’ll praise Him—Blessed be His name!</lines>
+    </verse>	
+  </lyrics>
+</song>

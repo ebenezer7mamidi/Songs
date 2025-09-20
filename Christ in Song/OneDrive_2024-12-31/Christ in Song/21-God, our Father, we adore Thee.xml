@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>God, our Father, we adore Thee</title>
+      <title>21</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="21"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God, our Father, we adore Thee!
+We, Thy children, bless Thy Name!
+Chosen in the Christ before Thee,
+We are “holy without blame.”
+We adore Thee! we adore Thee!
+Abba’s praises we proclaim!
+We adore Thee! we adore Thee!
+Abba’s praises we proclaim!</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Son Eternal, we adore Thee!
+Lamb upon the throne on high!
+Lamb of God, we bow before Thee,
+Thou hast brought Thy people nigh!
+We adore Thee! we adore Thee!
+Son of God, Who came to die!
+We adore Thee! we adore Thee!
+Son of God, Who came to die!</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Father, Son and Holy Spirit—
+Three in One! we give Thee praise!
+For the riches we inherit,
+Heart and voice to Thee we raise!
+We adore Thee! we adore Thee!
+Thee we bless, through endless days!
+We adore Thee! we adore Thee!
+Thee we bless, through endless days!
+</lines>
+    </verse>	
+  </lyrics>
+</song>

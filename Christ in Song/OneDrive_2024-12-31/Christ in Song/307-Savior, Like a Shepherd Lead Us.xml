@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Savior, Like a Shepherd Lead Us</title>
+      <title>307</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="307"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Savior, like a shepherd lead us,
+Much we need Thy tender care;
+In Thy pleasant pastures feed us,
+For our use Thy folds prepare:
+Blessèd Jesus, blessèd Jesus,
+Thou hast bought us, Thine we are;
+Blessèd Jesus, blessèd Jesus,
+Thou hast bought us, Thine we are.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>We are Thine, do Thou befriend us,
+Be the guardian of our way;
+Keep Thy flock, from sin defend us,
+Seek us when we go astray:
+Blessèd Jesus, blessèd Jesus,
+Hear THy children when they pray;
+Blessèd Jesus, blessèd Jesus,
+Hear THy children when they pray.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Early let us seek Thy favor,
+Early let us do Thy will;
+Blessed Lord and only Savior,
+With Thy love our bosoms fill:
+Blessèd Jesus, blessèd Jesus,
+Thou hast loved us, love us still;
+Blessèd Jesus, blessèd Jesus,
+Thou hast loved us, love us still.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>I stand amazed in the presence</title>
+      <title>195</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="195"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I stand amazed in the presence
+  Of Jesus the Nazarene,
+And wonder how He could love me,
+  A sinner condemned, unclean.</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>How marvelous! How wonderful!
+  And my song shall ever be:
+How marvelous! How wonderful!
+    Is my Savior’s love for me!</lines>
+    </verse>
+	<verse name="v2">
+      <lines>For me it was in the garden,
+  He prayed: “Not my will, but Thine.”
+He had no tears for His own griefs,
+  But sweat-drops of blood for mine.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>In pity angels beheld Him,
+  And came from the world of light
+To strengthen Him in the sorrows
+  He bore for my soul that night.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>He took my sins and my sorrows,
+  He made them His very own;
+He bore the burden to Calv’ry,
+  And suffered, and died alone.</lines>
+    </verse>
+	<verse name="v5">
+      <lines>When with the ransomed in glory
+  His face I at last shall see,
+’Twill be my joy through the ages
+  To sing of His love for me.</lines>
+    </verse>	
+  </lyrics>
+</song>

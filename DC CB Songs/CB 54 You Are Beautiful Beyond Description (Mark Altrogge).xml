@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T16:28:46">
+  <properties>
+    <titles>
+      <title>CB 54 You Are Beautiful Beyond Description</title>
+    </titles>
+    <copyright>©1987
+Sovereign Grace Praise
+(Integrity Music Inc.)</copyright>
+    <verseOrder>v1 c1</verseOrder>
+    <ccliNo>23914</ccliNo>
+    <authors>
+      <author>Mark Altrogge</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="54"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YOU ARE BEAUTIFUL BEYOND<br/>DESCRIPTION;<br/>Too marvelous for words;<br/>Too wonderful for comprehension;<br/>Like nothing ever seen or heard.<br/>Who can grasp Your infinite wisdom?<br/>Who can fathom the depths of Your love?<br/>You are beautiful beyond description.<br/>Majesty enthroned above.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And I stand, I stand in awe of You.<br/>I stand, I stand in awe of You.<br/>Holy God to whom all praise is due,<br/>I stand in awe of You</lines>
+    </verse>
+  </lyrics>
+</song>

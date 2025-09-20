@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>The name of Jesus is so sweet</title>
+      <title>185</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="185"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The name of Jesus is so sweet,
+I love its music to repeat;
+It makes my joys full and complete,
+  The precious name of Jesus.</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>Jesus! oh, how sweet the name,
+Jesus! every day the same;
+Jesus! let all saints proclaim
+    Its worthy praise forever.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>I love the name of Him whose heart
+Knows all my griefs and bears a part;
+Who bids all anxious fears depart,
+  I love the name of Jesus.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>That name I fondly love to hear,
+It never fails my heart to cheer,
+Its music dries the falling tear;
+  Exalt the name of Jesus.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>No word of man can ever tell
+How sweet the name I love so well,
+Oh, let its praises ever swell,
+  Oh, praise the name of Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T16:33:42">
+  <properties>
+    <titles>
+      <title>CB 108 Lift Up Your Heads</title>
+    </titles>
+    <comments>
+      <comment>ending (optional)
+
+[above are Song Tags with notes imported from EasyWorship]</comment>
+    </comments>
+    <copyright>1974 Birdwing Music | / BMG Songs, Inc. |, Administered by EMI Christian Music Publishing | BMG Music Publish</copyright>
+    <ccliNo>19777</ccliNo>
+    <authors>
+      <author>Steve Fry</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="108"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>G<br/>Lift up your heads (echo)<br/>To the coming King (echo)<br/>Bow before Him<br/>And adore Him, sing (echo)<br/>To His majesty (echo)<br/>Let your praises be (echo)<br/>Pure and holy, giving glory<br/>To the King of kings</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Let there be glory and honor and praises<br/>Glory and honor to Jesus<br/>Glory, honor<br/>Glory and honor to Him</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>He leadeth me! O blessed thought</title>
+      <title>312</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="312"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He leadeth me! O blessed thought,
+O words with heav’nly comfort fraught;
+Whate’er I do, where’er I be,
+Still ’tis Christ’s hand that leadeth me.</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>He leadeth me! He leadeth me!
+By His own hand He leadeth me;
+His faithful follower I would be,
+  For by His hand He leadeth me.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Sometimes ’mid scenes of deepest gloom,
+Sometimes where Eden’s bowers bloom,
+By waters still, o’er troubled sea,
+Still ’tis His hand that leadeth me.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Lord, I would clasp Thy hand in mine,
+Nor ever murmur or repine;
+Content, whatever lot I see,
+Since it is Thou that leadest me.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>And when my task on earth is done,
+When, by Thy grace, the vict’ry’s won,
+E’en death’s cold wave I will not flee,
+Since Thou in triumph leadest me.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T16:32:15">
+  <properties>
+    <titles>
+      <title>CB 92 How I Love You</title>
+    </titles>
+    <copyright>© 1982 Birdwing Music
+BMG Songs, Inc.
+Ears To Hear (EMI Christian
+Publ.,BMG Music Publ.)</copyright>
+    <ccliNo>14552</ccliNo>
+    <authors>
+      <author>Keith Green</author>
+      <author>Melody Green</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="92"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>G<br/><br/>How I love You<br/>You are the One<br/>You are the One<br/>How I love You<br/>You are the One for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I was so lost<br/>But You showed the way<br/>'Cause You are the way<br/>I was so lost<br/>But You showed the way to me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I was lied to<br/>But You told the truth<br/>'Cause You are the truth<br/>I was lied to<br/>But You showed the truth to me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I was dying<br/>But You gave me life<br/>'Cause You are the life<br/>I was dying<br/>And You gave Your life for me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hallelujah<br/>You are the One<br/>You are the One<br/>Hallelujah<br/>You are the One for me</lines>
+    </verse>
+  </lyrics>
+</song>

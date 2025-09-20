@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Jesus for me</title>
+      <title>391</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="391"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, my Savior, is all things to me;
+Oh, what a wonderful Savior is He,
+Guiding, protecting, o’er life’s rolling sea,
+Mighty Deliv’rer—Jesus for me.</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>Jesus for me,
+  Jesus for me,
+All the time everywhere,
+    Jesus for me.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Jesus in sickness, and Jesus in health,
+Jesus in poverty, comfort or wealth;
+Sunshine or tempest, whatever it be,
+He is my safety—Jesus for me.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>He is my Refuge, my Rock, and my Tower,
+He is my Fortress, my Strength and my Pow’r;
+Life everlasting, my Daysman is He,
+Blessed Redeemer—Jesus for me.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>He is my Prophet, my Priest and my King,
+He is my Bread of Life, Fountain and Spring;
+Bright Sun of Righteousness, Daystar is He,
+Horn of Salvation—Jesus for me.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus in sorrow, in joy, or in pain,
+Jesus my Treasure in loss or in gain;
+Constant Companion where’er I may be,
+Living or dying—Jesus for me.</lines>
+    </verse>	
+  </lyrics>
+</song>

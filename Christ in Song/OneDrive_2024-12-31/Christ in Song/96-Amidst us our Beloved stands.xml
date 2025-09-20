@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Amidst us our Beloved stands</title>
+      <title>96</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="96"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amidst us our Beloved stands,
+And bids us view His pierced hands;
+Points to the wounded feet and side,
+Blest emblems of the Crucified.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>What food luxurious loads the board
+When, at His table, sits the Lord!
+The wine how rich, the bread how sweet,
+When Jesus deigns the guests to meet!</lines>
+    </verse>
+	<verse name="v3">
+      <lines>If now, with eyes defiled and dim,
+We see the signs, but see not Him;
+Oh, may His love the scales displace,
+And bid us see Him face to face!</lines>
+    </verse>
+	<verse name="v4">
+      <lines>Thou glorious Bridegroom of our hearts,
+Thy present smile Thy grace imparts!
+Oh, lift the veil, if veil there be,
+Let every saint Thy glory see!</lines>
+    </verse>
+  </lyrics>
+</song>

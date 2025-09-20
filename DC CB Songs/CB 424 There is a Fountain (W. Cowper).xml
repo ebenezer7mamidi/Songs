@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T17:15:35">
+  <properties>
+    <titles>
+      <title>CB 424 There is a Fountain</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>W. Cowper</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="424"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>THERE IS A FOUNTAIN FILLED WITH BLOOD,<br/>Drawn from Immanuel’s veins;<br/>And sinners plunged beneath that flood<br/>Lose all their guilty stains.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I do believe, I will believe<br/>That Jesus died for me;<br/>That on the cross He shed His blood,<br/>From sin to set me free.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The dying thief rejoiced to see<br/>That fountain in his day,<br/>And there have I, though vile as he,<br/>Washed all my sins away.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dear dying Lamb, Thy precious blood<br/>Shall never lose its power,<br/>Till all the ransomed church of God<br/>Be saved to sin no more.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>E’er since by faith I saw the stream<br/>Thy flowing wounds supply,<br/>Redeeming love has been my theme,<br/>And shall be till I die.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Then, in a nobler, sweeter song,<br/>I’ll sing Thy power to save,<br/>When this poor lisping, stammering tongue,<br/>Lies silent in the grave.</lines>
+    </verse>
+  </lyrics>
+</song>

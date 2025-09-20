@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Meekness and Majesty</title>
+      <title>103</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="103"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Meekness and majesty
+Manhood and Deity
+In perfect harmony
+The Man who is God
+Lord of eternity
+Dwells in humanity
+Kneels in humility
+And washes our feet</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>O what a mystery
+Meekness and majesty
+Bow down and worship
+For this is your God
+This is your God</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Father's pure radiance
+Perfect in innocence
+Yet learns obedience
+To death on a cross
+Suffering to give us life
+Conquering through sacrifice
+And as they crucify
+Prays: 'Father forgive.'</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Wisdom unsearchable
+God the invisible
+Love indestructible
+In frailty appears
+Lord of infinity
+Stooping so tenderly
+Lifts our humanity
+To the heights of His throne</lines>
+    </verse>
+  </lyrics>
+</song>

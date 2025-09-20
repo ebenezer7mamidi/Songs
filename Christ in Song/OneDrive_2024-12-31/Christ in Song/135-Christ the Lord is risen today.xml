@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Christ the Lord is risen today</title>
+      <title>135</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="135"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Christ the Lord is risen today, Alleluia! 
+Earth and heaven in chorus say, Alleluia! 
+Raise your joys and triumphs high, Alleluia! 
+Sing, ye heavens, and earth reply, Alleluia!</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Lives again our glorious King, Alleluia! 
+Where, O death, is now thy sting? Alleluia! 
+Once he died our souls to save, Alleluia! 
+Where's thy victory, boasting grave? Alleluia! </lines>
+    </verse>
+	<verse name="v3">
+      <lines>Love's redeeming work is done, Alleluia! 
+Fought the fight, the battle won, Alleluia! 
+Death in vain forbids him rise, Alleluia! 
+Christ has opened paradise, Alleluia! </lines>
+    </verse>
+	<verse name="v4">
+      <lines>Soar we now where Christ has led, Alleluia! 
+Following our exalted Head, Alleluia! 
+Made like him, like him we rise, Alleluia! 
+Ours the cross, the grave, the skies, Alleluia! </lines>
+    </verse>
+  </lyrics>
+</song>

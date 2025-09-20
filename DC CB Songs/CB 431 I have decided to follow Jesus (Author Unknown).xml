@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T17:33:54">
+  <properties>
+    <titles>
+      <title>CB 431 I have decided to follow Jesus</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="431"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/>I have decided to follow Jesus<br/>I have decided to follow Jesus<br/>I have decided to follow Jesus<br/>No turning back no turning back</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The world behind me the cross before me<br/>The world behind me the cross before me<br/>The world behind me the cross before me<br/>No turning back no turning back</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tho' none go with me still I will follow<br/>Tho' none go with me still I will follow<br/>Tho' none go with me still I will follow<br/>No turning back no turning back</lines>
+    </verse>
+  </lyrics>
+</song>

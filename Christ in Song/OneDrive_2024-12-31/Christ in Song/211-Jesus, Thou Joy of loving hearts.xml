@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Jesus, Thou Joy of loving hearts</title>
+      <title>211</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="211"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, Thou Joy of loving hearts,
+Thou Fount of life, Thou Light of men,
+From the best bliss that earth imparts,
+We turn unfilled to Thee again.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Thy truth unchanged hath ever stood;
+Thou savest those that on Thee call;
+To them that seek Thee, Thou art good,
+To them that find Thee, all in all!</lines>
+    </verse>
+	<verse name="v3">
+      <lines>We taste Thee, O Thou living Bread,
+And long to feast upon Thee still;
+We drink of Thee, the Fountain-head,
+And thirst our souls from Thee to fill!</lines>
+    </verse>
+	<verse name="v4">
+      <lines>Our restless spirits yearn for Thee,
+Where’er our changeful lot is cast;
+Glad when Thy gracious smile we see,
+Blest, when our faith can hold Thee fast.</lines>
+    </verse>
+	<verse name="v5">
+      <lines>O Jesus, ever with us stay!
+Make all our moments calm and bright,
+Chase all dark thoughts of sin away,
+Shed o’er us here Thy holy light.</lines>
+    </verse>	
+  </lyrics>
+</song>

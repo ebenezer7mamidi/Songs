@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Thanks to God for My Redeemer</title>
+      <title>71</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="71"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thanks to God for my Redeemer,
+Thanks for all Thou dost provide!
+Thanks for times now but a mem’ry,
+Thanks for Jesus by my side!
+Thanks for pleasant, balmy springtime,
+Thanks for dark and stormy fall!
+Thanks for tears by now forgotten,
+Thanks for peace within my soul!</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Thanks for prayers that Thou hast answered,
+Thanks for what Thou dost deny!
+Thanks for storms that I have weathered,
+Thanks for all Thou dost supply!
+Thanks for pain, and thanks for pleasure,
+Thanks for comfort in despair!
+Thanks for grace that none can measure,
+Thanks for love beyond compare!</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Thanks for roses by the wayside,
+Thanks for thorns their stems contain!
+Thanks for home and thanks for fireside,
+Thanks for hope, that sweet refrain!
+Thanks for joy and thanks for sorrow,
+Thanks for heav’nly peace with Thee!
+Thanks for hope in the tomorrow,
+Thanks through all eternity!</lines>
+    </verse>
+  </lyrics>
+</song>

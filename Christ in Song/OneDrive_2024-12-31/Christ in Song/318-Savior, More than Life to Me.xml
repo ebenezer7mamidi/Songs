@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Savior, More than Life to Me</title>
+      <title>318</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="318"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Savior, more than life to me,
+I am clinging, clinging close to Thee;
+Let Thy precious blood applied,
+Keep me ever, ever near Thy side.</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>Ev'ry day, ev'ry hour
+Let me feel thy cleansing pow'r;
+May Thy tender love to me
+Bind me closer, closer, Lord, to Thee.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Through this changing world below,
+Lead me gently, gently as I go;
+Trusting Thee, I cannot stray,
+I can never, never lose my way.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Let me love Thee more and more,
+Till this fleeting, fleeting life is o'er;
+Till my soul is lost in love,
+In a brighter, brighter world above.</lines>
+    </verse>
+  </lyrics>
+</song>

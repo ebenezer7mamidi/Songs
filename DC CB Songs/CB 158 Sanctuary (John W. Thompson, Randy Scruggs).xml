@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T16:37:46">
+  <properties>
+    <titles>
+      <title>CB 158 Sanctuary</title>
+    </titles>
+    <copyright>1982 Whole Armor Publishing Company ) / Full Armor Publishing Company (Admin. by The Kruger Organisa, Administered by The Kruger Organisation, Inc.</copyright>
+    <ccliNo>24140</ccliNo>
+    <authors>
+      <author>John W. Thompson</author>
+      <author>Randy Scruggs</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="158"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Lord prepare me<br/>To be a sanctuary<br/>Pure and holy<br/>Tried and true<br/>With thanksgiving<br/>I'll be a living<br/>Sanctuary for You</lines>
+    </verse>
+  </lyrics>
+</song>

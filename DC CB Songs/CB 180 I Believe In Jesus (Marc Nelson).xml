@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T19:28:43">
+  <properties>
+    <titles>
+      <title>CB 180 I Believe In Jesus</title>
+    </titles>
+    <copyright>1987 Mercy / Vineyard Publishing, Administered by Vineyard Music USA</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c2</verseOrder>
+    <ccliNo>61282</ccliNo>
+    <authors>
+      <author>Marc Nelson</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="180"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>E<br/>I believe in Jesus<br/>I believe He is the Son of God<br/>I believe He died and rose again<br/>I believe He paid for us all</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And I believe that You're here now<br/>(I believe that You're here)<br/>Standing in our midst<br/>(Standing)<br/>Here with the power to heal us<br/>(Here with the power to heal)<br/>And the grace to forgive</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I believe in You Lord<br/>I believe You are the Son of God<br/>I believe You died and rose again<br/>I believe You paid for us all</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We believe in You Lord<br/>We believe You are the Son of God<br/>We believe You died and rose again<br/>We believe You paid for us all</lines>
+    </verse>
+    <verse name="c2">
+      <lines>And we believe that You're here now<br/>(We believe that You're here)<br/>Standing in our midst<br/>(Standing)<br/>Here with the power to heal us<br/>(Here with the power to heal)<br/>And the grace to forgive</lines>
+    </verse>
+  </lyrics>
+</song>

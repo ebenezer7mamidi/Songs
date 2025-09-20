@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>O gracious God, Thy pleasure</title>
+      <title>27</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="27"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O gracious God, Thy pleasure
+  Is in Thy Christ made known,
+And tells the boundless measure
+  Of blessing for Thine own.
+He has Thy presence entered,
+  As Man in heav’n is known;
+In Him Thy glory’s centered,
+  In Him Thy purpose shown.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>And O what love is beaming
+  Refulgent in that face!
+What blessed light is streaming
+  From that most glorious place!
+Both love and light proclaiming
+  What Thou, the Father, art,
+And wondrous grace revealing,
+  With Thine own Son, our part.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Thou source of every blessing!
+  Thou spring of all delight!
+Thy Name with joy confessing
+  Let all the saints unite!
+Each heart its praise outpouring
+  To Thee all praise above,
+Each voice in strains adoring
+  Re-echoes—“God is love.”</lines>
+    </verse>
+  </lyrics>
+</song>

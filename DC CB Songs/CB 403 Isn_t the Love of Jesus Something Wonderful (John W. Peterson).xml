@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T16:40:27">
+  <properties>
+    <titles>
+      <title>CB 403 Isn't the Love of Jesus Something Wonderful</title>
+    </titles>
+    <copyright>©1961
+John W. Peterson Music
+Company</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>2571</ccliNo>
+    <authors>
+      <author>John W. Peterson</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="403"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>THERE WILL NEVER BE A SWEETER STORY,<br/>Story of the Savior's love divine,<br/>Love that brought Him from the realm of glory<br/>Just to save a sinful soul like mine.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh, isn't the love of Jesus<br/>Something wonderful, wonderful, wonderful.<br/>Oh, isn't the love of Jesus<br/>Something wonderful, wonderful it is to me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Boundless as the universe around me,<br/>Reaching to the farthest soul away,<br/>Saving, keeping love it was that found me,<br/>That is why my heart can truly say:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Love beyond our human comprehending,<br/>Love of God in Christ, how can it be,<br/>This will be my theme and never ending,<br/>Great redeeming love of Calvary.</lines>
+    </verse>
+  </lyrics>
+</song>

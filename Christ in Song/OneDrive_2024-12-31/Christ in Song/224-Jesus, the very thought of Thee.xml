@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Jesus, the very thought of Thee</title>
+      <title>224</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="224"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, the very thought of Thee
+  With sweetness fills my breast;
+But sweeter far Thy face to see,
+  And in Thy presence rest.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Nor voice can sing, nor heart can frame,
+  Nor can the memory find
+A sweeter sound than Thy blest Name,
+  O Savior of mankind!</lines>
+    </verse>
+	<verse name="v3">
+      <lines>O Hope of every contrite heart,
+  O Joy of all the meek,
+To those who fall, how kind Thou art!
+  How good to those who seek!</lines>
+    </verse>
+	<verse name="v4">
+      <lines>But what to those who find? Ah, this
+  Nor tongue nor pen can show;
+The love of Jesus, what it is
+  None but His loved ones know.</lines>
+    </verse>
+	<verse name="v5">
+      <lines>O Jesus! light of all below!
+  Thou fount of life and fire!
+Surpassing all the joys we know,
+  And all we can desire.</lines>
+    </verse>
+	<verse name="v6">
+      <lines>No other source have we but Thee,
+  Soul-thirst to satisfy.
+Exhaustless spring! the waters free!
+  All other streams are dry.</lines>
+    </verse>
+	<verse name="v7">
+      <lines>Jesus, our only Joy be Thou,
+  As Thou our Prize wilt be;
+Jesus, be Thou our Glory now,
+  And through eternity.</lines>
+    </verse>	
+  </lyrics>
+</song>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Lo! He Comes with Clouds Descending</title>
+      <title>170</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="170"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lo! He comes with clouds descending,
+Once for favored sinners slain;
+Thousand, thousand saints attending,
+Swell the triumph of His train:
+Alleluia! Alleluia!
+God appears on earth to reign.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Every eye shall now behold Him
+Robed in dreadful majesty;
+Those who set at naught and sold Him,
+Pierced and nailed Him to the tree,
+Deeply wailing, deeply wailing,
+Shall the true Messiah see.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Now redemption, long expected,
+See in solemn pomp appear;
+All His saints, by man rejected,
+Now shall meet Him in the air:
+Alleluia! Alleluia!
+See the day of God appear!</lines>
+    </verse>
+	<verse name="v4">
+      <lines>Lo! the tokens of His passion
+Thouigh in glory, Still He bears;
+Cause of endless exultation
+To His ransomed worshippers;
+Alleluia! Alleluia!
+Gaze we on those glorious scars!</lines>
+    </verse>
+	<verse name="v5">
+      <lines>'Tis Thy heavenly bride and Spirit,
+Jesus Lord! that nid Thee come;
+All the glory to inherit,
+And to take Thy people home:
+All creation, all creation,
+Travails, groans, till THou shalt come!</lines>
+    </verse>
+	<verse name="v6">
+      <lines>Yea, Amen! let all adore Thee,
+High on Thine eternal throne;
+Savior, take the power and glory,
+Claim the kingdom for Thine own;
+O come quickly! O come quickly!
+Everlasting God, come down!</lines>
+    </verse>	
+  </lyrics>
+</song>

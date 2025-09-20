@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Here, O my Lord, I see Thee face to face</title>
+      <title>95</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="95"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Here, O my Lord, I see Thee face to face;
+Here faith can touch and handle things unseen;
+Here would I grasp with firmer hand Thy grace,
+And all my weariness upon Thee lean.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Here would I feed upon the Bread of God;
+Here drink with Thee the royal wine of heav’n;
+Here would I lay aside each earthly load;
+Here taste afresh the calm of sin forgiv’n.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Mine is the sin but yours the righteousness;
+mine is the guilt but yours the cleansing blood.
+Here is my robe, my refuge, and my peace:
+your blood, your righteousness, O Lord, my God.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>I have no help but Thine; nor do I need
+Another arm save Thine to lean upon;
+It is enough, my Lord, enough indeed;
+My strength is in Thy might, Thy might alone.</lines>
+    </verse>
+	<verse name="v5">
+      <lines>This is the hour of banquet and of song;
+This is the heav’nly table spread for me;
+Here let me feast, and, feasting, still prolong
+The brief bright hour of fellowship with Thee.</lines>
+    </verse>
+	<verse name="v6">
+      <lines>Too soon we rise; the symbols disappear;
+The feast, though not the love, is past and gone;
+The bread and wine remove, but Thou art here,
+Nearer than ever still our Shield and Sun.</lines>
+    </verse>
+	<verse name="v7">
+      <lines>Feast after feast thus comes and passes by,
+Yet passing, points to the glad feast above,
+Giving sweet foretastes of the festal joy,
+The Lamb’s great bridal-feast of bliss and love.</lines>
+    </verse>	
+  </lyrics>
+</song>

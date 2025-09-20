@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Jesus, I will trust Thee</title>
+      <title>354</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="354"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, I will trust Thee,
+  Trust Thee with my soul,
+Guilty, lost and helpless,
+  Thou canst make me whole:
+There is none in heaven
+  Or on earth like Thee:
+Thou hast died for sinners,
+  Therefore, Lord, for me.</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>Jesus, I will trust Thee,
+  Trust Thee with my soul
+Guilty, lost and helpless,
+    Thou canst make me whole.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Jesus, I must trust Thee,
+  Pondering Thy ways;
+Full of love and mercy
+  All Thine earthly days:
+Sinners gathered round Thee,
+  Lepers sought Thy face:
+None too vile or loathsome
+  For a Savior’s grace.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Jesus, I can trust Thee,
+  Trust Thy written Word,
+Though Thy voice of pity
+  I have never heard:
+When Thy Spirit teacheth,
+  To my taste how sweet!
+Only may I hearken,
+  Sitting at Thy feet.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>Jesus, I do trust Thee,
+  Trust without a doubt;
+Whosoever cometh
+  Thou wilt not cast out:
+Faithful is Thy promise,
+  Precious is Thy blood:
+These my soul’s salvation
+  Thou my Savior God!</lines>
+    </verse>
+  </lyrics>
+</song>

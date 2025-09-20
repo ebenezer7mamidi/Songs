@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T16:37:33">
+  <properties>
+    <titles>
+      <title>CB 155 In my Life, Lord, Be Glorified</title>
+    </titles>
+    <copyright>©1978 Bob
+Kilpatrick Ministries (Lorenz
+Corporation)</copyright>
+    <ccliNo>26368</ccliNo>
+    <authors>
+      <author>Bob Kilpatrick</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="155"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>IN MY LIFE, LORD, BE GLORIFIED, BE<br/>GLORIFIED,<br/>In my life, Lord, be glorified today.<br/>In my song, Lord, be glorified...<br/>In Your church, Lord, be glorified...</lines>
+    </verse>
+  </lyrics>
+</song>

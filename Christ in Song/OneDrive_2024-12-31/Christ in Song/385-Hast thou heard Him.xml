@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Hast thou heard Him</title>
+      <title>385</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="385"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hast thou heard Him, seen Him, known Him?
+  Is not thine a captured heart?
+Chief among ten thousand own Him;
+  Joyful choose the better part.</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>Captivated by His beauty,
+Worthy tribute haste to bring;
+Let His peerless worth constrain thee,
+  Crown Him now unrivaled King.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Idols once they won thee, charmed thee,
+  Lovely things of time and sense;
+Gilded thus does sin disarm thee,
+  Honeyed lest thou turn thee thence.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>What has stripped the seeming beauty
+  From the idols of the earth?
+Not a sense of right or duty,
+  But the sight of peerless worth.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>Not the crushing of those idols,
+  With its bitter void and smart;
+But the beaming of His beauty,
+  The unveiling of His heart.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Who extinguishes their taper
+  Till they hail the rising sun?
+Who discards the garb of winter
+  Till the summer has begun?</lines>
+    </verse>
+	<verse name="v6">
+      <lines>’Tis that look that melted Peter,
+  ’Tis that face that Stephen saw,
+’Tis that heart that wept with Mary,
+  Can alone from idols draw:</lines>
+    </verse>
+	<verse name="v7">
+      <lines>Draw and win and fill completely,
+  Till the cup o’erflow the brim;
+What have we to do with idols
+  Who have companied with Him?</lines>
+    </verse>	
+  </lyrics>
+</song>

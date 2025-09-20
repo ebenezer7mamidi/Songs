@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>We praise Thee, glorious Father</title>
+      <title>20</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="20"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We praise Thee, glorious Father,
+  As objects of Thy grace,
+Who for Thine own heart’s pleasure
+  Are now before Thy face:
+Thy sons marked out for glory
+  Known from eternity
+With Christ Thy Well-beloved,
+  Object supreme to Thee.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Who else but Thee, O Father,
+  Could in Thine only Son
+So bless us with Thy Spirit,
+  And have us for Thine own?
+Soon shall we be forever
+  With Christ in glory; then
+We’ll shine in His blest image
+  Eternally, Amen!</lines>
+    </verse>
+  </lyrics>
+</song>

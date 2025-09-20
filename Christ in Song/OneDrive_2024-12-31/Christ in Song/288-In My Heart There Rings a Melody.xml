@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>In My Heart There Rings a Melody</title>
+      <title>288</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="288"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have a song that Jesus gave me
+It was sent from heav’n above
+There never was a sweeter melody
+‘Tis a melody of love</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>In my heart there rings a melody
+There rings a melody with heaven’s harmony
+In my heart there rings a melody
+There rings a melody of love</lines>
+    </verse>
+	<verse name="v2">
+      <lines>I love the Christ who died on Calv’ry
+For He washed my sins away
+He put within my heart a melody
+And I know it’s there to stay Chorus</lines>
+    </verse>
+	<verse name="v3">
+      <lines>‘Twill be my endless theme in glory
+With the angels I will sing
+‘Twill be a song with glorious harmony
+When the courts of heaven ring Chorus</lines>
+    </verse>
+  </lyrics>
+</song>

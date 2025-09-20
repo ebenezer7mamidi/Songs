@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Blessed quietness</title>
+      <title>363</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="363"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Joys are flowing like a river,
+Since the Comforter has come;
+He abides with us forever,
+Makes the trusting heart His home.</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>Blessed quietness, holy quietness—
+  What assurance in my soul!
+On the stormy sea He speaks peace to me.
+    How the billows cease to roll!</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Bringing life and health and gladness
+All around, this heavenly Guest
+Banished unbelief and sadness,
+Changed our weariness to rest.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Like the rain that falls from heaven,
+Like the sunlight from the sky,
+So the Holy Ghost is given,
+Coming to us from on high.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>See a fruitful field is growing
+Blessed fruits of righteousness,
+And the streams of life are flowing
+In the lonely wilderness.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>What a wonderful salvation
+Where we always see His face!
+What a perfect habitation!
+What a quiet resting place!</lines>
+    </verse>	
+  </lyrics>
+</song>

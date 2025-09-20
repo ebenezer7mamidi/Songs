@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>No condemnation! precious word</title>
+      <title>263</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="263"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>“No condemnation!” precious word!
+  Consider it, my soul!
+Thy sins were all on Jesus laid,
+  His stripes have made thee whole.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>In God’s own presence now for us
+  The Savior doth appear;
+The saints, as jewels on His heart,
+  Jesus doth ever bear.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>“No condemnation!” O my soul,
+  ’Tis God that speaks the word;
+Perfect in comeliness art thou
+  In Christ, the risen Lord.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>Teach me, O God, to fix mine eyes
+  On Christ, the spotless Lamb,
+So shall I love Thy precious will,
+  And glorify His name.</lines>
+    </verse>
+  </lyrics>
+</song>

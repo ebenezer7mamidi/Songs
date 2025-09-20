@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Simply trusting every day</title>
+      <title>332</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="332"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Simply trusting every day;
+Trusting through a stormy way;
+Even when my faith is small,
+Trusting Jesus, that is all.</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>Trusting as the moments fly,
+Trusting as the days go by,
+Trusting Him, whate’er befall,
+  Trusting Jesus, that is all.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Brightly doth His Spirit shine
+Into this poor heart of mine;
+While He leads I cannot fall,
+Trusting Jesus, that is all.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Singing if my way be clear,
+Praying if the path be drear;
+If in danger, for Him call,
+Trusting Jesus, that is all.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>Trusting Him while life shall last,
+Trusting Him till earth is past,
+Till His gracious advent call,
+Trusting Jesus, that is all.</lines>
+    </verse>
+  </lyrics>
+</song>

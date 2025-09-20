@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Since Jesus came into my heart</title>
+      <title>264</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="264"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What a wonderful change in my life has been wrought
+    Since Jesus came into my heart!
+I have light in my soul for which long I had sought,
+    Since Jesus came into my heart!</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>Since Jesus came into my heart!
+Since Jesus came into my heart!
+Floods of joy o’er my soul like the sea billows roll,
+  Since Jesus came into my heart!</lines>
+    </verse>
+	<verse name="v2">
+      <lines>I have ceased from my wand’ring and going astray,
+    Since Jesus came into my heart!
+And my sins which were many are all washed away,
+    Since Jesus came into my heart!</lines>
+    </verse>
+	<verse name="v3">
+      <lines>I’m possessed of a hope that is steadfast and sure,
+    Since Jesus came into my heart!
+And no dark clouds of doubt now my pathway obscure,
+    Since Jesus came into my heart!</lines>
+    </verse>
+	<verse name="v4">
+      <lines>There’s a light in the valley of death now for me,
+    Since Jesus came into my heart!
+And the gates of the City beyond I can see,
+    Since Jesus came into my heart!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I shall go there to dwell in that City I know,
+    Since Jesus came into my heart!
+And I’m happy, so happy as onward I go,
+    Since Jesus came into my heart!</lines>
+    </verse>	
+  </lyrics>
+</song>

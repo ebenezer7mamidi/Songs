@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Behold the Throne of Grace!</title>
+      <title>49</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="49"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Behold the throne of grace!
+The promise calls me near:
+there Jesus shows a smiling face,
+and waits to answer prayer.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>That rich atoning blood,
+which sprinkled round we see,
+provides for those who come to God
+an all prevailing plea.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>My soul, ask what thou wilt;
+thou canst not be too bold;
+since his own blood for thee he spilt,
+what else can he withhold?</lines>
+    </verse>
+	<verse name="v4">
+      <lines>Beyond thy utmost wants
+his love and pow'r can bless;
+to praying souls he always grants
+more than they can express.</lines>
+    </verse>
+	<verse name="v5">
+      <lines>Since ’tis the Lord’s command,
+My mouth we'll open wide;
+Lord open Thou Thy bounteous hand,
+That we may be supplied.</lines>
+    </verse>
+	<verse name="v6">
+      <lines>Thine image, Lord, bestow,
+thy presence and thy love;
+We ask to serve thee here below,
+and reign with thee above.</lines>
+    </verse>
+  </lyrics>
+</song>

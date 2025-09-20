@@ -1,0 +1,3200 @@
+Song Processing Trace Log
+
+ℹ Added o1 alt numbers for master=1: ['1', '1', '1', '1', '69']
+✔ Wrote 1_Dustula allochana choppuna.xml
+ℹ Added o1 alt numbers for master=2: ['2', '2', '2', '2', '70']
+✔ Wrote 2_Anyajanulela lechi galathu.xml
+ℹ Added o1 alt numbers for master=3: ['3', '3', '3', '6', '1']
+✔ Wrote 3_Yehovaa maa prabhuvaa bhoomi.xml
+ℹ Added o1 alt numbers for master=4: ['4', '4', '4', '8', '2']
+✔ Wrote 4_Stutinthun stutinthun naa kaalochana.xml
+ℹ Added o1 alt numbers for master=5: ['5', '5', '5', '9', '3']
+✔ Wrote 5_Yehovaa Naa Balamaa.xml
+ℹ Added o1 alt numbers for master=6: ['6', '6', '6', '12', '52']
+✔ Wrote 6_Yaakobu devudaapada kaalambula.xml
+ℹ Added o1 alt numbers for master=7: ['7', '7', '7', '13', '53']
+✔ Wrote 7_Naadu devaa naadu devaa.xml
+ℹ Added o1 alt numbers for master=8: ['8', '8', '8', '14', '4']
+✔ Wrote 8_Yehovaa naa kaapari.xml
+ℹ Added o1 alt numbers for master=9: ['9', '9', '9', '15', '5']
+✔ Wrote 9_Neeve Yehovaa naa kaaparivi.xml
+ℹ Added o1 alt numbers for master=10: ['10', '10', '10', '16', '6']
+✔ Wrote 10_Yehovaa naa kaapari naaku lemi ledu.xml
+ℹ Added o1 alt numbers for master=11: ['11', '11', '11', '17', '7']
+✔ Wrote 11_Yesu prabhoo kapari naaku.xml
+ℹ Added o1 alt numbers for master=12: ['12', '12', '12', '18', '8']
+✔ Wrote 12_Bhoomiyu daani sampoornatha lokamu.xml
+ℹ Added o1 alt numbers for master=13: ['13', '13', '13', '20', '54']
+✔ Wrote 13_Devaa nee mukhamunu naaku.xml
+ℹ Added o1 alt numbers for master=14: ['14', '14', '14', '19', '9']
+✔ Wrote 14_Udaya saayanthramula nella velala prabhuvaa.xml
+ℹ Added o1 alt numbers for master=15: ['15', '15', '15', '22', '10']
+✔ Wrote 15_Yehovaa naa devaa nityamu.xml
+ℹ Added o1 alt numbers for master=16: ['16', '16', '16', '23', '11']
+✔ Wrote 16_Yavvani athikramamulu mannimpabaduno.xml
+ℹ Added o1 alt numbers for master=17: ['17', '17', '17', '25', '12']
+✔ Wrote 17_Sannuthinthu neppudehovaanu.xml
+ℹ Added o1 alt numbers for master=18: ['18', '18', '18', '71']
+✔ Wrote 18_Pillalara na mata vinudi.xml
+ℹ Added o1 alt numbers for master=19: ['19', '19', '19', '26', '72']
+✔ Wrote 19_Vyasana padakumu-neevu.xml
+ℹ Added o1 alt numbers for master=20: ['20', '20', '20', '27', '55']
+✔ Wrote 20_Yohovaa nee kopamu cheta.xml
+ℹ Added o1 alt numbers for master=21: ['21', '21', '21', '28', '56']
+✔ Wrote 21_Yehovaa koraku sahanamutho.xml
+ℹ Added o1 alt numbers for master=22: ['22', '22', '22', '29', '57']
+✔ Wrote 22_Neeti vaagula koraku duppi.xml
+ℹ Added o1 alt numbers for master=23: ['23', '23', '23', '30', '58']
+✔ Wrote 23_Nee velugu nee satyamu bayalu.xml
+ℹ Added o1 alt numbers for master=24: ['24', '24', '24', '32', '14']
+✔ Wrote 24_Kumaari aalakinchu - nee vaalochinchi.xml
+ℹ Added o1 alt numbers for master=25: ['25', '25', '25', '33', '15']
+✔ Wrote 25_Devude mana kaashrayamunu.xml
+ℹ Added o1 alt numbers for master=26: ['26', '26', '26', '34', '16']
+✔ Wrote 26_Sarva janulaaraa chappatlu kotti paadudi.xml
+ℹ Added o1 alt numbers for master=27: ['27', '27', '27', '35', '17']
+✔ Wrote 27_Mana devuni pattana mandaayana.xml
+ℹ Added o1 alt numbers for master=28: ['28', '28', '28', '36', '73']
+✔ Wrote 28_Sarva Janulaaraa vinudi.xml
+ℹ Added o1 alt numbers for master=29: ['29', '29', '29', '37', '59']
+✔ Wrote 29_Yehovaa naa devaa.xml
+ℹ Added o1 alt numbers for master=30: ['30', '30', '30', '40', '60']
+✔ Wrote 30_Devaa naa devudavu neeve.xml
+ℹ Added o1 alt numbers for master=31: ['31', '31', '31', '41', '19']
+✔ Wrote 31_Sarvaloka nivaasu laara.xml
+ℹ Added o1 alt numbers for master=32: ['32', '32', '32', '42', '61']
+✔ Wrote 32_Nee maargamu devaa.xml
+ℹ Added o1 alt numbers for master=33: ['33', '33', '33', '43', '19']
+✔ Wrote 33_Kristuni naamamu nityamu nilchun.xml
+ℹ Added o1 alt numbers for master=34: ['34', '34', '34', '44', '20']
+✔ Wrote 34_Yoodaalo devudu prasiddhudu.xml
+ℹ Added o1 alt numbers for master=35: ['35', '35', '35', '62']
+✔ Wrote 35_Devuniki morra pettudunu elugeththi.xml
+ℹ Added o1 alt numbers for master=36: ['36', '36', '36', '45', '21']
+✔ Wrote 36_Mana balamaina yaakobu devuniki.xml
+ℹ Added o1 alt numbers for master=37: ['37', '37', '37', '46', '22']
+✔ Wrote 37_Sainyamula Yehovaa.xml
+ℹ Added o1 alt numbers for master=38: ['38', '38', '38', '47', '63']
+✔ Wrote 38_Prabhu selavitchu daani naala kintunu.xml
+ℹ Added o1 alt numbers for master=39: ['39', '39', '39', '48', '23']
+✔ Wrote 39_Prabhuvaa thara tharamula nundi.xml
+ℹ Added o1 alt numbers for master=40: ['40', '40', '40', '49', '24']
+✔ Wrote 40_Devaa thara tharamulaku.xml
+ℹ Added o1 alt numbers for master=41: ['41', '41', '41', '50', '74']
+✔ Wrote 41_Mahonnathuni chaatuna vasinchu vaade.xml
+ℹ Added o1 alt numbers for master=42: ['42', '42', '42', '51', '25']
+✔ Wrote 42_Sarvannathuni chaatuna nivasinchedi.xml
+ℹ Added o1 alt numbers for master=43: ['43', '43', '43', '52', '26']
+✔ Wrote 43_Yehovaanu stutinchuta manchidi.xml
+ℹ Added o1 alt numbers for master=44: ['44', '44', '44', '53', '27']
+✔ Wrote 44_Randi yehovaanu goorchi.xml
+ℹ Added o1 alt numbers for master=45: ['45', '45', '45', '54', '28']
+✔ Wrote 45_Yehovaa meeda kroththa keertana.xml
+ℹ Added o1 alt numbers for master=46: ['46', '46', '46', '55', '29']
+✔ Wrote 46_Samastha deshamulaaraa andaru paadudi.xml
+ℹ Added o1 alt numbers for master=47: ['47', '47', '47', '56', '30']
+✔ Wrote 47_Samastha janulaaraa meeru.xml
+ℹ Added o1 alt numbers for master=48: ['48', '48', '48', '58', '32']
+✔ Wrote 48_Stutiyinchu - prabhun stutiyinchu.xml
+ℹ Added o1 alt numbers for master=49: ['49', '49', '49', '60', '33']
+✔ Wrote 49_Vaaraayananu jana samaajamulo.xml
+ℹ Added o1 alt numbers for master=50: ['50', '50', '50', '61', '34']
+✔ Wrote 50_Devaa naa hrudayamu.xml
+ℹ Added o1 alt numbers for master=51: ['51', '51', '51', '62', '35']
+✔ Wrote 51_Stutintun devuni sabhalo.xml
+ℹ Added o1 alt numbers for master=52: ['52', '52', '52', '67', '36']
+✔ Wrote 52_Yehovaa nee yokka maata.xml
+ℹ Added o1 alt numbers for master=53: ['53', '53', '53', '64']
+✔ Wrote 53_Naa shramalo Yehovaaku moraliditini.xml
+ℹ Added o1 alt numbers for master=54: ['54', '54', '54', '68', '65']
+✔ Wrote 54_Kondala thattu kanuleththu.xml
+ℹ Added o1 alt numbers for master=55: ['55', '55', '55', '69', '37']
+✔ Wrote 55_Yehovaa mandiramunaku velludamani.xml
+ℹ Added o1 alt numbers for master=56: ['56', '56', '56', '71', '76']
+✔ Wrote 56_Yehovaa illu kattinchani yedala.xml
+ℹ Added o1 alt numbers for master=57: ['57', '57', '57', '74', '66']
+✔ Wrote 57_Yehovaa agaadha stalamula lonundi.xml
+ℹ Added o1 alt numbers for master=58: ['58', '58', '58', '75', '77']
+✔ Wrote 58_Sahodarulu yaikyata kalgi.xml
+ℹ Added o1 alt numbers for master=59: ['59', '59', '59', '76', '38']
+✔ Wrote 59_Yehovaa sevakulaaraa stutinchudi.xml
+ℹ Added o1 alt numbers for master=60: ['60', '60', '60', '77', '39']
+✔ Wrote 60_Yehovaanu stutinchudi aayana.xml
+ℹ Added o1 alt numbers for master=61: ['61', '61', '61', '80', '68']
+✔ Wrote 61_Yehovaa neevu nannu parisheelinchi.xml
+ℹ Added o1 alt numbers for master=62: ['62', '62', '62', '85', '40']
+✔ Wrote 62_Yehovaa andarikini mahopakaarundu.xml
+ℹ Added o1 alt numbers for master=63: ['63', '63', '63', '84', '41']
+✔ Wrote 63_Oh naadu yesu Raajaa.xml
+ℹ Added o1 alt numbers for master=64: ['64', '64', '64', '86', '43']
+✔ Wrote 64_Halleluya naa pranamaa.xml
+ℹ Added o1 alt numbers for master=65: ['65', '65', '65', '87', '44']
+✔ Wrote 65_Devuniki stotramu gaanamu.xml
+ℹ Added o1 alt numbers for master=66: ['66', '66', '66', '88', '45']
+✔ Wrote 66_Stutiyinchu daayana naakasha vaasulaaraa.xml
+ℹ Added o1 alt numbers for master=67: ['67', '67', '67', '89', '46']
+✔ Wrote 67_Stutinchudi yehovaa devuni surya.xml
+ℹ Added o1 alt numbers for master=68: ['68', '68', '68', '91', '48']
+✔ Wrote 68_Yehovaaku stutulu paadandi - meeru samaja.xml
+ℹ Added o1 alt numbers for master=69: ['69', '69', '69', '49']
+✔ Wrote 69_Yehovaaku krotha keerthana.xml
+ℹ Added o1 alt numbers for master=70: ['70', '70', '70', '93', '50']
+✔ Wrote 70_Devuni stutiyinchudi.xml
+ℹ Added o1 alt numbers for master=71: ['71', '71', '71', '92', '51']
+✔ Wrote 71_Halleluyaa yesu prabhun.xml
+ℹ Added o1 alt numbers for master=72: ['72', '72', '72', '90', '47']
+✔ Wrote 72_Stutinchudi meeru stutinchudi.xml
+ℹ Added o1 alt numbers for master=73: ['73', '73', '73', '70', '75']
+✔ Wrote 73_Siyonuku thirigi prabhuvu.xml
+ℹ Added o1 alt numbers for master=74: ['74', '73-A']
+✔ Wrote 74_Yehova na stuti kadaruda.xml
+ℹ Added o1 alt numbers for master=75: ['75', '73-B']
+✔ Wrote 75_Ni rekkala catuna saranondedan.xml
+ℹ Added o1 alt numbers for master=76: ['76', '74', '74', '98', '78']
+✔ Wrote 76_Adyantha rahithudavagu maajyothi.xml
+ℹ Added o1 alt numbers for master=77: ['77', '75', '75', '121']
+✔ Wrote 77_Stutinchudi stutinchudi aayana.xml
+ℹ Added o1 alt numbers for master=78: ['78', '76', '76', '100', '176']
+✔ Wrote 78_Aadi yantamu leni vaadaa.xml
+ℹ Added o1 alt numbers for master=79: ['79', '77', '77', '151', '243']
+✔ Wrote 79_Calvariloni shreshtudaa - karunaa bharitha.xml
+ℹ Added o1 alt numbers for master=80: ['80', '78', '78', '152', '125']
+✔ Wrote 80_Naa priya yesu neeve naa.xml
+ℹ Added o1 alt numbers for master=81: ['81', '79', '79', '88']
+✔ Wrote 81_Parishudda parishudda parishudda prabhuvaa.xml
+ℹ Added o1 alt numbers for master=82: ['82', '80', '80']
+✔ Wrote 82_Mangalame yesunaku - manujaavatharunaku.xml
+ℹ Added o1 alt numbers for master=83: ['83', '81', '81', '101', '86']
+✔ Wrote 83_Sundara rakshakudaa.xml
+ℹ Added o1 alt numbers for master=84: ['84', '82', '82', '102', '96']
+✔ Wrote 84_Stotrintumu ninu maadu thandri.xml
+ℹ Added o1 alt numbers for master=85: ['85', '83', '83', '153', '113']
+✔ Wrote 85_Kristu yesu dayaalu prabhu.xml
+ℹ Added o1 alt numbers for master=86: ['86', '84', '84', '103', '151']
+✔ Wrote 86_Yesu parishudda naamamunaku.xml
+ℹ Added o1 alt numbers for master=87: ['87', '85', '85', '707']
+✔ Wrote 87_Yesu samasina silva chentha.xml
+ℹ Added o1 alt numbers for master=88: ['88', '86', '86', '112']
+✔ Wrote 88_Sannutintumu ninne.xml
+ℹ Added o1 alt numbers for master=89: ['89', '87', '87', '104', '174']
+✔ Wrote 89_Yehovaanu gaanamu chesedamu.xml
+ℹ Added o1 alt numbers for master=90: ['90', '88', '88', '282']
+✔ Wrote 90_Aanada maananda mayenu.xml
+ℹ Added o1 alt numbers for master=91: ['91', '89', '89', '105', '101']
+✔ Wrote 91_Saagilapadi mrokkedamu.xml
+ℹ Added o1 alt numbers for master=92: ['92', '90', '90', '79']
+✔ Wrote 92_Yehovaa mohonnathudaa.xml
+ℹ Added o1 alt numbers for master=93: ['93', '91', '91', '123']
+✔ Wrote 93_Aashinchumu prabhu.xml
+ℹ Added o1 alt numbers for master=94: ['94', '92', '92', '124']
+✔ Wrote 94_Priya yesu priya yesu.xml
+ℹ Added o1 alt numbers for master=95: ['95', '93', '93', '196', '646']
+✔ Wrote 95_Idigo nee raaju vachchu chunde.xml
+ℹ Added o1 alt numbers for master=96: ['96', '94', '94', '106', '109']
+✔ Wrote 96_Sharanam sharanam sharanam devaa.xml
+ℹ Added o1 alt numbers for master=97: ['97', '95', '95', '242']
+✔ Wrote 97_Saagilapadi aaraadhinchedamu.xml
+ℹ Added o1 alt numbers for master=98: ['98', '96', '96', '221']
+✔ Wrote 98_Yesu thrupti parachitivi.xml
+ℹ Added o1 alt numbers for master=99: ['99', '97', '97', '107', '95']
+✔ Wrote 99_Parama pavitra swargapitha.xml
+ℹ Added o1 alt numbers for master=100: ['100', '98', '98', '130', '147']
+✔ Wrote 100_Yesu madhura naamamu.xml
+ℹ Added o1 alt numbers for master=101: ['101', '99', '99', '108']
+✔ Wrote 101_Sarvonnatha stalambulo.xml
+ℹ Added o1 alt numbers for master=102: ['102', '100', '100', '109', '165']
+✔ Wrote 102_Prabhuni smarinchu.xml
+ℹ Added o1 alt numbers for master=103: ['103', '101', '101', '154', '486']
+✔ Wrote 103_Harshintunu Harshintunu.xml
+ℹ Added o1 alt numbers for master=104: ['104', '102', '102', '110', '119']
+✔ Wrote 104_Naa praana priyudaa.xml
+ℹ Added o1 alt numbers for master=105: ['105', '103', '103', '155', '94']
+✔ Wrote 105_Deva devuni koniyaadedamu.xml
+ℹ Added o1 alt numbers for master=106: ['106', '104', '104', '111', '148']
+✔ Wrote 106_Madhura madhuramu yesu.xml
+ℹ Added o1 alt numbers for master=107: ['107', '105', '105', '91']
+✔ Wrote 107_Parishuddha prabhu yesu.xml
+ℹ Added o1 alt numbers for master=108: ['108', '106', '106', '112', '118']
+✔ Wrote 108_Jai Jai Jai Jai raajula raajaa.xml
+ℹ Added o1 alt numbers for master=109: ['109', '107', '107', '113', '97']
+✔ Wrote 109_Yehovaaku paadudi paatan.xml
+ℹ Added o1 alt numbers for master=110: ['110', '108', '108', '114', '423']
+✔ Wrote 110_Yesunaadha thriloka naadha.xml
+ℹ Added o1 alt numbers for master=111: ['111', '109', '109', '115', '108']
+✔ Wrote 111_Sarvashakhtudu naaku.xml
+ℹ Added o1 alt numbers for master=112: ['112', '110', '110', '116', '159']
+✔ Wrote 112_Prabho needu mahimanu paadi.xml
+ℹ Added o1 alt numbers for master=113: ['113', '111', '111', '156', '134']
+✔ Wrote 113_Oh yesu nee prema entho.xml
+ℹ Added o1 alt numbers for master=114: ['114', '112', '112', '157', '135']
+✔ Wrote 114_O premagala yesu.xml
+ℹ Added o1 alt numbers for master=115: ['115', '113', '113', '158', '171']
+✔ Wrote 115_Halleluya paadudi.xml
+ℹ Added o1 alt numbers for master=116: ['116', '114', '114', '127']
+✔ Wrote 116_Nene unnavaada nanina.xml
+ℹ Added o1 alt numbers for master=117: ['117', '115', '115', '159', '139']
+✔ Wrote 117_Vandanamo vandana mesayyaa.xml
+ℹ Added o1 alt numbers for master=118: ['118', '116', '116', '160', '142']
+✔ Wrote 118_Arpinthu stutul nee.xml
+ℹ Added o1 alt numbers for master=119: ['119', '117', '117', '161', '223']
+✔ Wrote 119_Santoshame santoshame.xml
+ℹ Added o1 alt numbers for master=120: ['120', '118', '118', '150']
+✔ Wrote 120_Raatrimbavallu paadedanu.xml
+ℹ Added o1 alt numbers for master=121: ['121', '119', '119']
+✔ Wrote 121_Shanthi daayaka Yesu prabhoo.xml
+ℹ Added o1 alt numbers for master=122: ['122', '120', '120', '162', '162']
+✔ Wrote 122_Hrudaya marpinchedamu.xml
+ℹ Added o1 alt numbers for master=123: ['123', '121', '121', '163', '224']
+✔ Wrote 123_Aananda maananada maanandame.xml
+ℹ Added o1 alt numbers for master=124: ['124', '122', '122', '164', '274']
+✔ Wrote 124_Jai prabhu yesu.xml
+ℹ Added o1 alt numbers for master=125: ['125', '123', '123', '117', '82']
+✔ Wrote 125_Prabhuva nee goppa thanamu.xml
+ℹ Added o1 alt numbers for master=126: ['126', '124', '124', '118', '140']
+✔ Wrote 126_Vandanimmu Nimmu Prabhu.xml
+ℹ Added o1 alt numbers for master=127: ['127', '125', '125', '165', '164']
+✔ Wrote 127_Oh naa hrudayamaa paadumaa.xml
+ℹ Added o1 alt numbers for master=128: ['128', '126', '126', '166', '196']
+✔ Wrote 128_Devaa nee thalampulu amoolya.xml
+ℹ Added o1 alt numbers for master=129: ['129', '127', '127', '167', '133']
+✔ Wrote 129_Stutulaku paatrundavu.xml
+ℹ Added o1 alt numbers for master=130: ['130', '128', '128', '168', '1114']
+✔ Wrote 130_Yesu kristu prabhuvaayane.xml
+ℹ Added o1 alt numbers for master=131: ['131', '129', '129', '143']
+✔ Wrote 131_Halleluya stuti prashamsa.xml
+ℹ Added o1 alt numbers for master=132: ['132', '130', '130']
+✔ Wrote 132_Stotra geetamulanu paaduchu.xml
+ℹ Added o1 alt numbers for master=133: ['133', '131', '131', '169', '169']
+✔ Wrote 133_Sarva krupaa nidhi yagu.xml
+ℹ Added o1 alt numbers for master=134: ['134', '132', '132', '170', '81']
+✔ Wrote 134_Mahaa ghanudu mahonnathudu.xml
+ℹ Added o1 alt numbers for master=135: ['135', '133', '133', '232', '166']
+✔ Wrote 135_Halleluyaa stuti Halleluyaa.xml
+ℹ Added o1 alt numbers for master=136: ['136', '134', '134', '119', '102']
+✔ Wrote 136_Koniyaadi - paadi keertinchi.xml
+ℹ Added o1 alt numbers for master=137: ['137', '135', '135', '171', '167']
+✔ Wrote 137_Devaa naa yandu neeku.xml
+ℹ Added o1 alt numbers for master=138: ['138', '136', '136']
+✔ Wrote 138_Adyantha rahitha prabhuvaa.xml
+ℹ Added o1 alt numbers for master=139: ['139', '137', '137', '121', '191']
+✔ Wrote 139_Nrupaa vimochaka prabhu.xml
+ℹ Added o1 alt numbers for master=140: ['140', '138', '138', '122', '188']
+✔ Wrote 140_Sri rakshakuni namamu.xml
+ℹ Added o1 alt numbers for master=141: ['141', '139', '139', '172', '190']
+✔ Wrote 141_Rakshakuni vichitra preman.xml
+ℹ Added o1 alt numbers for master=142: ['142', '140', '140']
+✔ Wrote 142_Yesuni naama shabdamu.xml
+ℹ Added o1 alt numbers for master=143: ['143', '141', '141']
+✔ Wrote 143_Kontini goppa mutyamu.xml
+ℹ Added o1 alt numbers for master=144: ['144', '142', '142']
+✔ Wrote 144_Bhaktulara dhukka krantudu.xml
+ℹ Added o1 alt numbers for master=145: ['145', '143', '143']
+✔ Wrote 145_Rajadi rajupai kireetamunchudi.xml
+ℹ Added o1 alt numbers for master=146: ['146', '144', '144']
+✔ Wrote 146_Sarwamupai yesu rajyamelun.xml
+ℹ Added o1 alt numbers for master=147: ['147', '145', '145']
+✔ Wrote 147_Yesuprabhoo gaddepainunna.xml
+ℹ Added o1 alt numbers for master=148: ['148', '146', '146']
+✔ Wrote 148_Atyantha sundarundunu.xml
+ℹ Added o1 alt numbers for master=149: ['149', '147', '147']
+✔ Wrote 149_Aa mundla kireetam boyenu.xml
+ℹ Added o1 alt numbers for master=150: ['150', '148', '148']
+✔ Wrote 150_Namaskarimpa randi.xml
+ℹ Added o1 alt numbers for master=151: ['151', '149', '149']
+✔ Wrote 151_Shudhi, Shudhi, Shudhi.xml
+ℹ Added o1 alt numbers for master=152: ['152', '150', '150', '133', '225']
+✔ Wrote 152_Nee jaldaru vrukshapu.xml
+ℹ Added o1 alt numbers for master=153: ['153', '151', '151', '708', '372']
+✔ Wrote 153_Yesu nangeekarinchiti daiva.xml
+ℹ Added o1 alt numbers for master=154: ['154', '152', '152', '31', '217']
+✔ Wrote 154_Devaa naa prabhuvaa ninu goorchi.xml
+ℹ Added o1 alt numbers for master=155: ['155', '153', '153', '321', '257']
+✔ Wrote 155_Prabhu yesu naakai nee.xml
+ℹ Added o1 alt numbers for master=156: ['156', '154', '154', '187', '90']
+✔ Wrote 156_Paavanudaa maa prabhuvaa.xml
+ℹ Added o1 alt numbers for master=157: ['157', '155', '155', '188', '213']
+✔ Wrote 157_Yesu nan preminchitivi.xml
+ℹ Added o1 alt numbers for master=158: ['158', '156', '156', '146']
+✔ Wrote 158_Prabhuvaa needu ghana.xml
+ℹ Added o1 alt numbers for master=159: ['159', '157', '157', '246', '138']
+✔ Wrote 159_Prema nammakamugala.xml
+ℹ Added o1 alt numbers for master=160: ['160', '158', '158', '248', '105']
+✔ Wrote 160_O prabhuvaa idi nee.xml
+ℹ Added o1 alt numbers for master=161: ['161', '159', '159', '247', '137']
+✔ Wrote 161_Prema gala maa.xml
+ℹ Added o1 alt numbers for master=162: ['162', '160', '160', '148', '200']
+✔ Wrote 162_Aaraadhincheda ninu madi.xml
+ℹ Added o1 alt numbers for master=163: ['163', '161', '161', '268', '218']
+✔ Wrote 163_Ruchi choochi erigitini.xml
+ℹ Added o1 alt numbers for master=164: ['164', '162', '162', '195', '153']
+✔ Wrote 164_Needu viswasyatha maa.xml
+ℹ Added o1 alt numbers for master=165: ['165', '163', '163', '272', '144']
+✔ Wrote 165_Sannuthinchedanu ellappudu.xml
+ℹ Added o1 alt numbers for master=166: ['166', '164', '164', '212', '172']
+✔ Wrote 166_Devunike mahima yuga.xml
+ℹ Added o1 alt numbers for master=167: ['167', '165', '165', '134', '13']
+✔ Wrote 167_Aashcharya karuda vive.xml
+ℹ Added o1 alt numbers for master=168: ['168', '166', '166', '59', '31']
+✔ Wrote 168_Naa praanamaa naa sarvamaa.xml
+ℹ Added o1 alt numbers for master=169: ['169', '167', '167', '312', '256']
+✔ Wrote 169_Gaayamulan gaayamulan.xml
+ℹ Added o1 alt numbers for master=170: ['170', '168', '168', '140', '87']
+✔ Wrote 170_Doota ganamulella aaraadhinchiri.xml
+ℹ Added o1 alt numbers for master=171: ['171', '169', '169', '259', '210']
+✔ Wrote 171_Maa prabhu yesu neeve.xml
+ℹ Added o1 alt numbers for master=172: ['172', '170', '170', '266', '42']
+✔ Wrote 172_Pranutinthumu maa Yehovaa.xml
+ℹ Added o1 alt numbers for master=173: ['173', '698', '171', '146', '131']
+✔ Wrote 173_Asamanundagu oh kristu.xml
+ℹ Added o1 alt numbers for master=174: ['174', '699', '172', '83']
+✔ Wrote 174_Ghanatha mahima prabhuke.xml
+ℹ Added o1 alt numbers for master=175: ['175', '700', '173', '209', '92']
+✔ Wrote 175_Stutiyu mahima ghanatha.xml
+ℹ Added o1 alt numbers for master=176: ['176', '701', '174', '214']
+✔ Wrote 176_Naa prabhu preminchenu.xml
+ℹ Added o1 alt numbers for master=177: ['177', '702', '175', '84']
+✔ Wrote 177_Oh prabhu neeve dhanyudavu.xml
+ℹ Added o1 alt numbers for master=178: ['178', '703', '176', '215']
+✔ Wrote 178_Ponditini nenu prabhuvaa.xml
+ℹ Added o1 alt numbers for master=179: ['179', '704', '177', '106']
+✔ Wrote 179_Andaramu prabhu ninnu.xml
+ℹ Added o1 alt numbers for master=180: ['180', '705', '178', '152']
+✔ Wrote 180_Poojaneeyudesu prabhu.xml
+ℹ Added o1 alt numbers for master=181: ['181', '706', '179', '145']
+✔ Wrote 181_Ne paadeda nityamu.xml
+ℹ Added o1 alt numbers for master=182: ['182', '707', '180', '89']
+✔ Wrote 182_Pravimaludaa paavanudaa.xml
+ℹ Added o1 alt numbers for master=183: ['183', '708', '181', '270']
+✔ Wrote 183_Vijayundu kristu.xml
+ℹ Added o1 alt numbers for master=184: ['184', '709', '182', '271']
+✔ Wrote 184_Yesu prabhuve saataanu.xml
+ℹ Added o1 alt numbers for master=185: ['185', '710', '183', '93']
+✔ Wrote 185_Paadedamu nee stutulanu.xml
+ℹ Added o1 alt numbers for master=186: ['186', '711', '184', '130']
+✔ Wrote 186_Prabhuvaina kristu mahimaaswaroopa.xml
+ℹ Added o1 alt numbers for master=187: ['187', '712', '185', '471']
+✔ Wrote 187_Yesu prabhuni sankalpamulu.xml
+ℹ Added o1 alt numbers for master=188: ['188', '713', '186', '270', '273']
+✔ Wrote 188_Jayasheeludavagu oh maa.xml
+ℹ Added o1 alt numbers for master=189: ['189', '714', '187', '129']
+✔ Wrote 189_Mahaa saamaardya.xml
+ℹ Added o1 alt numbers for master=190: ['190', '777', '188']
+✔ Wrote 190_Stutiyu prasamsayu mahimayu.xml
+ℹ Added o1 alt numbers for master=191: ['191', '778', '189', '137', '702']
+✔ Wrote 191_Oh Abraham, Issaaku.xml
+ℹ Added o1 alt numbers for master=192: ['192', '779', '190', '807']
+✔ Wrote 192_Naa priyamaina Yesu prabhu.xml
+ℹ Added o1 alt numbers for master=193: ['193', '780', '191']
+✔ Wrote 193_Tambura sitaratho.xml
+ℹ Added o1 alt numbers for master=194: ['194', '787', '192']
+✔ Wrote 194_Naa priyudaa paapavimochakudaa.xml
+ℹ Added o1 alt numbers for master=195: ['195', '789', '193']
+✔ Wrote 195_Ni mandiramu atisrngaramu.xml
+ℹ Added o1 alt numbers for master=196: ['196', '807', '194']
+✔ Wrote 196_Yesu nike jayam jayamu.xml
+ℹ Added o1 alt numbers for master=197: ['197', '815', '195']
+✔ Wrote 197_Aanandamutho  aaradhinthun.xml
+ℹ Added o1 alt numbers for master=198: ['198', '765', '196']
+✔ Wrote 198_Naa manonetramu terachi.xml
+ℹ Added o1 alt numbers for master=199: ['199', '768', '197']
+✔ Wrote 199_Mahima ghanatha stuthi prabavamu.xml
+ℹ Added o1 alt numbers for master=200: ['200', '760', '198', '802', '707']
+✔ Wrote 200_Halleluya padeda.xml
+ℹ Added o1 alt numbers for master=201: ['201', '738', '199', '149']
+✔ Wrote 201_Aaraadhanalaku yogyudavu.xml
+ℹ Added o1 alt numbers for master=202: ['202', '171', '200', '184', '157']
+✔ Wrote 202_Stotrinchedamu daiva.xml
+ℹ Added o1 alt numbers for master=203: ['203', '172', '201', '111']
+✔ Wrote 203_Daveedu vamsa yesu.xml
+ℹ Added o1 alt numbers for master=204: ['204', '173', '202', '180']
+✔ Wrote 204_Devaadi devuni bhoo.xml
+ℹ Added o1 alt numbers for master=205: ['205', '174', '203', '182', '156']
+✔ Wrote 205_Stotramu yesu naadhaa.xml
+ℹ Added o1 alt numbers for master=206: ['206', '175', '204', '122']
+✔ Wrote 206_Stutiyinchu priyudaa.xml
+ℹ Added o1 alt numbers for master=207: ['207', '176', '205', '181']
+✔ Wrote 207_Stotramu stotramu stotramu.xml
+ℹ Added o1 alt numbers for master=208: ['208', '177', '206', '183', '155']
+✔ Wrote 208_Nammaka maina naa prabhu.xml
+ℹ Added o1 alt numbers for master=209: ['209', '178', '207', '178', '158']
+✔ Wrote 209_Rakshakudaa yesu prabho stotramu.xml
+ℹ Added o1 alt numbers for master=210: ['210', '179', '208', '179', '120']
+✔ Wrote 210_Stotramu paadi pogadedanu.xml
+ℹ Added o1 alt numbers for master=211: ['211', '180', '209', '98']
+✔ Wrote 211_Stutiyinthumu - stotrinthumu.xml
+ℹ Added o1 alt numbers for master=212: ['212', '181', '210', '128', '80']
+✔ Wrote 212_Yehovaa mahaatmyamu.xml
+ℹ Added o1 alt numbers for master=213: ['213', '182', '211', '204']
+✔ Wrote 213_Krupagala devuni koniyaadedamu.xml
+ℹ Added o1 alt numbers for master=214: ['214', '183', '212', '177', '163']
+✔ Wrote 214_Stuti prashamsha.xml
+ℹ Added o1 alt numbers for master=215: ['215', '184', '213', '129', '100']
+✔ Wrote 215_Bhajiyimpa randi prabhu.xml
+ℹ Added o1 alt numbers for master=216: ['216', '185', '214', '233', '219']
+✔ Wrote 216_Anudinamu maa bharamu.xml
+ℹ Added o1 alt numbers for master=217: ['217', '186', '215', '234', '240']
+✔ Wrote 217_Bhakhtulaaraa smariyinchedamu.xml
+ℹ Added o1 alt numbers for master=218: ['218', '187', '216', '174', '160']
+✔ Wrote 218_Yesu prabhuni stutinchuta.xml
+ℹ Added o1 alt numbers for master=219: ['219', '188', '217', '185', '193']
+✔ Wrote 219_Yesu divya rakshakuni.xml
+ℹ Added o1 alt numbers for master=220: ['220', '189', '218', '132', '187']
+✔ Wrote 220_Prabhu naa devaa.xml
+ℹ Added o1 alt numbers for master=221: ['221', '190', '219', '186']
+✔ Wrote 221_Prabhaava shaktulu.xml
+ℹ Added o1 alt numbers for master=222: ['222', '191', '220', '176', '211']
+✔ Wrote 222_Yesu prabhoo nee.xml
+ℹ Added o1 alt numbers for master=223: ['223', '192', '221', '189', '126']
+✔ Wrote 223_Jayamani paadu jayamani.xml
+ℹ Added o1 alt numbers for master=224: ['224', '193', '222', '701', '104']
+✔ Wrote 224_Oh jagadrakshakaa.xml
+ℹ Added o1 alt numbers for master=225: ['225', '754', '223']
+✔ Wrote 225_Krupaathi shayamul.xml
+ℹ Added o1 alt numbers for master=226: ['226', '766', '224']
+✔ Wrote 226_Stutinchu stutinchu.xml
+ℹ Added o1 alt numbers for master=227: ['227', '796', '225']
+✔ Wrote 227_Ne sthuthinchedanu yesu namamunu.xml
+ℹ Added o1 alt numbers for master=228: ['228', '798', '226']
+✔ Wrote 228_Padeda deva  nee krupalan.xml
+ℹ Added o1 alt numbers for master=229: ['229', '805', '227', '719']
+✔ Wrote 229_Yesu namam manoharam.xml
+ℹ Added o1 alt numbers for master=230: ['230', '194', '228', '236', '198']
+✔ Wrote 230_Entha jaali yesuvaa.xml
+ℹ Added o1 alt numbers for master=231: ['231', '195', '229', '218', '141']
+✔ Wrote 231_Shree yesu naadhuni.xml
+ℹ Added o1 alt numbers for master=232: ['232', '196', '230', '243', '116']
+✔ Wrote 232_Devaadi devaa prabhuvul.xml
+ℹ Added o1 alt numbers for master=233: ['233', '197', '231', '222', '117']
+✔ Wrote 233_Jai Jai yesu raajaa.xml
+ℹ Added o1 alt numbers for master=234: ['234', '198', '232', '240', '222']
+✔ Wrote 234_Naadu praanamaa.xml
+ℹ Added o1 alt numbers for master=235: ['235', '199', '233', '397', '149']
+✔ Wrote 235_Prabhu ninnu keertinchu.xml
+ℹ Added o1 alt numbers for master=236: ['236', '200', '234', '221', '103']
+✔ Wrote 236_Jeevambu nitchina.xml
+ℹ Added o1 alt numbers for master=237: ['237', '201', '235', '239', '99']
+✔ Wrote 237_Stotrinchi keertintumu.xml
+ℹ Added o1 alt numbers for master=238: ['238', '202', '236', '238', '170']
+✔ Wrote 238_Stotrinchi keertinchedamu.xml
+ℹ Added o1 alt numbers for master=239: ['239', '203', '237', '237', '161']
+✔ Wrote 239_Maa devaa maa devaa.xml
+ℹ Added o1 alt numbers for master=240: ['240', '204', '238', '237']
+✔ Wrote 240_Yehovaa goppa kaaryamulu.xml
+ℹ Added o1 alt numbers for master=241: ['241', '205', '239', '233']
+✔ Wrote 241_Stutintun parishudduni.xml
+ℹ Added o1 alt numbers for master=242: ['242', '206', '240', '242', '238']
+✔ Wrote 242_Prabhu goppa kaaryamulu.xml
+ℹ Added o1 alt numbers for master=243: ['243', '207', '241', '241']
+✔ Wrote 243_Aanandamugaa Yehovaa Nee Krupaalanni.xml
+ℹ Added o1 alt numbers for master=244: ['244', '208', '242']
+✔ Wrote 244_Devuni keertinchedamu.xml
+ℹ Added o1 alt numbers for master=245: ['245', '209', '243', '219', '175']
+✔ Wrote 245_Pagatilo megha stambhamugaa.xml
+ℹ Added o1 alt numbers for master=246: ['246', '210', '244', '220']
+✔ Wrote 246_Rakshanya paatalu paadi.xml
+ℹ Added o1 alt numbers for master=247: ['247', '211', '245', '572', '566']
+✔ Wrote 247_Kruthajnathan thalavanchi.xml
+ℹ Added o1 alt numbers for master=248: ['248', '212', '246', '235', '216']
+✔ Wrote 248_Naa korakai anniyu.xml
+ℹ Added o1 alt numbers for master=249: ['249', '213', '247', '236']
+✔ Wrote 249_Yehovaa manakoraku.xml
+ℹ Added o1 alt numbers for master=250: ['250', '739', '248']
+✔ Wrote 250_Yohovaa kaaryamulannitikai.xml
+ℹ Added o1 alt numbers for master=251: ['251', '761', '249', '709']
+✔ Wrote 251_Poorna hrudaya stotramul.xml
+ℹ Added o1 alt numbers for master=252: ['252', '767', '250', '139']
+✔ Wrote 252_Adavi chetla naduma.xml
+ℹ Added o1 alt numbers for master=253: ['253', '214', '251', '277', '230']
+✔ Wrote 253_Devuni stutincharandi.xml
+ℹ Added o1 alt numbers for master=254: ['254', '215', '252', '278', '232']
+✔ Wrote 254_Stotramu stotramayyaa devaa.xml
+ℹ Added o1 alt numbers for master=255: ['255', '216', '253', '276', '231']
+✔ Wrote 255_Deva - Samvathsaramunu.xml
+ℹ Added o1 alt numbers for master=256: ['256', '217', '254']
+✔ Wrote 256_Stutulu nee karpintunu.xml
+ℹ Added o1 alt numbers for master=257: ['257', '218', '255']
+✔ Wrote 257_Prabhuva padedha noka.xml
+ℹ Added o1 alt numbers for master=258: ['258', '219', '256', '275', '241']
+✔ Wrote 258_Oh bhakhtulaaraa mana.xml
+ℹ Added o1 alt numbers for master=259: ['259', '220', '257', '647', '552']
+✔ Wrote 259_Memu bhaya padamu - ika memu.xml
+ℹ Added o1 alt numbers for master=260: ['260', '221', '258', '648', '551']
+✔ Wrote 260_Bhayamu leduga manaku.xml
+ℹ Added o1 alt numbers for master=261: ['261', '753', '259']
+✔ Wrote 261_Prabhu kristesu neeke.xml
+ℹ Added o1 alt numbers for master=262: ['262', '756', '260']
+✔ Wrote 262_Naa priyudu naavaadu nenu.xml
+ℹ Added o1 alt numbers for master=263: ['263', '757', '261']
+✔ Wrote 263_Ee Sudinamu-Yesu Prabuva.xml
+ℹ Added o1 alt numbers for master=264: ['264']
+✔ Wrote 264_Sanvatsaradi modalu - sanvatsarantamu.xml
+ℹ Added o1 alt numbers for master=265: ['265', '222', '262', '284']
+✔ Wrote 265_Deva sutudu yesu.xml
+ℹ Added o1 alt numbers for master=266: ['266', '223', '263', '285', '246']
+✔ Wrote 266_Mariyaku sutuduga.xml
+ℹ Added o1 alt numbers for master=267: ['267', '224', '264', '247']
+✔ Wrote 267_Betlehem puramuna.xml
+ℹ Added o1 alt numbers for master=268: ['268', '225', '265', '286', '248']
+✔ Wrote 268_O sadbhaktulara loka.xml
+ℹ Added o1 alt numbers for master=269: ['269', '226', '266', '249']
+✔ Wrote 269_Doota paata padudi.xml
+ℹ Added o1 alt numbers for master=270: ['270', '227', '267', '206', '245']
+✔ Wrote 270_Vintimayya nee swaramu.xml
+ℹ Added o1 alt numbers for master=271: ['271', '228', '268', '290']
+✔ Wrote 271_Udayinche divya rakshakudu.xml
+ℹ Added o1 alt numbers for master=272: ['272', '229', '269', '295']
+✔ Wrote 272_Niraakaaraa, suroopudaa.xml
+ℹ Added o1 alt numbers for master=273: ['273', '230', '270', '301']
+✔ Wrote 273_Yesuni shramalatoda.xml
+ℹ Added o1 alt numbers for master=274: ['274', '231', '271', '296', '258']
+✔ Wrote 274_Manakai yesu maraninche.xml
+ℹ Added o1 alt numbers for master=275: ['275', '232', '272', '136']
+✔ Wrote 275_Yesu prabhu naa.xml
+ℹ Added o1 alt numbers for master=276: ['276', '233', '273', '303', '253']
+✔ Wrote 276_Prabhu yesu.xml
+ℹ Added o1 alt numbers for master=277: ['277', '234', '274', '302', '259']
+✔ Wrote 277_Nee rakhtame.xml
+ℹ Added o1 alt numbers for master=278: ['278', '235', '275', '300', '254']
+✔ Wrote 278_Siluvalo baliyaina.xml
+ℹ Added o1 alt numbers for master=279: ['279', '236', '276', '299', '252']
+✔ Wrote 279_Adigo calvarilo.xml
+ℹ Added o1 alt numbers for master=280: ['280', '237', '277', '297']
+✔ Wrote 280_Daivatanayaa kristhunadhundaa.xml
+ℹ Added o1 alt numbers for master=281: ['281', '238', '278', '293', '260']
+✔ Wrote 281_Yesuni rakhtame.xml
+ℹ Added o1 alt numbers for master=282: ['282', '239', '279', '305']
+✔ Wrote 282_Yetuvanti yaagambu.xml
+ℹ Added o1 alt numbers for master=283: ['283', '240', '280', '251']
+✔ Wrote 283_Choodumade nee.xml
+ℹ Added o1 alt numbers for master=284: ['284', '241', '281', '294', '250']
+✔ Wrote 284_Jeevapu maargajyotivi.xml
+ℹ Added o1 alt numbers for master=285: ['285', '242', '282', '298', '314']
+✔ Wrote 285_Yesu chavonde siluvapai.xml
+ℹ Added o1 alt numbers for master=286: ['286', '243', '283', '306', '265']
+✔ Wrote 286_Mahatmudaina naa prabhu.xml
+ℹ Added o1 alt numbers for master=287: ['287', '244', '284', '66']
+✔ Wrote 287_Calvari guttameedanu.xml
+ℹ Added o1 alt numbers for master=288: ['288', '245', '285', '320', '255']
+✔ Wrote 288_Devaa naa devaa.xml
+ℹ Added o1 alt numbers for master=289: ['289', '246', '286', '310', '264']
+✔ Wrote 289_Priyuni siluvanu preminthun.xml
+ℹ Added o1 alt numbers for master=290: ['290', '247', '287', '324', '267']
+✔ Wrote 290_Geetam geetam jaya jaya.xml
+ℹ Added o1 alt numbers for master=291: ['291', '248', '288']
+✔ Wrote 291_Lechinaaduraa samaadhi.xml
+ℹ Added o1 alt numbers for master=292: ['292', '249', '289', '325', '268']
+✔ Wrote 292_Sresta geethamu vinabadu.xml
+ℹ Added o1 alt numbers for master=293: ['293', '250', '290', '275']
+✔ Wrote 293_Yesu smadhilo.xml
+ℹ Added o1 alt numbers for master=294: ['294', '251', '291']
+✔ Wrote 294_Kristu leche Halleluya.xml
+ℹ Added o1 alt numbers for master=295: ['295', '252', '292', '276']
+✔ Wrote 295_Kristu nedu lechenu.xml
+ℹ Added o1 alt numbers for master=296: ['296', '253', '293', '341', '631']
+✔ Wrote 296_Yesuraju vachunu dootalatho.xml
+ℹ Added o1 alt numbers for master=297: ['297', '254', '294', '355']
+✔ Wrote 297_Raajaadhi raajaa raave.xml
+ℹ Added o1 alt numbers for master=298: ['298', '255', '295', '468']
+✔ Wrote 298_Meghaaroodundai - prabhu.xml
+ℹ Added o1 alt numbers for master=299: ['299', '256', '296', '339']
+✔ Wrote 299_Prabhuni raakada eediname.xml
+ℹ Added o1 alt numbers for master=300: ['300', '257', '297', '340', '629']
+✔ Wrote 300_Mahimayutudu maa yesu raju.xml
+ℹ Added o1 alt numbers for master=301: ['301', '258', '298', '338', '627']
+✔ Wrote 301_Meghamumeeda Yesuraju.xml
+ℹ Added o1 alt numbers for master=302: ['302', '259', '299', '634']
+✔ Wrote 302_Sodarulaaraa lendi.xml
+ℹ Added o1 alt numbers for master=303: ['303', '260', '300', '636']
+✔ Wrote 303_Yesu raagaane sangamu.xml
+ℹ Added o1 alt numbers for master=304: ['304', '261', '301', '334']
+✔ Wrote 304_Rajula rajuga Yesu.xml
+ℹ Added o1 alt numbers for master=305: ['305', '262', '302', '390']
+✔ Wrote 305_Nee devuni sandhincha neevu.xml
+ℹ Added o1 alt numbers for master=306: ['306', '263', '303', '758', '637']
+✔ Wrote 306_Parishuddu lellaru yesun pogadi.xml
+ℹ Added o1 alt numbers for master=307: ['307', '264', '304', '335']
+✔ Wrote 307_Yesu sheegramugaa vachchun  aashatho.xml
+ℹ Added o1 alt numbers for master=308: ['308', '265', '305', '343']
+✔ Wrote 308_Meluko mahima raju.xml
+ℹ Added o1 alt numbers for master=309: ['309', '266', '306', '330', '638']
+✔ Wrote 309_Adigo vachinadevaro chudumu.xml
+ℹ Added o1 alt numbers for master=310: ['310', '267', '307', '328', '639']
+✔ Wrote 310_Yesu sheeghramuga thirigi vachchun.xml
+ℹ Added o1 alt numbers for master=311: ['311', '268', '308', '640']
+✔ Wrote 311_Idigo nenu vachu chunnaanu.xml
+ℹ Added o1 alt numbers for master=312: ['312', '269', '309', '329', '630']
+✔ Wrote 312_Jayamani paadu prabhu yesunake.xml
+ℹ Added o1 alt numbers for master=313: ['313', '270', '310', '327', '642']
+✔ Wrote 313_Kaalamu sameepamu prabhu yesu.xml
+ℹ Added o1 alt numbers for master=314: ['314', '271', '311', '332', '643']
+✔ Wrote 314_Prakaasha vastramutho paraloka mahimatho.xml
+ℹ Added o1 alt numbers for master=315: ['315', '272', '312', '331', '644']
+✔ Wrote 315_Raajula raaju - prabhuvula prabhoo.xml
+ℹ Added o1 alt numbers for master=316: ['316', '273', '313', '336', '645']
+✔ Wrote 316_Jagratha, bakthulara pilupi.xml
+ℹ Added o1 alt numbers for master=317: ['317', '274', '314', '344', '647']
+✔ Wrote 317_Siyonu raaju vachchunu madini.xml
+ℹ Added o1 alt numbers for master=318: ['318', '275', '315', '333', '648']
+✔ Wrote 318_Prabhuvu digivatchunu paramunundi.xml
+ℹ Added o1 alt numbers for master=319: ['319', '276', '316', '337', '649']
+✔ Wrote 319_Kristu yesu vachunu.xml
+ℹ Added o1 alt numbers for master=320: ['320', '277', '317', '342', '650']
+✔ Wrote 320_Boora shabhdambu ningin.xml
+ℹ Added o1 alt numbers for master=321: ['321', '278', '318']
+✔ Wrote 321_Yesu kristu sheeghramuga.xml
+ℹ Added o1 alt numbers for master=322: ['322', '279', '319', '350', '651']
+✔ Wrote 322_Kontha samayame migilinadi.xml
+ℹ Added o1 alt numbers for master=323: ['323', '715', '320', '724', '641']
+✔ Wrote 323_Jayinchu vaarini koni pova.xml
+ℹ Added o1 alt numbers for master=324: ['324', '716', '321', '168']
+✔ Wrote 324_Halleluyah Halleluyah.xml
+ℹ Added o1 alt numbers for master=325: ['325', '717', '322']
+✔ Wrote 325_Oh sanghamaa shubha vaartha.xml
+ℹ Added o1 alt numbers for master=326: ['326', '764', '323']
+✔ Wrote 326_Leru leru - jagatin nee samamu.xml
+ℹ Added o1 alt numbers for master=327: ['327', '782', '324']
+✔ Wrote 327_Rajulaku rajaina Yesu prabhuvu ranai.xml
+ℹ Added o1 alt numbers for master=328: ['328', '280', '325', '304']
+✔ Wrote 328_ParamaThandri suthudu.xml
+ℹ Added o1 alt numbers for master=329: ['329', '281', '326']
+✔ Wrote 329_Deva gorrepilla siluvalo samasinappudu.xml
+ℹ Added o1 alt numbers for master=330: ['330', '282', '327', '225', '244']
+✔ Wrote 330_Maharaja Yesu nekai mahima kalugu gaka.xml
+ℹ Added o1 alt numbers for master=331: ['331', '283', '328', '342']
+✔ Wrote 331_Paraloka rajyamu cherutaku.xml
+ℹ Added o1 alt numbers for master=332: ['332', '284', '329', '368', '321']
+✔ Wrote 332_Premadankaa jagamuna.xml
+ℹ Added o1 alt numbers for master=333: ['333', '285', '330', '226', '261']
+✔ Wrote 333_Jayamani padudi sarwa janama.xml
+ℹ Added o1 alt numbers for master=334: ['334', '286', '331', '367', '316']
+✔ Wrote 334_Jagati karudenche - rakshana kartha.xml
+ℹ Added o1 alt numbers for master=335: ['335', '287', '332', '227', '300']
+✔ Wrote 335_Danya Danya yesu namamu.xml
+ℹ Added o1 alt numbers for master=336: ['336', '288', '333']
+✔ Wrote 336_Eyana mata vinudi - needu.xml
+ℹ Added o1 alt numbers for master=337: ['337', '289', '334', '369', '337']
+✔ Wrote 337_Papamunaku jeetamu maranamu.xml
+ℹ Added o1 alt numbers for master=338: ['338', '290', '335']
+✔ Wrote 338_Parugidara sodaruda.xml
+ℹ Added o1 alt numbers for master=339: ['339', '291', '336', '298']
+✔ Wrote 339_Vinudi sodarulaaraa.xml
+ℹ Added o1 alt numbers for master=340: ['340', '292', '337']
+✔ Wrote 340_Randi randi rayamuna Yesuni.xml
+ℹ Added o1 alt numbers for master=341: ['341', '293', '338', '556']
+✔ Wrote 341_Iruku margambulo pravesinchu.xml
+ℹ Added o1 alt numbers for master=342: ['342', '294', '339', '407']
+✔ Wrote 342_Krupa kalamu dati povuchunnadi.xml
+ℹ Added o1 alt numbers for master=343: ['343', '295', '340', '299']
+✔ Wrote 343_Prabhu Yesuke jayamanipaadu.xml
+ℹ Added o1 alt numbers for master=344: ['344', '296', '341', '341']
+✔ Wrote 344_Caluvarilo vimukhti - kaligeno priyundaa.xml
+ℹ Added o1 alt numbers for master=345: ['345', '297', '342', '319']
+✔ Wrote 345_Yesu prabhuve gaaka vasudhalo.xml
+ℹ Added o1 alt numbers for master=346: ['346', '298', '343', '325']
+✔ Wrote 346_Prabhu sriyesu - prabhu sri yesu.xml
+ℹ Added o1 alt numbers for master=347: ['347', '299', '344', '366', '322']
+✔ Wrote 347_Paripurnambagu guruvu yevaru.xml
+ℹ Added o1 alt numbers for master=348: ['348', '300', '345', '408', '294']
+✔ Wrote 348_Prajalara vegame raare.xml
+ℹ Added o1 alt numbers for master=349: ['349', '301', '346', '365', '311']
+✔ Wrote 349_Premamrutha dhaarala chindina mana.xml
+ℹ Added o1 alt numbers for master=350: ['350', '302', '347', '291']
+✔ Wrote 350_Rammanu chunna desu raaju.xml
+ℹ Added o1 alt numbers for master=351: ['351', '303', '348', '403', '290']
+✔ Wrote 351_Randi randi yesuni yoddaku.xml
+ℹ Added o1 alt numbers for master=352: ['352', '304', '349', '404']
+✔ Wrote 352_Rarandi yesu padamula chera.xml
+ℹ Added o1 alt numbers for master=353: ['353', '305', '350', '326']
+✔ Wrote 353_Ilalo yesunake jayamu.xml
+ℹ Added o1 alt numbers for master=354: ['354', '306', '351', '223', '323']
+✔ Wrote 354_Kriste sarvaadhikaari.xml
+ℹ Added o1 alt numbers for master=355: ['355', '307', '352', '224', '315']
+✔ Wrote 355_Andhakaara lokamunaku.xml
+ℹ Added o1 alt numbers for master=356: ['356', '308', '353', '361', '317']
+✔ Wrote 356_Maanava roopamunu dharinchi.xml
+ℹ Added o1 alt numbers for master=357: ['357', '309', '354', '402', '328']
+✔ Wrote 357_Saatilenidi Yesuni rakhtamu.xml
+ℹ Added o1 alt numbers for master=358: ['358', '310', '355', '405']
+✔ Wrote 358_Rakshana nosagedu Yesuni.xml
+ℹ Added o1 alt numbers for master=359: ['359', '311', '356', '318']
+✔ Wrote 359_Papulakoraku prabhuyesu.xml
+ℹ Added o1 alt numbers for master=360: ['360', '312', '357', '364', '310']
+✔ Wrote 360_Devudu lokamunu yentho preminchenu.xml
+ℹ Added o1 alt numbers for master=361: ['361', '313', '358', '362', '335']
+✔ Wrote 361_Maya lokamu - mosapokumu.xml
+ℹ Added o1 alt numbers for master=362: ['362', '314', '359', '363', '336']
+✔ Wrote 362_Nyaayapeetahmu nee mundu unnadi.xml
+ℹ Added o1 alt numbers for master=363: ['363', '315', '360', '370', '370']
+✔ Wrote 363_Mahavaidyundu vachenu.xml
+ℹ Added o1 alt numbers for master=364: ['364', '316', '361', '371', '369']
+✔ Wrote 364_Shubhavartha vintimi.xml
+ℹ Added o1 alt numbers for master=365: ['365', '317', '362', '315', '365']
+✔ Wrote 365_Immaanuyeluni rakhtamu.xml
+ℹ Added o1 alt numbers for master=366: ['366', '318', '363', '316', '364']
+✔ Wrote 366_Daagunedi mapunu - vega Yesu.xml
+ℹ Added o1 alt numbers for master=367: ['367', '319', '364', '711', '207']
+✔ Wrote 367_Mana prabhuvaina Yesu nandu.xml
+ℹ Added o1 alt numbers for master=368: ['368', '320', '365', '391', '330']
+✔ Wrote 368_Nee jeevitamu kshanabhangurame.xml
+ℹ Added o1 alt numbers for master=369: ['369', '321', '366', '678', '344']
+✔ Wrote 369_Entho goppa nityamaina.xml
+ℹ Added o1 alt numbers for master=370: ['370', '322', '367', '389', '320']
+✔ Wrote 370_Yesu lenicho papikaashrayame ledu.xml
+ℹ Added o1 alt numbers for master=371: ['371', '323', '368', '428', '339']
+✔ Wrote 371_Maaru manassu pondumu.xml
+ℹ Added o1 alt numbers for master=372: ['372', '324', '369', '400', '332']
+✔ Wrote 372_Vyardham vyardham, sarvamu.xml
+ℹ Added o1 alt numbers for master=373: ['373', '325', '370', '766', '173']
+✔ Wrote 373_Kristu prabhuke sakala mahima.xml
+ℹ Added o1 alt numbers for master=374: ['374', '736', '371', '312']
+✔ Wrote 374_Evaro thelusaa Yesayyaa chebuthaa.xml
+ℹ Added o1 alt numbers for master=375: ['375', '745', '372']
+✔ Wrote 375_Shramalanu ponde shree Yesudu.xml
+ℹ Added o1 alt numbers for master=376: ['376', '773', '373']
+✔ Wrote 376_Yesu namamune paapiki rakshana.xml
+ℹ Added o1 alt numbers for master=377: ['377', '774', '374', '712']
+✔ Wrote 377_Yesuni venta nenu - vembadinchuchunnanu.xml
+ℹ Added o1 alt numbers for master=378: ['378', '794', '375']
+✔ Wrote 378_Neevennallu rendu thalampulatho.xml
+ℹ Added o1 alt numbers for master=379: ['379', '802', '376']
+✔ Wrote 379_Painunna aakasamanduna.xml
+ℹ Added o1 alt numbers for master=380: ['380', '808', '377']
+✔ Wrote 380_Yesu prabhuve lokarakshakudu.xml
+ℹ Added o1 alt numbers for master=381: ['381', '772', '378']
+✔ Wrote 381_Yesuni chentaku aashatho rammila.xml
+ℹ Added o1 alt numbers for master=382: ['382', '326', '379', '385']
+✔ Wrote 382_Idiye anukula samayamu neeku.xml
+ℹ Added o1 alt numbers for master=383: ['383', '327', '380']
+✔ Wrote 383_Idiye samayambu randi.xml
+ℹ Added o1 alt numbers for master=384: ['384', '328', '381', '379', '334']
+✔ Wrote 384_Mayaloka mayalo nela.xml
+ℹ Added o1 alt numbers for master=385: ['385', '329', '382', '380', '302']
+✔ Wrote 385_Vinathi vinathi vinathi triyekuniki.xml
+ℹ Added o1 alt numbers for master=386: ['386', '330', '383']
+✔ Wrote 386_Kala Vilu Va Neeku.xml
+ℹ Added o1 alt numbers for master=387: ['387', '331', '384']
+✔ Wrote 387_Prabhu Yesu pilupunu.xml
+ℹ Added o1 alt numbers for master=388: ['388', '332', '385', '406', '292']
+✔ Wrote 388_Prematho yesu - piluchuchunnaadu.xml
+ℹ Added o1 alt numbers for master=389: ['389', '333', '386', '301']
+✔ Wrote 389_Immuga nee hrudaya nimmu.xml
+ℹ Added o1 alt numbers for master=390: ['390', '334', '387', '410', '327']
+✔ Wrote 390_O Paapi jeevapu yootaku raa.xml
+ℹ Added o1 alt numbers for master=391: ['391', '335', '388', '376', '305']
+✔ Wrote 391_Gadiya nenu thattu chunnaanu.xml
+ℹ Added o1 alt numbers for master=392: ['392', '336', '389']
+✔ Wrote 392_Yesu raajun nee yadalo.xml
+ℹ Added o1 alt numbers for master=393: ['393', '337', '390', '373', '304']
+✔ Wrote 393_Sodarudaa paapa kshamakai.xml
+ℹ Added o1 alt numbers for master=394: ['394', '338', '391', '411', '343']
+✔ Wrote 394_Yesu prabhuve neeku rakshana.xml
+ℹ Added o1 alt numbers for master=395: ['395', '339', '392']
+✔ Wrote 395_Oh paapi sandhinchitivaa.xml
+ℹ Added o1 alt numbers for master=396: ['396', '340', '393']
+✔ Wrote 396_Choodumu sodarudaa neevu.xml
+ℹ Added o1 alt numbers for master=397: ['397', '341', '394', '381', '340']
+✔ Wrote 397_Prabhu thattu kannuleththu.xml
+ℹ Added o1 alt numbers for master=398: ['398', '342', '395', '412', '635']
+✔ Wrote 398_Choodumu neevu melconumu.xml
+ℹ Added o1 alt numbers for master=399: ['399', '343', '396', '375', '307']
+✔ Wrote 399_Yesuni sweekarinchu.xml
+ℹ Added o1 alt numbers for master=400: ['400', '344', '397', '650', '329']
+✔ Wrote 400_Jeevitha mevvariki nee jeevitha mevvariki.xml
+ℹ Added o1 alt numbers for master=401: ['401', '345', '398', '413', '295']
+✔ Wrote 401_Yesu ninnu pilichenu.xml
+ℹ Added o1 alt numbers for master=402: ['402', '346', '399', '378', '313']
+✔ Wrote 402_Choodumu eekshaname calvarini.xml
+ℹ Added o1 alt numbers for master=403: ['403', '347', '400', '383', '368']
+✔ Wrote 403_Entha paapinainanu - Yesu cherchukonunu.xml
+ℹ Added o1 alt numbers for master=404: ['404', '348', '401', '382', '367']
+✔ Wrote 404_Yesu naadhuni gaayamulanu.xml
+ℹ Added o1 alt numbers for master=405: ['405', '349', '402', '377']
+✔ Wrote 405_Rakshanampu vaartanu vini.xml
+ℹ Added o1 alt numbers for master=406: ['406', '350', '403', '296']
+✔ Wrote 406_Prabhu yesu rammanuchunde.xml
+ℹ Added o1 alt numbers for master=407: ['407', '351', '404', '175', '422']
+✔ Wrote 407_Yerushalemu gummamulaara rajunu.xml
+ℹ Added o1 alt numbers for master=408: ['408', '352', '405', '372', '306']
+✔ Wrote 408_Theruvu nee hrudaya dwarambu nede.xml
+ℹ Added o1 alt numbers for master=409: ['409', '353', '406', '415', '308']
+✔ Wrote 409_Krupakaalamulo prabhuyesune.xml
+ℹ Added o1 alt numbers for master=410: ['410', '354', '407', '416', '293']
+✔ Wrote 410_Kristu chentaku rammu.xml
+ℹ Added o1 alt numbers for master=411: ['411', '355', '408', '421', '309']
+✔ Wrote 411_Teruvabadi yunnadi krupadwaramu.xml
+ℹ Added o1 alt numbers for master=412: ['412', '356', '409', '396', '297']
+✔ Wrote 412_Naa maata vinumani.xml
+ℹ Added o1 alt numbers for master=413: ['413', '734', '410', '333']
+✔ Wrote 413_Daari tholagitivela.xml
+ℹ Added o1 alt numbers for master=414: ['414', '735', '411', '331']
+✔ Wrote 414_Lokamunu vidachi vellavalenuga.xml
+ℹ Added o1 alt numbers for master=415: ['415', '742', '412']
+✔ Wrote 415_Nee jeevitamulo gamyambu yedo.xml
+ℹ Added o1 alt numbers for master=416: ['416', '769', '413']
+✔ Wrote 416_Aa caluvary margamulo.xml
+ℹ Added o1 alt numbers for master=417: ['417', '770', '414']
+✔ Wrote 417_Yesu prabhu pilachuchunden.xml
+ℹ Added o1 alt numbers for master=418: ['418', '771', '415']
+✔ Wrote 418_Shanthi santosham papakshamapana.xml
+ℹ Added o1 alt numbers for master=419: ['419', '801', '416']
+✔ Wrote 419_Peda naruni rupamu dharinchi.xml
+ℹ Added o1 alt numbers for master=420: ['420', '357', '417', '374']
+✔ Wrote 420_Naadu hrudayapu dwaaram.xml
+ℹ Added o1 alt numbers for master=421: ['421', '358', '418', '381']
+✔ Wrote 421_Priya yesu nirminchitivi.xml
+ℹ Added o1 alt numbers for master=422: ['422', '359', '419', '533', '377']
+✔ Wrote 422_Kanikarinchi nannu rakshinchu.xml
+ℹ Added o1 alt numbers for master=423: ['423', '360', '420', '536', '382']
+✔ Wrote 423_Yesu naa hrudayamunanduna.xml
+ℹ Added o1 alt numbers for master=424: ['424', '361', '421', '523', '378']
+✔ Wrote 424_Rakshana nosagumu prabhuva.xml
+ℹ Added o1 alt numbers for master=425: ['425', '362', '422', '528', '376']
+✔ Wrote 425_Nenu ghorapaapini cheri.xml
+ℹ Added o1 alt numbers for master=426: ['426', '363', '423']
+✔ Wrote 426_Prabhuvaa nannu karuninchumu.xml
+ℹ Added o1 alt numbers for master=427: ['427', '364', '424', '521', '380']
+✔ Wrote 427_Jeevapu daata naa hrudayamuloniki.xml
+ℹ Added o1 alt numbers for master=428: ['428', '365', '425', '519', '383']
+✔ Wrote 428_Viduvavu nannika ennadainanu.xml
+ℹ Added o1 alt numbers for master=429: ['429', '366', '426', '522', '375']
+✔ Wrote 429_Paapini nenu thappiti.xml
+ℹ Added o1 alt numbers for master=430: ['430', '367', '427', '520', '373']
+✔ Wrote 430_Nedu ne naa rakshakuni.xml
+ℹ Added o1 alt numbers for master=431: ['431', '368', '428', '526', '394']
+✔ Wrote 431_Nakai chilchabaddayo.xml
+ℹ Added o1 alt numbers for master=432: ['432', '369', '429', '527', '397']
+✔ Wrote 432_O yesu rakshakaa.xml
+ℹ Added o1 alt numbers for master=433: ['433', '370', '430', '525', '396']
+✔ Wrote 433_Unnattu nenu vachedan.xml
+ℹ Added o1 alt numbers for master=434: ['434', '371', '431', '401']
+✔ Wrote 434_Aakaashamu bhuvilo nella.xml
+ℹ Added o1 alt numbers for master=435: ['435', '372', '432', '524']
+✔ Wrote 435_Paapabharamu dhustaguna.xml
+ℹ Added o1 alt numbers for master=436: ['436', '373', '433', '529', '379']
+✔ Wrote 436_Dayagala Yesu paapi kaashrayudaa.xml
+ℹ Added o1 alt numbers for master=437: ['437', '374', '434', '436', '452']
+✔ Wrote 437_Sangha mokkate saarvathrika.xml
+ℹ Added o1 alt numbers for master=438: ['438', '375', '435']
+✔ Wrote 438_Parishuddha shriyesuve - paralokaraaju.xml
+ℹ Added o1 alt numbers for master=439: ['439', '376', '436', '723']
+✔ Wrote 439_Jayinchuvadu Deva kumarudu.xml
+ℹ Added o1 alt numbers for master=440: ['440', '377', '437', '462']
+✔ Wrote 440_Siyonu pattanamaa.xml
+ℹ Added o1 alt numbers for master=441: ['441', '378', '438', '442', '463']
+✔ Wrote 441_Siyonu puramaa - sarvonnathuni.xml
+ℹ Added o1 alt numbers for master=442: ['442', '379', '439', '437', '453']
+✔ Wrote 442_Prabhu yesu sanghamu nirminchu.xml
+ℹ Added o1 alt numbers for master=443: ['443', '380', '440', '438', '454']
+✔ Wrote 443_Bhaktula sanghame prabhuni.xml
+ℹ Added o1 alt numbers for master=444: ['444', '381', '441']
+✔ Wrote 444_Santasillunu mee hrudayaalu.xml
+ℹ Added o1 alt numbers for master=445: ['445', '382', '442', '440', '470']
+✔ Wrote 445_Shakhtigala shaalemu raajaa.xml
+ℹ Added o1 alt numbers for master=446: ['446', '383', '443', '469']
+✔ Wrote 446_Daiva darshanamuna Yaakobu.xml
+ℹ Added o1 alt numbers for master=447: ['447', '384', '444', '235']
+✔ Wrote 447_Immuga nee sudinambu nundi.xml
+ℹ Added o1 alt numbers for master=448: ['448', '385', '445', '444', '460']
+✔ Wrote 448_Sarvashakhtuni vaakku idiye.xml
+ℹ Added o1 alt numbers for master=449: ['449', '386', '446', '439', '543']
+✔ Wrote 449_Siyonu vaasu laaraa.xml
+ℹ Added o1 alt numbers for master=450: ['450', '387', '447', '443', '466']
+✔ Wrote 450_Gorrepilla vivaahotsava.xml
+ℹ Added o1 alt numbers for master=451: ['451', '388', '448', '457']
+✔ Wrote 451_Aatma mandiramunu.xml
+ℹ Added o1 alt numbers for master=452: ['452', '389', '449']
+✔ Wrote 452_Prabhu dayacheyu nitya.xml
+ℹ Added o1 alt numbers for master=453: ['453', '390', '450', '445', '458']
+✔ Wrote 453_Nirmimpabaditimi manamu.xml
+ℹ Added o1 alt numbers for master=454: ['454', '391', '451', '446', '345']
+✔ Wrote 454_Stutinchumu stutinchumu.xml
+ℹ Added o1 alt numbers for master=455: ['455', '392', '452', '447', '476']
+✔ Wrote 455_Ee sangapu bunaadi.xml
+ℹ Added o1 alt numbers for master=456: ['456', '393', '453', '448']
+✔ Wrote 456_Deva patnamaa siyonu.xml
+ℹ Added o1 alt numbers for master=457: ['457', '394', '454']
+✔ Wrote 457_O pavanulaaraa - meedu vishwasampu.xml
+ℹ Added o1 alt numbers for master=458: ['458', '395', '455', '441', '459']
+✔ Wrote 458_Maname prabhuni paraloka gruhamu.xml
+ℹ Added o1 alt numbers for master=459: ['459', '396', '456', '451', '455']
+✔ Wrote 459_Sanghame kristu yesuni shareeramu.xml
+ℹ Added o1 alt numbers for master=460: ['460', '397', '457', '456']
+✔ Wrote 460_Kristesu prabhuvu thana rakhtamichi.xml
+ℹ Added o1 alt numbers for master=461: ['461', '721', '458', '780', '467']
+✔ Wrote 461_Parishuddha pattanamu kroththa.xml
+ℹ Added o1 alt numbers for master=462: ['462', '722', '459', '468']
+✔ Wrote 462_Nootana maina Yerushalemu parishudda.xml
+ℹ Added o1 alt numbers for master=463: ['463', '723', '460', '449', '461']
+✔ Wrote 463_Prabhuni gruhamu aayana.xml
+ℹ Added o1 alt numbers for master=464: ['464', '724', '461', '454', '472']
+✔ Wrote 464_Parishudda mandiramu naaku.xml
+ℹ Added o1 alt numbers for master=465: ['465', '725', '462', '604']
+✔ Wrote 465_Devudoka nagaramu manakorakai.xml
+ℹ Added o1 alt numbers for master=466: ['466', '747', '463']
+✔ Wrote 466_Prabhu prajalaaraa rayamuna randi.xml
+ℹ Added o1 alt numbers for master=467: ['467', '762', '464']
+✔ Wrote 467_Prabhuni sangamaa - melko - nede.xml
+ℹ Added o1 alt numbers for master=468: ['468', '784', '465']
+✔ Wrote 468_Entha soundarya nagaramu.xml
+ℹ Added o1 alt numbers for master=469: ['469', '788', '466']
+✔ Wrote 469_Devuni mahima mandiram.xml
+ℹ Added o1 alt numbers for master=470: ['470']
+✔ Wrote 470_Yehova ninnu asirvadinci.xml
+ℹ Added o1 alt numbers for master=471: ['471', '398', '467', '459']
+✔ Wrote 471_Paata krotha nibhadanalanduna.xml
+ℹ Added o1 alt numbers for master=472: ['472', '399', '468', '462', '285']
+✔ Wrote 472_Kristuni swaramu vindunu prabhuve.xml
+ℹ Added o1 alt numbers for master=473: ['473', '400', '469', '463']
+✔ Wrote 473_Dahamu theerchumayya.xml
+ℹ Added o1 alt numbers for master=474: ['474', '401', '470', '283']
+✔ Wrote 474_Aa dinamulalo devokthi - arudaayenu.xml
+ℹ Added o1 alt numbers for master=475: ['475', '402', '471']
+✔ Wrote 475_Mangalamuga padudi.xml
+ℹ Added o1 alt numbers for master=476: ['476', '403', '472', '460', '277']
+✔ Wrote 476_Nityudesune stutinchu.xml
+ℹ Added o1 alt numbers for master=477: ['477', '404', '473', '461', '493']
+✔ Wrote 477_Dappi gonina vaanipai neetin.xml
+ℹ Added o1 alt numbers for master=478: ['478', '405', '474', '464', '450']
+✔ Wrote 478_Sarassu prakkana rottelanu.xml
+ℹ Added o1 alt numbers for master=479: ['479', '406', '475', '466']
+✔ Wrote 479_Naadhaa Samuyelu reeti.xml
+ℹ Added o1 alt numbers for master=480: ['480', '407', '476', '465', '451']
+✔ Wrote 480_Ne bodimpa janaalikin - nerpimpu.xml
+ℹ Added o1 alt numbers for master=481: ['481', '737', '477', '467', '286']
+✔ Wrote 481_Nee swaramu vinupinchu prabhuvaa.xml
+ℹ Added o1 alt numbers for master=482: ['482']
+✔ Wrote 482_Vinipincu prabhu ni svaramunu.xml
+ℹ Added o1 alt numbers for master=483: ['483', '812', '478']
+✔ Wrote 483_Nityamu niluchunadi – devuni vakyamu.xml
+ℹ Added o1 alt numbers for master=484: ['484', '813', '479']
+✔ Wrote 484_Idigo mee devudani.xml
+ℹ Added o1 alt numbers for master=485: ['485']
+✔ Wrote 485_Nadrsti nipai nilipi.xml
+ℹ Added o1 alt numbers for master=486: ['486', '408', '480', '615', '494']
+✔ Wrote 486_Yesuni nammedivaaru aayana.xml
+ℹ Added o1 alt numbers for master=487: ['487', '409', '481', '616']
+✔ Wrote 487_Yehovaanu stutinchudi - aayana.xml
+ℹ Added o1 alt numbers for master=488: ['488', '410', '482', '617', '487']
+✔ Wrote 488_Siyonu paatalu - santoshamuga.xml
+ℹ Added o1 alt numbers for master=489: ['489', '411', '483', '627', '280']
+✔ Wrote 489_Idigo nenoka nootana kriyanu.xml
+ℹ Added o1 alt numbers for master=490: ['490', '412', '484', '618', '279']
+✔ Wrote 490_Swaschanda siyonu vaasi.xml
+ℹ Added o1 alt numbers for master=491: ['491', '413', '485', '611', '234']
+✔ Wrote 491_Yehovaayandaanandame.xml
+ℹ Added o1 alt numbers for master=492: ['492', '414', '486', '619']
+✔ Wrote 492_Devudu meeku ellappudu thoduga.xml
+ℹ Added o1 alt numbers for master=493: ['493', '415', '487', '621', '616']
+✔ Wrote 493_Ellappudu ellappudu ellappudu.xml
+ℹ Added o1 alt numbers for master=494: ['494', '416', '488', '633']
+✔ Wrote 494_Deva samaadhaanam shanthinadhi vale.xml
+ℹ Added o1 alt numbers for master=495: ['495', '417', '489', '655', '495']
+✔ Wrote 495_Aatma vishayamai deenulaina.xml
+ℹ Added o1 alt numbers for master=496: ['496', '418', '490', '664', '504']
+✔ Wrote 496_Shaashwata mainadi prema.xml
+ℹ Added o1 alt numbers for master=497: ['497', '419', '491', '623', '554']
+✔ Wrote 497_Parishuddulai yundudi daiva.xml
+ℹ Added o1 alt numbers for master=498: ['498', '420', '492', '620', '479']
+✔ Wrote 498_Premaa premaa - premaa.xml
+ℹ Added o1 alt numbers for master=499: ['499', '421', '493', '628']
+✔ Wrote 499_Erigiyuntive - Yehovaa.xml
+ℹ Added o1 alt numbers for master=500: ['500', '422', '494', '629', '557']
+✔ Wrote 500_Ne Yesuni velugulo nadichedanu.xml
+ℹ Added o1 alt numbers for master=501: ['501', '423', '495', '625', '533']
+✔ Wrote 501_Meere lokamunaku velugu.xml
+ℹ Added o1 alt numbers for master=502: ['502', '424', '496', '624', '483']
+✔ Wrote 502_Balavantudesu mahima.xml
+ℹ Added o1 alt numbers for master=503: ['503', '425', '497', '610']
+✔ Wrote 503_Nene bhayapadakudadanenu.xml
+ℹ Added o1 alt numbers for master=504: ['504', '426', '498']
+✔ Wrote 504_Manamu Yesu prabhuni mahima.xml
+ℹ Added o1 alt numbers for master=505: ['505', '427', '499', '197']
+✔ Wrote 505_Devaa ! nee thalampulu naa.xml
+ℹ Added o1 alt numbers for master=506: ['506', '428', '500', '281']
+✔ Wrote 506_Akasama Alakinchuma.xml
+ℹ Added o1 alt numbers for master=507: ['507', '429', '501', '110']
+✔ Wrote 507_Samaadhana - gruhambulonu.xml
+ℹ Added o1 alt numbers for master=508: ['508', '430', '502', '626', '602']
+✔ Wrote 508_Lechi randi viswaasulaaraa.xml
+ℹ Added o1 alt numbers for master=509: ['509', '431', '503']
+✔ Wrote 509_Raarammu raarammu saatveekudaina.xml
+ℹ Added o1 alt numbers for master=510: ['510', '432', '504', '674', '553']
+✔ Wrote 510_Bhayapadakumu neevu - yuddamu.xml
+ℹ Added o1 alt numbers for master=511: ['511', '433', '505', '622', '549']
+✔ Wrote 511_Bhaya padakumu oh chinna.xml
+ℹ Added o1 alt numbers for master=512: ['512', '434', '506', '612', '489']
+✔ Wrote 512_Mana mesuni vaaralamu.xml
+ℹ Added o1 alt numbers for master=513: ['513', '435', '507', '613', '492']
+✔ Wrote 513_Vaaru aayana thattu choodagane.xml
+ℹ Added o1 alt numbers for master=514: ['514', '436', '508', '614', '612']
+✔ Wrote 514_Lokam jeevam maranambainan.xml
+ℹ Added o1 alt numbers for master=515: ['515', '437', '509']
+✔ Wrote 515_Sarvashakhtuni vaakku idiye.xml
+ℹ Added o1 alt numbers for master=516: ['516', '438', '510', '630']
+✔ Wrote 516_Sampoorna rakshanayoota.xml
+ℹ Added o1 alt numbers for master=517: ['517', '439', '511', '631']
+✔ Wrote 517_Naayaatma langaru veya.xml
+ℹ Added o1 alt numbers for master=518: ['518', '440', '512', '634', '622']
+✔ Wrote 518_Jeevithambu ghora kastanastamul.xml
+ℹ Added o1 alt numbers for master=519: ['519', '441', '513', '638', '517']
+✔ Wrote 519_Aayana nannu nadupunanu.xml
+ℹ Added o1 alt numbers for master=520: ['520', '442', '514', '636', '443']
+✔ Wrote 520_Nadpumaa mahaa Yehovaa.xml
+ℹ Added o1 alt numbers for master=521: ['521', '443', '515', '637', '448']
+✔ Wrote 521_Yesu mammunu nadipinchu.xml
+ℹ Added o1 alt numbers for master=522: ['522', '444', '516', '574', '518']
+✔ Wrote 522_Nee chentako prabho nejeedan.xml
+ℹ Added o1 alt numbers for master=523: ['523', '445', '517', '640']
+✔ Wrote 523_Poorva maasheervaadamu.xml
+ℹ Added o1 alt numbers for master=524: ['524', '446', '518', '639', '519']
+✔ Wrote 524_Yesu aatma priyudaa.xml
+ℹ Added o1 alt numbers for master=525: ['525', '447', '519', '635', '520']
+✔ Wrote 525_Naa prema raajukapari.xml
+ℹ Added o1 alt numbers for master=526: ['526', '448', '520', '632', '449']
+✔ Wrote 526_Daiva prema pridviloni.xml
+ℹ Added o1 alt numbers for master=527: ['527', '449', '521', '458', '212']
+✔ Wrote 527_Immuga nadipinchitivi.xml
+ℹ Added o1 alt numbers for master=528: ['528', '450', '522', '651', '371']
+✔ Wrote 528_Anananda mahaanandam.xml
+ℹ Added o1 alt numbers for master=529: ['529', '451', '523', '642', '497']
+✔ Wrote 529_Meeru Bahugaa Phalinchinacho.xml
+ℹ Added o1 alt numbers for master=530: ['530', '452', '524', '643', '432']
+✔ Wrote 530_Melkonumaa melkonumaa.xml
+ℹ Added o1 alt numbers for master=531: ['531', '453', '525', '653', '206']
+✔ Wrote 531_Adbutha deevenalu prabhuvaa.xml
+ℹ Added o1 alt numbers for master=532: ['532', '454', '526', '562', '598']
+✔ Wrote 532_Kristuni choochuchu saagi velledanu.xml
+ℹ Added o1 alt numbers for master=533: ['533', '455', '527', '669', '546']
+✔ Wrote 533_Velledamu koodi velledamu.xml
+ℹ Added o1 alt numbers for master=534: ['534', '456', '528', '534', '220']
+✔ Wrote 534_Oh prabhuvaa ne daari tholagithi.xml
+ℹ Added o1 alt numbers for master=535: ['535', '726', '529', '597']
+✔ Wrote 535_Ee loka yaatralo ne.xml
+ℹ Added o1 alt numbers for master=536: ['536', '727', '530', '548']
+✔ Wrote 536_Aadi premanu vidachi pettithivaa.xml
+ℹ Added o1 alt numbers for master=537: ['537', '728', '531', '670', '547']
+✔ Wrote 537_Devunitho sahapaati.xml
+ℹ Added o1 alt numbers for master=538: ['538', '729', '532', '749', '209']
+✔ Wrote 538_Nishchayamuga ninnu deevinchedanu.xml
+ℹ Added o1 alt numbers for master=539: ['539', '730', '533', '658', '555']
+✔ Wrote 539_Yesu manatho nundaga.xml
+ℹ Added o1 alt numbers for master=540: ['540', '731', '534', '278']
+✔ Wrote 540_Prabhuvaa chesitivi vaagdhanamulu.xml
+ℹ Added o1 alt numbers for master=541: ['541', '732', '535', '677', '488']
+✔ Wrote 541_Aanandinchedamu Yehovaalo.xml
+ℹ Added o1 alt numbers for master=542: ['542', '733', '536', '464']
+✔ Wrote 542_Lellemmu Siyonu - dhariyinchumu.xml
+ℹ Added o1 alt numbers for master=543: ['543', '740', '537']
+✔ Wrote 543_Oh ishraayelu - needu bhagyamentho.xml
+ℹ Added o1 alt numbers for master=544: ['544', '741', '538']
+✔ Wrote 544_Naa jeevitha saagaramuna.xml
+ℹ Added o1 alt numbers for master=545: ['545', '793', '539']
+✔ Wrote 545_Neeku kaligina danini – chepattumu.xml
+ℹ Added o1 alt numbers for master=546: ['546', '804', '540']
+✔ Wrote 546_Yehovaye manadevudu – marpulenivadu.xml
+ℹ Added o1 alt numbers for master=547: ['547', '810', '541']
+✔ Wrote 547_Thana rajyamunaku mahimaku.xml
+ℹ Added o1 alt numbers for master=548: ['548', '811', '542']
+✔ Wrote 548_Prabhuvuku thaginattu.xml
+ℹ Added o1 alt numbers for master=549: ['549', '814', '543']
+✔ Wrote 549_Samadhanamu – devuni samadhanamu.xml
+ℹ Added o1 alt numbers for master=550: ['550']
+✔ Wrote 550_Yehova vimocincina vare.xml
+ℹ Added o1 alt numbers for master=551: ['551']
+✔ Wrote 551_Devudehova divinci.xml
+ℹ Added o1 alt numbers for master=552: ['552']
+✔ Wrote 552_Yehovanu nammukonu manavulu.xml
+ℹ Added o1 alt numbers for master=553: ['553']
+✔ Wrote 553_Yudayandu deva.xml
+ℹ Added o1 alt numbers for master=554: ['554']
+✔ Wrote 554_Yehova davidu badhala.xml
+ℹ Added o1 alt numbers for master=555: ['555', '457', '544', '477']
+✔ Wrote 555_Prabhu Yesu naa rakshakaa.xml
+ℹ Added o1 alt numbers for master=556: ['556', '458', '545', '483', '399']
+✔ Wrote 556_Oh sarvashakhtudaa - naa satyadevudaa.xml
+ℹ Added o1 alt numbers for master=557: ['557', '459', '546', '468', '404']
+✔ Wrote 557_Neethimanthula praardhana.xml
+ℹ Added o1 alt numbers for master=558: ['558', '460', '547', '488', '419']
+✔ Wrote 558_Chetlu leni mettalandu.xml
+ℹ Added o1 alt numbers for master=559: ['559', '461', '548']
+✔ Wrote 559_Devuni pradinchedamu daiva putruni.xml
+ℹ Added o1 alt numbers for master=560: ['560', '462', '549', '470']
+✔ Wrote 560_Aakasha mahakaashambulu pattani.xml
+ℹ Added o1 alt numbers for master=561: ['561', '463', '550', '410']
+✔ Wrote 561_Prabhuva paraloka - jeevagni nimmu.xml
+ℹ Added o1 alt numbers for master=562: ['562', '464', '551', '484']
+✔ Wrote 562_Parishudda agnini pampu devaa.xml
+ℹ Added o1 alt numbers for master=563: ['563', '465', '552', '402']
+✔ Wrote 563_Parishudda parishudda prabhu yesu.xml
+ℹ Added o1 alt numbers for master=564: ['564', '466', '553', '430']
+✔ Wrote 564_Nee vaatma yuddamulo jaya mondumu.xml
+ℹ Added o1 alt numbers for master=565: ['565', '467', '554', '471', '401']
+✔ Wrote 565_Paramaaseervadamu kori.xml
+ℹ Added o1 alt numbers for master=566: ['566', '468', '555', '472', '409']
+✔ Wrote 566_Shudda aathma digirammu.xml
+ℹ Added o1 alt numbers for master=567: ['567', '469', '556', '476', '561']
+✔ Wrote 567_Yehovaaye aashcharya kaarayamulanu.xml
+ℹ Added o1 alt numbers for master=568: ['568', '470', '557', '473', '420']
+✔ Wrote 568_Nimpumo prabhuvaa nannu.xml
+ℹ Added o1 alt numbers for master=569: ['569', '471', '558', '471']
+✔ Wrote 569_Devaa ninnu nenu viduvanu.xml
+ℹ Added o1 alt numbers for master=570: ['570', '472', '559', '417']
+✔ Wrote 570_Karuninchi thirigi sama koorchu prabhuvaa.xml
+ℹ Added o1 alt numbers for master=571: ['571', '473', '560', '411']
+✔ Wrote 571_Maa mora naalakinchumu.xml
+ℹ Added o1 alt numbers for master=572: ['572', '474', '561', '474', '424']
+✔ Wrote 572_Aatma deepamunu.xml
+ℹ Added o1 alt numbers for master=573: ['573', '475', '562', '713']
+✔ Wrote 573_Prabhuvaa nee kaaryamunu.xml
+ℹ Added o1 alt numbers for master=574: ['574', '476', '563', '479', '418']
+✔ Wrote 574_O Prabhuvaa ujeevamu nimmu.xml
+ℹ Added o1 alt numbers for master=575: ['575', '477', '564', '274', '400']
+✔ Wrote 575_Paramatandri karamuleththi.xml
+ℹ Added o1 alt numbers for master=576: ['576', '478', '565', '480', '421']
+✔ Wrote 576_Nimpumu O prabhuva.xml
+ℹ Added o1 alt numbers for master=577: ['577', '479', '566', '478', '425']
+✔ Wrote 577_Velugitchi naaku maargamu choopu.xml
+ℹ Added o1 alt numbers for master=578: ['578', '480', '567', '485', '429']
+✔ Wrote 578_Prabhu kummarinchu prabhu.xml
+ℹ Added o1 alt numbers for master=579: ['579', '481', '568', '481', '416']
+✔ Wrote 579_Karuninchumu naa Yesuwa.xml
+ℹ Added o1 alt numbers for master=580: ['580', '482', '569', '482', '415']
+✔ Wrote 580_Nee paada sannidiki - krupaamaya Yesayyaa.xml
+ℹ Added o1 alt numbers for master=581: ['581', '483', '570', '469', '407']
+✔ Wrote 581_Adugudi meeru mana prabhu.xml
+ℹ Added o1 alt numbers for master=582: ['582', '484', '571', '486', '405']
+✔ Wrote 582_Velledamu mari dhairyamutho.xml
+ℹ Added o1 alt numbers for master=583: ['583', '485', '572', '487', '428']
+✔ Wrote 583_Prabhuva pampu varshamunu.xml
+ℹ Added o1 alt numbers for master=584: ['584', '486', '573', '120', '128']
+✔ Wrote 584_Oh karunaanidhi mahaa prabhu.xml
+ℹ Added o1 alt numbers for master=585: ['585', '487', '574', '491', '444']
+✔ Wrote 585_Rakshakaa nan - marva boku.xml
+ℹ Added o1 alt numbers for master=586: ['586', '488', '575', '489']
+✔ Wrote 586_Gaddiyalo nundi paru.xml
+ℹ Added o1 alt numbers for master=587: ['587', '489', '576', '490', '442']
+✔ Wrote 587_Aasheervaadambul maa meeda.xml
+ℹ Added o1 alt numbers for master=588: ['588', '490', '577', '493', '445']
+✔ Wrote 588_Preethigala mana Yesu.xml
+ℹ Added o1 alt numbers for master=589: ['589', '491', '578', '494']
+✔ Wrote 589_Sarvashakthi yutudaa.xml
+ℹ Added o1 alt numbers for master=590: ['590', '492', '579', '475', '446']
+✔ Wrote 590_Oh praardhanaa su praardhanaa.xml
+ℹ Added o1 alt numbers for master=591: ['591', '493', '580', '503', '447']
+✔ Wrote 591_Yesu naa prabhuva.xml
+ℹ Added o1 alt numbers for master=592: ['592', '494', '581', '495', '406']
+✔ Wrote 592_Visugakunda nityamu - prardincha.xml
+ℹ Added o1 alt numbers for master=593: ['593', '495', '582', '496', '412']
+✔ Wrote 593_Nee sannidhi cheritimi.xml
+ℹ Added o1 alt numbers for master=594: ['594', '496', '583']
+✔ Wrote 594_Gunavanturaalaina ganamaina Streeye.xml
+ℹ Added o1 alt numbers for master=595: ['595', '497', '584', '426']
+✔ Wrote 595_Jeevitha thrushnalanu - naadu.xml
+ℹ Added o1 alt numbers for master=596: ['596', '498', '585', '81', '67']
+✔ Wrote 596_O Yehovaa neeve nannu.xml
+ℹ Added o1 alt numbers for master=597: ['597', '718', '586', '413']
+✔ Wrote 597_Devaa nee sannidhilo nilachi.xml
+ℹ Added o1 alt numbers for master=598: ['598', '719', '587', '403']
+✔ Wrote 598_Praardhana vinedu devaa.xml
+ℹ Added o1 alt numbers for master=599: ['599', '720', '588', '398']
+✔ Wrote 599_Nenu velledanu meeru praardhanalo.xml
+ℹ Added o1 alt numbers for master=600: ['600', '749', '589']
+✔ Wrote 600_Yedathegaka praardhinchumu.xml
+ℹ Added o1 alt numbers for master=601: ['601', '775', '590']
+✔ Wrote 601_Vilapintuvaa Nehemyavale.xml
+ℹ Added o1 alt numbers for master=602: ['602', '795', '591']
+✔ Wrote 602_Nenu thaggali yesu.xml
+ℹ Added o1 alt numbers for master=603: ['603', '799', '592']
+✔ Wrote 603_Prardhinchumu nee jeevithamulo.xml
+ℹ Added o1 alt numbers for master=604: ['604', '800', '593']
+✔ Wrote 604_Prardhinchumu  priyuda prabhu.xml
+ℹ Added o1 alt numbers for master=605: ['605']
+✔ Wrote 605_Yehova ni dikkunaku na atmanu ettucunnanu.xml
+ℹ Added o1 alt numbers for master=606: ['606']
+✔ Wrote 606_Na sannidhini yehova - vedakumani.xml
+ℹ Added o1 alt numbers for master=607: ['607', '499', '594', '688', '477']
+✔ Wrote 607_Ahaa yemaanandam mahaa.xml
+ℹ Added o1 alt numbers for master=608: ['608', '500', '595', '228', '203']
+✔ Wrote 608_Krupa kanikaramula maa.xml
+ℹ Added o1 alt numbers for master=609: ['609', '501', '596', '692', '199']
+✔ Wrote 609_Amoolya rakhtamu dwaaraa.xml
+ℹ Added o1 alt numbers for master=610: ['610', '502', '597', '427']
+✔ Wrote 610_Paapa samudramandu.xml
+ℹ Added o1 alt numbers for master=611: ['611', '503', '598', '652', '545']
+✔ Wrote 611_Neeligaganaana velige thaarala.xml
+ℹ Added o1 alt numbers for master=612: ['612', '504', '599', '689', '544']
+✔ Wrote 612_Viswaasa sahithamuganu.xml
+ℹ Added o1 alt numbers for master=613: ['613', '505', '600', '482']
+✔ Wrote 613_Jeevinchuchunnadu Yesu prabhu.xml
+ℹ Added o1 alt numbers for master=614: ['614', '506', '601', '687', '478']
+✔ Wrote 614_Naa papamulanu kshaminchen.xml
+ℹ Added o1 alt numbers for master=615: ['615', '507', '602', '481']
+✔ Wrote 615_Naa sankata dhukkamulella.xml
+ℹ Added o1 alt numbers for master=616: ['616', '508', '603', '690', '502']
+✔ Wrote 616_Rakshana ounnatyamu.xml
+ℹ Added o1 alt numbers for master=617: ['617', '509', '604', '691', '614']
+✔ Wrote 617_Parama jeevamu naaku nivva.xml
+ℹ Added o1 alt numbers for master=618: ['618', '510', '605', '686', '347']
+✔ Wrote 618_Naa hrudayamu vintaga marenu.xml
+ℹ Added o1 alt numbers for master=619: ['619', '511', '606', '694', '521']
+✔ Wrote 619_Hayananda sudinamu.xml
+ℹ Added o1 alt numbers for master=620: ['620', '512', '607', '695']
+✔ Wrote 620_Padivelalo priyuni - choochi.xml
+ℹ Added o1 alt numbers for master=621: ['621', '513', '608']
+✔ Wrote 621_Ha! enta adbutaashcharya dinamu.xml
+ℹ Added o1 alt numbers for master=622: ['622', '514', '609', '641', '284']
+✔ Wrote 622_Maa kanugrahinchina daiva.xml
+ℹ Added o1 alt numbers for master=623: ['623', '743', '610']
+✔ Wrote 623_Siyonuku thirigi cheralo.xml
+ℹ Added o1 alt numbers for master=624: ['624', '783', '611', '704']
+✔ Wrote 624_Nee saakshyamu edi.xml
+ℹ Added o1 alt numbers for master=625: ['625', '612']
+✔ Wrote 625_Pallavarapu kondala paina.xml
+ℹ Added o1 alt numbers for master=626: ['626', '515', '613', '592']
+✔ Wrote 626_Suvaarthanu chaatimpa.xml
+ℹ Added o1 alt numbers for master=627: ['627', '516', '614', '581', '528']
+✔ Wrote 627_Lemmu thejarillumu neeku.xml
+ℹ Added o1 alt numbers for master=628: ['628', '517', '615', '585', '541']
+✔ Wrote 628_Siluva veerulu meere.xml
+ℹ Added o1 alt numbers for master=629: ['629', '518', '616', '586', '491']
+✔ Wrote 629_Thama devunerugu vaaru.xml
+ℹ Added o1 alt numbers for master=630: ['630', '519', '617', '577', '522']
+✔ Wrote 630_Siluvanu mosi Ee lokamunu.xml
+ℹ Added o1 alt numbers for master=631: ['631', '520', '618', '579']
+✔ Wrote 631_Karunan - erparachitivi sainyamula -  కరుణన్ - ఏర్పరచితివి సైన్యముల.xml
+ℹ Added o1 alt numbers for master=632: ['632', '521', '619', '580', '535']
+✔ Wrote 632_Lokamunaku nannu.xml
+ℹ Added o1 alt numbers for master=633: ['633', '522', '620', '578', '530']
+✔ Wrote 633_Lellemmu sodaree sodarudaa.xml
+ℹ Added o1 alt numbers for master=634: ['634', '523', '621', '537']
+✔ Wrote 634_Jai Jai Jai Jai Yesu Prabhu.xml
+ℹ Added o1 alt numbers for master=635: ['635', '524', '622', '531']
+✔ Wrote 635_Lelemmu sodaree sodarudaa velaaye.xml
+ℹ Added o1 alt numbers for master=636: ['636', '525', '623', '584']
+✔ Wrote 636_Priyudaa prabhu Yesunaku.xml
+ℹ Added o1 alt numbers for master=637: ['637', '526', '624', '583']
+✔ Wrote 637_Aalakinthunu aapilupunu.xml
+ℹ Added o1 alt numbers for master=638: ['638', '527', '625', '587', '431']
+✔ Wrote 638_Melkommu O kavali yesuni.xml
+ℹ Added o1 alt numbers for master=639: ['639', '528', '626', '588', '532']
+✔ Wrote 639_Cheekati kaalamu vachuchunde.xml
+ℹ Added o1 alt numbers for master=640: ['640', '529', '627', '609', '564']
+✔ Wrote 640_Nee priya prabhuni sevakai.xml
+ℹ Added o1 alt numbers for master=641: ['641', '530', '628', '582', '525']
+✔ Wrote 641_Yesu Kristurri manchi.xml
+ℹ Added o1 alt numbers for master=642: ['642', '531', '629', '589', '408']
+✔ Wrote 642_Mandalo cherani gorrelenno.xml
+ℹ Added o1 alt numbers for master=643: ['643', '532', '630', '592', '590']
+✔ Wrote 643_Jaagraththa jaagraththa - Yesuditlu pilchun.xml
+ℹ Added o1 alt numbers for master=644: ['644', '533', '631', '591', '591']
+✔ Wrote 644_Repu maapu gooda ramyamaina.xml
+ℹ Added o1 alt numbers for master=645: ['645', '534', '632', '590', '584']
+✔ Wrote 645_Odducheri nee yeduta nilchu.xml
+ℹ Added o1 alt numbers for master=646: ['646', '535', '633', '593']
+✔ Wrote 646_Erparachina paatranu raajaadhi.xml
+ℹ Added o1 alt numbers for master=647: ['647', '746', '634']
+✔ Wrote 647_Parvathamaa nee vepaati.xml
+ℹ Added o1 alt numbers for master=648: ['648', '759', '635']
+✔ Wrote 648_Oh prabhuvaa nee sevan.xml
+ℹ Added o1 alt numbers for master=649: ['649']
+✔ Wrote 649_Yehova sainyamulara ayana cittamun neravercu paricarakulara.xml
+ℹ Added o1 alt numbers for master=650: ['650']
+✔ Wrote 650_I bhuvipai paraloka vintaina janama prabhuyesu kristuvulo.xml
+ℹ Added o1 alt numbers for master=651: ['651', '536', '636', '719', '201']
+✔ Wrote 651_Yehovaa nee krupaati shayamunu.xml
+ℹ Added o1 alt numbers for master=652: ['652', '537', '637', '714', '226']
+✔ Wrote 652_Aanandinchedamu prabhu Yesulo.xml
+ℹ Added o1 alt numbers for master=653: ['653', '538', '638', '229', '263']
+✔ Wrote 653_Jayamu jayamani chatinchedamu.xml
+ℹ Added o1 alt numbers for master=654: ['654', '539', '639', '717', '115']
+✔ Wrote 654_Mahimatho nindina maa raajaa.xml
+ℹ Added o1 alt numbers for master=655: ['655', '540', '640', '262']
+✔ Wrote 655_Prabhu Yesunake jayamu.xml
+ℹ Added o1 alt numbers for master=656: ['656', '541', '641', '529']
+✔ Wrote 656_Melconumaa, melconumaa naa.xml
+ℹ Added o1 alt numbers for master=657: ['657', '542', '642', '718', '503']
+✔ Wrote 657_Unntha stalamulapai  nekkinchi.xml
+ℹ Added o1 alt numbers for master=658: ['658', '543', '643', '721', '272']
+✔ Wrote 658_Prabhuke stotramu mruthini.xml
+ℹ Added o1 alt numbers for master=659: ['659', '544', '644', '716']
+✔ Wrote 659_Jaya raaju jendaa yeththi.xml
+ℹ Added o1 alt numbers for master=660: ['660', '545', '645', '588']
+✔ Wrote 660_Oh Yesu bhakhtulaaraa.xml
+ℹ Added o1 alt numbers for master=661: ['661', '546', '646', '715', '589']
+✔ Wrote 661_Shodhanaku meeru chotiyyakudi.xml
+ℹ Added o1 alt numbers for master=662: ['662', '547', '647', '190', '132']
+✔ Wrote 662_Adhikaaramu pondi yuntivi.xml
+ℹ Added o1 alt numbers for master=663: ['663', '548', '648', '722', '499']
+✔ Wrote 663_Swaastyamuga nitchtivi.xml
+ℹ Added o1 alt numbers for master=664: ['664', '549', '649', '720', '542']
+✔ Wrote 664_Jayamu pondumani Yesu.xml
+ℹ Added o1 alt numbers for master=665: ['665', '550', '650', '667', '599']
+✔ Wrote 665_Kristesu siluvapai.xml
+ℹ Added o1 alt numbers for master=666: ['666', '551', '651', '666', '618']
+✔ Wrote 666_Kriste Ee jeevitamulo.xml
+ℹ Added o1 alt numbers for master=667: ['667', '552', '652']
+✔ Wrote 667_Mana jeevitha manthayu.xml
+ℹ Added o1 alt numbers for master=668: ['668', '750', '653']
+✔ Wrote 668_Yesu kristu ninna nedu.xml
+ℹ Added o1 alt numbers for master=669: ['669', '763', '654']
+✔ Wrote 669_Sukhadukkhaala yatra.xml
+ℹ Added o1 alt numbers for master=671: ['671', '553', '655', '762']
+✔ Wrote 671_Yesulo harshinchedamu.xml
+ℹ Added o1 alt numbers for master=672: ['672', '554', '656', '737', '615']
+✔ Wrote 672_Ella vela landu.xml
+ℹ Added o1 alt numbers for master=673: ['673', '555', '657', '230', '269']
+✔ Wrote 673_Aanandame manakilalo.xml
+ℹ Added o1 alt numbers for master=674: ['674', '556', '658', '746', '619']
+✔ Wrote 674_Mahima raaju sannidin.xml
+ℹ Added o1 alt numbers for master=675: ['675', '557', '659', '735']
+✔ Wrote 675_Dappigonina vaaralaaraa.xml
+ℹ Added o1 alt numbers for master=676: ['676', '558', '660', '736', '484']
+✔ Wrote 676_Daahamu gala.xml
+ℹ Added o1 alt numbers for master=677: ['677', '559', '661', '738', '107']
+✔ Wrote 677_Paapula rakshakudu.xml
+ℹ Added o1 alt numbers for master=678: ['678', '560', '662', '682', '601']
+✔ Wrote 678_Daatumu yordhanun.xml
+ℹ Added o1 alt numbers for master=679: ['679', '561', '663', '729', '496']
+✔ Wrote 679_Dhanyudavu neevu.xml
+ℹ Added o1 alt numbers for master=680: ['680', '562', '664', '760', '605']
+✔ Wrote 680_Nootana aakaashamunu.xml
+ℹ Added o1 alt numbers for master=681: ['681', '563', '665', '739', '632']
+✔ Wrote 681_Mana prabhu Yesu.xml
+ℹ Added o1 alt numbers for master=682: ['682', '564', '666', '713', '485']
+✔ Wrote 682_Ne bhraminchi nilchiti.xml
+ℹ Added o1 alt numbers for master=683: ['683', '565', '667', '147']
+✔ Wrote 683_Prabhu Yesu kristuni.xml
+ℹ Added o1 alt numbers for master=684: ['684', '566', '668', '683', '600']
+✔ Wrote 684_Yordhannadi darina.xml
+ℹ Added o1 alt numbers for master=685: ['685', '567', '669']
+✔ Wrote 685_Krupaasimhaasa nundaa.xml
+ℹ Added o1 alt numbers for master=686: ['686', '568', '670', '734', '208']
+✔ Wrote 686_Prabhuvaa nee  paripoornatha.xml
+ℹ Added o1 alt numbers for master=687: ['687', '569', '671']
+✔ Wrote 687_Karunaa karudaa.xml
+ℹ Added o1 alt numbers for master=688: ['688', '570', '672', '763']
+✔ Wrote 688_Unnatha gruhamunu.xml
+ℹ Added o1 alt numbers for master=689: ['689', '571', '673', '611']
+✔ Wrote 689_Mana pattanambadigo.xml
+ℹ Added o1 alt numbers for master=690: ['690', '572', '674']
+✔ Wrote 690_Yesuvaa naa priyamaina.xml
+ℹ Added o1 alt numbers for master=691: ['691', '573', '675']
+✔ Wrote 691_Ninnu viduvanu nenu.xml
+ℹ Added o1 alt numbers for master=692: ['692', '574', '676']
+✔ Wrote 692_Sarvonnathudu sarvaadhikaari.xml
+ℹ Added o1 alt numbers for master=693: ['693', '575', '677', '759', '610']
+✔ Wrote 693_Velledam shresta desham.xml
+ℹ Added o1 alt numbers for master=694: ['694', '576', '678', '761', '609']
+✔ Wrote 694_Prakaashamaina aashcharya.xml
+ℹ Added o1 alt numbers for master=695: ['695', '577', '679', '287']
+✔ Wrote 695_Vaghdaanamulu pondudi.xml
+ℹ Added o1 alt numbers for master=696: ['696', '578', '680', '733', '595']
+✔ Wrote 696_Neethi sooryundu.xml
+ℹ Added o1 alt numbers for master=697: ['697', '579', '681', '732', '594']
+✔ Wrote 697_Neethi sooryudu neepai.xml
+ℹ Added o1 alt numbers for master=698: ['698', '580', '682', '633']
+✔ Wrote 698_Prabhuvaina kreestuni.xml
+ℹ Added o1 alt numbers for master=699: ['699', '581', '683', '198', '205']
+✔ Wrote 699_Yesuni nityamu stutiyinchedamu.xml
+ℹ Added o1 alt numbers for master=700: ['700', '582', '684', '649', '593']
+✔ Wrote 700_Anaadi devudu aashrayamu.xml
+ℹ Added o1 alt numbers for master=701: ['701', '583', '685', '741', '613']
+✔ Wrote 701_Yesuni vaaghdaanamul.xml
+ℹ Added o1 alt numbers for master=702: ['702', '584', '686', '740', '596']
+✔ Wrote 702_Paravaasini ne jagamuna.xml
+ℹ Added o1 alt numbers for master=703: ['703', '585', '687', '154']
+✔ Wrote 703_Prabhuvaa neeve nammakamaina.xml
+ℹ Added o1 alt numbers for master=704: ['704', '586', '688', '742', '202']
+✔ Wrote 704_Devuni krupa nitya mundunu.xml
+ℹ Added o1 alt numbers for master=705: ['705', '587', '689', '730', '85']
+✔ Wrote 705_Unnatha durgamu.xml
+ℹ Added o1 alt numbers for master=706: ['706', '588', '690', '731', '498']
+✔ Wrote 706_Mimmunu nimpe melulathoda.xml
+ℹ Added o1 alt numbers for master=707: ['707', '589', '691', '745', '500']
+✔ Wrote 707_Yese manakila swaastyamu.xml
+ℹ Added o1 alt numbers for master=708: ['708', '590', '692', '744', '239']
+✔ Wrote 708_Yehovaaye manakandariki.xml
+ℹ Added o1 alt numbers for master=709: ['709', '591', '693']
+✔ Wrote 709_Mammun shrujinchina devundu.xml
+ℹ Added o1 alt numbers for master=710: ['710', '592', '694', '757', '621']
+✔ Wrote 710_Shree Yesu raajyamundunu.xml
+ℹ Added o1 alt numbers for master=711: ['711', '593', '695', '753', '623']
+✔ Wrote 711_Yesu neethi rakhtamenu.xml
+ℹ Added o1 alt numbers for master=712: ['712', '594', '696', '624']
+✔ Wrote 712_Yesoo nee rakhta neethulu.xml
+ℹ Added o1 alt numbers for master=713: ['713', '595', '697', '755', '626']
+✔ Wrote 713_Yesu naavaadini.xml
+ℹ Added o1 alt numbers for master=714: ['714', '596', '698', '756', '620']
+✔ Wrote 714_Shrungaara deshamu.xml
+ℹ Added o1 alt numbers for master=715: ['715', '597', '699', '754', '625']
+✔ Wrote 715_Yesuni chetulandu yesuni.xml
+ℹ Added o1 alt numbers for master=716: ['716', '598', '700', '359']
+✔ Wrote 716_Antyadinamandu doota boora.xml
+ℹ Added o1 alt numbers for master=717: ['717', '599', '701', '764']
+✔ Wrote 717_Oho Yerooshalemaa.xml
+ℹ Added o1 alt numbers for master=718: ['718', '600', '702', '517']
+✔ Wrote 718_Shree yesu swaamy thirigi.xml
+ℹ Added o1 alt numbers for master=719: ['719', '601', '703', '80']
+✔ Wrote 719_Yesoo nin joothu.xml
+ℹ Added o1 alt numbers for master=720: ['720', '602', '704', '709', '550']
+✔ Wrote 720_Nene bhayapada valadani.xml
+ℹ Added o1 alt numbers for master=721: ['721', '603', '705', '782', '617']
+✔ Wrote 721_Priya Yesu raajunu.xml
+ℹ Added o1 alt numbers for master=722: ['722', '604', '706', '527']
+✔ Wrote 722_Lendi randi, bhaavi.xml
+ℹ Added o1 alt numbers for master=723: ['723', '605', '707', '703', '501']
+✔ Wrote 723_Yesu prabhuve mahima.xml
+ℹ Added o1 alt numbers for master=724: ['724', '606', '708', '565', '490']
+✔ Wrote 724_Prabhoo nee vaadanu.xml
+ℹ Added o1 alt numbers for master=725: ['725', '607', '709', '779', '608']
+✔ Wrote 725_Paralokamu naa deshamu.xml
+ℹ Added o1 alt numbers for master=726: ['726', '608', '710', '702', '480']
+✔ Wrote 726_Naa korikalu theeripoye.xml
+ℹ Added o1 alt numbers for master=727: ['727', '609', '711', '765', '603']
+✔ Wrote 727_Eduru choochedamu dhruda.xml
+ℹ Added o1 alt numbers for master=728: ['728', '610', '712', '772', '606']
+✔ Wrote 728_Prabhu raajyam nishchala.xml
+ℹ Added o1 alt numbers for master=729: ['729', '611', '713', '771', '607']
+✔ Wrote 729_Nishchalamainadi Yesu raajyamu.xml
+ℹ Added o1 alt numbers for master=730: ['730', '744', '714', '676']
+✔ Wrote 730_Prabhuvaa guri yoddake.xml
+ℹ Added o1 alt numbers for master=731: ['731', '748', '715']
+✔ Wrote 731_Kristhese mana mahima.xml
+ℹ Added o1 alt numbers for master=732: ['732', '752', '716']
+✔ Wrote 732_Prabhuvaina kristulo thandri.xml
+ℹ Added o1 alt numbers for master=733: ['733', '755', '717']
+✔ Wrote 733_Parvathamulu tholagi.xml
+ℹ Added o1 alt numbers for master=734: ['734', '758', '718']
+✔ Wrote 734_Devudu deniki shilpiyunu.xml
+ℹ Added o1 alt numbers for master=735: ['735', '776', '719']
+✔ Wrote 735_Yesu prabhuva neeve.xml
+ℹ Added o1 alt numbers for master=736: ['736', '785', '720']
+✔ Wrote 736_Neevu denini vedakuchunnaavu.xml
+ℹ Added o1 alt numbers for master=737: ['737', '786', '721', '755']
+✔ Wrote 737_Yesu nee swaroopamunu.xml
+ℹ Added o1 alt numbers for master=738: ['738', '790', '722']
+✔ Wrote 738_Nee Mandiramunandu.xml
+ℹ Added o1 alt numbers for master=739: ['739', '792', '723']
+✔ Wrote 739_Nammadaginavadavu  nemmadini.xml
+ℹ Added o1 alt numbers for master=740: ['740', '803', '724']
+✔ Wrote 740_Yehova naina nenu marpuleni.xml
+ℹ Added o1 alt numbers for master=741: ['741', '806', '725']
+✔ Wrote 741_Yesuni rajyamu adi nischalamainadi.xml
+ℹ Added o1 alt numbers for master=742: ['742', '809', '726']
+✔ Wrote 742_Sthuthiyinthumu yesu prabhu.xml
+ℹ Added o1 alt numbers for master=743: ['743', '612', '727', '544']
+✔ Wrote 743_Jeevamu nitcheda jeevaadhi pathiki.xml
+ℹ Added o1 alt numbers for master=744: ['744', '613', '728', '346']
+✔ Wrote 744_Naa naadhudaa naa yullamichiti.xml
+ℹ Added o1 alt numbers for master=745: ['745', '614', '729', '540', '558']
+✔ Wrote 745_Yesoo naa siluvan.xml
+ℹ Added o1 alt numbers for master=746: ['746', '615', '730', '547']
+✔ Wrote 746_Naa yesu maargamanduna.xml
+ℹ Added o1 alt numbers for master=747: ['747', '616', '731', '540']
+✔ Wrote 747_Trithwa marmamu nerigina.xml
+ℹ Added o1 alt numbers for master=748: ['748', '617', '732', '541', '536']
+✔ Wrote 748_Devayaatma bhasuraagni.xml
+ℹ Added o1 alt numbers for master=749: ['749', '618', '733', '543', '523']
+✔ Wrote 749_Prabhuni darshanam.xml
+ℹ Added o1 alt numbers for master=750: ['750', '619', '734', '542', '539']
+✔ Wrote 750_Priya Yesuni sainya veerulamu.xml
+ℹ Added o1 alt numbers for master=751: ['751', '620', '735', '596']
+✔ Wrote 751_Yaajaka dharamamu nerigi.xml
+ℹ Added o1 alt numbers for master=752: ['752', '621', '736', '546', '526']
+✔ Wrote 752_Yesuni nindanu bharinchi.xml
+ℹ Added o1 alt numbers for master=753: ['753', '622', '737', '548', '524']
+✔ Wrote 753_Yesuni shisyulamu yegudamu.xml
+ℹ Added o1 alt numbers for master=754: ['754', '623', '738', '727', '538']
+✔ Wrote 754_Yesu kriste sajjanudu.xml
+ℹ Added o1 alt numbers for master=755: ['755', '624', '739', '549', '563']
+✔ Wrote 755_Manassaara kruthajnatha liduchu.xml
+ℹ Added o1 alt numbers for master=756: ['756', '625', '740', '534']
+✔ Wrote 756_Ee jagatiki jyotini nenu.xml
+ℹ Added o1 alt numbers for master=757: ['757', '626', '741', '545', '560']
+✔ Wrote 757_Nee siluve naaku sharanu.xml
+ℹ Added o1 alt numbers for master=758: ['758', '627', '742', '553', '585']
+✔ Wrote 758_Ne nee vaadanai.xml
+ℹ Added o1 alt numbers for master=759: ['759', '628', '743', '555', '586']
+✔ Wrote 759_Naadu praanamu prabho.xml
+ℹ Added o1 alt numbers for master=760: ['760', '629', '744', '552', '583']
+✔ Wrote 760_Yesu prabho neeku.xml
+ℹ Added o1 alt numbers for master=761: ['761', '630', '745', '551']
+✔ Wrote 761_Naa rakshakuni vembadinthu.xml
+ℹ Added o1 alt numbers for master=762: ['762', '631', '746', '554']
+✔ Wrote 762_Naa Yesu noppukonanu.xml
+ℹ Added o1 alt numbers for master=763: ['763', '632', '747', '550', '587']
+✔ Wrote 763_Silvachentha nesuvaa.xml
+ℹ Added o1 alt numbers for master=764: ['764', '633', '748', '561', '559']
+✔ Wrote 764_Prabhu yesuni nenu.xml
+ℹ Added o1 alt numbers for master=765: ['765', '634', '749', '563', '565']
+✔ Wrote 765_Naa sarvamaina.xml
+ℹ Added o1 alt numbers for master=766: ['766', '751', '750']
+✔ Wrote 766_Youvanudaa santosha.xml
+ℹ Added o1 alt numbers for master=767: ['767', '781', '751']
+✔ Wrote 767_Kraistava jeevitam.xml
+ℹ Added o1 alt numbers for master=768: ['768', '791', '752']
+✔ Wrote 768_Atma niyamamu dwara.xml
+ℹ Added o1 alt numbers for master=769: ['769', '797', '752']
+✔ Wrote 769_Paralokame na swasthyamu.xml
+ℹ Added o1 alt numbers for master=770: ['770']
+✔ Wrote 770_Daivadaasulara meeru dheekshathoda rarandi.xml
+ℹ Added o1 alt numbers for master=771: ['771']
+✔ Wrote 771_Yehova nee gudaramu - praminchuchunanu.xml
+ℹ Added o1 alt numbers for master=772: ['772', '635', '754']
+✔ Wrote 772_Youvanudaa santosha paduma.xml
+ℹ Added o1 alt numbers for master=773: ['773', '636', '755', '681', '657']
+✔ Wrote 773_Manaku jeevamaiyunna.xml
+ℹ Added o1 alt numbers for master=774: ['774', '637', '756', '784', '659']
+✔ Wrote 774_Nee devuni sannidini.xml
+ℹ Added o1 alt numbers for master=775: ['775', '638', '757', '644', '660']
+✔ Wrote 775_Siluve nee gurigaa.xml
+ℹ Added o1 alt numbers for master=776: ['776', '639', '758']
+✔ Wrote 776_Meeremi vedakuchunnaru.xml
+ℹ Added o1 alt numbers for master=777: ['777', '640', '759']
+✔ Wrote 777_Youvvanulaaraa mee youvanamul.xml
+ℹ Added o1 alt numbers for master=778: ['778', '641', '760', '783', '661']
+✔ Wrote 778_Dayagala Yesu prabhoo.xml
+ℹ Added o1 alt numbers for master=779: ['779', '642', '761', '787', '662']
+✔ Wrote 779_Prabhuni seva jeyarammu.xml
+ℹ Added o1 alt numbers for master=780: ['780', '643', '762', '556', '562']
+✔ Wrote 780_Halleluya hosanna.xml
+ℹ Added o1 alt numbers for master=781: ['781', '644', '763']
+✔ Wrote 781_Kristu mimmulanu.xml
+ℹ Added o1 alt numbers for master=782: ['782', '645', '764']
+✔ Wrote 782_Evaru jayinchedaro.xml
+ℹ Added o1 alt numbers for master=783: ['783', '646', '765']
+✔ Wrote 783_Mahaa devundu.xml
+ℹ Added o1 alt numbers for master=784: ['784', '647', '766']
+✔ Wrote 784_Stotram stotramu devadi.xml
+ℹ Added o1 alt numbers for master=785: ['785', '648', '767']
+✔ Wrote 785_Prabhuvuku thaginattu.xml
+ℹ Added o1 alt numbers for master=786: ['786']
+✔ Wrote 786_Paramavarudu yesu prabhuvu ranai.xml
+ℹ Added o1 alt numbers for master=787: ['787']
+✔ Wrote 787_Oppukonti oppukonti - na tappidamulann.xml
+ℹ Added o1 alt numbers for master=788: ['788']
+✔ Wrote 788_Sampurna gnanamu kaligi atmaphalamu.xml
+ℹ Added o1 alt numbers for master=789: ['789']
+✔ Wrote 789_Ata patala cheta - atu itu tirigedi.xml
+ℹ Added o1 alt numbers for master=790: ['790', '649', '768', '792', '672']
+✔ Wrote 790_Devuni nija prema.xml
+ℹ Added o1 alt numbers for master=791: ['791', '650', '769', '674']
+✔ Wrote 791_Grandha vaaghdhaanamulanni.xml
+ℹ Added o1 alt numbers for master=792: ['792', '651', '770']
+✔ Wrote 792_Ashrestambou - grandhamulo.xml
+ℹ Added o1 alt numbers for master=793: ['793', '652', '771']
+✔ Wrote 793_Patihmpa shresta.xml
+ℹ Added o1 alt numbers for master=794: ['794', '653', '772']
+✔ Wrote 794_Aanandam naa kaanandam.xml
+ℹ Added o1 alt numbers for master=795: ['795', '654', '773']
+✔ Wrote 795_Yesune stutinchu.xml
+ℹ Added o1 alt numbers for master=796: ['796', '655', '774']
+✔ Wrote 796_Vinthaina Yesu rakshakundu.xml
+ℹ Added o1 alt numbers for master=797: ['797', '656', '775']
+✔ Wrote 797_Naadu pranamaa.xml
+ℹ Added o1 alt numbers for master=798: ['798', '657', '776']
+✔ Wrote 798_Stuthi ghanatha mahima.xml
+ℹ Added o1 alt numbers for master=799: ['799', '658', '777']
+✔ Wrote 799_Halleluya aa.xml
+ℹ Added o1 alt numbers for master=800: ['800', '659', '778']
+✔ Wrote 800_Naakaanandam kaaranambide paapa.xml
+ℹ Added o1 alt numbers for master=801: ['801', '660', '779']
+✔ Wrote 801_Adbutha shakhti kaladu.xml
+ℹ Added o1 alt numbers for master=802: ['802', '661', '780']
+✔ Wrote 802_Nee jeevitha naavalo kristunu.xml
+ℹ Added o1 alt numbers for master=803: ['803', '662', '781']
+✔ Wrote 803_Yesu theerche naa.xml
+ℹ Added o1 alt numbers for master=804: ['804', '663', '782']
+✔ Wrote 804_Krupa chetha rakshinchenu.xml
+ℹ Added o1 alt numbers for master=805: ['805', '664', '783']
+✔ Wrote 805_Poyenu poyenu poyenu.xml
+ℹ Added o1 alt numbers for master=806: ['806', '665', '784']
+✔ Wrote 806_Yesuni vaakku nityamu.xml
+ℹ Added o1 alt numbers for master=807: ['807', '666', '785']
+✔ Wrote 807_Nee dharma shaastramulo.xml
+ℹ Added o1 alt numbers for master=808: ['808', '667', '786']
+✔ Wrote 808_Entha adbutha dhanamu.xml
+ℹ Added o1 alt numbers for master=809: ['809', '668', '787']
+✔ Wrote 809_Aayan aashcharya karudu.xml
+ℹ Added o1 alt numbers for master=810: ['810', '669', '788']
+✔ Wrote 810_Paapamun dukkhamunu.xml
+ℹ Added o1 alt numbers for master=811: ['811', '670', '789']
+✔ Wrote 811_Daagi yundu nee aashrayamandun.xml
+ℹ Added o1 alt numbers for master=812: ['812', '671', '790']
+✔ Wrote 812_Daiva prema nityamu.xml
+ℹ Added o1 alt numbers for master=813: ['813', '672', '791']
+✔ Wrote 813_Nitya deva jeevaatma naapai.xml
+ℹ Added o1 alt numbers for master=814: ['814', '673', '792']
+✔ Wrote 814_Balamu nichchu yesuche.xml
+ℹ Added o1 alt numbers for master=815: ['815', '674', '793']
+✔ Wrote 815_Yehovaa koraku yeduruchuchuvaru.xml
+ℹ Added o1 alt numbers for master=816: ['816', '675', '794']
+✔ Wrote 816_Aatmala chentaku nadupu.xml
+ℹ Added o1 alt numbers for master=817: ['817', '676', '795']
+✔ Wrote 817_Yoodha yentho deva prasidhudavoo.xml
+ℹ Added o1 alt numbers for master=818: ['818', '677', '796']
+✔ Wrote 818_Chetun adbutha manenu.xml
+ℹ Added o1 alt numbers for master=819: ['819', '678', '797']
+✔ Wrote 819_Stutinchu naa praanamaa.xml
+ℹ Added o1 alt numbers for master=820: ['820', '679', '798']
+✔ Wrote 820_Mahima ghanatha stuthi stotramu.xml
+ℹ Added o1 alt numbers for master=821: ['821', '680', '799']
+✔ Wrote 821_Aayana naamamu aashcharyudu.xml
+ℹ Added o1 alt numbers for master=822: ['822', '681', '800']
+✔ Wrote 822_Aashcharya maashcharya mesu naaku.xml
+ℹ Added o1 alt numbers for master=823: ['823', '682', '801']
+✔ Wrote 823_Ninna nedu nitya kaala.xml
+ℹ Added o1 alt numbers for master=824: ['824', '683', '802']
+✔ Wrote 824_Aanandaanandamu - mahadaanandamu.xml
+ℹ Added o1 alt numbers for master=825: ['825', '684', '803']
+✔ Wrote 825_Aashcharya aashcharya.xml
+ℹ Added o1 alt numbers for master=826: ['826', '685', '804']
+✔ Wrote 826_Halleluyaa Yesuku - calvarypai mrutudu.xml
+ℹ Added o1 alt numbers for master=827: ['827', '686', '805']
+✔ Wrote 827_Sarva Janulara Devuni.xml
+ℹ Added o1 alt numbers for master=828: ['828', '687', '806']
+✔ Wrote 828_Halleluya Hosanna.xml
+ℹ Added o1 alt numbers for master=829: ['829', '688', '807']
+✔ Wrote 829_Nedu meeru koru konudi.xml
+ℹ Added o1 alt numbers for master=830: ['830', '689', '808']
+✔ Wrote 830_Yesuni sannidhi entho aanandam.xml
+ℹ Added o1 alt numbers for master=831: ['831', '690', '809']
+✔ Wrote 831_Thoorpuna padamara.xml
+ℹ Added o1 alt numbers for master=832: ['832', '691', '810']
+✔ Wrote 832_Naa yedalon naa yedalon.xml
+ℹ Added o1 alt numbers for master=833: ['833', '692', '811']
+✔ Wrote 833_Nallanidi naa paapa hrudayam.xml
+ℹ Added o1 alt numbers for master=834: ['834', '693', '812']
+✔ Wrote 834_Yesu kristu aayane.xml
+ℹ Added o1 alt numbers for master=835: ['835', '694', '813']
+✔ Wrote 835_Ahaa ahaa idigo marala.xml
+ℹ Added o1 alt numbers for master=836: ['836', '695', '814']
+✔ Wrote 836_Aidu rottelu chepalu rendu.xml
+ℹ Added o1 alt numbers for master=837: ['837', '696', '815']
+✔ Wrote 837_Oh devuniki mahima.xml
+ℹ Added o1 alt numbers for master=838: ['838']
+✔ Wrote 838_Vaaru gorrepilla rakhtamunu.xml
+ℹ Added o1 alt numbers for master=839: ['839']
+✔ Wrote 839_Mahadevuda nive.xml
+ℹ Added o1 alt numbers for master=840: ['840']
+✔ Wrote 840_Devuḍu chesina paniyaiyunnāmu.xml
+ℹ Added o1 alt numbers for master=841: ['841']
+✔ Wrote 841_Prabhuvaina kristuku dasulara.xml
+ℹ Added o1 alt numbers for master=842: ['842']
+✔ Wrote 842_Devudu mimmunu yerparacukonenu.xml
+ℹ Added o1 alt numbers for master=843: ['843']
+✔ Wrote 843_Devudu manalanu yerparachukonnadu, dhupambu veyutaku paricarya cheyutaku.xml
+ℹ Added o1 alt numbers for master=844: ['844']
+✔ Wrote 844_Akasamandu - nivundaga.xml
+ℹ Added o1 alt numbers for master=845: ['845']
+✔ Wrote 845_Anandamu prabhu nakosagenu.xml
+ℹ Added o1 alt numbers for master=846: ['846']
+✔ Wrote 846_Aha anandame - paramanandame.xml
+ℹ Added o1 alt numbers for master=847: ['847']
+✔ Wrote 847_Idigo manuṣyula madhyana devadi.xml
+ℹ Added o1 alt numbers for master=848: ['848']
+✔ Wrote 848_Varnimpalenu vivarimpalenu yesayya.xml
+ℹ Added o1 alt numbers for master=849: ['849']
+✔ Wrote 849_Na prana priyuda - ninne stutintun.xml
+ℹ Added o1 alt numbers for master=850: ['850']
+✔ Wrote 850_Vevela stutulato aradhinceda prabhuva.xml
+ℹ Added o1 alt numbers for master=851: ['851']
+✔ Wrote 851_Manava marali ra prabhu centaku.xml
+ℹ Added o1 alt numbers for master=854: ['854']
+✔ Wrote 854_Bhudigantamula nivasulara.xml
+ℹ Added o1 alt numbers for master=855: ['855']
+✔ Wrote 855_Nammadagina ma deva parisuddhuda.xml
+ℹ Added o1 alt numbers for master=857: ['857']
+✔ Wrote 857_Vijayulam - ghana vijayulam.xml
+ℹ Added o1 alt numbers for master=858: ['858']
+✔ Wrote 858_Ponduunnamu - atyadhika.xml
+ℹ Added o1 alt numbers for master=859: ['859']
+✔ Wrote 859_Prabhu yesukristu aisvaryamu.xml
+ℹ Added o1 alt numbers for master=860: ['860']
+✔ Wrote 860_Idigo i manusyudu - devuni kumarudu.xml
+ℹ Added o1 alt numbers for master=861: ['861']
+✔ Wrote 861_Arbhatamutonu prabhavamutonu.xml
+ℹ Added o1 alt numbers for master=863: ['863']
+✔ Wrote 863_Parisuddha sthalamu - ati parisuddha.xml
+ℹ Added o1 alt numbers for master=864: ['864']
+✔ Wrote 864_Kristesu prabhuni visvasulamuga.xml
+ℹ Added o1 alt numbers for master=865: ['865']
+✔ Wrote 865_Arpintu prabhuva na jivitam.xml
+ℹ Added o1 alt numbers for master=866: ['866']
+✔ Wrote 866_Nammadagina deva - ninna nedu niratamu.xml
+ℹ Added o1 alt numbers for master=867: ['867']
+✔ Wrote 867_Devuni ascaryakaryamulanu andaru.xml
+ℹ Added o1 alt numbers for master=868: ['868']
+✔ Wrote 868_Yee bhuvipai paraloka vinthaina.xml
+ℹ Added o1 alt numbers for master=869: ['869']
+✔ Wrote 869_Nannu preminchi na koraku-Church Promise.xml
+ℹ Added o1 alt numbers for master=870: ['870']
+✔ Wrote 870_Ujjeevamu nimmu.xml
+ℹ Added o1 alt numbers for master=871: ['871']
+✔ Wrote 871_Gunatisayamula ne padedanu.xml
+ℹ Added o1 alt numbers for master=3: ['3', '3']
+✔ Wrote 3_என் நீதியின் தேவனே நான் கூப்பிடுகையில்.xml
+ℹ Added o1 alt numbers for master=4: ['4', '4']
+✔ Wrote 4_கர்த்தாவே என் வார்த்தைகட்குச் செவிகொடும்,.xml
+ℹ Added o1 alt numbers for master=5: ['5', '5']
+✔ Wrote 5_கர்த்தாவே உம்முடைய கோபத்திலென்னைக்.xml
+ℹ Added o1 alt numbers for master=7: ['7', '7']
+✔ Wrote 7_கர்த்தாவே யார் உம்முடைய.xml
+ℹ Added o1 alt numbers for master=10: ['10', '10']
+✔ Wrote 10_கர்த்தாவே என் கன்மலையுமென் கோட்டையும்.xml
+ℹ Added o1 alt numbers for master=11: ['11', '11']
+✔ Wrote 11_வானங்கள் தேவ மகிமையை வெளிப்படுத்துகிறது,.xml
+ℹ Added o1 alt numbers for master=21: ['21', '21']
+✔ Wrote 21_பலவான்களின் புத்திரரே.xml
+ℹ Added o1 alt numbers for master=24: ['24', '24']
+✔ Wrote 24_எவனுடைய மீறுதல் மன்னிக்கப்பட்டதோ,.xml
+ℹ Added o1 alt numbers for master=38: ['38', '38']
+✔ Wrote 38_தேவாதி தேவனே.xml
+ℹ Added o1 alt numbers for master=39: ['39', '39']
+✔ Wrote 39_தேவனை நோக்கிக் கூப்பிடுவேன்,.xml
+ℹ Added o1 alt numbers for master=57: ['57', '57']
+✔ Wrote 57_இரக்கத்தையும் நியாயத்தையும் குறித்துப்பாடுவேன்,.xml
+ℹ Added o1 alt numbers for master=63: ['63', '63']
+✔ Wrote 63_எங்களுக்கல்ல கர்த்தாவே எங்களுக்கல்ல,.xml
+ℹ Added o1 alt numbers for master=64: ['64', '64']
+✔ Wrote 64_ஜாதிகளே எல்லாரும் கர்த்தரைத் துதியுங்கள்.xml
+ℹ Added o1 alt numbers for master=65: ['65', '65']
+✔ Wrote 65_கர்த்தரைத் துதியுங்கள் அவர் நல்லவர்.xml
+ℹ Added o1 alt numbers for master=66: ['66', '66']
+✔ Wrote 66_கர்த்தரின் வேதத்தின்படி நடக்கும்.xml
+ℹ Added o1 alt numbers for master=72: ['72', '72']
+✔ Wrote 72_கர்த்தருக்குப் பயந்து—அல்லேலூயா.xml
+ℹ Added o1 alt numbers for master=73: ['73', '73']
+✔ Wrote 73_கர்த்தருக்குப் பயந்து.xml
+ℹ Added o1 alt numbers for master=78: ['78', '78']
+✔ Wrote 78_தலைச்சன்களைச் சங்கரித்தவரைத் துதியுங்கள்,.xml
+ℹ Added o1 alt numbers for master=79: ['79', '79']
+✔ Wrote 79_பெரும் ராஜாக்களைச் சங்கரித்தவரைத் துதியுங்கள்,.xml
+ℹ Added o1 alt numbers for master=82: ['82', '82']
+✔ Wrote 82_கர்த்தாவே என் ஜெபத்தைக் கேளும்.xml
+ℹ Added o1 alt numbers for master=83: ['83', '83']
+✔ Wrote 83_காலையில் கிருபையைக் கேட்கப்பண்ணும்,.xml
+ℹ Added o1 alt numbers for master=94: ['94', '94']
+✔ Wrote 94_முற்றிலும் அழகானவர்,.xml
+ℹ Added o1 alt numbers for master=95: ['95', '95']
+✔ Wrote 95_முட் கீரிடம் பூண்ட நாதனார்.xml
+ℹ Added o1 alt numbers for master=96: ['96', '96']
+✔ Wrote 96_ஆ மேசியாவே, வாரும் தாவீதின் மா மைந்தா!.xml
+ℹ Added o1 alt numbers for master=97: ['97', '97']
+✔ Wrote 97_தூய, தூய, தூயரே! த்ரியேக தேவா,.xml
+ℹ Added o1 alt numbers for master=99: ['99', '99']
+✔ Wrote 99_அவருடைய பரிசுத்த ஸ்தலத்தில்.xml
+ℹ Added o1 alt numbers for master=123: ['123', '123']
+✔ Wrote 123_நல் மீட்பர் இயேசு நாமமே.xml
+ℹ Added o1 alt numbers for master=124: ['124', '124']
+✔ Wrote 124_கண்டேனே காருண்ய முத்தை.xml
+ℹ Added o1 alt numbers for master=125: ['125', '125']
+✔ Wrote 125_பக்தரே! அண்ணாந்து பாரும்!.xml
+ℹ Added o1 alt numbers for master=126: ['126', '126']
+✔ Wrote 126_தெய்வாட்டுக் குட்டிக்கு.xml
+ℹ Added o1 alt numbers for master=127: ['127', '127']
+✔ Wrote 127_பாவிகளுக்காய் ஜீவனை விட்ட.xml
+ℹ Added o1 alt numbers for master=131: ['131', '131']
+✔ Wrote 131_இயேசுவின் நாமம் இனிதான நாமம்.xml
+ℹ Added o1 alt numbers for master=135: ['135', '135']
+✔ Wrote 135_ஆத்துமமே, உன் ஆண்டவரின்.xml
+ℹ Added o1 alt numbers for master=136: ['136', '136']
+✔ Wrote 136_ஆனந்தத்தோடே உம்மை ஆராதிப்.xml
+ℹ Added o1 alt numbers for master=138: ['138', '138']
+✔ Wrote 138_கர்த்தராகிய இயேசுவின் நாமம்.xml
+ℹ Added o1 alt numbers for master=141: ['141', '141']
+✔ Wrote 141_மா மாட்சி கர்த்தர் சாஷ்டாங்கம் செய்வோம்,.xml
+ℹ Added o1 alt numbers for master=142: ['142', '142']
+✔ Wrote 142_வாரும் தேவா வானவ ராஜா.xml
+ℹ Added o1 alt numbers for master=143: ['143', '143']
+✔ Wrote 143_வாழ்த்துவோமே வாழ்த்துவோமே.xml
+ℹ Added o1 alt numbers for master=144: ['144', '144']
+✔ Wrote 144_விண்ணோர்கள் போற்றும் ஆண்டவா,.xml
+ℹ Added o1 alt numbers for master=145: ['145', '145']
+✔ Wrote 145_வெற்றிகொண்ட சபை பாடும்,.xml
+ℹ Added o1 alt numbers for master=150: ['150', '150']
+✔ Wrote 150_எந்தன் ஆத்ம நேசர் எங்கே_.xml
+ℹ Added o1 alt numbers for master=173: ['173', '173']
+✔ Wrote 173_எத்தனை இன்பமாய் இயேசுவே உம்மை,.xml
+ℹ Added o1 alt numbers for master=191: ['191', '191']
+✔ Wrote 191_அடைக்கலமே உமதடிமை நானே.xml
+ℹ Added o1 alt numbers for master=192: ['192', '192']
+✔ Wrote 192_அல்லேலூயா மங்களம்! அல்லேலூயா ஸ்தோத்திரம்.xml
+ℹ Added o1 alt numbers for master=193: ['193', '193']
+✔ Wrote 193_அன்புள்ள நேசர் ஏசு; எனக்கெல்லாம் அவரே.xml
+ℹ Added o1 alt numbers for master=194: ['194', '194']
+✔ Wrote 194_அன்புள்ள நேசரின் கிருபை.xml
+ℹ Added o1 alt numbers for master=197: ['197', '197']
+✔ Wrote 197_இயேசுவே, உம்மை தியானித்தால்.xml
+ℹ Added o1 alt numbers for master=199: ['199', '199']
+✔ Wrote 199_இருக்கிறேன் என்றவர்.xml
+ℹ Added o1 alt numbers for master=200: ['200', '200']
+✔ Wrote 200_உம்பாதம் பணிந்தேன் எந்நாளும் துதியே.xml
+ℹ Added o1 alt numbers for master=201: ['201', '201']
+✔ Wrote 201_உன்னதத்தின் தூதர்களே ஒன்றாகக் கூடுங்கள்.xml
+ℹ Added o1 alt numbers for master=202: ['202', '202']
+✔ Wrote 202_எந்தன் நாவில் புதுப்பாட்டு.xml
+ℹ Added o1 alt numbers for master=203: ['203', '203']
+✔ Wrote 203_என் பாத்திரம் நிரம்பி வழிகிறது.xml
+ℹ Added o1 alt numbers for master=204: ['204', '204']
+✔ Wrote 204_ஏகோபித்துச் சேருங்களேன்.xml
+ℹ Added o1 alt numbers for master=205: ['205', '205']
+✔ Wrote 205_கனம் மகிமை கர்த்தருக்கே.xml
+ℹ Added o1 alt numbers for master=207: ['207', '207']
+✔ Wrote 207_துதிசெய் மனமே நிதம் துதிசெய்.xml
+ℹ Added o1 alt numbers for master=208: ['208', '208']
+✔ Wrote 208_துதிக்கப்படத்தக்கவர் நீரே 2.xml
+ℹ Added o1 alt numbers for master=210: ['210', '210']
+✔ Wrote 210_துதிப்பேன் இயேசுவின் பாதம்.xml
+ℹ Added o1 alt numbers for master=211: ['211', '211']
+✔ Wrote 211_துதியுங்கள் சர்வ சேனைகளே நீங்கள்.xml
+ℹ Added o1 alt numbers for master=213: ['213', '213']
+✔ Wrote 213_பரம மகிமைக்காகப் பாடுவேன்.xml
+ℹ Added o1 alt numbers for master=214: ['214', '214']
+✔ Wrote 214_மெய்த் தேவனைத் துதி; பெருநன்மை செய்தார்..xml
+ℹ Added o1 alt numbers for master=215: ['215', '215']
+✔ Wrote 215_மெய் பக்தர், தாசரே;.xml
+ℹ Added o1 alt numbers for master=216: ['216', '216']
+✔ Wrote 216_ஸ்துதிகனம் புகழ் மகிமையுமக்கே.xml
+ℹ Added o1 alt numbers for master=217: ['217', '217']
+✔ Wrote 217_ஸ்தோத்திரம் துதி பாத்திரா உம்மை.xml
+ℹ Added o1 alt numbers for master=231: ['231', '231']
+✔ Wrote 231_உண்மையும் மகாவல்லமையும் உள்ளவரே.xml
+ℹ Added o1 alt numbers for master=244: ['244', '244']
+✔ Wrote 244_உன்னத தேவன் உன்மேலுள்ள அன்பினால்.xml
+ℹ Added o1 alt numbers for master=245: ['245', '245']
+✔ Wrote 245_அருணோதயம் எழுந்திடுவோம்.xml
+ℹ Added o1 alt numbers for master=249: ['249', '249']
+✔ Wrote 249_ஆனந்தமாய் இன்பக் கானான் ஏகிடுவேன்.xml
+ℹ Added o1 alt numbers for master=250: ['250', '250']
+✔ Wrote 250_ஆனந்தமாய் நாம் ஆர்ப்பரிப்போமே.xml
+ℹ Added o1 alt numbers for master=251: ['251', '251']
+✔ Wrote 251_ஆஹா என்ன இன்பம் பரலோக இன்பம்.xml
+ℹ Added o1 alt numbers for master=252: ['252', '252']
+✔ Wrote 252_இம்மட்டும் ஜீவன் தந்த கர்த்தாவை அத்தியந்த.xml
+ℹ Added o1 alt numbers for master=253: ['253', '253']
+✔ Wrote 253_இயேசு நேசிக்கிறார் இயேசு நேசிக்கிறார்;.xml
+ℹ Added o1 alt numbers for master=254: ['254', '254']
+✔ Wrote 254_உள்ளம் எல்லாம் உருகுதையோ.xml
+ℹ Added o1 alt numbers for master=255: ['255', '255']
+✔ Wrote 255_எந்தன் பூ மானைக் காண சிந்தை பெருகுதையோ!.xml
+ℹ Added o1 alt numbers for master=256: ['256', '256']
+✔ Wrote 256_என் தேவனே! உம் கிருபை.xml
+ℹ Added o1 alt numbers for master=257: ['257', '257']
+✔ Wrote 257_என்னையும் நேசிக்கிறார்—எந்தன்.xml
+ℹ Added o1 alt numbers for master=258: ['258', '258']
+✔ Wrote 258_கிருபை, கிருபை, கிருபை—தேவ.xml
+ℹ Added o1 alt numbers for master=260: ['260', '260']
+✔ Wrote 260_கோடா கோடி ஸ்தோத்திரம் பாடி.xml
+ℹ Added o1 alt numbers for master=261: ['261', '261']
+✔ Wrote 261_சகல நல் ஈவுகளை இவ்வுலகில்.xml
+ℹ Added o1 alt numbers for master=262: ['262', '262']
+✔ Wrote 262_தெய்வன்புதான் மா இனிமை,.xml
+ℹ Added o1 alt numbers for master=263: ['263', '263']
+✔ Wrote 263_நீர் தந்த நன்மை யாவையும்.xml
+ℹ Added o1 alt numbers for master=264: ['264', '264']
+✔ Wrote 264_நீரோடையை மான் வாஞ்சித்து.xml
+ℹ Added o1 alt numbers for master=265: ['265', '265']
+✔ Wrote 265_பாவத்தில் மரித்து.xml
+ℹ Added o1 alt numbers for master=267: ['267', '267']
+✔ Wrote 267_போற்றிடுவோம் போற்றிடுவோம்.xml
+ℹ Added o1 alt numbers for master=269: ['269', '269']
+✔ Wrote 269_வாழ்த்துகிறேன் வாழ்த்துகிறேன் வாழ்த்துகிறேன் நான்.xml
+ℹ Added o1 alt numbers for master=271: ['271', '271']
+✔ Wrote 271_ஸ்தோத்திரம் ஏசுதேவா…. ஸதுதி கனம் மகிமையே.xml
+ℹ Added o1 alt numbers for master=273: ['273', '273']
+✔ Wrote 273_துதித்துப்பாடிட பாத்திரமே.xml
+ℹ Added o1 alt numbers for master=279: ['279', '279']
+✔ Wrote 279_இத்தனை ஆண்டுகள் கடக்கப் பண்ணின தேவா.xml
+ℹ Added o1 alt numbers for master=280: ['280', '280']
+✔ Wrote 280_இயேசுநாதனைப் போற்றிடுவோம் புகழ்ந்து.xml
+ℹ Added o1 alt numbers for master=281: ['281', '281']
+✔ Wrote 281_சந்தோஷ கீதம் என்னில் பொங்குதே.xml
+ℹ Added o1 alt numbers for master=282: ['282', '282']
+✔ Wrote 282_தேவரீருக்கே மிகத்தோத்திரம் மிகத்தோத்திரம்.xml
+ℹ Added o1 alt numbers for master=283: ['283', '283']
+✔ Wrote 283_விசுவாசியே நம் பண்டிகையை.xml
+ℹ Added o1 alt numbers for master=287: ['287', '287']
+✔ Wrote 287_கேள் ! ஜென்மித்த ராயர்க்கே.xml
+ℹ Added o1 alt numbers for master=288: ['288', '288']
+✔ Wrote 288_அதோ ! மாட்டுத் தொழுபார்!.xml
+ℹ Added o1 alt numbers for master=289: ['289', '289']
+✔ Wrote 289_இயேசு என் மீட்பர் சண்டாளருக்காய்.xml
+ℹ Added o1 alt numbers for master=291: ['291', '291']
+✔ Wrote 291_நள்ளிரவில் தேவ தூதன் நாட்டின் மேய்ப்பருக்கே.xml
+ℹ Added o1 alt numbers for master=292: ['292', '292']
+✔ Wrote 292_பிறந்தார், பிறந்தார்.xml
+ℹ Added o1 alt numbers for master=307: ['307', '307']
+✔ Wrote 307_அன்பரின் நேசம் யார் சொல்லலாகும்_ அதிசய.xml
+ℹ Added o1 alt numbers for master=308: ['308', '308']
+✔ Wrote 308_ஆட்டுக்குட்டியின் திரு ரத்தத்தினால்.xml
+ℹ Added o1 alt numbers for master=309: ['309', '309']
+✔ Wrote 309_கருணையுள்ள தேவ சுதன்.xml
+ℹ Added o1 alt numbers for master=311: ['311', '311']
+✔ Wrote 311_ஓ இயேசுவே என்னை மூட.xml
+ℹ Added o1 alt numbers for master=313: ['313', '313']
+✔ Wrote 313_சிலுவை சுமந்த உருவம்.xml
+ℹ Added o1 alt numbers for master=314: ['314', '314']
+✔ Wrote 314_விலையேறப்பெற்ற ரத்தமே.xml
+ℹ Added o1 alt numbers for master=317: ['317', '317']
+✔ Wrote 317_இயேசு ரட்சகர் சிலுவை.xml
+ℹ Added o1 alt numbers for master=318: ['318', '318']
+✔ Wrote 318_ஜெயமே இயேசுவின் ரத்தத்தின் மூலமே.xml
+ℹ Added o1 alt numbers for master=319: ['319', '319']
+✔ Wrote 319_கொல்கதா மலை மீதிலே சிலுவை சுமந்தேறினார்.xml
+ℹ Added o1 alt numbers for master=322: ['322', '322']
+✔ Wrote 322_அந்தோ பாரும் உனக்காகவே.xml
+ℹ Added o1 alt numbers for master=323: ['323', '323']
+✔ Wrote 323_உயிர்த்தெழுந்தாரே—பிரேதக்.xml
+ℹ Added o1 alt numbers for master=326: ['326', '326']
+✔ Wrote 326_இன்று கிறிஸ்து எழுந்தார்,.xml
+ℹ Added o1 alt numbers for master=345: ['345', '345']
+✔ Wrote 345_ஆண்டவர் வருகையது அதிவிரைவிலுள்ளது.xml
+ℹ Added o1 alt numbers for master=346: ['346', '346']
+✔ Wrote 346_இந்தக் கடைசி நாட்களில்.xml
+ℹ Added o1 alt numbers for master=347: ['347', '347']
+✔ Wrote 347_எக்காள சத்தம் வானில் தொனித்திடவே.xml
+ℹ Added o1 alt numbers for master=348: ['348', '348']
+✔ Wrote 348_எக்காள சத்தம் வானில் முழங்கவே.xml
+ℹ Added o1 alt numbers for master=349: ['349', '349']
+✔ Wrote 349_என் இயேசு ராஜன் வருவார்.xml
+ℹ Added o1 alt numbers for master=351: ['351', '351']
+✔ Wrote 351_தேவன் வருகின்றார் வேகம் இறங்கி.xml
+ℹ Added o1 alt numbers for master=352: ['352', '352']
+✔ Wrote 352_மரித்தோர் எவரும் உயிர்தெழுவார்.xml
+ℹ Added o1 alt numbers for master=353: ['353', '353']
+✔ Wrote 353_மேகமீது தூதரோடிதோ இதோ,.xml
+ℹ Added o1 alt numbers for master=354: ['354', '354']
+✔ Wrote 354_இராஜாதி இராஜன் இயேசு வருவார்.xml
+ℹ Added o1 alt numbers for master=356: ['356', '356']
+✔ Wrote 356_வேகத்திலே விண்மேகத்திலே என்.xml
+ℹ Added o1 alt numbers for master=357: ['357', '357']
+✔ Wrote 357_இயேசு சீக்கிரம் வருகிறார்.xml
+ℹ Added o1 alt numbers for master=358: ['358', '358']
+✔ Wrote 358_இயேசு சீக்கிரம் வரப்போகிறார்வெளி.22_7,12.xml
+ℹ Added o1 alt numbers for master=360: ['360', '360']
+✔ Wrote 360_மேகங்கள் நடுவே வழி பிறக்கும்.xml
+ℹ Added o1 alt numbers for master=374: ['374', '374']
+✔ Wrote 374_பாவியே சந்தித்தாயோ—மேவி உன் மீட்பரையே.xml
+ℹ Added o1 alt numbers for master=384: ['384', '384']
+✔ Wrote 384_இயேசு மீட்பர் உந்தன் நெஞ்சில்.xml
+ℹ Added o1 alt numbers for master=386: ['386', '386']
+✔ Wrote 386_இப்பெரிதான ரட்சிப்பைப் பற்றி.xml
+ℹ Added o1 alt numbers for master=387: ['387', '387']
+✔ Wrote 387_இயேசு யாரென்று தெரியுமா.xml
+ℹ Added o1 alt numbers for master=388: ['388', '388']
+✔ Wrote 388_இயேசுவாம் வழியை விட்டு.xml
+ℹ Added o1 alt numbers for master=392: ['392', '392']
+✔ Wrote 392_உன் ஜீவியத்தின் இலக்கென்ன என்று.xml
+ℹ Added o1 alt numbers for master=393: ['393', '393']
+✔ Wrote 393_என்னை நேசிக்கின்றாயா_.xml
+ℹ Added o1 alt numbers for master=394: ['394', '394']
+✔ Wrote 394_ஏழை மனு உருவை எடுத்த.xml
+ℹ Added o1 alt numbers for master=395: ['395', '395']
+✔ Wrote 395_ஒரு தினம் உலகை விட்டகல்வாயே இதில்.xml
+ℹ Added o1 alt numbers for master=398: ['398', '398']
+✔ Wrote 398_பாவி, கேள் உன் ஆண்டவர்,.xml
+ℹ Added o1 alt numbers for master=399: ['399', '399']
+✔ Wrote 399_பாவிக்குப் புகலிடம் இயேசு ரட்சகர்.xml
+ℹ Added o1 alt numbers for master=409: ['409', '409']
+✔ Wrote 409_இதுவே நற்தருணம்—வாரும்.xml
+ℹ Added o1 alt numbers for master=414: ['414', '414']
+✔ Wrote 414_இயேசு உன்னை அழைக்கிறாரே.xml
+ℹ Added o1 alt numbers for master=417: ['417', '417']
+✔ Wrote 417_அழைக்கிறார் அழைக்கிறார் இதோ.xml
+ℹ Added o1 alt numbers for master=418: ['418', '418']
+✔ Wrote 418_ஆணிகள் பாய்ந்த கரங்களை விரித்தே.xml
+ℹ Added o1 alt numbers for master=419: ['419', '419']
+✔ Wrote 419_இது நிச்சயம் இது நிச்சயம் —நம்.xml
+ℹ Added o1 alt numbers for master=420: ['420', '420']
+✔ Wrote 420_இதுவே அநுக்கிரக காலமிதே—.xml
+ℹ Added o1 alt numbers for master=422: ['422', '422']
+✔ Wrote 422_கிறிஸ்தேசு வருந்தி அழைக்கிறார்.xml
+ℹ Added o1 alt numbers for master=423: ['423', '423']
+✔ Wrote 423_நல்மீட்பர்போல் வல்ல நேசர் உண்டோ_.xml
+ℹ Added o1 alt numbers for master=424: ['424', '424']
+✔ Wrote 424_பரிசுத்தம் பெற வந்திட்டீர்களா.xml
+ℹ Added o1 alt numbers for master=425: ['425', '425']
+✔ Wrote 425_பாவ பாரம் நீங்க வாஞ்சிப்பாயா_.xml
+ℹ Added o1 alt numbers for master=426: ['426', '426']
+✔ Wrote 426_பாவி! உன் மீட்பர் கரிசனையாய்.xml
+ℹ Added o1 alt numbers for master=427: ['427', '427']
+✔ Wrote 427_பாவிக்கவர் காட்டின மா நேசத்தால்,.xml
+ℹ Added o1 alt numbers for master=429: ['429', '429']
+✔ Wrote 429_வருத்தப்பட்டு பாரம் சுமப்பவர் யாவரும்.xml
+ℹ Added o1 alt numbers for master=430: ['430', '430']
+✔ Wrote 430_வருவாய் தருணமிதுவே அழைக்கிறாரே.xml
+ℹ Added o1 alt numbers for master=431: ['431', '431']
+✔ Wrote 431_பாவத்திலே யாவரும் பிறந்தோம் 2.xml
+ℹ Added o1 alt numbers for master=432: ['432', '432']
+✔ Wrote 432_வா ! இயேசுவண்டை வா!!!.xml
+ℹ Added o1 alt numbers for master=433: ['433', '433']
+✔ Wrote 433_வா—வா—இயேசுவண்டைவா.xml
+ℹ Added o1 alt numbers for master=434: ['434', '434']
+✔ Wrote 434_வாசலண்டை நின்று ஆசையாய்த் தட்டும்.xml
+ℹ Added o1 alt numbers for master=435: ['435', '435']
+✔ Wrote 435_பொங்கிவரும் அருள்மனிதரை மாற்றிடுதே.xml
+ℹ Added o1 alt numbers for master=450: ['450', '450']
+✔ Wrote 450_சபையே யுனக்கொரு சந்தோஷம்.xml
+ℹ Added o1 alt numbers for master=452: ['452', '452']
+✔ Wrote 452_செய்ய வேண்டிய வேலையோ பெரியது.xml
+ℹ Added o1 alt numbers for master=453: ['453', '453']
+✔ Wrote 453_சேனைகளின் கர்த்தாவே உந்தன் வாசஸ்தலங்கள்.xml
+ℹ Added o1 alt numbers for master=455: ['455', '455']
+✔ Wrote 455_யேகோவா ஷம்மா யென்றழைக்கப்படும்.xml
+ℹ Added o1 alt numbers for master=456: ['456', '456']
+✔ Wrote 456_இதோ மனுஷரின் மத்தியில்.xml
+ℹ Added o1 alt numbers for master=457: ['457', '457']
+✔ Wrote 457_தேவனின் வாசஸ்தலம் நித்தியமானது 2.xml
+ℹ Added o1 alt numbers for master=492: ['492', '492']
+✔ Wrote 492_ஜெபத்தைக் கேட்கும் எங்கள் தேவா.xml
+ℹ Added o1 alt numbers for master=497: ['497', '497']
+✔ Wrote 497_அன்பின் தொலைபேசி அற்புதத்தைப் பார்.xml
+ℹ Added o1 alt numbers for master=498: ['498', '498']
+✔ Wrote 498_ஆண்டவா வகையறியேன் தூண்டும்.xml
+ℹ Added o1 alt numbers for master=499: ['499', '499']
+✔ Wrote 499_ஆத்ம சந்தோஷங் கொண்டானந்திக்க—இப்போ.xml
+ℹ Added o1 alt numbers for master=500: ['500', '500']
+✔ Wrote 500_ஆள் இல்லை ஆள் இல்லை.xml
+ℹ Added o1 alt numbers for master=501: ['501', '501']
+✔ Wrote 501_இன்றும் க்ரியை செய்கிறார்.xml
+ℹ Added o1 alt numbers for master=502: ['502', '502']
+✔ Wrote 502_இஸ்ரவேலின் சேனைகளின்.xml
+ℹ Added o1 alt numbers for master=504: ['504', '504']
+✔ Wrote 504_எங்கேயான் ஏகுவேன் தங்கவே தேவனே.xml
+ℹ Added o1 alt numbers for master=505: ['505', '505']
+✔ Wrote 505_என் ஆத்தும நேச மேய்ப்பரே !.xml
+ℹ Added o1 alt numbers for master=506: ['506', '506']
+✔ Wrote 506_என்னை மறவா இயேசு நாதா.xml
+ℹ Added o1 alt numbers for master=507: ['507', '507']
+✔ Wrote 507_என்னோடிரும், மாநேச கர்த்தரே,.xml
+ℹ Added o1 alt numbers for master=508: ['508', '508']
+✔ Wrote 508_கர்த்தாவே ! இறங்கும் !.xml
+ℹ Added o1 alt numbers for master=509: ['509', '509']
+✔ Wrote 509_கர்த்தாவே உம் முகத்தைத் தேடி.xml
+ℹ Added o1 alt numbers for master=510: ['510', '510']
+✔ Wrote 510_சிறையின் கஷ்டம் கசப்பிலும்.xml
+ℹ Added o1 alt numbers for master=511: ['511', '511']
+✔ Wrote 511_தயாபரா, என் உள்ளத்தில்.xml
+ℹ Added o1 alt numbers for master=512: ['512', '512']
+✔ Wrote 512_தேவனே ! ப்ரசன்னமாகி.xml
+ℹ Added o1 alt numbers for master=513: ['513', '513']
+✔ Wrote 513_பரிசுத்தர் கூட்டம் நடுவில்.xml
+ℹ Added o1 alt numbers for master=514: ['514', '514']
+✔ Wrote 514_பலிபீடத்தின் தழலால் என்னைத்தொடும்.xml
+ℹ Added o1 alt numbers for master=515: ['515', '515']
+✔ Wrote 515_மெய் ஜோதியாம் நல்மீட்பரே.xml
+ℹ Added o1 alt numbers for master=516: ['516', '516']
+✔ Wrote 516_ஜீவாதிபதி, ஜோதியே,.xml
+ℹ Added o1 alt numbers for master=518: ['518', '518']
+✔ Wrote 518_தேவ ஜனமே பாவத்தில் விழுந்தே.xml
+ℹ Added o1 alt numbers for master=530: ['530', '530']
+✔ Wrote 530_அருள் நாதா, நம்பி வந்தேன்,.xml
+ℹ Added o1 alt numbers for master=531: ['531', '531']
+✔ Wrote 531_ஆராயந்து பாரும் கர்த்தரே;.xml
+ℹ Added o1 alt numbers for master=532: ['532', '532']
+✔ Wrote 532_என் அருமை ரட்சகா ! கண்ணோக்குமேன் !.xml
+ℹ Added o1 alt numbers for master=535: ['535', '535']
+✔ Wrote 535_பாவி நான் ஐயா பரமதுய்யா.xml
+ℹ Added o1 alt numbers for master=537: ['537', '537']
+✔ Wrote 537_அன்பானவராம் எந்தன் கிறிஸ்தேசுவே.xml
+ℹ Added o1 alt numbers for master=538: ['538', '538']
+✔ Wrote 538_நசரேயனாகிய இயேசுவே.xml
+ℹ Added o1 alt numbers for master=539: ['539', '539']
+✔ Wrote 539_சிலுவைப்பாதையைக் காட்டுமேசையா.xml
+ℹ Added o1 alt numbers for master=557: ['557', '557']
+✔ Wrote 557_அர்ப்பணித்தேன் என்னை முற்றிலுமாய்.xml
+ℹ Added o1 alt numbers for master=558: ['558', '558']
+✔ Wrote 558_உம் சித்தமே, ஆம், உம் சித்தமே!.xml
+ℹ Added o1 alt numbers for master=559: ['559', '559']
+✔ Wrote 559_எப்போதும், இயேசு நாதா,.xml
+ℹ Added o1 alt numbers for master=560: ['560', '560']
+✔ Wrote 560_என் ஜீவன், சுகம், செல்வம்.xml
+ℹ Added o1 alt numbers for master=564: ['564', '564']
+✔ Wrote 564_தேவனே, நான் உமதண்டையில்.xml
+ℹ Added o1 alt numbers for master=566: ['566', '566']
+✔ Wrote 566_நான் உம்மை முழுமனதால்,.xml
+ℹ Added o1 alt numbers for master=567: ['567', '567']
+✔ Wrote 567_நானும் என் வீட்டாருமோ வென்றால்.xml
+ℹ Added o1 alt numbers for master=568: ['568', '568']
+✔ Wrote 568_மீட்பரின் அழைப்பைக் கேட்டேன்.xml
+ℹ Added o1 alt numbers for master=569: ['569', '569']
+✔ Wrote 569_லோகம் வேண்டாம் ஒன்றும் வேண்டாம்.xml
+ℹ Added o1 alt numbers for master=570: ['570', '570']
+✔ Wrote 570_வேதநூல் ஓதிடும் நல்ல மேய்ப்பர்.xml
+ℹ Added o1 alt numbers for master=571: ['571', '571']
+✔ Wrote 571_ஜீவியமே ஒரே ஜீவியமே.xml
+ℹ Added o1 alt numbers for master=573: ['573', '573']
+✔ Wrote 573_மயங்குந் தாசனை,.xml
+ℹ Added o1 alt numbers for master=575: ['575', '575']
+✔ Wrote 575_விந்தைக் கிறிஸ்தேசு ராஜா!.xml
+ℹ Added o1 alt numbers for master=576: ['576', '576']
+✔ Wrote 576_உம்மைப்போல் யாருண்டு.xml
+ℹ Added o1 alt numbers for master=583: ['583', '583']
+✔ Wrote 583_அவர் அழைப்புக்களிப்பேன் பதில் 3.xml
+ℹ Added o1 alt numbers for master=584: ['584', '584']
+✔ Wrote 584_அன்பனே இயேசுவில் நிலைத்திரு—ஆவியின் கனிகொடு.xml
+ℹ Added o1 alt numbers for master=594: ['594', '594']
+✔ Wrote 594_அழைத்தீரே இயேசுவே.xml
+ℹ Added o1 alt numbers for master=595: ['595', '595']
+✔ Wrote 595_அறுவடை மிகுதி ஆளோ இல்லை.xml
+ℹ Added o1 alt numbers for master=596: ['596', '596']
+✔ Wrote 596_ஆசாரிய அழைப்பை அறிந்தே.xml
+ℹ Added o1 alt numbers for master=597: ['597', '597']
+✔ Wrote 597_இயேசுவுக்காய்த் தொண்டு செய்திடவே.xml
+ℹ Added o1 alt numbers for master=598: ['598', '598']
+✔ Wrote 598_இயேசுவுக்கு நமது தேசத்தைச் சொந்தமாக்கப்.xml
+ℹ Added o1 alt numbers for master=599: ['599', '599']
+✔ Wrote 599_உலகோர் உன்னைப் பகைத்தாலும்.xml
+ℹ Added o1 alt numbers for master=600: ['600', '600']
+✔ Wrote 600_எழும்பு எழும்பு சீயோனே.xml
+ℹ Added o1 alt numbers for master=601: ['601', '601']
+✔ Wrote 601_கர்த்தர் தம் கிரியை செய்கிறார்.xml
+ℹ Added o1 alt numbers for master=602: ['602', '602']
+✔ Wrote 602_கிறிஸ்து சபையே ஆயத்தப்படு.xml
+ℹ Added o1 alt numbers for master=603: ['603', '603']
+✔ Wrote 603_திவ்ய விசேஷம் கூறும் !.xml
+ℹ Added o1 alt numbers for master=604: ['604', '604']
+✔ Wrote 604_நல் மீட்பர் பட்சம் நில்லும் ! ரட்சண்ய வீரரே,.xml
+ℹ Added o1 alt numbers for master=605: ['605', '605']
+✔ Wrote 605_நிலைமாற மாட்டேன் மருளவே மாட்டேன்.xml
+ℹ Added o1 alt numbers for master=606: ['606', '606']
+✔ Wrote 606_விண் கிரீடம் பெறப் போருக்கு.xml
+ℹ Added o1 alt numbers for master=607: ['607', '607']
+✔ Wrote 607_விளைந்த பலனை அறுப்பாரில்லை.xml
+ℹ Added o1 alt numbers for master=608: ['608', '608']
+✔ Wrote 608_நான் உலக முடிவு மட்டும்.xml
+ℹ Added o1 alt numbers for master=645: ['645', '645']
+✔ Wrote 645_பூர்ண ஞான மடையுங்கள்.xml
+ℹ Added o1 alt numbers for master=646: ['646', '646']
+✔ Wrote 646_கர்த்தருக்கு பிரியமாக நீயுமே.xml
+ℹ Added o1 alt numbers for master=654: ['654', '654']
+✔ Wrote 654_ஆ ! என் தோழர் வானில் சைகை.xml
+ℹ Added o1 alt numbers for master=656: ['656', '656']
+✔ Wrote 656_இயேசு என் அஸ்திபாரம், ஆசை எனக்கவரே,.xml
+ℹ Added o1 alt numbers for master=657: ['657', '657']
+✔ Wrote 657_இயேசு என் இரட்சகர் என் பட்சமல்லோ.xml
+ℹ Added o1 alt numbers for master=659: ['659', '659']
+✔ Wrote 659_இயேசுவின் அன்பில் மூழ்கவும்,.xml
+ℹ Added o1 alt numbers for master=660: ['660', '660']
+✔ Wrote 660_இயேசுவின் நாமந்தரித்தோர்களே.xml
+ℹ Added o1 alt numbers for master=661: ['661', '661']
+✔ Wrote 661_இயேசுவை நான் நம்பி ஜீவியம் செய்குவேன்,.xml
+ℹ Added o1 alt numbers for master=662: ['662', '662']
+✔ Wrote 662_இன்ப துன்ப நேரத்திலும்,.xml
+ℹ Added o1 alt numbers for master=663: ['663', '663']
+✔ Wrote 663_என் இயேசு ராஜா சாரோனின் ரோஜா.xml
+ℹ Added o1 alt numbers for master=665: ['665', '665']
+✔ Wrote 665_கர்த்தர் என் மேய்ப்பரானவர்.xml
+ℹ Added o1 alt numbers for master=668: ['668', '668']
+✔ Wrote 668_கீதம் பாடியே பாதையில் திடன் கொள்வோம்.xml
+ℹ Added o1 alt numbers for master=671: ['671', '671']
+✔ Wrote 671_தேவனின் தீர்மானமே.xml
+ℹ Added o1 alt numbers for master=672: ['672', '672']
+✔ Wrote 672_நம் ஜீவியகாலமே போராட்டம் நிறைந்துள்ளதே.xml
+ℹ Added o1 alt numbers for master=673: ['673', '673']
+✔ Wrote 673_நமது ஜீவியம் எல்லாம்.xml
+ℹ Added o1 alt numbers for master=675: ['675', '675']
+✔ Wrote 675_பயப்படாதே பாரிலிப்போதே.xml
+ℹ Added o1 alt numbers for master=679: ['679', '679']
+✔ Wrote 679_விழிப்பீர் வருவீர்.xml
+ℹ Added o1 alt numbers for master=680: ['680', '680']
+✔ Wrote 680_கர்த்தனே எம் துணையானீர்.xml
+ℹ Added o1 alt numbers for master=684: ['684', '684']
+✔ Wrote 684_திவ்ய ஐக்கியத்தில்.xml
+ℹ Added o1 alt numbers for master=685: ['685', '685']
+✔ Wrote 685_வீசிரோ வானஜோதி கதிரிங்கே.xml
+ℹ Added o1 alt numbers for master=693: ['693', '693']
+✔ Wrote 693_ஓ அற்புத அற்புதமான ஓர் நாள்.xml
+ℹ Added o1 alt numbers for master=696: ['696', '696']
+✔ Wrote 696_அருள் நாதா ! ரட்சை செய்து,.xml
+ℹ Added o1 alt numbers for master=697: ['697', '697']
+✔ Wrote 697_ஆஹா அதிசயம் பாரும்.xml
+ℹ Added o1 alt numbers for master=698: ['698', '698']
+✔ Wrote 698_இயேசுவே என்னை இரட்சித்தார்.xml
+ℹ Added o1 alt numbers for master=699: ['699', '699']
+✔ Wrote 699_இயேசுவைப்போல சகாயஞ் செய்வார்.xml
+ℹ Added o1 alt numbers for master=700: ['700', '700']
+✔ Wrote 700_உம்மாலேயன்றி ரட்சகா !.xml
+ℹ Added o1 alt numbers for master=704: ['704', '704']
+✔ Wrote 704_காணாமற் போன என்னை.xml
+ℹ Added o1 alt numbers for master=705: ['705', '705']
+✔ Wrote 705_கிருபையே ஆச்சர்யமாய்.xml
+ℹ Added o1 alt numbers for master=706: ['706', '706']
+✔ Wrote 706_பாவப் பாரம் நீக்கப்பட்டு,.xml
+ℹ Added o1 alt numbers for master=710: ['710', '710']
+✔ Wrote 710_மகிழ்வோம் மகிழ்வோம் தினம் அகமகிழ்வோம்.xml
+ℹ Added o1 alt numbers for master=712: ['712', '712']
+✔ Wrote 712_சந்தோஷம் பொங்குதே 2.xml
+ℹ Added o1 alt numbers for master=725: ['725', '725']
+✔ Wrote 725_ஜெயங்கொள்ளுகிறவனே.xml
+ℹ Added o1 alt numbers for master=726: ['726', '726']
+✔ Wrote 726_உலகில் பிரிக்கிறவைகள் எவை—நம்மைக்.xml
+ℹ Added o1 alt numbers for master=728: ['728', '728']
+✔ Wrote 728_அளவில்லா மீட்பே அன்பின் ஆழியே!.xml
+ℹ Added o1 alt numbers for master=743: ['743', '743']
+✔ Wrote 743_இயேசுவேயென் நேசமுள்ள ஆத்மநேசரே—என்னை.xml
+ℹ Added o1 alt numbers for master=747: ['747', '747']
+✔ Wrote 747_என் ஜீவன் போகும் நேரம் சமீபம் வந்ததே;.xml
+ℹ Added o1 alt numbers for master=748: ['748', '748']
+✔ Wrote 748_என்றும் கர்த்தாவுடன்’.xml
+ℹ Added o1 alt numbers for master=750: ['750', '750']
+✔ Wrote 750_பேரின்ப தேசம் பாடுவேன்,.xml
+ℹ Added o1 alt numbers for master=751: ['751', '751']
+✔ Wrote 751_மேலோகத்தை நாடுகிறோம்.xml
+ℹ Added o1 alt numbers for master=752: ['752', '752']
+✔ Wrote 752_மெய் பக்தரே! நற்செய்தி கேளும்!.xml
+ℹ Added o1 alt numbers for master=767: ['767', '767']
+✔ Wrote 767_எண்ணில்லாத கூட்டமாக.xml
+ℹ Added o1 alt numbers for master=768: ['768', '768']
+✔ Wrote 768_எருசலேம் நான் ஆசிக்கும்.xml
+ℹ Added o1 alt numbers for master=769: ['769', '769']
+✔ Wrote 769_என்ன அழகான நகரம் அது.xml
+ℹ Added o1 alt numbers for master=770: ['770', '770']
+✔ Wrote 770_என்ன சுகம் ஆ!ஆ! என்ன சுகம் என்.xml
+ℹ Added o1 alt numbers for master=773: ['773', '773']
+✔ Wrote 773_நம் வாசஸ்தலம் அதுவே.xml
+ℹ Added o1 alt numbers for master=774: ['774', '774']
+✔ Wrote 774_நூதனமான எருசலமே பரிசுத்த பட்டணமாம் 2.xml
+ℹ Added o1 alt numbers for master=775: ['775', '775']
+✔ Wrote 775_பரலோக நாட்டினின் வாழ்வினிலே.xml
+ℹ Added o1 alt numbers for master=776: ['776', '776']
+✔ Wrote 776_பரலோக நாட்டினுள் ஏழை செல்ல.xml
+ℹ Added o1 alt numbers for master=777: ['777', '777']
+✔ Wrote 777_பரலோக நாடெந்தென் இன்ப நாடாமெனக்கு.xml
+ℹ Added o1 alt numbers for master=778: ['778', '778']
+✔ Wrote 778_பரலோகமே என் சொந்தமே.xml
+ℹ Added o1 alt numbers for master=781: ['781', '781']
+✔ Wrote 781_வானில் அல்லேலூயா கூட்டமொன்றுண்டு.xml
+ℹ Added o1 alt numbers for master=785: ['785', '785']
+✔ Wrote 785_எழுந்திடுவீர் நீர் வாலிபரே நாமும்.xml
+ℹ Added o1 alt numbers for master=786: ['786', '786']
+✔ Wrote 786_வாலிப நாளில் உன் தேவனை தேடி ஓடி வா.xml
+ℹ Added o1 alt numbers for master=788: ['788', '788']
+✔ Wrote 788_காணும் நான் இயேசு ராஜனை.xml
+ℹ Added o1 alt numbers for master=789: ['789', '789']
+✔ Wrote 789_நான் ஜீவ பயணம் போகிறேன்.xml
+ℹ Added o1 alt numbers for master=790: ['790', '790']
+✔ Wrote 790_இயேசுவண்டை சேருவோம் ஒளியில் ஒளியில்,.xml
+ℹ Added o1 alt numbers for master=791: ['791', '791']
+✔ Wrote 791_இயேசுவண்டை சேரில்.xml
+ℹ Added o1 alt numbers for master=793: ['793', '793']
+✔ Wrote 793_சின்னஞ்சிறு உள்ளமே நீ.xml
+ℹ Added o1 alt numbers for master=794: ['794', '794']
+✔ Wrote 794_எந்தன் ஆத்தும நேசரே நான்.xml
+ℹ Added o1 alt numbers for master=795: ['795', '795']
+✔ Wrote 795_சர்வ சிருஷ்டிக்கும் எஜமான் நீரே.xml
+ℹ Added o1 alt numbers for master=796: ['796', '796']
+✔ Wrote 796_என்னன்டை வந்திடாயோ பின்பற்றி வந்திடாயோ (2).xml
+ℹ Added o1 alt numbers for master=797: ['797', '797']
+✔ Wrote 797_கர்த்தர் இயேசு எந்தன் ஜீவன் அவர்.xml
+ℹ Added o1 alt numbers for master=798: ['798', '798']
+✔ Wrote 798_பாவமன்னிப்பால் பரலோகமே.xml
+ℹ Added o1 alt numbers for master=799: ['799', '799']
+✔ Wrote 799_கிறிஸ்துவ ஜீவியம் மெய் பாக்ய ஜீவியம்.xml
+ℹ Added o1 alt numbers for master=800: ['800', '800']
+✔ Wrote 800_நான் சீக்கிரமாய் வருகிறேன் கர்த்தர் இயேசு சொன்னார் 2.xml
+ℹ Added o1 alt numbers for master=801: ['801', '801']
+✔ Wrote 801_உன்னுடைய சாட்சி என்ன_ உன்னுடைய பலி என்ன_ 2.xml
+ℹ Added o1 alt numbers for master=803: ['803', '803']
+✔ Wrote 803_நான் கர்த்தர் நான் மாறாதவர்.xml
+ℹ Added o1 alt numbers for master=804: ['804', '804']
+✔ Wrote 804_ஆத்துமாதாயம் செய்ய நீயே.xml
+ℹ Added o1 alt numbers for master=805: ['805', '805']
+✔ Wrote 805_மங்கா தேவ நதி தண்ணீர் நிறைந்ததே.xml
+ℹ Added o1 alt numbers for master=806: ['806', '806']
+✔ Wrote 806_இயேசுவைப்போல் அழகுள்ளோர்.xml
+ℹ Added o1 alt numbers for master=808: ['808', '808']
+✔ Wrote 808_தூயாதி தூயவரே.xml
+ℹ Added o1 alt numbers for master=809: ['809', '809']
+✔ Wrote 809_சிலுவையினிடம் வா 2.xml
+ℹ Added o1 alt numbers for master=810: ['810', '810']
+✔ Wrote 810_என் இயேசுவின் சத்தம் கேட்டு.xml
+ℹ Added o1 alt numbers for master=811: ['811', '811']
+✔ Wrote 811_நான் உன்னை என்றும் கைவிடுவதில்லை.xml
+ℹ Added o1 alt numbers for master=812: ['812', '812']
+✔ Wrote 812_துதிக்கப்படத்தக்கவரே.xml
+ℹ Added o1 alt numbers for master=813: ['813', '813']
+✔ Wrote 813_தேவ தேவனைத் துதித்திடுவோம்.xml
+ℹ Added o1 alt numbers for master=814: ['814', '814']
+✔ Wrote 814_எனக்காக இயேசு எனக்காக.xml
+ℹ Added o1 alt numbers for master=815: ['815', '815']
+✔ Wrote 815_எண்ணில்லா நன்மைகள் செய்தவரை.xml
+ℹ Added o1 alt numbers for master=816: ['816', '816']
+✔ Wrote 816_பயப்படாதே சிறு மந்தையே.xml
+ℹ Added o1 alt numbers for master=817: ['817', '817']
+✔ Wrote 817_முள்முடி சூடிய ஆண்டவர்.xml
+ℹ Added o1 alt numbers for master=818: ['818', '818']
+✔ Wrote 818_விழித்தெழு விசுவாசியே நீ.xml
+ℹ Added o1 alt numbers for master=819: ['819', '819']
+✔ Wrote 819_இயேசு பிரபுவின் ஆலோசனைகள்.xml
+ℹ Added o1 alt numbers for master=820: ['820', '820']
+✔ Wrote 820_உம் ஆலயத்தில் வசிக்கும் யாவரும்.xml
+ℹ Added o1 alt numbers for master=821: ['821', '821']
+✔ Wrote 821_தம்புரு வீணையோடும் நம் தேவனை ஆராதித்திடுவோம்.xml
+ℹ Added o1 alt numbers for master=822: ['822', '822']
+✔ Wrote 822_அன்பின் மனுவுருவாய் ஜெனித்த.xml
+ℹ Added o1 alt numbers for master=823: ['823', '823']
+✔ Wrote 823_இன்றே வருவாய் இயேசுவண்டையில்.xml
+ℹ Added o1 alt numbers for master=824: ['824', '824']
+✔ Wrote 824_ஆனந்தம் எனக்கு கிடைத்தது.xml
+ℹ Added o1 alt numbers for master=825: ['825', '825']
+✔ Wrote 825_சீயோனில் என் திட அஸ்திபாரம் கிறிஸ்துவே.xml
+ℹ Added o1 alt numbers for master=826: ['826', '826']
+✔ Wrote 826_உன்னை அழைக்கும் இயேசுவின்.xml
+ℹ Added o1 alt numbers for master=827: ['827', '827']
+✔ Wrote 827_யேகோவாவாகிய நான் மாறதவராய் இருப்பதினால்.xml
+ℹ Added o1 alt numbers for master=828: ['828', '828']
+✔ Wrote 828_வாக்கு மாறாத தேவரீரே.xml
+ℹ Added o1 alt numbers for master=829: ['829', '829']
+✔ Wrote 829_வாக்கு மாறா வல்ல தேவன்.xml
+ℹ Added o1 alt numbers for master=830: ['830', '830']
+✔ Wrote 830_காணாமல் இயங்கிடும்.xml
+ℹ Added o1 alt numbers for master=831: ['831', '831']
+✔ Wrote 831_எந்தன் ஜெபவேளை உம்மை தேடிவந்தேன்.xml
+ℹ Added o1 alt numbers for master=832: ['832', '832']
+✔ Wrote 832_கர்த்தாவே உம் அருள் கண்டேனே.xml
+ℹ Added o1 alt numbers for master=833: ['833', '833']
+✔ Wrote 833_எனக்கு ஒத்தாசை வரும் பர்வதம்.xml
+ℹ Added o1 alt numbers for master=834: ['834', '834']
+✔ Wrote 834_சர்வ வல்லமையுள்ள என் தேவாதி தேவனே.xml
+ℹ Added o1 alt numbers for master=835: ['835', '835']
+✔ Wrote 835_கல்வாரி அன்பை எண்ணிடும் வேளை.xml
+ℹ Added o1 alt numbers for master=836: ['836', '836']
+✔ Wrote 836_ஜோதி தோன்றும் ஓர் தேசம் உண்டு.xml
+ℹ Added o1 alt numbers for master=837: ['837', '837']
+✔ Wrote 837_இயேசு கிறிஸ்துவின் அன்பு என்று மாறாதது.xml
+ℹ Added o1 alt numbers for master=838: ['838', '838']
+✔ Wrote 838_கல்வாரியின் கருணையிதே.xml
+ℹ Added o1 alt numbers for master=839: ['839', '839']
+✔ Wrote 839_அந்த நாள் இன்ப இன்ப இன்ப நாள்.xml
+ℹ Added o1 alt numbers for master=840: ['840', '840']
+✔ Wrote 840_இயேசுவின் குடும்பம் ஒன்று உண்டு.xml
+ℹ Added o1 alt numbers for master=841: ['841', '841']
+✔ Wrote 841_இந்தக் கிருபை தேவன் தந்த கிருபை.xml
+ℹ Added o1 alt numbers for master=842: ['842', '842']
+✔ Wrote 842_அன்பர் அன்பை யாரால் கூறலாம்_.xml
+ℹ Added o1 alt numbers for master=843: ['843', '843']
+✔ Wrote 843_சிங்கார மாளிகையில் ஜெயக் கீதங்கள் பாடிடுவோம்.xml
+ℹ Added o1 alt numbers for master=844: ['844', '844']
+✔ Wrote 844_நித்திய மோட்சானந்த மகிமையை நினைத்தாலும் முடியாது 2.xml
+ℹ Added o1 alt numbers for master=845: ['845', '845']
+✔ Wrote 845_தம் கிருபை பெரிதல்லோ,.xml
+ℹ Added o1 alt numbers for master=846: ['846', '846']
+✔ Wrote 846_பலிபீடத்திலென்னைப் பரனே.xml
+ℹ Added o1 alt numbers for master=847: ['847', '847']
+✔ Wrote 847_தேவ சாய லாக மாறி.xml
+ℹ Added o1 alt numbers for master=848: ['848', '848']
+✔ Wrote 848_எண்ணில் அடங்கா ஸ்தோத்திரம் 2.xml
+ℹ Added o1 alt numbers for master=849: ['849', '849']
+✔ Wrote 849_அழகாய் நிற்கும் யாரிவர்கள்.xml
+ℹ Added o1 alt numbers for master=850: ['850', '850']
+✔ Wrote 850_எந்நாளுமே துதிப்பாய்.xml
+ℹ Added o1 alt numbers for master=851: ['851', '851']
+✔ Wrote 851_தேவனின் ஆலயமே பரிசுத்த ஆலயமே.xml
+ℹ Added o1 alt numbers for master=852: ['852', '852']
+✔ Wrote 852_தேவனோடே நடப்பது என்ன சிலாக்கியம்.xml
+ℹ Added o1 alt numbers for master=853: ['853', '853']
+✔ Wrote 853_உறக்கம் தெளிவோம் உற்சாகம் கொள்வோம்.xml
+ℹ Added o1 alt numbers for master=854: ['854', '854']
+✔ Wrote 854_கர்த்தர் வருகையிலே அவரைச் சந்திக்க நீங்களும் சித்தமா_.xml
+ℹ Added o1 alt numbers for master=855: ['855', '855']
+✔ Wrote 855_ஆண்டவர் இயேசு தம் ரத்தம் சிந்தி.xml
+ℹ Added o1 alt numbers for master=856: ['856', '856']
+✔ Wrote 856_இயேசு திரும்ப வருவார்.xml
+ℹ Added o1 alt numbers for master=857: ['857', '857']
+✔ Wrote 857_உன்னதமான உம் அன்பை.xml
+ℹ Added o1 alt numbers for master=858: ['858', '858']
+✔ Wrote 858_கூடுவோம் கூடிடுவோமே.xml
+ℹ Added o1 alt numbers for master=859: ['859', '859']
+✔ Wrote 859_மகிமையின் தேவனே நமக்குண்டு.xml
+ℹ Added o1 alt numbers for master=860: ['860', '860']
+✔ Wrote 860_கர்த்தர் வெளிச்சம் ரட்சிப்புமானவர்.xml
+ℹ Added o1 alt numbers for master=861: ['861', '861']
+✔ Wrote 861_உனக்கொரு நண்பன் இல்லை என்று.xml
+ℹ Added o1 alt numbers for master=862: ['862', '862']
+✔ Wrote 862_தொடும் என் கண்களையே.xml
+ℹ Added o1 alt numbers for master=863: ['863', '863']
+✔ Wrote 863_அன்பராம் இயேசுவை பார்த்துக் கொண்டு.xml
+ℹ Added o1 alt numbers for master=864: ['864', '864']
+✔ Wrote 864_சோராதே என் மனமே.xml
+ℹ Added o1 alt numbers for master=865: ['865', '865']
+✔ Wrote 865_காணாத ஆட்டின் பின்னே கர்த்தர்.xml
+ℹ Added o1 alt numbers for master=866: ['866', '866']
+✔ Wrote 866_முதூகலம் நிறைந்த நன்னாள்.xml
+ℹ Added o1 alt numbers for master=867: ['867', '867']
+✔ Wrote 867_லேசான காரியம் உமக்கது லேசான காரியம்.xml
+ℹ Added o1 alt numbers for master=868: ['868', '868']
+✔ Wrote 868_நன்றியால் துதிப்பாடு உன் இயேசுவே.xml
+ℹ Added o1 alt numbers for master=869: ['869', '869']
+✔ Wrote 869_சிலுவையின் நிழலில் அனுதினம் அடியான்.xml
+ℹ Added o1 alt numbers for master=870: ['870', '870']
+✔ Wrote 870_இலக்கை நோக்கி தொடர்கிறேன் இலட்சியம் என் இயேசுவே.xml
+ℹ Added o1 alt numbers for master=871: ['871', '871']
+✔ Wrote 871_என் மன கண்களை திறந்து.xml
+ℹ Added o1 alt numbers for master=872: ['872', '872']
+✔ Wrote 872_உயரவானத்திலாகிலும்.xml
+ℹ Added o1 alt numbers for master=873: ['873', '873']
+✔ Wrote 873_மான்கள் நீரோடை வாஞ்சித்து.xml
+ℹ Added o1 alt numbers for master=874: ['874', '874']
+✔ Wrote 874_என் தேவன் என் வெளிச்சம்.xml
+ℹ Added o1 alt numbers for master=875: ['875', '875']
+✔ Wrote 875_நிகரே இல்லாத சர்வேசா.xml
+ℹ Added o1 alt numbers for master=876: ['876', '876']
+✔ Wrote 876_கர்த்தரை நம்பியே ஜீவிப்போம்.xml
+ℹ Added o1 alt numbers for master=877: ['877', '877']
+✔ Wrote 877_யார் யார் வாழ்விலே.xml
+ℹ Added o1 alt numbers for master=878: ['878', '878']
+✔ Wrote 878_மகனே, உன் நெஞ்செனக்குத் தாராயோ_.xml
+ℹ Added o1 alt numbers for master=879: ['879', '879']
+✔ Wrote 879_இயேசுவே உம் முகரூபம் பார்த்துக்கொண்டே.xml
+ℹ Added o1 alt numbers for master=880: ['880', '880']
+✔ Wrote 880_காலத்தின் அருமையை அறிந்து.xml
+ℹ Added o1 alt numbers for master=881: ['881', '881']
+✔ Wrote 881_இயேசுதான் லோக இரட்சகர் வேறு யாருமில்லை.xml
+ℹ Added o1 alt numbers for master=882: ['882', '882']
+✔ Wrote 882_ஆராதித்தே மகிழ்வோம்.xml
+ℹ Added o1 alt numbers for master=883: ['883', '883']
+✔ Wrote 883_மெய்வழி இயேசுவே சத்தியம், ஜீவனும்.xml
+ℹ Added o1 alt numbers for master=884: ['884', '884']
+✔ Wrote 884_என்நேசரே பாவியின் மீட்பரே பிரபு இயேசு (2).xml
+ℹ Added o1 alt numbers for master=885: ['885', '885']
+✔ Wrote 885_அன்பின் தேவன் இயேசு.xml
+ℹ Added o1 alt numbers for master=886: ['886', '886']
+✔ Wrote 886_இயேசுவே உம்மைப்போலாக.xml
+ℹ Added o1 alt numbers for master=887: ['887', '887']
+✔ Wrote 887_தேவ சித்தம் நிறைவேற என்னையும் ஒப்படைக்கிறேன்.xml
+ℹ Added o1 alt numbers for master=888: ['888', '888']
+✔ Wrote 888_யார் வேண்டும் நாதா நீரல்லவோ.xml
+ℹ Added o1 alt numbers for master=889: ['889', '889']
+✔ Wrote 889_எண்ணி எண்ணி துதி செய்வாய்.xml
+ℹ Added o1 alt numbers for master=890: ['890', '890']
+✔ Wrote 890_எந்தன் அன்புள்ள ஆண்டவர் ஏசுவே நான்.xml
+ℹ Added o1 alt numbers for master=891: ['891', '891']
+✔ Wrote 891_கல்வாரி சிநேகம் கரைத்திடும் என்னை.xml
+ℹ Added o1 alt numbers for master=892: ['892', '892']
+✔ Wrote 892_சிலுவை சுமந்தார் உன் ஆண்டவர்.xml
+ℹ Added o1 alt numbers for master=893: ['893', '893']
+✔ Wrote 893_எந்தன் உள்ளம் தங்கும் இயேசு நாயகா.xml
+ℹ Added o1 alt numbers for master=894: ['894', '894']
+✔ Wrote 894_தேவா உம் சாட்சி நான் தினம்.xml
+ℹ Added o1 alt numbers for master=895: ['895', '895']
+✔ Wrote 895_உம்மைப் பாடாத நாவும்.xml
+ℹ Added o1 alt numbers for master=896: ['896', '896']
+✔ Wrote 896_பெலனற்ற பாத்திரம் நானே.xml
+ℹ Added o1 alt numbers for master=897: ['897', '897']
+✔ Wrote 897_சாலேமின் ராஜா சங்கையின் ராஜா.xml
+ℹ Added o1 alt numbers for master=898: ['898', '898']
+✔ Wrote 898_நன்றி யேகோவாயீரே! பணிந்து போற்றுகிறேன் (2).xml
+ℹ Added o1 alt numbers for master=899: ['899', '899']
+✔ Wrote 899_என் இன்ப துன்ப நேரம்.xml
+ℹ Added o1 alt numbers for master=900: ['900', '900']
+✔ Wrote 900_மகனே, உன் நெஞ்செனக்குத் தாராயோ.xml
+ℹ Added o1 alt numbers for master=901: ['901', '901']
+✔ Wrote 901_இஸ்ரவேலே உன்னை நான் எப்படி கைவிடுவேன்.xml
+ℹ Added o1 alt numbers for master=902: ['902', '902']
+✔ Wrote 902_நீ எம்மட்டும் இரண்டு நினைவால் (2).xml
+ℹ Added o1 alt numbers for master=903: ['903', '903']
+✔ Wrote 903_எலியாவின் தேவன் நம் தேவன்.xml
+ℹ Added o1 alt numbers for master=904: ['904', '904']
+✔ Wrote 904_யேகோவா நமக்காக பெரிய காரியங்களை 2.xml
+ℹ Added o1 alt numbers for master=905: ['905', '905']
+✔ Wrote 905_மங்களமான இந் நன்னாளிலிருந்து.xml
+ℹ Added o1 alt numbers for master=906: ['906', '906']
+✔ Wrote 906_வானமே செவிகொடுத்திடு (2).xml
+ℹ Added o1 alt numbers for master=907: ['907', '907']
+✔ Wrote 907_எங்கள் விண்ணப்பங்களைக் கேளும்.xml
+ℹ Added o1 alt numbers for master=908: ['908', '908']
+✔ Wrote 908_விழித்தெழுவாய் விழித்தெழுவாய் என் ஆத்துமாவே.xml
+ℹ Added o1 alt numbers for master=909: ['909', '909']
+✔ Wrote 909_துதிசெய் துதிசெய் கர்த்தர் இயேசுவையே துதிசெய் (2).xml
+ℹ Added o1 alt numbers for master=910: ['910', '910']
+✔ Wrote 910_ஆ ! ஆனந்தமே ! அகமகிழ்ந்தாடிடுவேன்.xml
+ℹ Added o1 alt numbers for master=911: ['911', '911']
+✔ Wrote 911_இப்புவி யாத்ரையில் நான் நடக்கையில் (2).xml
+ℹ Added o1 alt numbers for master=912: ['912', '912']
+✔ Wrote 912_இயேசு உன்னை அழைக்கிறார் ஓடிவா (2).xml
+ℹ Added o1 alt numbers for master=913: ['913', '913']
+✔ Wrote 913_என்னைத் தந்தேன் உமக்கென்றே என்றென்றுமாய் வாழவே 2.xml
+ℹ Added o1 alt numbers for master=914: ['914', '914']
+✔ Wrote 914_காத்திரு என்றென்றும் கர்த்தருக்கே.xml
+ℹ Added o1 alt numbers for master=915: ['915', '915']
+✔ Wrote 915_நாட்டும் என்னை உம் தோட்டத்தில்.xml
+ℹ Added o1 alt numbers for master=916: ['916', '916']
+✔ Wrote 916_பெத்தானியாவிற்கு வந்திடுமே (2).xml
+ℹ Added o1 alt numbers for master=917: ['917', '917']
+✔ Wrote 917_போற்றி துதிசெய் என்றும் இயேசுவை (2).xml
+ℹ Added o1 alt numbers for master=918: ['918', '918']
+✔ Wrote 918_மனதார பாடிடுவேன் என் தேவ தேவனையே (2).xml
+ℹ Added o1 alt numbers for master=919: ['919', '919']
+✔ Wrote 919_விண்ணின் சுதந்தரத்தை.xml
+ℹ Added o1 alt numbers for master=920: ['920', '920']
+✔ Wrote 920_மகிமை நம்பிக்கையாம் நம் கர்த்தர் இயேசு.xml
+ℹ Added o1 alt numbers for master=921: ['921', '921']
+✔ Wrote 921_அல்லேலூயா துதித்து புகழ் பாடுவேன் 2.xml
+ℹ Added o1 alt numbers for master=922: ['922', '922']
+✔ Wrote 922_என் இதயம் பாருக்கு தெரியும்.xml
+ℹ Added o1 alt numbers for master=923: ['923', '923']
+✔ Wrote 923_தேவனே நீர் கண்ணோக்கும் என்னை.xml
+ℹ Added o1 alt numbers for master=924: ['924', '924']
+✔ Wrote 924_இயேசுதான் லோக இரட்சகர் வேறு யாருமில்லை.xml
+ℹ Added o1 alt numbers for master=925: ['925', '925']
+✔ Wrote 925_உமது அன்பு எத்தனை அற்புதமே.xml
+ℹ Added o1 alt numbers for master=926: ['926', '926']
+✔ Wrote 926_உம்பிரசன்னம் நாடி வந்தேன்.xml
+ℹ Added o1 alt numbers for master=927: ['927', '927']
+✔ Wrote 927_எத்தனை தயவு என் மேல்.xml
+ℹ Added o1 alt numbers for master=928: ['928', '928']
+✔ Wrote 928_கலங்காதே மனமே உன் இயேசு இருக்கிறார்.xml
+ℹ Added o1 alt numbers for master=929: ['929', '929']
+✔ Wrote 929_ஞானவான்கள் ஆகாயத்தின்.xml
+ℹ Added o1 alt numbers for master=930: ['930', '930']
+✔ Wrote 930_உன்னை தான் கேட்கிறேன் (2).xml
+ℹ Added o1 alt numbers for master=931: ['931', '931']
+✔ Wrote 931_பரம எருசலமே பரலோகம் வீட்டிறங்குதே.xml
+ℹ Added o1 alt numbers for master=932: ['932', '932']
+✔ Wrote 932_பலபடுத்தும் எந்தனையே.xml
+ℹ Added o1 alt numbers for master=933: ['933', '933']
+✔ Wrote 933_நானோ சிறுகனும் இயேசு நீரே பெருகனுமே 2.xml
+ℹ Added o1 alt numbers for master=934: ['934', '934']
+✔ Wrote 934_வாலிபனே உன் இளமையிலே சந்தோஷித்தாலும் (2).xml
+ℹ Added o1 alt numbers for master=935: ['935', '935']
+✔ Wrote 935_வாலிப காலத்தை வீணாய் கழிக்காதே (2).xml
+ℹ Added o1 alt numbers for master=936: ['936', '936']
+✔ Wrote 936_தேவா பிரசன்னம் தாருமே.xml
+ℹ Added o1 alt numbers for master=937: ['937', '937']
+✔ Wrote 937_குயவனே குயவனே.xml
+ℹ Added o1 alt numbers for master=938: ['938', '938']
+✔ Wrote 938_திருகரத்தால் தாங்கி என்னை.xml
+ℹ Added o1 alt numbers for master=939: ['939', '939']
+✔ Wrote 939_ஆதி மெய் தேவனே உம்.xml
+ℹ Added o1 alt numbers for master=1001: ['1001', '1001']
+✔ Wrote 1001_அதிசயமவரின் நாமமே.xml
+ℹ Added o1 alt numbers for master=1002: ['1002', '1002']
+✔ Wrote 1002_அநேக மாயிரம் பொன்னைப் பார்க்கிலும்.xml
+ℹ Added o1 alt numbers for master=1003: ['1003', '1003']
+✔ Wrote 1003_அலலேலூயா, அலலேலூயா, அலலேலூயா,.xml
+ℹ Added o1 alt numbers for master=1004: ['1004', '1004']
+✔ Wrote 1004_அலலேலூயா ஆ ஆ ஆமென் அலலேலூயா.xml
+ℹ Added o1 alt numbers for master=1005: ['1005', '1005']
+✔ Wrote 1005_அல்லேலூயா இயேசுவே.xml
+ℹ Added o1 alt numbers for master=1006: ['1006', '1006']
+✔ Wrote 1006_அவர் அதிசயமான வரே (2).xml
+ℹ Added o1 alt numbers for master=1007: ['1007', '1007']
+✔ Wrote 1007_அவரே மீட்பரே அல்லேலூயா கூரே.xml
+ℹ Added o1 alt numbers for master=1008: ['1008', '1008']
+✔ Wrote 1008_அற்புத அற்புத இயேசு யாருமுமக் கொப்பில்லை..xml
+ℹ Added o1 alt numbers for master=1009: ['1009', '1009']
+✔ Wrote 1009_அற்புத அற்புத இயேசு எனக்கு.xml
+ℹ Added o1 alt numbers for master=1010: ['1010', '1010']
+✔ Wrote 1010_அன்பாகவே வையும்.xml
+ℹ Added o1 alt numbers for master=1011: ['1011', '1011']
+✔ Wrote 1011_ஆத்மாவே துதி, கர்த்தரைத் துதி.xml
+ℹ Added o1 alt numbers for master=1012: ['1012', '1012']
+✔ Wrote 1012_ஆழியின் அகலம் ஆகாயத்துயரமாய்.xml
+ℹ Added o1 alt numbers for master=1013: ['1013', '1013']
+✔ Wrote 1013_ஆனந்தமே கொள்ளானந்தம் ஆனந்தமே.xml
+ℹ Added o1 alt numbers for master=1014: ['1014', '1014']
+✔ Wrote 1014_ஆனந்தம் பேரானந்தம்.xml
+ℹ Added o1 alt numbers for master=1015: ['1015', '1015']
+✔ Wrote 1015_இக்கட்டின் நாட்களுக்கேற்ற.xml
+ℹ Added o1 alt numbers for master=1016: ['1016', '1016']
+✔ Wrote 1016_இயேசு என்னும் நாமத்தில், இயேசு என்னும் நாமத்தில்.xml
+ℹ Added o1 alt numbers for master=1017: ['1017', '1017']
+✔ Wrote 1017_இயேசு நாமம் நாமம் இனிய நாமம்.xml
+ℹ Added o1 alt numbers for master=1018: ['1018', '1018']
+✔ Wrote 1018_இயேசுவின் அன்பு பொங்கு தென்னிலே.xml
+ℹ Added o1 alt numbers for master=1019: ['1019', '1019']
+✔ Wrote 1019_இயேசுவினழ கென்னில் காணட்டுமே.xml
+ℹ Added o1 alt numbers for master=1020: ['1020', '1020']
+✔ Wrote 1020_இயேசுவின் இரத்தத்தினால்.xml
+ℹ Added o1 alt numbers for master=1021: ['1021', '1021']
+✔ Wrote 1021_இயேசுவின் பின்னே போகத் துணிந்தேன் (3).xml
+ℹ Added o1 alt numbers for master=1022: ['1022', '1022']
+✔ Wrote 1022_இயேசுவின் வாக்கு நித்தியமாமே.xml
+ℹ Added o1 alt numbers for master=1023: ['1023', '1023']
+✔ Wrote 1023_இயேசுவேயென் அதிசய இரட்சகர்.xml
+ℹ Added o1 alt numbers for master=1024: ['1024', '1024']
+✔ Wrote 1024_இயேசுவை நம்பு சோராதே.xml
+ℹ Added o1 alt numbers for master=1025: ['1025', '1025']
+✔ Wrote 1025_இயேசுவோடு செல்ல.xml
+ℹ Added o1 alt numbers for master=1026: ['1026', '1026']
+✔ Wrote 1026_இரத்தத்தால் ஜெயம், இரத்தத்தால் ஜெயம்.xml
+ℹ Added o1 alt numbers for master=1027: ['1027', '1027']
+✔ Wrote 1027_இன்ப இயேசு என் மதுரம்.xml
+ℹ Added o1 alt numbers for master=1028: ['1028', '1028']
+✔ Wrote 1028_இன்பமெனக்குண்டு காரணமுண்டு,.xml
+ℹ Added o1 alt numbers for master=1029: ['1029', '1029']
+✔ Wrote 1029_இன்றே ! இன்றே ! கிறிஸ்தேசு வாழ்கிறார்.xml
+ℹ Added o1 alt numbers for master=1030: ['1030', '1030']
+✔ Wrote 1030_உம்மில் மறைவேன் என்புகலிடமே.xml
+ℹ Added o1 alt numbers for master=1031: ['1031', '1031']
+✔ Wrote 1031_உளையான சேற்றினின்றெடுத்தார்.xml
+ℹ Added o1 alt numbers for master=1032: ['1032', '1032']
+✔ Wrote 1032_எவருமறியட்டும் எவருமறியட்டும்.xml
+ℹ Added o1 alt numbers for master=1033: ['1033', '1033']
+✔ Wrote 1033_எழுப்புதல் அனுப்பும், எழுப்புதல் அனுப்பும்.xml
+ℹ Added o1 alt numbers for master=1034: ['1034', '1034']
+✔ Wrote 1034_எழுப்புதல் அனுப்பும் (3 தரம்).xml
+ℹ Added o1 alt numbers for master=1035: ['1035', '1035']
+✔ Wrote 1035_என் அன்பராம் நண்பராம் இயேசு.xml
+ℹ Added o1 alt numbers for master=1036: ['1036', '1036']
+✔ Wrote 1036_என் இயேசுவால் ஆகாததொன்றுண்டோ_ 2.xml
+ℹ Added o1 alt numbers for master=1037: ['1037', '1037']
+✔ Wrote 1037_என் கண்ணே நீ காண்பது என்ன என்ன _.xml
+ℹ Added o1 alt numbers for master=1038: ['1038', '1038']
+✔ Wrote 1038_என் தீபத்திற்கு எண்ணெய் தாரும்.xml
+ℹ Added o1 alt numbers for master=1039: ['1039', '1039']
+✔ Wrote 1039_என்ன அற்புத பொக்கிஷம்.xml
+ℹ Added o1 alt numbers for master=1040: ['1040', '1040']
+✔ Wrote 1040_என்னுள்ளத்தில் சந்தோஷ இன்பமுண்டு.xml
+ℹ Added o1 alt numbers for master=1041: ['1041', '1041']
+✔ Wrote 1041_என்னுள்ளம் தேவன்பால் பொங்கிவழியுதே.xml
+ℹ Added o1 alt numbers for master=1042: ['1042', '1042']
+✔ Wrote 1042_ஓ ! தேவனுக்கு மகிமை தூக்கி எடுத்தார்.xml
+ℹ Added o1 alt numbers for master=1043: ['1043', '1043']
+✔ Wrote 1043_கடனில்லையாம் தீர்ந்து போயிற்றே.xml
+ℹ Added o1 alt numbers for master=1044: ['1044', '1044']
+✔ Wrote 1044_கர்த்தருக்கு பாத்திரராக நடந்து வாழுங்கள்.xml
+ℹ Added o1 alt numbers for master=1045: ['1045', '1045']
+✔ Wrote 1045_கர்த்தாவே இந்தாகாரமே.xml
+ℹ Added o1 alt numbers for master=1046: ['1046', '1046']
+✔ Wrote 1046_கிருபையாலே இரட்சித்தீரே.xml
+ℹ Added o1 alt numbers for master=1047: ['1047', '1047']
+✔ Wrote 1047_கீதம் பாடுவோம் வேதம் வாசிப்போம்.xml
+ℹ Added o1 alt numbers for master=1048: ['1048', '1048']
+✔ Wrote 1048_கெத்செமனேயின் கோரம்.xml
+ℹ Added o1 alt numbers for master=1049: ['1049', '1049']
+✔ Wrote 1049_கொண்டு போம் ஓர் ஆளிடம்.xml
+ℹ Added o1 alt numbers for master=1050: ['1050', '1050']
+✔ Wrote 1050_செய்வேனென்றார் அற்புதம்,.xml
+ℹ Added o1 alt numbers for master=1051: ['1051', '1051']
+✔ Wrote 1051_சோர்ந்து போனாயோ_ இல்லை இல்லை.xml
+ℹ Added o1 alt numbers for master=1052: ['1052', '1052']
+✔ Wrote 1052_தட்டித் தட்டியே நிற்கிறார்.xml
+ℹ Added o1 alt numbers for master=1053: ['1053', '1053']
+✔ Wrote 1053_தினந்தோறும் கட்டுகிறோம்.xml
+ℹ Added o1 alt numbers for master=1054: ['1054', '1054']
+✔ Wrote 1054_துதி, கனம் மகிமையுமக்கே.xml
+ℹ Added o1 alt numbers for master=1055: ['1055', '1055']
+✔ Wrote 1055_துள்ளி துள்ளி ஓடும் மான்கள் இங்கும்.xml
+ℹ Added o1 alt numbers for master=1056: ['1056', '1056']
+✔ Wrote 1056_தூய தேவா திரியேக தேவா நீர் வாரும் நீரே வாரும்,.xml
+ℹ Added o1 alt numbers for master=1057: ['1057', '1057']
+✔ Wrote 1057_தெய்வ அன்பே நித்ய அன்பே.xml
+ℹ Added o1 alt numbers for master=1058: ['1058', '1058']
+✔ Wrote 1058_தேவ ஆசீர்வாதத் தோடே.xml
+ℹ Added o1 alt numbers for master=1059: ['1059', '1059']
+✔ Wrote 1059_தேவன் நமக்காய்த் தம் மைந்தனைத் தந்தார்.xml
+ℹ Added o1 alt numbers for master=1060: ['1060', '1060']
+✔ Wrote 1060_தேவன் நீக்கிவிட்டார்.xml
+ℹ Added o1 alt numbers for master=1061: ['1061', '1061']
+✔ Wrote 1061_நாதன் இயேசுவைத் துதிசெய் உலகில்.xml
+ℹ Added o1 alt numbers for master=1062: ['1062', '1062']
+✔ Wrote 1062_நாமெல்லாம் மோட்சம் சேரும் நாள்.xml
+ℹ Added o1 alt numbers for master=1063: ['1063', '1063']
+✔ Wrote 1063_நான் இயேசுவை நேசிக்கிறேன்.xml
+ℹ Added o1 alt numbers for master=1064: ['1064', '1064']
+✔ Wrote 1064_நீங்கிற்றே நீங்கிற்றே நீங்கிற்றே.xml
+ℹ Added o1 alt numbers for master=1065: ['1065', '1065']
+✔ Wrote 1065_நேசிக்கச் சிறந்தவர் கிறிஸ்தேசு.xml
+ℹ Added o1 alt numbers for master=1066: ['1066', '1066']
+✔ Wrote 1066_நேற்றும் இன்றும் என்றும் மாறார் இயேசு இரட்சகர்.xml
+ℹ Added o1 alt numbers for master=1067: ['1067', '1067']
+✔ Wrote 1067_பயப்படவே மாட்டேன்.xml
+ℹ Added o1 alt numbers for master=1068: ['1068', '1068']
+✔ Wrote 1068_பரலோக இன்ப நாடே.xml
+ℹ Added o1 alt numbers for master=1069: ['1069', '1069']
+✔ Wrote 1069_பாத்திரம் நிரம்பினாலுமே.xml
+ℹ Added o1 alt numbers for master=1070: ['1070', '1070']
+✔ Wrote 1070_பாவங்களை சுத்தி பண்ணுமே (3 தரம்).xml
+ℹ Added o1 alt numbers for master=1071: ['1071', '1071']
+✔ Wrote 1071_பெலன் கொடுக்கிறவரால்.xml
+ℹ Added o1 alt numbers for master=1072: ['1072', '1072']
+✔ Wrote 1072_மகிமை கனம் துதிவல்லமை.xml
+ℹ Added o1 alt numbers for master=1073: ['1073', '1073']
+✔ Wrote 1073_மேல் நோக்கிப்பார் திடன்கொள் மகிழ்.xml
+ℹ Added o1 alt numbers for master=1074: ['1074', '1074']
+✔ Wrote 1074_மோட்சம் செல்லும் யாத்ரீகர் நாம்.xml
+ℹ Added o1 alt numbers for master=1075: ['1075', '1075']
+✔ Wrote 1075_வாசிக்கச் சிறந்த புஸ்தகம் வேதம்.xml
+ℹ Added o1 alt numbers for master=1076: ['1076', '1076']
+✔ Wrote 1076_வீண் கவலை உனக்கெதற்கு.xml
+ℹ Added o1 alt numbers for master=1077: ['1077', '1077']
+✔ Wrote 1077_வேதத்திலே வேதத்திலே.xml
+ℹ Added o1 alt numbers for master=1078: ['1078', '1078']
+✔ Wrote 1078_வே த புத் த கம்.xml
+ℹ Added o1 alt numbers for master=1079: ['1079', '1079']
+✔ Wrote 1079_வேத வாக்கொவ்வொன்றும் எனக்குரியது.xml
+ℹ Added o1 alt numbers for master=1080: ['1080', '1080']
+✔ Wrote 1080_ஜீவப்பத்தைப் புசித்தே ஜீவிக்கிறேன்.xml
+ℹ Added o1 alt numbers for master=1081: ['1081', '1081']
+✔ Wrote 1081_ஜீவனுள்ள தேவனின் ஆவியே வாரும்!.xml
+ℹ Added o1 alt numbers for master=1082: ['1082', '1082']
+✔ Wrote 1082_ஜெபத்தின் ஆவியைப் பொழியுமே.xml
+ℹ Added o1 alt numbers for master=1083: ['1083', '1083']
+✔ Wrote 1083_ஜேய் ஜெயமே (4 தரம்).xml
+ℹ Added o1 alt numbers for master=1084: ['1084', '1084']
+✔ Wrote 1084_ஜீவிக்கிறார் இயேசு ஜீவிக்கிறார்.xml
+ℹ Added o1 alt numbers for master=1085: ['1085', '1085']
+✔ Wrote 1085_மகிமை யாவும் அவருக்கே.xml
+ℹ Added o1 alt numbers for master=1086: ['1086', '1086']
+✔ Wrote 1086_நேசிக்க சிறந்தவர் கிறிஸ்தேசு (2).xml
+ℹ Added o1 alt numbers for master=1087: ['1087', '1087']
+✔ Wrote 1087_அற்புத ஜீவியம் ஆஹா அற்புதம்.xml
+ℹ Added o1 alt numbers for master=1088: ['1088', '1088']
+✔ Wrote 1088_வல்லவர் வல்லவர் கர்த்தர் மகா வல்லவர்.xml
+ℹ Added o1 alt numbers for master=1089: ['1089', '1089']
+✔ Wrote 1089_ஓ இன்ப நாள்! ஓ இன்ப நாள்.xml
+ℹ Added o1 alt numbers for master=1090: ['1090', '1090']
+✔ Wrote 1090_இயேசு என்னை கைவிட மாட்டார் (2).xml
+ℹ Added o1 alt numbers for master=1091: ['1091', '1091']
+✔ Wrote 1091_இயேசுவுக்காக ஜீவிப்பேன் நாள்.xml
+ℹ Added o1 alt numbers for master=1092: ['1092', '1092']
+✔ Wrote 1092_இயேசுவே நீர் என்னை கண்பாருமே (3).xml
+ℹ Added o1 alt numbers for master=1093: ['1093', '1093']
+✔ Wrote 1093_கிளிங், கிளிங் சைக்கிள் ஹென்பாரும்.xml
+ℹ Added o1 alt numbers for master=1094: ['1094', '1094']
+✔ Wrote 1094_எத்தனை தாலந்துகள் உன்னில் உள்ளதோ.xml
+ℹ Added o1 alt numbers for master=1095: ['1095', '1095']
+✔ Wrote 1095_சின்ன தம்பி சின்ன தங்காய்.xml
+ℹ Added o1 alt numbers for master=1096: ['1096', '1096']
+✔ Wrote 1096_போற்றுங்கள் போற்றுங்கள்.xml
+ℹ Added o1 alt numbers for master=1097: ['1097', '1097']
+✔ Wrote 1097_உப்புத் தண்ணீரில் வாழும் மீனும்.xml
+ℹ Added o1 alt numbers for master=1098: ['1098', '1098']
+✔ Wrote 1098_ஒரு சின்ன பையன் நான்.xml
+ℹ Added o1 alt numbers for master=1099: ['1099', '1099']
+✔ Wrote 1099_சின்ன சின்ன தம்பிகளே.xml
+ℹ Added o1 alt numbers for master=1100: ['1100', '1100']
+✔ Wrote 1100_இயேசு வந்த உள்ளம்.xml
+ℹ Added o1 alt numbers for master=1101: ['1101', '1101']
+✔ Wrote 1101_குண்டு, குண்டு, மலைகளைப்பார்.xml
+ℹ Added o1 alt numbers for master=1102: ['1102', '1102']
+✔ Wrote 1102_நான் ஆடிப்பாடி மகிழுவேன் 3.xml
+ℹ Added o1 alt numbers for master=1103: ['1103', '1103']
+✔ Wrote 1103_தாவிதைப் போல நடனமாடி.xml
+ℹ Added o1 alt numbers for master=1104: ['1104', '1104']
+✔ Wrote 1104_வேண்டும், வேண்டும் எனக்கு.xml
+ℹ Added o1 alt numbers for master=1105: ['1105', '1105']
+✔ Wrote 1105_சிட்டுக் குருவிப் போல் நானிருந்தால்.xml
+ℹ Added o1 alt numbers for master=1106: ['1106', '1106']
+✔ Wrote 1106_சிட்டு குருவி, சிட்டுக் குருவி.xml
+ℹ Added o1 alt numbers for master=1107: ['1107', '1107']
+✔ Wrote 1107_இயேசப்பா யாரென பார்க்க விரும்பினான்.xml
+ℹ Added o1 alt numbers for master=1108: ['1108', '1108']
+✔ Wrote 1108_பொய் சொல்லாதே திருடாதே.xml
+ℹ Added o1 alt numbers for master=1109: ['1109', '1109']
+✔ Wrote 1109_இயேசுவின் பின்னே நானும் போகிறேன்.xml
+ℹ Added o1 alt numbers for master=1110: ['1110', '1110']
+✔ Wrote 1110_தூர, தூர, தூர போ.xml
+ℹ Added o1 alt numbers for master=1111: ['1111', '1111']
+✔ Wrote 1111_இன்றைய நாள் 2.xml
+ℹ Added o1 alt numbers for master=1112: ['1112', '1112']
+✔ Wrote 1112_கோழி தன் குஞ்சுகளை.xml
+ℹ Added o1 alt numbers for master=1113: ['1113', '1113']
+✔ Wrote 1113_வேத வசனமே, என் காலுக்கு தீபம்.xml
+ℹ Added o1 alt numbers for master=2001: ['2001', '2001']
+✔ Wrote 2001_ஸ்துதிப்பின் ஸ்துதிப்பின் தெய்வ ஜனமே.xml
+ℹ Added o1 alt numbers for master=2002: ['2002', '2002']
+✔ Wrote 2002_அடவி தருக்களின் இடயில்.xml
+ℹ Added o1 alt numbers for master=2003: ['2003', '2003']
+✔ Wrote 2003_ஸ்ரீயேசு நாமம் அதிசய நாமம்.xml
+ℹ Added o1 alt numbers for master=2004: ['2004', '2004']
+✔ Wrote 2004_இயேசுவின் ஸ்நேஹத்தால் என்னுள்ளம் பொங்ஙந்நே.xml
+ℹ Added o1 alt numbers for master=2005: ['2005', '2005']
+✔ Wrote 2005_என்டே இயேசு எனிக்கு நல்லவன்.xml
+ℹ Added o1 alt numbers for master=2006: ['2006', '2006']
+✔ Wrote 2006_எந்ததிசயமே தெய்வத்தின் ஸ்நேகம்.xml
+ℹ Added o1 alt numbers for master=2007: ['2007', '2007']
+✔ Wrote 2007_யேசுவோடு சேர்ந்திருப்ப தெத்ற மோதமே.xml
+ℹ Added o1 alt numbers for master=2008: ['2008', '2008']
+✔ Wrote 2008_அனுக்ரஹகத்தின் அதிபதியே.xml
+ℹ Added o1 alt numbers for master=2009: ['2009', '2009']
+✔ Wrote 2009_இயேசுகிறிஸ்து உயிர்த்து ஜீவிக்குந்நு.xml
+ℹ Added o1 alt numbers for master=2010: ['2010', '2010']
+✔ Wrote 2010_தினம் தினம் தினம் நீ வாழ்த்துகா.xml
+ℹ Added o1 alt numbers for master=2011: ['2011', '2011']
+✔ Wrote 2011_லோகமாம் கெம்பீர வாரிதியில்.xml
+ℹ Added o1 alt numbers for master=18: ['18', '18']
+✔ Wrote 18_सारे लोगों यीशु की जय जय मिलके गाओ; (2).xml
+ℹ Added o1 alt numbers for master=114: ['114', '114']
+✔ Wrote 114_ख्रीष्ट यीशु सबका प्रभु है ... परमेश्वर भी वह है.xml
+ℹ Added o1 alt numbers for master=177: ['177', '177']
+✔ Wrote 177_गाऊँगा, तेरी स्तुति, हे प्रभु तू महान है,.xml
+ℹ Added o1 alt numbers for master=178: ['178', '178']
+✔ Wrote 178_भर दो प्रभु इस मुँह को, स्तुति के गीतों से,.xml
+ℹ Added o1 alt numbers for master=179: ['179', '179']
+✔ Wrote 179_सामर्थी ईश्वर तू, तेरी सामर्थ अपार जो है.xml
+ℹ Added o1 alt numbers for master=180: ['180', '180']
+✔ Wrote 180_मनुष्य का चोला धारण कर,.xml
+ℹ Added o1 alt numbers for master=181: ['181', '181']
+✔ Wrote 181_जय प्रभु यीशु सृजनहार, ... पापी का तू ही है तारणहार.xml
+ℹ Added o1 alt numbers for master=182: ['182', '182']
+✔ Wrote 182_जय जय यीशु, जय जय यीशु,.xml
+ℹ Added o1 alt numbers for master=183: ['183', '183']
+✔ Wrote 183_हम से वर्णनी न जाए ... मसीह तुम्हारी महिमा  (2).xml
+ℹ Added o1 alt numbers for master=184: ['184', '184']
+✔ Wrote 184_धन्य प्रभु यीशु को ... मुक्तिदाता जिसका नाम, (2).xml
+ℹ Added o1 alt numbers for master=185: ['185', '185']
+✔ Wrote 185_स्तुति हो उद्धार के लिए ... लोहू से मैं धुल गया,.xml
+ℹ Added o1 alt numbers for master=186: ['186', '186']
+✔ Wrote 186_हे पिता परमेश्वर नाम तेरा पवित्र है,.xml
+ℹ Added o1 alt numbers for master=189: ['189', '189']
+✔ Wrote 189_मसीह में मैं ने पाया है ... एक मोती बहुमोल,.xml
+ℹ Added o1 alt numbers for master=192: ['192', '192']
+✔ Wrote 192_कैसा मधुर यीशु का नाम ... विश्वासियों को है,.xml
+ℹ Added o1 alt numbers for master=194: ['194', '194']
+✔ Wrote 194_हे महापवित्र ! सर्वशक्तिमान परमेश्वर !.xml
+ℹ Added o1 alt numbers for master=195: ['195', '195']
+✔ Wrote 195_शोभित हो मुकुट से ... मेम्ना सिंहासन पर,.xml
+ℹ Added o1 alt numbers for master=227: ['227', '227']
+✔ Wrote 227_भजो मीठा नाम, प्रभु यीशु नाम,.xml
+ℹ Added o1 alt numbers for master=228: ['228', '228']
+✔ Wrote 228_आओ प्यारो शरण मसीह की,.xml
+ℹ Added o1 alt numbers for master=229: ['229', '229']
+✔ Wrote 229_दर्शन को आए हैं पिताजी ... बिनती हमारी यह सुन लो,.xml
+ℹ Added o1 alt numbers for master=266: ['266', '266']
+✔ Wrote 266_कनान देश के एक नगर के पास ... एक पर्वत खड़ा था,.xml
+ℹ Added o1 alt numbers for master=288: ['288', '288']
+✔ Wrote 288_खुदा के वायदे नहीं टल सकते, पर कायम वे रहते चट्टान की तरह,.xml
+ℹ Added o1 alt numbers for master=289: ['289', '289']
+✔ Wrote 289_रखता हूँ मसीह के वायदों पर ईमान,.xml
+ℹ Added o1 alt numbers for master=303: ['303', '303']
+✔ Wrote 303_यीशु के तू भज ले,.xml
+ℹ Added o1 alt numbers for master=324: ['324', '324']
+✔ Wrote 324_जब प्रभु को मेम्ना पाक, क्रूस पर बलि हो गया,.xml
+ℹ Added o1 alt numbers for master=338: ['338', '338']
+✔ Wrote 338_दुनिया है धोखा सरासर, सरासर (3),.xml
+ℹ Added o1 alt numbers for master=348: ['348', '348']
+✔ Wrote 348_किस खोज में हो सब तुम ... इस पापी दुनिया में _.xml
+ℹ Added o1 alt numbers for master=349: ['349', '349']
+✔ Wrote 349_यीशु ने तेरे वास्ते, अपना लोहू बहा दिया, (2).xml
+ℹ Added o1 alt numbers for master=350: ['350', '350']
+✔ Wrote 350_यीशु पर ला विश्वास, लोग धर्मी बन जाते हैं.xml
+ℹ Added o1 alt numbers for master=351: ['351', '351']
+✔ Wrote 351_गर विश्वास तू लाएगा अभी मेम्ने पर ईश्वर के,.xml
+ℹ Added o1 alt numbers for master=352: ['352', '352']
+✔ Wrote 352_साधु भेष में फिरनेवाले,.xml
+ℹ Added o1 alt numbers for master=353: ['353', '353']
+✔ Wrote 353_खुदा को भूलकर मसरूफ क्यों है खुद परस्ती में,.xml
+ℹ Added o1 alt numbers for master=354: ['354', '354']
+✔ Wrote 354_क्यों मन भूला है यह संसारा, (2).xml
+ℹ Added o1 alt numbers for master=355: ['355', '355']
+✔ Wrote 355_कुछ न भरोसा इस जीवन का, (2).xml
+ℹ Added o1 alt numbers for master=356: ['356', '356']
+✔ Wrote 356_भरोसा जीवन का नहीं है, मनुष्य रूप में आया है,.xml
+ℹ Added o1 alt numbers for master=357: ['357', '357']
+✔ Wrote 357_आया यीशु पापियों के पास, अपना रूप बदल के,.xml
+ℹ Added o1 alt numbers for master=358: ['358', '358']
+✔ Wrote 358_आओ मिलकर चलें प्यारे यीशु के पास.xml
+ℹ Added o1 alt numbers for master=359: ['359', '359']
+✔ Wrote 359_मुहब्बत खुदा की दिखाने के लिए, सलीब पर चढ़ गया यीशु,.xml
+ℹ Added o1 alt numbers for master=360: ['360', '360']
+✔ Wrote 360_देखो खुदा ने पापी जग से कैसा किया है प्यार,.xml
+ℹ Added o1 alt numbers for master=361: ['361', '361']
+✔ Wrote 361_प्यारा है, प्यारा है, प्यारा है, प्यारा है,.xml
+ℹ Added o1 alt numbers for master=362: ['362', '362']
+✔ Wrote 362_आसमान को छोड़कर दुनिया में आया, दुःख और तकलीफों को उसने उठाया,.xml
+ℹ Added o1 alt numbers for master=363: ['363', '363']
+✔ Wrote 363_खुदा के प्यार की गहरी धार वह बहती है, वह बहती है,.xml
+ℹ Added o1 alt numbers for master=366: ['366', '366']
+✔ Wrote 366_जान मैं ने अपनी दी ... खून दिया वेश बहा,.xml
+ℹ Added o1 alt numbers for master=384: ['384', '384']
+✔ Wrote 384_मैं गुनाह के सबब से हो गया था खुदा से दूर,.xml
+ℹ Added o1 alt numbers for master=385: ['385', '385']
+✔ Wrote 385_पाप का बन्धन तोड़ा गया, मैं आजाद हूँ, हाँ आजाद ;.xml
+ℹ Added o1 alt numbers for master=386: ['386', '386']
+✔ Wrote 386_यीशु ने किया आजाद मुझे ... पाप और सारी बुराई से,.xml
+ℹ Added o1 alt numbers for master=387: ['387', '387']
+✔ Wrote 387_यीशु प्रभु मेरो अनुपम सुन्दर,.xml
+ℹ Added o1 alt numbers for master=388: ['388', '388']
+✔ Wrote 388_तू ही है यीशु मांझी नैया का मोरी,.xml
+ℹ Added o1 alt numbers for master=389: ['389', '389']
+✔ Wrote 389_नैया पार लगा, मेरी ... नैया पार लगा, यीशु जी,.xml
+ℹ Added o1 alt numbers for master=390: ['390', '390']
+✔ Wrote 390_काल पताल के जीवन हारा ... बेड़ा पार लगाओ हमारा  (2).xml
+ℹ Added o1 alt numbers for master=391: ['391', '391']
+✔ Wrote 391_मेरा मन धो देना प्रभु ... बिनती करूँ बारम्बार.xml
+ℹ Added o1 alt numbers for master=392: ['392', '392']
+✔ Wrote 392_मेरे पापों को माफ कर दे,.xml
+ℹ Added o1 alt numbers for master=393: ['393', '393']
+✔ Wrote 393_मैं कमबख्त आवारा और गुमराह, नहीं जानता था कि है नजात,.xml
+ℹ Added o1 alt numbers for master=395: ['395', '395']
+✔ Wrote 395_यीशु पास मैं आऊँ, खुश वह करेगा,.xml
+ℹ Added o1 alt numbers for master=414: ['414', '414']
+✔ Wrote 414_मैं भूखा हूँ और प्यासा तेरी भरपूरी का, कि तुझ ही को मैं जानूं ऐ अब्दी खुदा,.xml
+ℹ Added o1 alt numbers for master=433: ['433', '433']
+✔ Wrote 433_जागते रहो, जागते रहो,.xml
+ℹ Added o1 alt numbers for master=434: ['434', '434']
+✔ Wrote 434_यीशुजी, प्रभुजी, दो वरदान अब तो,.xml
+ℹ Added o1 alt numbers for master=435: ['435', '435']
+✔ Wrote 435_हे पिता स्वर्गीय हमारे, आप ही का ध्यान हो,.xml
+ℹ Added o1 alt numbers for master=436: ['436', '436']
+✔ Wrote 436_हमें यीशु के दरवाजे पर रहना, वह रहमतों का बानी हैं,.xml
+ℹ Added o1 alt numbers for master=437: ['437', '437']
+✔ Wrote 437_यीशु प्यारे ! तेरे सिवा मेरा कोई नहीं,.xml
+ℹ Added o1 alt numbers for master=438: ['438', '438']
+✔ Wrote 438_इस से गहरा यीशु तेरे प्यार में, जाना चाहता हूँ,.xml
+ℹ Added o1 alt numbers for master=439: ['439', '439']
+✔ Wrote 439_ऐ यिशु तेरा दिल छिपा ... उस सोते में,.xml
+ℹ Added o1 alt numbers for master=440: ['440', '440']
+✔ Wrote 440_दिल मेरा ले रब्ब, दिल मेरा ले, हो तेरी मर्जी पूरी मुझ से,.xml
+ℹ Added o1 alt numbers for master=441: ['441', '441']
+✔ Wrote 441_हे प्रभु, तू उपस्थित है ... आशीष हम को देने को,.xml
+ℹ Added o1 alt numbers for master=465: ['465', '465']
+✔ Wrote 465_कलीसिया तेरे लिए खुश खबरी ... यीशु जल्द आता है,.xml
+ℹ Added o1 alt numbers for master=473: ['473', '473']
+✔ Wrote 473_कितना सुन्दर नगर यह है,.xml
+ℹ Added o1 alt numbers for master=474: ['474', '474']
+✔ Wrote 474_स्वर्गीय यरूशलेम पवित्र नगर वह है,.xml
+ℹ Added o1 alt numbers for master=475: ['475', '475']
+✔ Wrote 475_कलीसिया करती इंतजार (3), अपने वायदे के मुताबिक यीशु आ,.xml
+ℹ Added o1 alt numbers for master=505: ['505', '505']
+✔ Wrote 505_आओ विश्वासियों, विश्वास करते हुए,.xml
+ℹ Added o1 alt numbers for master=506: ['506', '506']
+✔ Wrote 506_मेरे बदले में मरने को एक था तैयार, कि मैं पापी स्वतंत्र हो जाऊँ,.xml
+ℹ Added o1 alt numbers for master=507: ['507', '507']
+✔ Wrote 507_यीशु है मेरी पनाह ... वही है मेरी चट्टान,.xml
+ℹ Added o1 alt numbers for master=508: ['508', '508']
+✔ Wrote 508_मैं इन बातों के बारे में, बताओ ... क्या करूँ चर्चा _ (2).xml
+ℹ Added o1 alt numbers for master=509: ['509', '509']
+✔ Wrote 509_मैं कैसे कह दूं, यीशु दुनिया का नहीं है मुंजी  (2).xml
+ℹ Added o1 alt numbers for master=510: ['510', '510']
+✔ Wrote 510_ऐ मसीह मेरे गुनाहों को मिटाया तू ने,.xml
+ℹ Added o1 alt numbers for master=511: ['511', '511']
+✔ Wrote 511_फजल अजीब मसीह का ... आया इस दुनिया में,.xml
+ℹ Added o1 alt numbers for master=512: ['512', '512']
+✔ Wrote 512_हे तुम जो माता का प्रेम जानते हो, उससे भी अधिक है यीशु का प्रेम,.xml
+ℹ Added o1 alt numbers for master=513: ['513', '513']
+✔ Wrote 513_मुझ को मसीहा पाक ने, मुर्दो में से जिला दिया,.xml
+ℹ Added o1 alt numbers for master=514: ['514', '514']
+✔ Wrote 514_प्रभु यीशु तू ने जग में आकर, अद्‍भुत प्रेम दिखाया तू मुझ पर.xml
+ℹ Added o1 alt numbers for master=515: ['515', '515']
+✔ Wrote 515_मैं हूँ मसीही, और रहूँगा भी, जब तक न सूरज और चाँद टले,.xml
+ℹ Added o1 alt numbers for master=516: ['516', '516']
+✔ Wrote 516_एक अजीब, नया काम मेरे अन्दर हुआ, दिल में आया है जब से मसीह,.xml
+ℹ Added o1 alt numbers for master=567: ['567', '567']
+✔ Wrote 567_भूल न जाना तू, न्याय के उस दिन को,.xml
+ℹ Added o1 alt numbers for master=568: ['568', '568']
+✔ Wrote 568_उठो, जागो मसीहियों सुबह हो गयी,.xml
+ℹ Added o1 alt numbers for master=569: ['569', '569']
+✔ Wrote 569_जाओ ! जाओ ! हे मेरे चेलों करो प्रेम प्रचार  2.xml
+ℹ Added o1 alt numbers for master=570: ['570', '570']
+✔ Wrote 570_तुम यीशु के एलची हो, दुनिया को खुश खबरी दो.xml
+ℹ Added o1 alt numbers for master=571: ['571', '571']
+✔ Wrote 571_इंजील मुकद्दस को दुनिया में फैला देंगे,.xml
+ℹ Added o1 alt numbers for master=572: ['572', '572']
+✔ Wrote 572_मैं गुनाह की राह अब छोड़ता हूँ, जहाँ बहुत से लोग मरते हैं,.xml
+ℹ Added o1 alt numbers for master=573: ['573', '573']
+✔ Wrote 573_प्रभु यीशु के चरणों से भकट कर मैं किधर जाऊँ _ (2).xml
+ℹ Added o1 alt numbers for master=574: ['574', '574']
+✔ Wrote 574_पीछे यीशु के चलूंगा ... चाहे दुःख में रास्ता हो,.xml
+ℹ Added o1 alt numbers for master=575: ['575', '575']
+✔ Wrote 575_यदि यीशु पीछे जाता है तो प्राण जाने दे,.xml
+ℹ Added o1 alt numbers for master=576: ['576', '576']
+✔ Wrote 576_यीशु के पीछे कौन हो लेता _ ... अपनी सलीब कौन उठाएगा _.xml
+ℹ Added o1 alt numbers for master=577: ['577', '577']
+✔ Wrote 577_जाओ, करो प्रचार जग में,.xml
+ℹ Added o1 alt numbers for master=578: ['578', '578']
+✔ Wrote 578_मुल्क तो है मसीह उठो हो तैयार.xml
+ℹ Added o1 alt numbers for master=579: ['579', '579']
+✔ Wrote 579_यीशु के सिपाही कदम तू बढ़ाए जा,.xml
+ℹ Added o1 alt numbers for master=580: ['580', '580']
+✔ Wrote 580_हम सिपाही बादशाह के सब ही ... फतह पाते बढ़ते आगे,.xml
+ℹ Added o1 alt numbers for master=581: ['581', '581']
+✔ Wrote 581_हम हैं सिपाही यीशु के ... फतह में बढ़ते हैं आगे,.xml
+ℹ Added o1 alt numbers for master=582: ['582', '582']
+✔ Wrote 582_ताक मसीह की ओर तू दुःख से जो उदास,.xml
+ℹ Added o1 alt numbers for master=588: ['588', '588']
+✔ Wrote 588_उठो ! मसीह के लिए ... हे क्रूस के योद्धाओं,.xml
+ℹ Added o1 alt numbers for master=628: ['628', '628']
+✔ Wrote 628_बादल की सवारी कर के किसी दिन यीशु जरूर आएगा (2).xml
+ℹ Added o1 alt numbers for master=652: ['652', '652']
+✔ Wrote 652_यीशु आएगा, नरसिंगा ... जल्दी फूंका जाएगा,.xml
+ℹ Added o1 alt numbers for master=653: ['653', '653']
+✔ Wrote 653_क्या तैयार हो जब कि दूल्हा, आएगा, आएगा _ (2).xml
+ℹ Added o1 alt numbers for master=654: ['654', '654']
+✔ Wrote 654_यह है मेरी उम्मीद खुदावन्त आएगा,.xml
+ℹ Added o1 alt numbers for master=655: ['655', '655']
+✔ Wrote 655_एक जलाली मुल्क तैयार है दूर वहाँ आसमान की ओर,.xml
+ℹ Added o1 alt numbers for master=656: ['656', '656']
+✔ Wrote 656_आमद देखो, आई मस्सेह की, आमद देखो आई,.xml
+ℹ Added o1 alt numbers for master=658: ['658', '658']
+✔ Wrote 658_ऐ जवानों ! अपनी जवानी में आनन्द करो,.xml
+ℹ Added o1 alt numbers for master=663: ['663', '663']
+✔ Wrote 663_आगे बढ़ो ऐ जवानों ....xml
+ℹ Added o1 alt numbers for master=664: ['664', '664']
+✔ Wrote 664_अपने जवानी ए जवान तू,.xml
+ℹ Added o1 alt numbers for master=665: ['665', '665']
+✔ Wrote 665_नन्हें मुन्ने बच्चों, आओ चलें,.xml
+ℹ Added o1 alt numbers for master=666: ['666', '666']
+✔ Wrote 666_छोटी छोटी जीवन गाड़ी.xml
+ℹ Added o1 alt numbers for master=667: ['667', '667']
+✔ Wrote 667_छोटे बच्चों को दोस्त है यीशु,.xml
+ℹ Added o1 alt numbers for master=668: ['668', '668']
+✔ Wrote 668_मेरा दिल है यीशु का बगीचा,.xml
+ℹ Added o1 alt numbers for master=669: ['669', '669']
+✔ Wrote 669_देखूंगा यीशु राजा को ....xml
+ℹ Added o1 alt numbers for master=670: ['670', '670']
+✔ Wrote 670_दुनिया में सब से प्यारी पुस्तक बाइबल, (2).xml
+ℹ Added o1 alt numbers for master=671: ['671', '671']
+✔ Wrote 671_क्या ही बेशकीमत खजाना,.xml
+ℹ Added o1 alt numbers for master=673: ['673', '673']
+✔ Wrote 673_खुदा के वायदे नहीं टलेंगे,.xml
+ℹ Added o1 alt numbers for master=675: ['675', '675']
+✔ Wrote 675_बरकत और इज्जत और जय तेरी हो,.xml
+ℹ Added o1 alt numbers for master=676: ['676', '676']
+✔ Wrote 676_मैं खुश हूँ और खुश हूँ, इसलिए.xml
+ℹ Added o1 alt numbers for master=677: ['677', '677']
+✔ Wrote 677_खुशी खुशी मनाओ, खुशी खुशी मनाओ,.xml
+ℹ Added o1 alt numbers for master=678: ['678', '678']
+✔ Wrote 678_जीवन की रोटी हम खाते हैं,.xml
+ℹ Added o1 alt numbers for master=679: ['679', '679']
+✔ Wrote 679_जब मैं पाक कलाम सुनूं ऐ खुदा,.xml
+ℹ Added o1 alt numbers for master=680: ['680', '680']
+✔ Wrote 680_फतह आगे है, फतह आगे है,.xml
+ℹ Added o1 alt numbers for master=681: ['681', '681']
+✔ Wrote 681_वह न छोड़ेगा, वह न छोड़ेगा,.xml
+ℹ Added o1 alt numbers for master=682: ['682', '682']
+✔ Wrote 682_बोलो जय कि बोझ गिर गया,.xml
+ℹ Added o1 alt numbers for master=683: ['683', '683']
+✔ Wrote 683_मसीह की (जय ४).xml
+ℹ Added o1 alt numbers for master=684: ['684', '684']
+✔ Wrote 684_मसीह के खून की जय,.xml
+ℹ Added o1 alt numbers for master=685: ['685', '685']
+✔ Wrote 685_यीशु नाम की जय जय हो,.xml
+ℹ Added o1 alt numbers for master=686: ['686', '686']
+✔ Wrote 686_हर एक यह बात जाने,.xml
+ℹ Added o1 alt numbers for master=687: ['687', '687']
+✔ Wrote 687_यीशु के पीछे मैं चलने लगा,.xml
+ℹ Added o1 alt numbers for master=688: ['688', '688']
+✔ Wrote 688_युग युग से तू एकसा, हे अद्भुत परमेश्वर,.xml
+ℹ Added o1 alt numbers for master=689: ['689', '689']
+✔ Wrote 689_प्रभु यहोवा बदलता नहीं, वह परमेश्वर है,.xml
+ℹ Added o1 alt numbers for master=690: ['690', '690']
+✔ Wrote 690_ईश्वर से भेट करने (2), तैयार हो जा (2),.xml
+ℹ Added o1 alt numbers for master=691: ['691', '691']
+✔ Wrote 691_हे मनुष्य के सन्तान, तू इतना जान,.xml
+ℹ Added o1 alt numbers for master=692: ['692', '692']
+✔ Wrote 692_यीशु चरवाहा तू मेरा, भेड़ तेरी मैं,.xml
+ℹ Added o1 alt numbers for master=693: ['693', '693']
+✔ Wrote 693_भज ले, भज ले, प्रभु यीशु भज ले,.xml
+ℹ Added o1 alt numbers for master=694: ['694', '694']
+✔ Wrote 694_सुन लो, सुन लो, ध्यान से सुन लो,.xml
+ℹ Added o1 alt numbers for master=695: ['695', '695']
+✔ Wrote 695_यरूशलेम की बेटी, सिय्योन की प्यारी बेटी,.xml
+ℹ Added o1 alt numbers for master=696: ['696', '696']
+✔ Wrote 696_यीशु बिना सब सूना, क्या कभी तुम ने यह जाना _.xml
+ℹ Added o1 alt numbers for master=697: ['697', '697']
+✔ Wrote 697_मैं तो बान्ध लिया है चलने का समान,.xml
+ℹ Added o1 alt numbers for master=698: ['698', '698']
+✔ Wrote 698_कब तक दो मन के रहेंगे _ पक्का निर्णय हमें करना है,.xml
+ℹ Added o1 alt numbers for master=699: ['699', '699']
+✔ Wrote 699_हे पहरुआ क्या तू जानता है _ कोई तुझको पुकारता है,.xml
+ℹ Added o1 alt numbers for master=700: ['700', '700']
+✔ Wrote 700_अब ढाढ़स बाँधों, यीशु ने कहा है,.xml
+ℹ Added o1 alt numbers for master=701: ['701', '701']
+✔ Wrote 701_यहोवा ही प्रभु और ईश्वर,.xml
+ℹ Added o1 alt numbers for master=703: ['703', '703']
+✔ Wrote 703__मैं शीघ्र आनेवाला हूँ_, यीशु ने कहा,.xml
+ℹ Added o1 alt numbers for master=705: ['705', '705']
+✔ Wrote 705_अपने प्रति सावधान रहो ... जागते रहो,.xml
+ℹ Added o1 alt numbers for master=706: ['706', '706']
+✔ Wrote 706_प्यारा दूल्हा प्रभु यीशु आनेवाला है,.xml
+ℹ Added o1 alt numbers for master=708: ['708', '708']
+✔ Wrote 708_हे प्रभु तेरे संग मुझे रहना है,.xml
+ℹ Added o1 alt numbers for master=710: ['710', '710']
+✔ Wrote 710_सारी सृष्टि के मालिक तुम ही हो,.xml
+ℹ Added o1 alt numbers for master=711: ['711', '711']
+✔ Wrote 711_दे देगा यीशु है नजात, ... सुन पापी बन्दे,.xml
+ℹ Added o1 alt numbers for master=714: ['714', '714']
+✔ Wrote 714_महिमा की आशा यीशु प्रभु है,.xml
+ℹ Added o1 alt numbers for master=715: ['715', '715']
+✔ Wrote 715_आनन्द से स्तुति करूँ.xml
+ℹ Added o1 alt numbers for master=716: ['716', '716']
+✔ Wrote 716_तेरा प्रेम कितना अपार है, वर्णन के बाहर है मेरी,.xml
+ℹ Added o1 alt numbers for master=717: ['717', '717']
+✔ Wrote 717_उदय हुआ दिव्य रक्षक, घोर अंधकार के इस लोक में,.xml
+ℹ Added o1 alt numbers for master=718: ['718', '718']
+✔ Wrote 718_प्रभु यीशु का ग्ण मैं तो गाऊँ,.xml
+ℹ Added o1 alt numbers for master=720: ['720', '720']
+✔ Wrote 720_तेरे कूजूर यीशुजी मैं आया आनन्द शान्ति पाने को,.xml
+ℹ Added o1 alt numbers for master=721: ['721', '721']
+✔ Wrote 721_प्रभु का धन्यवाद करूँगा, उसकी संगति में सदा रहूँगा,.xml
+ℹ Added o1 alt numbers for master=722: ['722', '722']
+✔ Wrote 722_यह जीवन यीशु के लिए बलिदान तुझे करना है,.xml
+ℹ Added o1 alt numbers for master=723: ['723', '723']
+✔ Wrote 723_मंदिर में तेरे जो निवास करते, धन्य हैं, धन्य हैं,.xml
+ℹ Added o1 alt numbers for master=724: ['724', '724']
+✔ Wrote 724_क्रूस के पास आओ, क्रूस के पास आओ ... २.xml
+ℹ Added o1 alt numbers for master=725: ['725', '725']
+✔ Wrote 725_जवान सिपाही तू मलायुद्ध कर,.xml
+ℹ Added o1 alt numbers for master=726: ['726', '726']
+✔ Wrote 726_तू मेरा दयालु है, मैं तेरी करुणागत हूँ.xml
+ℹ Added o1 alt numbers for master=727: ['727', '727']
+✔ Wrote 727_प्रभु यीशु के पास आओ, तेरा बोझ सब उठा लेगा,.xml
+ℹ Added o1 alt numbers for master=728: ['728', '728']
+✔ Wrote 728_अर्पण करता प्रभु यह जीवन तेरे ही सामर्थी हाथ में.xml
+ℹ Added o1 alt numbers for master=729: ['729', '729']
+✔ Wrote 729_चल रहा था मैं इस जंगली राह में,.xml
+ℹ Added o1 alt numbers for master=730: ['730', '730']
+✔ Wrote 730_आनन्द से प्रभु तेरी कृपा सभी.xml
+ℹ Added o1 alt numbers for master=731: ['731', '731']
+✔ Wrote 731_आराधना करूँगा मैं स्तुति करूँगा तुझे भजूँगा.xml
+ℹ Added o1 alt numbers for master=732: ['732', '732']
+✔ Wrote 732_ईश्वर जिस का रचनेवाला, बनानेवाला भी है,.xml
+ℹ Added o1 alt numbers for master=733: ['733', '733']
+✔ Wrote 733_ख्रीष्ट के प्रेम को याद करता हूँ, आभारी हो झुकता हूँ,.xml
+ℹ Added o1 alt numbers for master=734: ['734', '734']
+✔ Wrote 734_गुण तेरे प्रभु मैं तो गाऊँगा,.xml
+ℹ Added o1 alt numbers for master=735: ['735', '735']
+✔ Wrote 735_धन्य धन्य प्रभु यीशु स्तुति तेरी हो,.xml
+ℹ Added o1 alt numbers for master=736: ['736', '736']
+✔ Wrote 736_जीऊँगा मैं प्रभु तेरे लिए,.xml
+ℹ Added o1 alt numbers for master=737: ['737', '737']
+✔ Wrote 737_अनुग्रहकारी प्रिय प्रभुजी, तेरी शरण में हम आते हैं.xml
+ℹ Added o1 alt numbers for master=738: ['738', '738']
+✔ Wrote 738_मुक्ति दिलाये यीशु नाम.xml
+ℹ Added o1 alt numbers for master=739: ['739', '739']
+✔ Wrote 739_आओ हम बनाएँगे, गिरी हुई दीवारों को,.xml
+ℹ Added o1 alt numbers for master=740: ['740', '740']
+✔ Wrote 740_हे विश्वासयोग्य ऐ प्रेमी मसीह, प्रभु दिल से, तुझको सराहते हैं,.xml
+ℹ Added o1 alt numbers for master=741: ['741', '741']
+✔ Wrote 741_चलते चलो आगे बढ़ो सारे,.xml
+ℹ Added o1 alt numbers for master=742: ['742', '742']
+✔ Wrote 742_ऐ मेरे मसीह ये जीवन तू ले, तेरे हाथ में सदा तू यह रख ले,.xml
+ℹ Added o1 alt numbers for master=743: ['743', '743']
+✔ Wrote 743_देखो दिन वह आया प्रभु पास चले,.xml
+ℹ Added o1 alt numbers for master=744: ['744', '744']
+✔ Wrote 744_मैं घटता जाऊँ यीशु तू बढ़ता जाये,.xml
+ℹ Added o1 alt numbers for master=745: ['745', '745']
+✔ Wrote 745_मुझे याद है मुझे याद है, तेरा आना याद है,.xml
+ℹ Added o1 alt numbers for master=746: ['746', '746']
+✔ Wrote 746_दिन दिन और महीने सालों के साल बीताते चेले आए हैं,.xml
+ℹ Added o1 alt numbers for master=747: ['747', '747']
+✔ Wrote 747_यीशु फिर से आ रहा है,.xml
+ℹ Added o1 alt numbers for master=748: ['748', '748']
+✔ Wrote 748_प्रभुजी निशाने की ओर मैं दौड़ा चला जा रहा हूँ.xml
+ℹ Added o1 alt numbers for master=749: ['749', '749']
+✔ Wrote 749_प्रभु यीशु तारणहार, दृष्टि तू दे मुझे,.xml
+ℹ Added o1 alt numbers for master=750: ['750', '750']
+✔ Wrote 750_पावन है वह प्रभु हमारा, उसकी जय जयकार करो,.xml
+ℹ Added o1 alt numbers for master=751: ['751', '751']
+✔ Wrote 751_सेवा करना तू सिखा दे.xml
+ℹ Added o1 alt numbers for master=752: ['752', '752']
+✔ Wrote 752_राजाओं का राजा, प्रभुओं का प्रभु,.xml
+ℹ Added o1 alt numbers for master=753: ['753', '753']
+✔ Wrote 753_हे रब्बा ... हे पिता ... मेरा मीरास तू है,.xml
+ℹ Added o1 alt numbers for master=754: ['754', '754']
+✔ Wrote 754_हे यीशु तेरे प्रेम को, मैं स्मरण करता हूँ,.xml
+
+======================
+✅ Export Summary:
+  Matched songs (Telugu/English ± Tamil/Hindi): 866
+  Unmatched Tamil songs exported: 542 -> ['10', '1001', '1002', '1003', '1004', '1005', '1006', '1007', '1008', '1009', '1010', '1011', '1012', '1013', '1014', '1015', '1016', '1017', '1018', '1019', '1020', '1021', '1022', '1023', '1024', '1025', '1026', '1027', '1028', '1029', '1030', '1031', '1032', '1033', '1034', '1035', '1036', '1037', '1038', '1039', '1040', '1041', '1042', '1043', '1044', '1045', '1046', '1047', '1048', '1049', '1050', '1051', '1052', '1053', '1054', '1055', '1056', '1057', '1058', '1059', '1060', '1061', '1062', '1063', '1064', '1065', '1066', '1067', '1068', '1069', '1070', '1071', '1072', '1073', '1074', '1075', '1076', '1077', '1078', '1079', '1080', '1081', '1082', '1083', '1084', '1085', '1086', '1087', '1088', '1089', '1090', '1091', '1092', '1093', '1094', '1095', '1096', '1097', '1098', '1099', '11', '1100', '1101', '1102', '1103', '1104', '1105', '1106', '1107', '1108', '1109', '1110', '1111', '1112', '1113', '123', '124', '125', '126', '127', '131', '135', '136', '138', '141', '142', '143', '144', '145', '150', '173', '191', '192', '193', '194', '197', '199', '200', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '201', '2010', '2011', '202', '203', '204', '205', '207', '208', '21', '210', '211', '213', '214', '215', '216', '217', '231', '24', '244', '245', '249', '250', '251', '252', '253', '254', '255', '256', '257', '258', '260', '261', '262', '263', '264', '265', '267', '269', '271', '273', '279', '280', '281', '282', '283', '287', '288', '289', '291', '292', '3', '307', '308', '309', '311', '313', '314', '317', '318', '319', '322', '323', '326', '345', '346', '347', '348', '349', '351', '352', '353', '354', '356', '357', '358', '360', '374', '38', '384', '386', '387', '388', '39', '392', '393', '394', '395', '398', '399', '4', '409', '414', '417', '418', '419', '420', '422', '423', '424', '425', '426', '427', '429', '430', '431', '432', '433', '434', '435', '450', '452', '453', '455', '456', '457', '492', '497', '498', '499', '5', '500', '501', '502', '504', '505', '506', '507', '508', '509', '510', '511', '512', '513', '514', '515', '516', '518', '530', '531', '532', '535', '537', '538', '539', '557', '558', '559', '560', '564', '566', '567', '568', '569', '57', '570', '571', '573', '575', '576', '583', '584', '594', '595', '596', '597', '598', '599', '600', '601', '602', '603', '604', '605', '606', '607', '608', '63', '64', '645', '646', '65', '654', '656', '657', '659', '66', '660', '661', '662', '663', '665', '668', '671', '672', '673', '675', '679', '680', '684', '685', '693', '696', '697', '698', '699', '7', '700', '704', '705', '706', '710', '712', '72', '725', '726', '728', '73', '743', '747', '748', '750', '751', '752', '767', '768', '769', '770', '773', '774', '775', '776', '777', '778', '78', '781', '785', '786', '788', '789', '79', '790', '791', '793', '794', '795', '796', '797', '798', '799', '800', '801', '803', '804', '805', '806', '808', '809', '810', '811', '812', '813', '814', '815', '816', '817', '818', '819', '82', '820', '821', '822', '823', '824', '825', '826', '827', '828', '829', '83', '830', '831', '832', '833', '834', '835', '836', '837', '838', '839', '840', '841', '842', '843', '844', '845', '846', '847', '848', '849', '850', '851', '852', '853', '854', '855', '856', '857', '858', '859', '860', '861', '862', '863', '864', '865', '866', '867', '868', '869', '870', '871', '872', '873', '874', '875', '876', '877', '878', '879', '880', '881', '882', '883', '884', '885', '886', '887', '888', '889', '890', '891', '892', '893', '894', '895', '896', '897', '898', '899', '900', '901', '902', '903', '904', '905', '906', '907', '908', '909', '910', '911', '912', '913', '914', '915', '916', '917', '918', '919', '920', '921', '922', '923', '924', '925', '926', '927', '928', '929', '930', '931', '932', '933', '934', '935', '936', '937', '938', '939', '94', '95', '96', '97', '99']
+  Unmatched Hindi songs exported: 186 -> ['114', '177', '178', '179', '18', '180', '181', '182', '183', '184', '185', '186', '189', '192', '194', '195', '227', '228', '229', '266', '288', '289', '303', '324', '338', '348', '349', '350', '351', '352', '353', '354', '355', '356', '357', '358', '359', '360', '361', '362', '363', '366', '384', '385', '386', '387', '388', '389', '390', '391', '392', '393', '395', '414', '433', '434', '435', '436', '437', '438', '439', '440', '441', '465', '473', '474', '475', '505', '506', '507', '508', '509', '510', '511', '512', '513', '514', '515', '516', '567', '568', '569', '570', '571', '572', '573', '574', '575', '576', '577', '578', '579', '580', '581', '582', '588', '628', '652', '653', '654', '655', '656', '658', '663', '664', '665', '666', '667', '668', '669', '670', '671', '673', '675', '676', '677', '678', '679', '680', '681', '682', '683', '684', '685', '686', '687', '688', '689', '690', '691', '692', '693', '694', '695', '696', '697', '698', '699', '700', '701', '703', '705', '706', '708', '710', '711', '714', '715', '716', '717', '718', '720', '721', '722', '723', '724', '725', '726', '727', '728', '729', '730', '731', '732', '733', '734', '735', '736', '737', '738', '739', '740', '741', '742', '743', '744', '745', '746', '747', '748', '749', '750', '751', '752', '753', '754']
+  Duplicates skipped: 0
+  Total songs exported: 1594
+======================
+

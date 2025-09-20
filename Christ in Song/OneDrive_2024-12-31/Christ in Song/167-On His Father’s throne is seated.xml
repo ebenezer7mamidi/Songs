@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>On His Father’s throne is seated</title>
+      <title>167</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="167"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>On His Father’s throne is seated
+Christ the Lord, the living One!
+All His toil on earth completed,
+All His work for sinners done.
+In the glory, in the glory,
+See Him—God’s eternal Son!</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Every knee shall bow before Him,
+Every tongue confess His name,
+Ransomed myriads shall adore Him,
+Who endured the sinner’s shame!
+From the glory, from the glory,
+God doth now His worth proclaim.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Man, the cross to Him awarded;
+Man, the Savior crucified;
+This world’s judgment stands recorded.
+God’s own justice satisfied!
+By the glory, by the glory,
+Christ was claimed on earth who died.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>Son of Man, His incarnation
+Opened first the tale of grace;
+Son of Man, in new creation
+Leader of a chosen race!
+Well may glory, well may glory,
+Give to Him the honored place!</lines>
+    </verse>
+  </lyrics>
+</song>

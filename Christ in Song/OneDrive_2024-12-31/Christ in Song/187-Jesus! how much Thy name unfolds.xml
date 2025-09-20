@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Jesus! how much Thy name unfolds</title>
+      <title>187</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="187"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus! how much Thy name unfolds
+  To every opened ear;
+The pardoned sinner’s mem’ry holds
+  None other half so dear.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Thy name encircles every grace
+  That God as man could show;
+There only could He fully trace
+  A life divine below.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Jesus—it speaks a life of love,
+  Of sorrows meekly borne;
+It tells of sympathy above,
+  Whatever makes us mourn.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>Jesus, the One who knew no sin,
+  Made sin to make us just;
+Thou gav’st Thyself our love to win,
+  Our full confiding trust.</lines>
+    </verse>
+	<verse name="v5">
+      <lines>The mention of Thy name shall bow
+  Our hearts to worship Thee;
+The chiefest of ten thousand Thou,
+  Whose love has set us free.</lines>
+    </verse>	
+  </lyrics>
+</song>

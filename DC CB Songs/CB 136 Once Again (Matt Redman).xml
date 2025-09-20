@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T16:35:59">
+  <properties>
+    <titles>
+      <title>CB 136 Once Again</title>
+      <title>Jesus Christ, I think upon your sacrifice</title>
+    </titles>
+    <copyright>1995 Thankyou Music, Administered by EMI Christian Music Publishing</copyright>
+    <verseOrder>v1 c1 v2 c1 b1 c1</verseOrder>
+    <ccliNo>1564362</ccliNo>
+    <authors>
+      <author>Matt Redman</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="136"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>JESUS CHRIST, I THINK UPON YOUR<br/>SACRIFICE,<br/>You became nothing, poured out to death.<br/>Many times I’ve wondered at Your gift of life,<br/>And I’m in that place once again.<br/>I’m in that place once again.<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Once again<br/>I look upon the cross<br/>Where You died<br/>I'm humbled by Your mercy<br/>And I'm broken inside<br/>Once again I thank You<br/>Once again I pour out my life</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now You are exalted to the highest place,<br/>King of the heavens, where one day I’ll bow,<br/>But for now, I marvel at this saving grace,<br/>And I’m full of praise once again.<br/>I’m full of praise once again.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Thank You for the cross<br/>Thank You for the cross<br/>Thank You for the cross my Friend<br/>(2x)</lines>
+    </verse>
+  </lyrics>
+</song>

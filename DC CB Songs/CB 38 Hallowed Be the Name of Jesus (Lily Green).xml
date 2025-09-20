@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T16:27:02">
+  <properties>
+    <titles>
+      <title>CB 38 Hallowed Be the Name of Jesus</title>
+    </titles>
+    <copyright>©1979 Word
+Music LLC (Word Music
+Group Inc.)</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <ccliNo>17841</ccliNo>
+    <authors>
+      <author>Lily Green</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="38"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>HALLOWED BE THE NAME OF JESUS.<br/>Holy is the Lamb, Lord Jesus.<br/>Other kingdoms rise and fall,<br/>But You're reigning over all.<br/>Hallowed be the name of Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Precious is the blood of Jesus,<br/>Blessed Son of God, Lord Jesus.<br/>You have washed away our sin,<br/>Given grace to enter in.<br/>Precious is the blood of Jesus.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Worthy is the Lamb, Lord Jesus.<br/>Righteous I can stand in Jesus.<br/>We were chained to death, but then<br/>You raised us up again.<br/>Worthy is the Lamb, Lord Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Compared with Christ</title>
+      <title>387</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="387"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Compared with Christ, in all beside
+ No comeliness I see;
+ The one thing needful, dearest Lord,
+ Is to be one with thee.
+The sense of thy expiring love,
+ Into my soul convey;
+ Thyself bestow, for thee alone,
+ I absolutely pray.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Whatever else Thy will withholds,
+Here grant me to succeed!
+O let Thyself my portion be,
+And I am blest indeed!
+Less than thyself will not suffice
+ My comfort to restore;
+ More than thyself I cannot crave,
+ And thou canst give no more.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Loved of my God, for him again
+ With love intense I’d burn;
+ Chosen of thee ere time began,
+ I choose thee in return.
+Whate’er consists not with thy love,
+ O teach me to resign;
+ I’m rich to all the intents of bliss,
+ If thou, O God, art mine.</lines>
+    </verse>
+  </lyrics>
+</song>

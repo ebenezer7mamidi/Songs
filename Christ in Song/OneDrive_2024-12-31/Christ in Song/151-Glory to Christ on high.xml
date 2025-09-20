@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Glory to Christ on high</title>
+      <title>151</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="151"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Glory to Christ on high!
+Let heav'n and earth reply!
+Praise ye His name!
+His love and grade adore,
+Who all our sorrows bore;
+Sing loud for evermore, 
+“Worthy the Lamb!”</lines>
+    </verse>
+	<verse name="v2">
+      <lines>While they around the throne
+Cheerfully join in one,
+Praising his name:
+We, who have felt his blood,
+Sealing our peace with God,
+Sound his dear name abroad,
+Worthy the Lamb.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Join, all ye ransomed race,
+Our Lord and God to bless;
+Praise ye his name:
+In him we will rejoice,
+And make a joyful noise,
+Shouting with heart and voice,
+Worthy the Lamb.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>What though we change our place,
+Yet we shall never cease
+Praising his name:
+To him our songs we bring—
+Hail him our gracious King,
+And, without ceasing, sing
+Worthy the Lamb.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T19:32:16">
+  <properties>
+    <titles>
+      <title>CB 181 This is My Commandment</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>John</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="181"/>
+    </songbooks>
+    <themes>
+      <theme>John 15:12</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>THIS IS MY COMMANDMENT,<br/>That ye love one another, that your joy may be<br/>full. This is My commandment that ye<br/>love one another, that your joy may be full. That<br/>your joy may be full, that your joy may be full.<br/>This is My commandment that ye love one<br/>another that your joy may be full.</lines>
+    </verse>
+  </lyrics>
+</song>

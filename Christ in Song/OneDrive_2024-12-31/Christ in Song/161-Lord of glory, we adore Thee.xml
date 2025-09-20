@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Lord of glory, we adore Thee</title>
+      <title>161</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="161"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord of glory, we adore Thee!
+  Christ of God, ascended high!
+Heart and soul we bow before Thee,
+  Glorious now beyond the sky:
+Thee we worship, Thee we praise—
+Excellent in all Thy ways.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Anointed King, with glory crowned,
+  Rightful Heir and Lord of all!
+Once rejected, scorned, disowned,
+  E’en by those Thou cam’st to call:
+Thee we honor, Thee adore—
+Glorious now and evermore.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Lord of life! to death once subject;
+  Blesser, yet a curse once made;
+Of Thy Father’s heart the object,
+  Yet in depths of anguish laid;
+Thee we gaze on, Thee recall—
+Bearing here our sorrows all.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>Royal robes shall soon invest Thee,
+  Royal splendors crown Thy brow;
+Christ of God, our souls confess Thee
+  King and Sov’reign even now!
+Thee we rev’rence, Thee obey—
+Own Thee Lord and Christ alway.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>With Harps and With Viols</title>
+      <title>43</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="43"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>With harps and with viols, there stand a great throng
+In the presence of Jesus, and sing this new song.</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>Unto Him who hath loved us and washed us from sin,
+Unto Him be the glory forever, Amen.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>All these once were sinners, defiled in his sight,
+Now arrayed in pure garments in praise they unite.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>He maketh the rebel a priest and a king,
+He hath bought us and taught us this new song to sing.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>How helpless and hopeless we sinners had been,
+If he never had loved us till cleansed from our sin.</lines>
+    </verse>
+	<verse name="v5">
+      <lines>Aloud in his praises our voices shall ring,
+So that others believing, this new song shall sing</lines>
+    </verse>	
+  </lyrics>
+</song>

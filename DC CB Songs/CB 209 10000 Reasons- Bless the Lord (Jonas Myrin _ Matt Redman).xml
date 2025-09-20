@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T20:39:56">
+  <properties>
+    <titles>
+      <title>CB 209 10000 Reasons- Bless the Lord</title>
+    </titles>
+    <copyright>©2011 Thankyou
+Music (EMI Christian Music
+Publ.)</copyright>
+    <verseOrder>c1 v1 c1 v2 c1 v3</verseOrder>
+    <ccliNo>6016351</ccliNo>
+    <authors>
+      <author>Jonas Myrin | Matt Redman</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="209"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>BLESS THE LORD, O MY SOUL,<br/>O my soul,<br/>Worship His holy name.<br/>Sing like never before,<br/>O my soul,<br/>I'll worship Your holy name.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>The sun comes up,<br/>It's a new day dawning,<br/>It's time to sing Your song again.<br/>Whatever may pass<br/>And whatever lies before me,<br/>Let me be singing<br/>When the evening comes.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You're rich in love<br/>And You're slow to anger;<br/>Your name is great<br/>And Your heart is kind.<br/>For all Your goodness<br/>I will keep on singing,<br/>Ten thousand reasons<br/>For my heart to find.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And on that day<br/>When my strength is failing,<br/>The end draws near<br/>And my time has come,<br/>Still my soul will<br/>Sing Your praise unending,<br/>Ten thousand years<br/>And then forevermore.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,121 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background: linear-gradient(135deg, #1e1e2f, #2c3e50, #3d405b);
+    font-family: "Helvetica", sans-serif;
+}
+
+/* Background particles canvas */
+#particle-canvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    pointer-events: none;
+}
+
+/* Main flex container */
+#flexbox {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Current slide container */
+#currentslide {
+    width: 90%;
+    height: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+/* Slide wrapper for horizontal/vertical orientation */
+.slide-wrapper {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: stretch;
+}
+
+.slide-wrapper.horizontal {
+    flex-direction: row;
+}
+
+.slide-wrapper.vertical {
+    flex-direction: column;
+}
+
+/* Text block inside wrapper */
+.text-block {
+    display: flex;
+    flex-direction: column; /* title on top, content below */
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+/* Service title on top of each slide */
+.service-title {
+    font-size: 2em; /* font size will scale via JS */
+    margin-bottom: 0.2em;
+    text-align: center;
+}
+
+/* Text content container (holds lang-* divs or lang-default) */
+.text-content {
+    display: flex; /* this flex is for multiple lang divs */
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.slide-wrapper.horizontal .text-content {
+    flex-direction: row; /* side by side */
+}
+
+.slide-wrapper.vertical .text-content {
+    flex-direction: column; /* stacked */
+}
+
+/* Individual language or default divs */
+.text-content > div[class^="lang-"] {
+    display: block; /* allow <sup> inline */
+    text-align: center;
+    word-break: break-word;
+    padding: 0.5em;
+    flex: 1 1 0;
+}
+
+/* Superscripts stay inline and scale with parent font */
+.text-content > div[class^="lang-"] sup {
+    font-size: 0.6em;
+    vertical-align: super;
+}
+
+/* Small gap between multiple lang divs in horizontal orientation */
+.slide-wrapper.horizontal .text-content > div[class^="lang-"] + div[class^="lang-"] {
+    margin-left: 0.2em; /* reduce from 1em to avoid too much gap */
+}
+
+/* Gap for vertical orientation */
+.slide-wrapper.vertical .text-content > div[class^="lang-"] + div[class^="lang-"] {
+    margin-top: 0.2em;
+    margin-left: 0;
+}

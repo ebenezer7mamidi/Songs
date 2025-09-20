@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T16:57:08">
+  <properties>
+    <titles>
+      <title>CB 412 The Prince of My Peace</title>
+      <title>I Stand All Bewildered with Wonder</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>W. G. Fischer</author>
+      <author>W. F. Crafts</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="412"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I STAND ALL BEWILDERED WITH WONDER<br/>And gaze on the ocean of love,<br/>And over the waves to my spirit<br/>Comes peace, like a heavenly dove.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>The cross now covers my sins,<br/>The past is under the blood;<br/>I’m trusting in Jesus for all,<br/>My will is the will of my God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I struggled and wrestled to win it,<br/>The blessing that setteth me free;<br/>But when I had ceased from my struggles,<br/>His peace Jesus gave unto me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He laid His hand on me, and healed me.<br/>And bade me be every whit whole,<br/>I touched the hem of His garment,<br/>And glory came thrilling my soul.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The Prince of my Peace is now passing,<br/>The light of His face is on me;<br/>But listen, beloved, He speaketh:<br/>“My peace I will give unto thee.”</lines>
+    </verse>
+  </lyrics>
+</song>

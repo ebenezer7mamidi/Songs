@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>There’s a light upon the mountains</title>
+      <title>184</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="184"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There’s a light upon the mountains,
+  and the day is at the spring,
+When our eyes shall see the beauty
+  and the glory of the King;
+Weary was our heart with waiting, and
+  the night-watch seemed so long,
+But His triumph-day is breaking, and
+  we hail it with a song.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>In the fading of the starlight we can
+  see the coming morn;
+And the lights of men are paling in
+  the splendors of the dawn;
+For the eastern skies are glowing as
+  with lights of hidden fire,
+And the hearts of men are stirring
+  with the throb of deep desire.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>There’s a hush of expectation, and
+  a quiet in the air;
+And the breath of God is moving in
+  the fervent breath of prayer;
+For the suffering, dying Jesus is the
+  Christ upon the throne,
+And the travail of our spirit is the
+  travail of His own.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>He is breaking down the barriers,
+  He is casting up the way;
+He is calling for His angels to build
+  up the gates of day;
+But His angels here are human, not
+  the shining hosts above,
+For the drum-beats of His army are
+  the heart-beats of our love.</lines>
+    </verse>
+	<verse name="v5">
+      <lines>Hark! we hear a distant music, and
+  it comes with fuller swell;
+’Tis the triumph song of Jesus, of
+  our King Emmanuel;
+Zion, go ye forth to meet Him,
+  and my soul, be swift to bring
+All thy sweetest and thy dearest for
+  the triumph of our King.</lines>
+    </verse>	
+  </lyrics>
+</song>

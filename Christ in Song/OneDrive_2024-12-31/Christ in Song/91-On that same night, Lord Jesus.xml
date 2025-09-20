@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>On that same night, Lord Jesus</title>
+      <title>91</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="91"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>On that same night, Lord Jesus,
+  When all around Thee joined
+To cast its darkest shadow
+  Across Thy holy mind,
+We hear Thy voice, blest Savior,
+  “This do, remember me”,
+With grateful hearts responding,
+  We do remember Thee.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>The depth of all Thy suffering
+  No heart could e’er conceive,
+The cup of wrath o’erflowing
+  For us Thou didst receive;
+And, oh, of God forsaken
+  On the accursed tree;
+With grateful hearts, Lord Jesus,
+  We now remember Thee.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>We think of all the darkness
+  Which round Thy spirit pressed,
+Of all those waves and billows,
+  Which rolled across Thy breast.
+Oh, there Thy grace unbounded
+  And perfect love we see;
+With joy and sorrow mingling,
+  We would remember Thee.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>We know Thee now as risen,
+  The Firstborn from the dead;
+We see Thee now ascended,
+  The Church’s glorious Head.
+In Thee by grace accepted,
+  The heart and mind set free
+To think of all Thy sorrow,
+  And thus remember Thee.</lines>
+    </verse>
+	<verse name="v5">
+      <lines>Till Thou shalt come in glory,
+  And call us hence away,
+To rest in all the brightness
+  Of that unclouded day,
+We show Thy death, Lord Jesus,
+  And here would seek to be
+More to Thy death conformed,
+  While we remember Thee.</lines>
+    </verse>	
+  </lyrics>
+</song>

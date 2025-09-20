@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Anandamu Prabhu Nakosagenu</title>
+      <title>7006</title>
+    </titles>
+    <verseOrder>C1 V1 C1 V2 C1 V3</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="7006"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+	<verse name="C1">
+      <lines>ఆనందము ప్రభు నాకొసగెను
+నా జీవితమే మారెను (2)
+నా యుల్లమందు యేసు వచ్చెన్
+నా జీవిత రాజాయెను (2).</lines>
+    </verse>
+	<verse name="v1">
+      <lines>ప్రభుని రుచించి ఎరిగితిని
+ఎంతో ఎంతో ప్రేమాముర్తి (2)
+విశ్వమంతట నే గాంచలేదు
+విలువైన ప్రభు ప్రేమను (2)</lines>
+    </verse>
+<verse name="v2">
+      <lines>సంతోషం సముద్రపు అలలాన్ పోలి
+పైకి ఉప్పొంగి ఎగయుచుండె (2)
+నన్ను పిలిచి ఎన్నో మేలులు చేసే
+నూతన జీవమొసగెన్ (2)</lines>
+    </verse>
+
+<verse name="v3">
+      <lines>శత్రువున్ ఎదిరించి పోరాడెదన్
+విజయము పొంద బలమొందెదన్ (2)
+ప్రభువుతో లోకమున్ జయించెదన్
+ఆయనతో జీవించెదన్ (2)</lines>
+    </verse>
+
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T17:17:40">
+  <properties>
+    <titles>
+      <title>CB 426 Lord Jesus, I Love Thee</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>A. J. Gordon</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="426"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>LORD JESUS I LOVE THEE;<br/>I know Thou art mine;<br/>For Thee all the pleasures of sin I resign;<br/>My gracious Redeemer, my Savior art Thou,<br/>If ever I loved Thee, Lord Jesus, ‘tis now.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I love Thee, because Thou hast first loved me,<br/>And purchased my pardon on Calvary’s tree;<br/>I love Thee for wearing the thorns on Thy brow;<br/>If ever I loved Thee, Lord Jesus, ‘tis now.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I’ll love Thee in life, I will love Thee in death,<br/>And praise Thee as long as Thou lendest me<br/>breath;<br/>And say when the death-dew lies cold on my<br/>brow,<br/>If ever I loved Thee, Lord Jesus, ‘tis now.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In mansions of glory and endless delight<br/>I’ll ever adore Thee in heaven so bright;<br/>I’ll sing with the glittering crown on my brow,<br/>If ever I loved Thee, Lord Jesus, ‘tis now.</lines>
+    </verse>
+  </lyrics>
+</song>

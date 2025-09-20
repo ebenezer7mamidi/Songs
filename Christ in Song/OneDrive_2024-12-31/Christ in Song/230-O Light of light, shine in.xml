@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>O Light of light, shine in</title>
+      <title>230</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="230"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Light of light, shine in!
+  Cast out this night of sin,
+Create true day within:
+  O Light of light, shine in!</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>O Light, all light excelling,
+  Make my heart Thy dwelling;
+O Joy, all grief dispelling,
+    To my poor heart come in!</lines>
+    </verse>
+	<verse name="v2">
+      <lines>O Joy of joys, come in!
+  End Thou this grief of sin,
+Create calm peace within:
+  O Joy of joys, come in!</lines>
+    </verse>
+	<verse name="v3">
+      <lines>O Life of life, pour in!
+  Expel this death of sin,
+Awake true life within:
+  O Life of life, pour in!</lines>
+    </verse>
+	<verse name="v4">
+      <lines>O Love of love, flow in!
+  This hateful root of sin
+Deal with, renew, within:
+  O Love of love, flow in!</lines>
+    </verse>
+	<verse name="v5">
+      <lines>O Heaven of heavens, descend!
+  This cloudy curtain rend,
+And all earth’s turmoil end:
+  O Heaven of heavens, descend!</lines>
+    </verse>
+	<verse name="v6">
+      <lines>My God and Lord, O come!
+  Of joys the Joy and Sum,
+Make in this heart Thy home:
+  My God and Lord, O come!</lines>
+    </verse>	
+  </lyrics>
+</song>

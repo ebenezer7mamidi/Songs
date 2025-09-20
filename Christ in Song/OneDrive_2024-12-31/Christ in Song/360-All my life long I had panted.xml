@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>All my life long I had panted</title>
+      <title>360</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="360"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All my life long I had panted
+  For a draught from some cool spring,
+That I hoped would quench the burning
+  Of the thirst I felt within.</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>Hallelujah! I have found Him
+Whom my soul so long has craved!
+Jesus satisfies my longings;
+  Through His life I now am saved.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Feeding on the husks around me,
+  Till my strength was almost gone,
+Longed my soul for something better,
+  Only still to hunger on.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Poor I was, and sought for riches,
+  Something that would satisfy,
+But the dust I gathered round me
+  Only mocked my soul’s sad cry.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>Well of water, ever springing,
+  Bread of life, so rich and free,
+Untold wealth that never faileth,
+  My Redeemer is to me.</lines>
+    </verse>
+  </lyrics>
+</song>

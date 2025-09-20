@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2025-09-17T12:00:00"><properties><titles><title>Aashcharya maashcharya mesu naaku</title><title>ఆశ్చర్య మాశ్చర్య మేసు నాకు</title><title>822</title></titles><verseOrder>c1 v1 c1</verseOrder><authors><author>His Servant</author></authors><songbooks><songbook name="Zion Songs" entry="822" /></songbooks></properties><lyrics><verse name="c1"><lines>{lang-eng}Aashcharya maashcharya mesu naaku{/lang-eng}</lines><lines>{lang-tel}ఆశ్చర్య మాశ్చర్య మేసు
+ఆశ్చర్య మాశ్చర్య మేసు నాకు{/lang-tel}</lines></verse><verse name="v1"><lines>{lang-eng}aalochana karthayu rakshakundunu
+Paapa shaapamula baapi nannu rakshinchen
+Aashcharyame Yesunaku stotramu{/lang-eng}</lines><lines>{lang-tel}ఆలోచన కర్తయు రక్షకుండును
+పాప శాపముల బాపి నన్ను రక్షించెన్
+ఆశ్చర్యమే యేసునకు స్తోత్రము{/lang-tel}</lines></verse><verse name="o1"><lines>{alt_number}800{/alt_number}
+{alt_number}681{/alt_number}
+{alt_number}822{/alt_number}
+</lines></verse></lyrics></song>

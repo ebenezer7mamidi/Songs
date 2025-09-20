@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T17:02:37">
+  <properties>
+    <titles>
+      <title>CB 416 Now in a Song of Grateful Praise</title>
+      <title>My Savior Has done all things well</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>S. Medley</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="416"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>NOW IN A SONG OF GRATEFUL PRAISE,<br/>To Thee, O Lord, my voice I’ll raise;<br/>With all Thy saints I’ll join to tell,<br/>My Savior has done all things well.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And above the rest this note shall swell,<br/>This note shall swell, this note shall swell,<br/>And above the rest this note shall swell,<br/>My Savior has done all things well.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>How sovereign wonderful and free,<br/>Has been Thy love to sinful me!<br/>Thou sav’dst me from the jaws of hell;<br/>My Savior has done all things well.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Since e’er my soul has known His love,<br/>What mercies He has made me prove,<br/>Mercies which do all praise excel,<br/>My Savior has done all things well.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And when to that bright world I rise,<br/>And join the anthems of the skies,<br/>Above the rest this note shall swell,<br/>My Savior has done all things well.</lines>
+    </verse>
+  </lyrics>
+</song>

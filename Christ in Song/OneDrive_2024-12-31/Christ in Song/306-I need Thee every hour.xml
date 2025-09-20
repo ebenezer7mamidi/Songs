@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>I need Thee every hour</title>
+      <title>306</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="306"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I need Thee every hour,
+  Most gracious Lord;
+No tender voice like Thine
+  Can peace afford.</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>I need Thee, oh, I need Thee;
+  Every hour I need Thee;
+Oh, bless me now, my Savior!
+    I come to Thee.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>I need Thee every hour,
+  Stay Thou near by;
+Temptations lose their power
+  When Thou art nigh.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>I need Thee every hour,
+  In joy or pain;
+Come quickly and abide,
+  Or life is vain.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>I need Thee every hour,
+  Teach me Thy will;
+And Thy rich promises
+  In me fulfill.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I need Thee every hour,
+  Most Holy One;
+Oh, make me Thine indeed,
+  Thou blessed Son.</lines>
+    </verse>	
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T16:37:19">
+  <properties>
+    <titles>
+      <title>CB 152 Spirit of the Living God</title>
+    </titles>
+    <copyright>© 1935.
+Renewed 1963 Birdwing
+Music (EMI Christian Music
+Publishing)</copyright>
+    <verseOrder>v1</verseOrder>
+    <ccliNo>23488</ccliNo>
+    <authors>
+      <author>Daniel Iverson</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="152"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>SPIRIT OF THE LIVING GOD,<br/>Fall afresh on me. Spirit of the living God, fall<br/>afresh on me. Break me, melt me, mold me, fill<br/>me. Spirit of the living God, fall afresh on me.</lines>
+    </verse>
+  </lyrics>
+</song>

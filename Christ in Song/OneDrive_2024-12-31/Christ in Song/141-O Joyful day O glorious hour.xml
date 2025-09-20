@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>O Joyful day O glorious hour</title>
+      <title>141</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="141"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Joyful day! O glorious hour!
+When Jesus, by almighty power,
+Revived and left the grave;
+In all His works behold Him great,
+Before, almighty to create,
+Before, almighty to create,
+Almighty now to save.
+</lines>
+    </verse>
+	<verse name="v2">
+      <lines>The First-begotten from the dead,
+He's risen now, His people's Head,
+And thus their life's secure;
+And if, like Him, they yield their breath,
+Like Him they'll burst the bonds of death,
+Like Him they'll burst the bonds of death,
+Their resurrection sure.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Why should His people,then, be sad?
+None have such reason to be glad
+As those redeemed to God:
+Jesus, the mighty Saviour, lives,
+To them eternal life He gives,
+To them eternal life He gives,
+The purchase of His blood.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>Then let our gladsome praise resound,
+And let us in His work abound,
+Whose blessed name is Love;
+We're sure our labour's not in vain,
+For we with Him ere long shall reign-
+For we with Him ere long shall reign-
+With Jesus dwell above.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>How Can I Help but Love Him</title>
+      <title>207</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="207"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Down from His splendor in glory He came
+Into a world of woe,
+Took on Himself all my guilt and my shame–
+Why should He love me so?</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>How can I help but love Him
+When He loved me so?
+How can I help but love Him
+When He loved me so?</lines>
+    </verse>
+	<verse name="v2">
+      <lines>I am unworthy to take of His grace,
+Wonderful grace so free;
+Yet Jesus suffered and died in my place,
+E'en for a soul like me.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>He is the fairest of thousands to me,
+His love is sweet and true;
+Wonderful beauty in Him I now see,
+More than I ever knew.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>How Great Thou Art</title>
+      <title>6</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="6"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh Lord, my God, when I in awesome wonder<br/>Consider all the worlds Thy hands have made<br/>I see the stars, I hear the rolling thunder<br/>Thy power throughout the universe displayed</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Then sings my soul, my Savior God to Thee<br/>How great Thou art, how great Thou art<br/>Then sings my soul, my Savior God to Thee<br/>How great Thou art, how great Thou art</lines>
+    </verse>
+	<verse name="v2">
+      <lines>When through the woods, and forest glades I wander<br/>And hear the birds sing sweetly in the trees<br/>When I look down from lofty mountain grandeur<br/>And see the brook, and feel the gentle breeze<br/></lines>
+    </verse>
+	<verse name="v3">
+      <lines>And when I think that God, His Son not sparing<br/>Sent Him to die, I scarce can take it in<br/>That on the cross, my burden gladly bearing<br/>He bled and died to take away my sin</lines>
+    </verse>
+	<verse name="v4">
+      <lines>When Christ shall come with shout of acclamation<br/>And take me home, what joy shall fill my heart<br/>Then I shall bow in humble adoration<br/>And then proclaim, "My God, how great Thou art"</lines>
+    </verse>
+  </lyrics>
+</song>

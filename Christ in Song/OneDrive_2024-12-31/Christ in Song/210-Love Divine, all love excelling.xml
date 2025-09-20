@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Love Divine, all love excelling</title>
+      <title>210</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="210"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Love Divine, all love excelling,
+  Joy of heav’n, to earth come down;
+Fix in us Thy humble dwelling,
+  All Thy faithful mercies crown.
+Jesus, Thou art all compassion;
+  Pure, unbounded love Thou art;
+Visit us with Thy salvation,
+  Enter every trembling heart.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Breathe, O breathe Thy loving Spirit
+  Into every troubled breast;
+Let us all in Thee inherit,
+  Let us find the promised rest.
+Take away the love of sinning;
+  Alpha and Omega be;
+End of faith, as its beginning,
+  Set our hearts at liberty.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Come, Almighty, to deliver,
+  Let us all Thy life receive;
+May Thy presence e’er be with us,
+  Never more Thy temples leave.
+Thee we would be always blessing,
+  Serve Thee as Thou wouldst approve,
+Pray, and praise Thee without ceasing,
+  Glory in Thy perfect love.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>Finish, then, Thy new creation;
+  Pure and spotless let us be;
+Let us see Thy great salvation
+  Perfectly restored in Thee;
+Changed from glory into glory
+  Till with Thee we take our place,
+Till we cast our crowns before Thee,
+  Lost in wonder, love and praise.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T19:24:21">
+  <properties>
+    <titles>
+      <title>CB 176 In His Time, In His Time</title>
+    </titles>
+    <copyright>©1978
+Maranatha! Music CCCM
+Music (Maranatha! Music)</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>25981</ccliNo>
+    <authors>
+      <author>Diane Ball</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="176"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>IN HIS TIME, IN HIS TIME,<br/>He makes all things beautiful in His time.<br/>Lord, please show me every day,<br/>As You’re teaching me Your way;<br/>That You do just what You say in Your time.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In Your time, in Your time,<br/>You make all things beautiful in Your time.<br/>Lord, my life to You I bring;<br/>May each song I have to sing<br/>Be to You a lovely thing in Your time.</lines>
+    </verse>
+  </lyrics>
+</song>

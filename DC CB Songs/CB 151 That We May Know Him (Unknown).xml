@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T16:37:13">
+  <properties>
+    <titles>
+      <title>CB 151 That We May Know Him</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="151"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>THAT WE MAY KNOW HIM,<br/>Wonderful Lord. That we may know Him,<br/>wonderful Lord. To know the power of His great<br/>resurrection and join in fellowship with that of His<br/>sufferings; and in that being made conformable to<br/>His death. That we may know Him, wonderful Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

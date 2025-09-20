@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T17:04:16">
+  <properties>
+    <titles>
+      <title>CB 417 Jesus Has Loved Me, Wonderful Savior!</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>J. Wakefield MacGill</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="417"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>JESUS HAS LOVED ME, WONDERFUL<br/>SAVIOR!<br/>Jesus has loved me, I cannot tell why;<br/>Came He to rescue sinners all worthless,<br/>My heart He conquered, for Him I would die.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Glory to Jesus, wonderful Savior!<br/>Glory to Jesus, the One I adore;<br/>Glory to Jesus, wonderful Savior!<br/>Glory to Jesus, and praise evermore.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus has saved me, wonderful Savior!<br/>Jesus has saved me, I cannot tell how;<br/>All that I know is He was my ransom,<br/>Dying on Calvary with thorns on His brow.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus will lead me, wonderful Savior!<br/>Jesus will lead me, I cannot tell where;<br/>But I will follow, through joy or sorrow,<br/>Sunshine or tempest, sweet peace or despair.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus will crown me, wonderful Savior!<br/>Jesus will crown me, I cannot tell when;<br/>White throne of splendor hail I with gladness,<br/>Crowned ‘mid the plaudits of angels and men.</lines>
+    </verse>
+  </lyrics>
+</song>

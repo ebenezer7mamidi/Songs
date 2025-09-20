@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Gving, Giving,Over and Over</title>
+      <title>351</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="351"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Share thy handful with the stranger;
+Bid the Prophet to thy board;
+No resources are in danger
+Whose exchequer is the Lord.
+Daily new demands await thee,
+Daily new supplies are sent;
+He alone who doth create thee
+Can secure thy nourishment.</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>Giving, giving o'er and o'er,
+Still you'll find one handful more.
+Loving is the truest living,
+God will double all thy store.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Trust! the Lord will not deny thee,
+Ev'ry longing shall be stilled;
+Trust! the cruse will yet supply thee,
+Never empty, never filled.
+Should the lilies lack apparel?
+Should the ravens cry in vain?
+Even then the widow's barrel
+Shall its handful still retain.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Why shouldst thou forecast the morrow?
+Take with gladness while you may;
+Why, dismayed, forbodings borrow?
+See! thou hast enough today:
+'Tis by loving that thou livest,
+Spending doth not waste thy store,
+Tho' it seems the last thou givest,
+There is, aye, one handful more.</lines>
+    </verse>
+  </lyrics>
+</song>

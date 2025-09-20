@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>I Am Trusting Thee Lord Jesus</title>
+      <title>353</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="353"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I Am Trusting Thee, Lord Jesus,
+Trusting Only Thee!
+Trusting Thee For Full Salvation,
+Great And Free.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>I Am Trusting Thee For Pardon,
+At Thy Feet I Bow;
+For Thy Grace And Tender Mercy,
+Trusting Now.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>I Am Trusting Thee For Cleansing
+In The Crimson Flood;
+Trusting Thee To Make Me Holy,
+By Thy Blood.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>I Am Trusting Thee To Guide Me,
+Thou Alone Shalt Lead;
+Every Day And Hour Supplying
+All My Need.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I Am Trusting Thee For Power,
+Thine Can Never Fail;
+Words Which Thou Thyself Shalt Give Me
+Must Prevail.</lines>
+    </verse>
+	<verse name="v6">
+      <lines>I Am Trusting Thee, Lord Jesus;
+Never Let Me Fall;
+I Am Trusting Thee For Ever,
+And For All.</lines>
+    </verse>	
+  </lyrics>
+</song>

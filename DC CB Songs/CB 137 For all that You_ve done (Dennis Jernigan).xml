@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T16:36:03">
+  <properties>
+    <titles>
+      <title>CB 137 For all that You've done</title>
+    </titles>
+    <copyright>1991 Shepherd's Heart Music, Inc., Administered by Word Music Group, Inc.</copyright>
+    <verseOrder>v1 c1 c2 e1</verseOrder>
+    <ccliNo>577439</ccliNo>
+    <authors>
+      <author>Dennis Jernigan</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="137"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/><br/>For all that You've done<br/>I will thank You<br/>For all that You're going to do<br/>For all that You've promised<br/>And all that You are<br/>Is all that has carried me through<br/>Jesus I thank You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And I thank You, thank You, Lord<br/>(sisters echo)<br/>Thank You, thank You, Lord<br/>(sisters echo)</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Thank You for loving<br/>And setting me free<br/>Thank You for giving<br/>Your life just for me<br/>How I thank You.<br/>Gratefully thank You, thank you.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>And I thank You, and I thank You,<br/>Thank You, Lord.<br/>Thank You, thank You.</lines>
+    </verse>
+  </lyrics>
+</song>

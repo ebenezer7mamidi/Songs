@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T16:36:48">
+  <properties>
+    <titles>
+      <title>CB 146 When I Feel The Touch</title>
+    </titles>
+    <copyright>1978 Authentic Publishing, Administered by The Copyright Company</copyright>
+    <verseOrder>v1 v2 c1</verseOrder>
+    <ccliNo>40760</ccliNo>
+    <authors>
+      <author>David Matthews</author>
+      <author>Keri Jones</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="146"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>WHEN I FEEL THE TOUCH OF YOUR HAND<br/>Upon my life, it causes me to sing this song that I<br/>love You, Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So from deep within, my spirit singeth unto Thee,<br/>You are my King, You are my God, and I love<br/>You, Lord.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lord, I love You, Lord, I love You, Lord, I love<br/>You, I love You, Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

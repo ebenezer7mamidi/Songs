@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Pearl of Greatest Price</title>
+      <title>238</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="238"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've found the pearl of greatest price,
+My heart doth sing for joy:
+And sing I must, a Christ I have;
+O what a Christ have I?</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Christ is my prophet, priest and king,
+A Prophet full of light,
+A Priest that stands 'twixt God and man,
+A King that rules with might.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>My Christ he is the Lord of lords,
+He is the King of kings;
+He is the Sun of righteousness,
+With healing in his wings.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>My Christ, he is the Tree of Life,
+Which in God's garden grows;
+Whose fruit does feed, whose leaves do heal;
+My Christ is Sharon's rose.</lines>
+    </verse>
+	<verse name="v5">
+      <lines>Christ is my meat, Christ is my drink,
+My medicine and my health,
+My peace, my strength, my joy, my crown,
+My glory and my wealth.</lines>
+    </verse>
+	<verse name="v6">
+      <lines>Christ is my father, and my friend,
+My brother and my love;
+My head, my hope, my counselor,
+My advocate above.</lines>
+    </verse>
+	<verse name="v7">
+      <lines>My Christ, he is the Heaven of heavens,
+My Christ what shall I call?
+My Christ is first, my Christ is last,
+My Christ is all in all.</lines>
+    </verse>	
+  </lyrics>
+</song>

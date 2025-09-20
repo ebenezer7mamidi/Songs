@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T16:25:06">
+  <properties>
+    <titles>
+      <title>CB 19 Thou Art Worthy</title>
+    </titles>
+    <copyright>©1963, 1975 Fred Bock
+Music Company</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>14789</ccliNo>
+    <authors>
+      <author>Pauline Michael Mills</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="19"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>THOU ART WORTHY,<br/>Thou art worthy, Thou art worthy, O Lord. Thou<br/>art worthy to receive glory, glory and honor and<br/>pow'r. For Thou hast created, hast all things<br/>created; for Thou hast created all things. And for<br/>Thy pleasure they are created; Thou art worthy, O<br/>Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thou art worthy, Thou art worthy, Thou art worthy,<br/>O Lord. Thou art worthy to receive glory, glory<br/>and honor and pow'r. Because Thou wast slain<br/>and Thy blood hast redeemed us from every<br/>nation and tongue, and Thou hast made us both<br/>kings and priests; Thou art worthy, O Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

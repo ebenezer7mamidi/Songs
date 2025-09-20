@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>TestTitle</title>
+      <title>274</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="274"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My heart was ever like a stone,
+My tongue still as the grave;
+But from another world there shone
+A light thy soul to save</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Now, I am singing all day long
+The praises of His blood;
+No other theme awakes my song
+Like Calvary's crimson flood.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>I felt the pressure of His hand
+Bending my sinful heart,
+Henceforth, no power can command
+My soul from Him to part.</lines>
+    </verse>
+  </lyrics>
+</song>

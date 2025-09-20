@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>I love Him</title>
+      <title>364</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="364"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gone from my heart the world and all its charms;
+Now through the blood I’m saved from all alarms;
+Down at the cross my heart is bending low;
+The precious blood of Jesus cleanses white as snow.</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>I love Him, I love Him,
+Because He first loved me,
+  And purchased my salvation on Calv’ry’s tree.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Once I was lost, and fallen deep in sin;
+Once was a slave to passions fierce within;
+Once was afraid to meet an angry God,
+But now I’m cleansed from every stain thro’ Jesus’ blood.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Once I was bound, but now I am set free;
+Once I was blind, but now the light I see;
+Once I was dead, but now in Christ I live,
+To tell the world around the peace that He doth give.</lines>
+    </verse>
+  </lyrics>
+</song>

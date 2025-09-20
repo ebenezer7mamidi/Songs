@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Victory in Jesus</title>
+      <title>291</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="291"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I heard an old, old story how a Savior came from glory,
+How He gave His life on Calvary to save a wretch like me;
+I heard about His groaning, of His precious blood’s atoning,
+Then I repented of my sins and won the victory</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>O victory in Jesus, my Savior, forever!
+He sought me and bought me with His redeeming blood;
+He loved me ere I knew Him, and all my love is due Him.
+He plunged me to victory beneath the cleansing flood</lines>
+    </verse>
+	<verse name="v2">
+      <lines>I heard about His healing, of His cleansing power revealing.
+How He made the lame to walk again and caused the blind to see;
+And then I cried, "Dear Jesus, come and heal my broken spirit,"
+And somehow Jesus came and brought to me the victory.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>I heard about a mansion He has built for me in glory.
+And I heard about the streets of gold beyond the crystal sea;
+About the angels singing and the old redemption story,
+And some sweet day I'll sing up there the song of victory.</lines>
+    </verse>
+  </lyrics>
+</song>

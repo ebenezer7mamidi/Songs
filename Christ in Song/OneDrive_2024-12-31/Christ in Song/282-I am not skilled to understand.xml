@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>I am not skilled to understand</title>
+      <title>282</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="282"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am not skilled to understand
+What God hath willed, what God hath planned;
+I only know at His right hand
+  Stands One who is my Savior.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>I take Him at His word indeed:
+“Christ died for sinners”—this I read;
+For in my heart I find a need
+  Of Him to be my Savior!</lines>
+    </verse>
+	<verse name="v3">
+      <lines>And was there then no other way
+For God to take? - I cannot say;
+I only bless Him, day by day,
+Who saved me through my Saviour.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>That He should leave His place on high
+And come for sinful man to die,
+You count it strange? So once did I
+  Before I knew my Savior!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And, oh, that He fulfilled may see
+The travail of His soul in me,
+And with His work contented be,
+  As I with my dear Savior!</lines>
+    </verse>
+	<verse name="v6">
+      <lines>Yes, living, dying, let me bring
+My strength, my solace from this spring—
+That He who lives to be my King
+  Once died to be my Savior!</lines>
+    </verse>	
+  </lyrics>
+</song>

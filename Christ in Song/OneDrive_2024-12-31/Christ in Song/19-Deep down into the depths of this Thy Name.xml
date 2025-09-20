@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Deep down into the depths of this Thy Name</title>
+      <title>19</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="19"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Deep down into the depths of this Thy Name,
+My God, I sink and dwell in calm delight;
+Thou art enough however long the day,
+Thou art enough however dark the night.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Thou art my God—the All-Sufficient One,
+Thou canst create for me whate’er I lack;
+Thy mighty hand has strewn the lonely track
+With miracles of love and tender care</lines>
+    </verse>
+	<verse name="v3">
+      <lines>For me Thy trusting one. My God I dare
+Once more to fling myself upon Thy breast,
+And there adore Thy ways in faith’s deep rest,
+And there adore Thy ways in faith’s quiet rest.</lines>
+    </verse>
+  </lyrics>
+</song>

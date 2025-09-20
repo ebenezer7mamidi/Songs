@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T16:32:47">
+  <properties>
+    <titles>
+      <title>CB 98 Our God Reigns</title>
+    </titles>
+    <comments>
+      <comment>chorus (last)
+
+[above are Song Tags with notes imported from EasyWorship]</comment>
+    </comments>
+    <copyright>1974, 1978 New Jerusalem Music, Administered by New Jerusalem Music</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c2</verseOrder>
+    <ccliNo>8458</ccliNo>
+    <authors>
+      <author>Leonard E.</author>
+      <author>Jr. Smith</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="98"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>A<br/><br/>How lovely on the mountains<br/>Are the feet of Him<br/>Who brings good news good news</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Announcing peace<br/>Proclaiming news of happiness<br/>Our God reigns our God reigns</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Our God reigns our God reigns<br/>Our God reigns our God reigns</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>He had no stately form<br/>He had no majesty<br/>That we should be drawn to Him</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>He was despised<br/>And we took no account of Him<br/>Yet now He reigns with the Most High</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>It was our sin and guilt<br/>That bruised and wounded Him<br/>It was our sin that brought Him down</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>When we like sheep had gone astray<br/>Our Shepherd came<br/>And on His shoulders bore our shame</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Meek as a lamb<br/>That's led out to the slaughterhouse<br/>Dumb as a sheep before its shearer</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>His life ran down<br/>Upon the ground like pouring rain<br/>That we might be born again</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Out of the tomb<br/>He came with grace and majesty<br/>He is alive He is alive</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>God loves us so see here<br/>His hands His feet His side<br/>Yes we know He is alive</lines>
+    </verse>
+    <verse name="c2">
+      <lines>He's alive, He's alive<br/>He's alive, He's alive<br/>Our God reigns our God reigns<br/>Our God reigns our God reigns</lines>
+    </verse>
+  </lyrics>
+</song>

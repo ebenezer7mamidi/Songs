@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T16:26:46">
+  <properties>
+    <titles>
+      <title>CB 36 Let The Glory of the Lord</title>
+    </titles>
+    <copyright>©1979
+Scripture in Song
+(Maranatha! Music)</copyright>
+    <verseOrder>v1</verseOrder>
+    <ccliNo>29028</ccliNo>
+    <authors>
+      <author>Keith Chrysler</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="36"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>LET THE GLORY OF THE LORD<br/>Endure forever.<br/>May the Lord be glad in His works. I will sing unto<br/>the Lord as long as I live; I will sing praise to my<br/>God while I have my being.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>There's Within My Heart a Melody</title>
+      <title>368</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="368"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's within my heart a melody
+Jesus whispers sweet and low:
+Fear not, I am with thee, peace, be still,
+in all of life's ebb and flow.</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>Jesus, Jesus, Jesus,
+sweetest name I know,
+fills my every longing,
+keeps me singing as I go.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>All my life was wrecked by sin and strife,
+discord filled my heart with pain;
+Jesus swept across the broken strings,
+stirred the slumbering chords again.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Feasting on the riches of his grace,
+resting neath his sheltering wing,
+always looking on his smiling face,
+that is why I shout and sing.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>Though sometimes he leads through waters deep,
+trials fall across the way,
+though sometimes the path seems rough and steep,
+see his footprints all the way.</lines>
+    </verse>
+	<verse name="v5">
+      <lines>Soon he's coming back to welcome me
+far beyond the starry sky;
+I shall wing my flight to worlds unknown;
+I shall reign with him on high.</lines>
+    </verse>	
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T17:20:42">
+  <properties>
+    <titles>
+      <title>CB 428 Praise, Praise Ye the Name of Jehovah Our God</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Horatius Bonar</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="428"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>PRAISE, PRAISE YE THE NAME OF JEHOVAH,<br/>OUR GOD;<br/>Declare, oh, declare ye His glories abroad;<br/>Proclaim ye His mercy from nation to nation,<br/>Till the uttermost islands have heard His salvation.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>For His love floweth on,<br/>Free and full as a river;<br/>And His mercy endureth<br/>For ever and ever.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Praise, praise ye the Lamb, who for sinners was<br/>slain;<br/>Who went down to the grave, and ascended<br/>again;<br/>And who soon shall return, when these dark days<br/>are o’er,<br/>To set up His kingdom, in glory and power.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Then the heavens and the earth, and the sea shall<br/>rejoice;<br/>The field and the forest shall lift their glad voice;<br/>The sands of the desert shall flourish in green,<br/>And Lebanon’s glory be shed o’er the scene.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Her bridal attire, and her festal array,<br/>All nature shall wear on that glorious day;<br/>For her King cometh down, with His people to<br/>reign,<br/>And His presence shall bless her with Eden again.</lines>
+    </verse>
+  </lyrics>
+</song>

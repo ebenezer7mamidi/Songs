@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T16:27:43">
+  <properties>
+    <titles>
+      <title>CB 44 Christ Our Passover</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="44"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>CHRIST OUR PASSOVER,<br/>Christ our Passover,<br/>Slain before the foundation of the world,<br/>Born to set us free.<br/>Lamb, pure, undefiled ...</lines>
+    </verse>
+  </lyrics>
+</song>

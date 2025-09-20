@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Thou whose name is called Jesus</title>
+      <title>218</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="218"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thou whose name is called Jesus,
+  Risen Lord of life and pow’r,
+Oh, it is so sweet to trust Thee,
+  Every day and every hour;
+Of Thy wondrous grace I sing,
+  Savior, Counsellor, and King.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Thou canst keep my feet from falling,
+  Even my poor wayward feet;
+Thou who dost present me faultless
+  In Thee—Righteousness complete;
+Jesus, Lord, in knowing Thee,
+  Oh, what strength and victory.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>All the sin in me, my Savior,
+  Thou canst conquer and subdue;
+With Thy sanctifying power
+  Permeate my spirit through;
+Let Thy government increase,
+  Risen, crowned, Prince of Peace.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>Thou canst keep me upward looking,
+  Ever upward in Thy face;
+Thou canst make me stand, upholden
+  By the greatness of Thy grace;
+Every promise of Thy word
+  Now I claim from Thee, dear Lord.</lines>
+    </verse>
+	<verse name="v5">
+      <lines>Oh! what joy to trust Thee, Jesus,
+  Mighty Victor o’er the grave,
+And to learn amid earth’s shadows
+  Thine unceasing power to save!
+Only those who prove Thee know
+  What the grace Thou dost bestow.</lines>
+    </verse>
+	<verse name="v6">
+      <lines>Make my life a bright outshining
+  Of Thy life, that all may see
+Thine own resurrection power
+  Mightily put forth in me;
+Ever let my heart become
+  Yet more consciously Thy home.</lines>
+    </verse>	
+  </lyrics>
+</song>

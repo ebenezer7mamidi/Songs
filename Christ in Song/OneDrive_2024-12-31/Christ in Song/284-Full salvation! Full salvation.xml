@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Full salvation! Full salvation</title>
+      <title>284</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="284"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Full salvation! Full salvation!
+  Lo, the fountain opened wide,
+Streams through every land and nation
+  From the Savior’s wounded side.
+Full salvation! Full salvation!
+  Streams an endless crimson tide.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Oh, the glorious revelation!
+  See the cleansing current flow,
+Washing stains of condemnation
+  Whiter than the driven snow:
+Full salvation! Full salvation!
+  Oh, the rapturous bliss to know.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Love’s resistless current sweeping
+  All the regions deep within;
+Thought, and wish, and senses keeping
+  Now, and every instant, clean:
+Full salvation! Full salvation!
+  From the guilt and power of sin.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>Life immortal, Christ descending,
+  Lo! my heart the Spirit’s shrine:
+God and man in oneness blending,
+  Oh, what fellowship is mine!
+Full salvation! Full salvation!
+  Raised in Christ to life divine!</lines>
+    </verse>
+	<verse name="v5">
+      <lines>Care and doubting, gloom and sorrow,
+  Fear and shame are mine no more;
+Faith knows naught of dark tomorrow,
+  For my Savior goes before:
+Full salvation! Full salvation!
+  Full and free for evermore!</lines>
+    </verse>	
+  </lyrics>
+</song>

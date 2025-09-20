@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Up Calvary’s Mountain</title>
+      <title>128</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="128"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Up Calvary’s Mountain One Dreadful Morn
+Walked Christ My Saviour, Weary And Worn
+Facing For Sinners Death On The Cross
+That He Might Save Them From Endless Loss</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>Blessed Redeemer, Precious Redeemer
+Seems Now I See Him On Calvary’s Tree
+Wounded And Bleeding, For Sinners Pleading
+Blind And Unheeding, Dying For Me</lines>
+    </verse>
+	<verse name="v2">
+      <lines>“Father, Forgive Them,” My Saviour Prayed
+Even While His Lifeblood Flowed Fast Away
+Praying For Sinners While In Such Woe
+No One But Jesus Ever Loved So</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Oh How I Love Him, Saviour And Friend
+How Can My Praises Ever Find End
+Through Years Unnumbered On Heaven’s Shore
+My Songs Shall Praise Him Forevermore.</lines>
+    </verse>
+  </lyrics>
+</song>

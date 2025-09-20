@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Jesus Loves Even Me</title>
+      <title>205</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="205"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I Am So Glad That Our Father In Heaven
+Tells Of His Love In The Book He Has Given;
+Wonderful Things In The Bible I See,
+This Is The Dearest, That Jesus Loves Me.</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>I Am So Glad That Jesus Loves Me,
+Jesus Loves Me, Jesus Loves Me.
+I Am So Glad That Jesus Loves Me,
+Jesus Loves Even Me.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Though I Forget Him, And Wander Away,
+Still He Doth Love Me Wherever I Stray;
+Back To His Dear Loving Arms I Do Flee,
+When I Remember That Jesus Loves Me.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Oh, If There’s Only One Song I Can Sing,
+When In His Beauty I See The Great King,
+This Shall My Song Through Eternity Be,
+“Oh, What A Wonder That Jesus Loves Me!”</lines>
+    </verse>
+	<verse name="v4">
+      <lines>Jesus Loves Me, And I Know I Love Him;
+Love Brought Him Down My Poor Soul To Redeem;
+Yes, It Was Love Made Him Die On The Tree;
+Oh, I Am Certain That Jesus Loves Me!</lines>
+    </verse>
+	<verse name="v5">
+      <lines>If One Should Ask Of Me, How Can I Tell?
+Glory To Jesus, I Know Very Well!
+God’s Holy Spirit With Mine Doth Agree,
+Constantly Witnessing Jesus Loves Me.</lines>
+    </verse>
+	<verse name="v6">
+      <lines>In This Assurance I Find Sweetest Rest,
+Trusting In Jesus, I Know I Am Blessed;
+Satan, Dismayed, From My Soul Now Doth Flee,
+When I Just Tell Him That Jesus Loves Me.</lines>
+    </verse>	
+  </lyrics>
+</song>

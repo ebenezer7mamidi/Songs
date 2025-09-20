@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>O Head once full of bruises</title>
+      <title>120</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="120"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Head once full of bruises,
+  So full of pain and scorn,
+Mid other sore abuses,
+  Mocked with a crown of thorn:
+O Head e’en now surrounded
+  With brightest majesty,
+In death once bowed and wounded
+  On the accursed tree:</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Thou Countenance transcendent!
+  Thou life-creating Sun!
+To worlds on Thee dependent—
+  Yet bruised and spit upon
+O Lord, what Thee tormented
+  Was our sins’ heavy load,
+We had the debt augmented
+  Which Thou didst pay in blood.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>We give Thee thanks unfeigned,
+  O Savior, Friend in need,
+For what Thy soul sustained
+  When Thou for us didst bleed.
+Grant us to lean unshaken
+  Upon Thy faithfulness,
+Until, to glory taken,
+  We see Thee face to face.</lines>
+    </verse>
+  </lyrics>
+</song>

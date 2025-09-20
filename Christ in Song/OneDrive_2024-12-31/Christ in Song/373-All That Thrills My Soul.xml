@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>All That Thrills My Soul</title>
+      <title>373</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="373"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who Can Cheer The Heart Like Jesus,
+By His Presence All Divine?
+True And Tender, Pure And Precious,
+O How Blest To Call Him Mine!</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>All That Thrills My Soul Is Jesus;
+He Is More Than Life To Me;
+And The Fairest Of Ten Thousand,
+In My Blessed Lord I See.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Love Of Christ So Freely Given,
+Grace Of God Beyond Degree,
+Mercy Higher Than The Heaven,
+Deeper Than The Deepest Sea.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>What A Wonderful Redemption!
+Never Can A Mortal Know
+How My Sin, Though Red Like Crimson,
+Can Be Whiter Than The Snow.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>Every Need His Hand Supplying,
+Every Good In Him I See;
+On His Strength Divine Relying,
+He Is All In All To Me.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>By The Crystal Flowing River
+With The Ransomed I Will Sing,
+And Forever And Forever
+Praise And Glorify The King.</lines>
+    </verse>	
+  </lyrics>
+</song>

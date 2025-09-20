@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Watch! for the morning is breaking</title>
+      <title>178</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="178"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Watch! for the morning is breaking,
+  A moment, and He will be here!
+The mists and the shadows are fleeing,
+  The darkness will soon disappear;
+And He, for whom ages have waited,
+  The Lord Who has tarried so long,
+Will come in an outburst of glory,
+  A moment, and we shall be gone.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Watch! for the morning is breaking,
+  A moment, the crown will be won!
+A moment, and we shall be with Him,
+  A moment, the journey is done!
+Lord, keep us each moment unsleeping,
+  And count us all worthy to be
+In that noble band of Thy watchers,
+  Whose life is a vigil with Thee</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Leaning on the Everlasting Arms</title>
+      <title>321</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="321"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What a fellowship, what a joy divine,
+  Leaning on the Everlasting Arms!
+What a blessedness, what a peace is mine,
+  Leaning on the Everlasting Arms!</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>Leaning, leaning,
+Safe and secure from all alarms;
+  Leaning, leaning,
+  Leaning on the Everlasting Arms.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>O how sweet to walk in this pilgrim way,
+  Leaning on the Everlasting Arms!
+O how bright the path grows from day to day,
+  Leaning on the Everlasting Arms!</lines>
+    </verse>
+	<verse name="v3">
+      <lines>What have I to dread, what have I to fear,
+  Leaning on the Everlasting Arms!
+I have peace complete with my Lord so near,
+  Leaning on the Everlasting Arms!</lines>
+    </verse>
+  </lyrics>
+</song>

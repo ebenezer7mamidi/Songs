@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Far, far behind me</title>
+      <title>386</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c2 v3 c3 v4 c4</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="386"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I’ve turned my back upon the world
+  With all its idle pleasures,
+And set my heart on better things,
+  On higher, holier treasures;
+No more its glitter and its glare,
+  And vanity shall blind me;
+I’ve crossed the separating line,
+  And left the world behind me.</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>Far, far behind me!
+  Far, far behind me!
+I’ve crossed the separating line,
+  And left the world behind me.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>I’ve left the old sad life of sin,
+  Its follies all forsaken;
+My standing place is now in Christ,
+  His holy vows I’ve taken;
+Beneath the standard of the cross
+  The world henceforth shall find me;
+I’ve passed in Christ from death to life,
+  And left the world behind me.</lines>
+    </verse>
+	<verse name="c2">
+      <lines>Far, far behind me!
+  Far, far behind me!
+I’ve passed in Christ from death to life,
+    And left the world behind me.</lines>
+    </verse>	
+	<verse name="v3">
+      <lines>My soul shall ne’er return again
+  Back to its former station
+For here alone is perfect peace,
+  And rest from condemnation;
+I’ve made exchange of masters now,
+  The vows of glory bind me,
+And once for all I’ve left the world,
+  Yes, left the world behind me.</lines>
+    </verse>
+	<verse name="c3">
+      <lines>Far, far behind me!
+  Far, far behind me!
+And once for all I’ve left the world,
+    Yes, left the world behind me.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>My choice is made forevermore,
+  I want no other Savior;
+I ask no purer happiness
+  Than His sweet love and favor;
+My heart is fixed on Jesus Christ,
+  No more the world shall blind me;
+I’ve crossed the Red Sea of His death,
+  And left the world behind me.</lines>
+    </verse>
+	<verse name="c4">
+      <lines>Far, far behind me!
+  Far, far behind me!
+I’ve crossed the Red Sea of His death,
+  And left the world behind me.</lines>
+    </verse>
+  </lyrics>
+</song>

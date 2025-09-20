@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T17:47:15">
+  <properties>
+    <titles>
+      <title>CB 168 Think About His Love</title>
+    </titles>
+    <copyright>1987 Integrity's Hosanna! Music, Administered by Integrity Music, Inc.</copyright>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+    <ccliNo>16299</ccliNo>
+    <authors>
+      <author>Walt Harrah</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="168"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>THINK ABOUT HIS LOVE<br/>(echo)<br/>Think about His mercy, (echo)<br/>Think about His grace that's brought us through.<br/>For as high as the heavens above,<br/>So great is the measure of our Father's love,<br/>Great is the measure of our Father's love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>How could I forget His love<br/>How could I forget His mercy.<br/>He satisfies, He satisfies, He satisfies my desires.<br/>Great is the measure of our Father's love.<br/>(Repeat first verse)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Even when I've strayed away,<br/>His tender love has sought me out;<br/>And found me, He found me, and carried me back<br/>home. Great is the measure of our Father's love.<br/>(Repeat first verse)</lines>
+    </verse>
+  </lyrics>
+</song>

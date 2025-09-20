@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Jesus, my Lord, Thy nearness</title>
+      <title>392</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="392"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, my Lord, Thy nearness does impart
+Sweet peace and gladness to the longing heart,
+Thy gracious smile infuse a joyous thrill. 
+And soul and body with sweet pleasure fill. 
+And thankfulness.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>We see not with our eyes Thy friendly face,
+So full of kindness, love, and gentle grace
+But in our hearts we know that Thou art here,
+For Thou canst make us feel Thy presence near, 
+Although unseen.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Whoever makes it life's chief aim and end
+To have his happiness on Thee depend.
+In him a well of joy for ever springs,
+And all day long his heart is glad, and sings
+Who is like Thee? </lines>
+    </verse>
+	<verse name="v4">
+      <lines>To meet us ever with a friendly face, 
+In mercy, patience, and the kindest grace,
+Daily Thy rich forgiveness to bestow.
+To comfort, heal, in peace to bid us go,
+Is Thy delight.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lord, for Thy rich salvation, hear our prayer.
+And daily give us an abounding share;
+And let our souls, in all their poverty.
+From deep-felt love be looking unto Thee
+Till life's last end.</lines>
+    </verse>
+	<verse name="v6">
+      <lines>In sorrowing hours may our o'erflowing eyes
+For comfort look to Thy dear sacrifice;
+And, with Thy cross before us, may we find 
+Thy genuine image stamped upon our mind,
+In constant view!</lines>
+    </verse>
+	<verse name="v7">
+      <lines>Lord, at all times mayst Thou within us find
+A loving spirit and a childlike mind;
+And from Thy wounds may we receive the power,
+Through all life's weal and woe, in every hour,
+To cling to Thee.</lines>
+    </verse>
+	<verse name="v8">
+      <lines>Thus, till the heavens receive us, shall we be
+Like children, finding all our joys in Thee;
+And though the tears of sorrow oft must fall, 
+Yet, if Thou to our hearts art All in All,
+Sweet peace will come.</lines>
+    </verse>
+	<verse name="v9">
+      <lines>Thy wounded hand, dear Saviour, as a friend. 
+Thou dost to us in faithfulness extend;
+At the sad sight our tears of grief must flow,
+And conscious shame come o'er us as we go.
+With thankful praise.</lines>
+    </verse>
+  </lyrics>
+</song>

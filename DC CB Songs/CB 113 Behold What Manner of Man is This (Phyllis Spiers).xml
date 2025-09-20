@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T16:34:04">
+  <properties>
+    <titles>
+      <title>CB 113 Behold What Manner of Man is This</title>
+      <title>He's the Lord of Glory</title>
+    </titles>
+    <copyright>©1950, 1962
+Gospel Publishing House
+(Lorenz Corporation)</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>14105</ccliNo>
+    <authors>
+      <author>Phyllis Spiers</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="113"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>BEHOLD WHAT MANNER OF MAN IS THIS,<br/>Who stands 'twixt God and man?<br/>His eyes are as a flame of fire,<br/>His fan is in His hand.<br/>John saw Him in the seven churches<br/>As the Sun in brilliancy.<br/>Behold what manner of man is this?<br/>What manner of man is He?<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>He's the Lord of Glory, He is the great I Am,<br/>The Alpha and Omega, the beginning and the end.<br/>His name is Wonderful, the Prince of Peace is He.<br/>He's the Everlasting Father, throughout eternity.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Behold what manner of man is this,<br/>Who spake to the woman at the well?<br/>Everlasting life I'll give to thee,<br/>Far richer than man can tell.<br/>And whosoever shall drink of the well<br/>Shall live eternally.<br/>Behold what manner of man is this?<br/>What manner of man is He?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Behold what manner of man is this,<br/>Who spake to the maimed and halt?<br/>He says, "Thy sins be forgiven thee,<br/>Take up thy bed and walk."<br/>He stands as the mighty Healer now,<br/>And He cries, "Come unto Me!"<br/>Behold what manner of man is this?<br/>What manner of man is He?</lines>
+    </verse>
+  </lyrics>
+</song>

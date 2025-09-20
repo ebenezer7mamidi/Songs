@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Hark! The Herald Angels Sing</title>
+      <title>97</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="97"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hark! the herald angels sing,
+"Glory to the newborn King:
+Peace on earth, and mercy mild,
+God and sinners reconciled!"
+Joyful, all ye nations, rise,
+Join the triumph of the skies;
+With th'angelic hosts proclaim,
+"Christ is born in Bethlehem!"</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>Hark! the herald angels sing,
+"Glory to the newborn King"</lines>
+    </verse>
+	<verse name="v2">
+      <lines> Christ, by highest heaven adored,
+Christ, the everlasting Lord,
+Late in time behold him come,
+Offspring of the Virgin's womb:
+Veiled in flesh the Godhead see;
+hail th'incarnate Deity,
+Pleased with us in flesh to dwell,
+Jesus, our Immanuel.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Hail the heav'n-born Prince of Peace!
+Hail the Sun of Righteousness!
+Light and life to all he brings,
+Risen with healing in his wings.
+Mild he lays his glory by,
+Born that we no more may die,
+Born to raise us from the earth,
+Born to give us second birth.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>Come, Desire of nations, come!
+Fix in us Thy humble home:
+Rise, the woman’s conqu’ring seed,
+Bruise in us the serpent’s head;
+Adam’s likeness now efface,
+Stamp Thine image in its place:
+Final Adam from above,
+Reinstate us in Thy love.</lines>
+    </verse>
+  </lyrics>
+</song>

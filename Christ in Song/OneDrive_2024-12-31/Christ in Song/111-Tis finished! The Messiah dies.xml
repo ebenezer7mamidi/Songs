@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>’Tis finished! The Messiah dies</title>
+      <title>111</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="111"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>’Tis finished! The Messiah dies,
+Cut off for sins, but not His own:
+Accomplished is the sacrifice,
+The great redeeming work is done.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>’Tis finished! all the debt is paid;
+Justice divine is satisfied;
+The grand and full atonement made;
+God for a guilty world hath died.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>The veil is rent in Christ alone;
+The living way to Heaven is seen;
+The middle wall is broken down,
+And all mankind may enter in.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>The types and figures are fulfilled;
+Exacted is the legal pain;
+The precious promises are sealed;
+The spotless Lamb of God is slai</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The reign of sin and death is o’er,
+And all may live from sin set free;
+Satan hath lost his mortal power;
+’Tis swallowed up in victory.</lines>
+    </verse>
+	<verse name="v6">
+      <lines>Saved from the legal curse I am,
+My Savior hangs on yonder tree:
+See there the meek, expiring Lamb!
+’Tis finished! He expires for me.</lines>
+    </verse>
+	<verse name="v7">
+      <lines>Accepted in the Well-beloved,
+And clothed in righteousness divine,
+I see the bar to heaven removed;
+And all Thy merits, Lord, are mine.</lines>
+    </verse>
+	<verse name="v8">
+      <lines>Death, hell, and sin are now subdued;
+All grace is now to sinners given;
+And lo, I plead the atoning blood,
+And in Thy right I claim Thy Heaven!</lines>
+    </verse>	
+  </lyrics>
+</song>

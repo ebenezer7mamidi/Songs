@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T15:44:11">
+  <properties>
+    <titles>
+      <title>CB 3 We Are Here to Praise You #3</title>
+    </titles>
+    <copyright>1985 Thankyou Music (EMI Christian Music Publ.</copyright>
+    <verseOrder>v1</verseOrder>
+    <ccliNo>78914</ccliNo>
+    <authors>
+      <author>Graham Kendrick</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="3"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>WE ARE HERE TO PRAISE YOU,<br/>Lift our hearts and sing.<br/>We are here to give You<br/>The best that we can bring.<br/>And it is our love rising from our hearts,<br/>Everything within us cries: ‘Abba Father.’<br/>Help us now to give You pleasure and delight,<br/>Heart and mind and will that say,<br/>‘I love You, Lord.’ </lines>
+    </verse>
+  </lyrics>
+</song>

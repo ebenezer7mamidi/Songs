@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>I will praise Him</title>
+      <title>276</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="276"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I saw the cleansing fountain
+Open wide for all my sin,
+I obeyed the Spirit’s wooing,
+When He said, “Wilt thou be clean?"</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>I will praise Him! I will praise Him!
+Praise the Lamb for sinners slain;
+Give Him glory, all ye people,
+For His blood can wash away each stain.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Though the way seems straight and narrow,
+All I claimed was swept away;
+My ambitions, plans and wishes,
+At my feet in ashes lay.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Then God’s fire upon the altar
+Of my heart was set aflame;
+I shall never cease to praise Him
+Glory, glory to His Name!</lines>
+    </verse>
+	<verse name="v4">
+      <lines>Blessèd be the Name of Jesus!
+I’m so glad He took me in;
+He’s forgiven my transgressions,
+He has cleansed my heart from sin.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Glory, glory to the Father!
+Glory, glory to the Son!
+Glory, glory to the Spirit!
+Glory to the Three in One!</lines>
+    </verse>	
+  </lyrics>
+</song>

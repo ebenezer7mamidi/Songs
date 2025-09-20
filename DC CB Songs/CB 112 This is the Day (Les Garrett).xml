@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T16:34:00">
+  <properties>
+    <titles>
+      <title>CB 112 This is the Day</title>
+      <title>Psalm 118:24</title>
+    </titles>
+    <copyright>©1967, 1980
+Scripture in Song
+(Maranatha! Music)</copyright>
+    <verseOrder>v1</verseOrder>
+    <ccliNo>32754</ccliNo>
+    <authors>
+      <author>Les Garrett</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="112"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>THIS IS THE DAY (men),<br/>This is the day (women),<br/>That the Lord hath made,<br/>That the Lord hath made,<br/>We will rejoice<br/>We will rejoice<br/>And be glad in it,<br/>And be glad in it.<br/>This is the day that the Lord hath made,<br/>We will rejoice and be glad in it.<br/>This is the day,<br/>This is the day,<br/>That the Lord hath made.</lines>
+    </verse>
+  </lyrics>
+</song>

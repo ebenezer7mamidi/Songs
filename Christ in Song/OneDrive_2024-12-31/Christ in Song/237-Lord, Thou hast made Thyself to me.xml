@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Lord, Thou hast made Thyself to me</title>
+      <title>237</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="237"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, Thou hast made Thyself to me
+A living, bright reality,
+More present to faith’s vision keen
+Than any earthly object seen;
+More dear, more intimately nigh
+Than e’en the closest earthly tie.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>And Thou, blest vision of my soul,
+Hast made my broken nature whole;
+Hast purified my base desires,
+And kindled passion’s holiest fires;
+My nature Thou hast lifted up,
+And filled me with a glorious hope.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Nearer and dearer still to me,
+Thou living, loving Savior be;
+Brighter the vision of Thy face,
+More charming still Thy words of grace;
+So, life shall be transformed to love,
+Thy grace and mercy more to prove.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Thou art the everlasting Word</title>
+      <title>36</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="36"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thou art the everlasting Word,
+  The Father’s only Son,
+God manifestly seen and heard,
+  And heav’n’s beloved One:
+Divine, O Son of God, art Thou,
+In Thee God’s fulness find we now.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>In Thee most perfectly expressed
+  The Father’s glories shine;
+Of the full Deity possessed,
+  Eternally divine:
+Divine, O Son of God, art Thou,
+In Thee God’s fulness find we now.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>True image of the Infinite,
+  Whose essence is concealed;
+Brightness of uncreated light;
+  The heart of God revealed:
+Divine, O Son of God, art Thou,
+In Thee God’s fulness find we now.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>But the high mysteries of Thy Name
+  An angel’s grasp transcend;
+The Father only, glorious claim!
+  The Son can comprehend:
+Divine, O Son of God, art Thou,
+In Thee God’s fulness find we now.</lines>
+    </verse>
+	<verse name="v5">
+      <lines>Throughout the universe of bliss,
+  The center, Thou, and sun;
+Th’ eternal theme of praise is this,
+  To heav’n’s beloved One:
+Divine, O Son of God, art Thou,
+In Thee God’s fulness find we now.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>I will sing the wondrous story</title>
+      <title>289</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="289"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will sing the wondrous story
+  Of the Christ who died for me,
+How He left His home in glory
+  For the cross of Calvary.</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>Sing, O sing the wondrous story
+  Of the Christ who died for me,
+Sing it with the saints in glory,
+    Gathered by the crystal sea.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>I was lost, but Jesus found me,
+  Found the sheep that went astray,
+Threw His loving arms around me,
+  Drew me back into His way.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>I was bruised, but Jesus healed me;
+  Faint was I from many a fall;
+Sight was gone, and fears possessed me,
+  But He freed me from them all.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>Days of darkness still come o’er me,
+  Sorrow’s paths I often tread,
+But the Savior still is with me;
+  By His hand I’m safely led.</lines>
+    </verse>
+  </lyrics>
+</song>

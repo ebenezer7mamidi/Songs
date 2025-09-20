@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Love, proved on the cross of shame</title>
+      <title>255</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="255"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Love, proved on the cross of shame,
+Love, Worthy of God’s great Name,
+Love, eternally the same,
+ Wins a heart like mine</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Grace, knowing my every sin,
+Grace, dying to make me clean,
+Grace, that ran to bring me in,
+ Suits a heart like mine.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Peace, still as the “Sea of glass”,
+Peace, knowing the judgement’s past,
+Peace, that will for ever last,
+ Calms a heart like mine.
+</lines>
+    </verse>
+	<verse name="v4">
+      <lines>Joy, fruit of a Father‘s kiss,
+Joy, foretaste of heavenly bliss,
+Joy, that springs from love like this,
+ Fills a heart like mine.</lines>
+    </verse>
+	<verse name="v5">
+      <lines>Lord, while in this world below,
+Still more of Thy love I’d know,
+So shall sweeter praises flow
+ From a heart like mine.</lines>
+    </verse>
+  </lyrics>
+</song>

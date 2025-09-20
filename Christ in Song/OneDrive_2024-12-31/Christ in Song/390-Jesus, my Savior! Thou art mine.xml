@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Jesus, my Savior! Thou art mine</title>
+      <title>390</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="390"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, my Savior! Thou art mine,
+The Father’s gift of love divine;
+All Thou hast done, and all Thou art,
+Are now the portion of my heart.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Poor, feeble, wretched, as I am,
+I now can glory in Thy name;
+Now cleansed in Thy most precious blood
+And made the righteousness of God.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>All that Thou hast Thou hast for me,
+All my fresh springs are hid in Thee;
+In Thee I live; while I confess
+I nothing am, yet all possess.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>O Savior, teach me to abide
+Close sheltered at Thy wounded side,
+Each hour receiving “grace on grace,”
+Until I see Thee face to face.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>When I survey the wondrous cross</title>
+      <title>124</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="124"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I survey the wondrous cross
+On which the Prince of glory died,
+My richest gain I count but loss,
+And pour contempt on all my pride.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Forbid it, Lord, that I should boast,
+Save in the death of Christ my God!
+All the vain things that charm me most,
+I sacrifice them to His blood.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>See from His head, His hands, His feet,
+Sorrow and love flow mingled down!
+Did e’er such love and sorrow meet,
+Or thorns compose so rich a crown?</lines>
+    </verse>
+	<verse name="v4">
+      <lines>His dying crimson, like a robe,
+Spreads o’er His body on the tree;
+Then I am dead to all the globe,
+And all the globe is dead to me.</lines>
+    </verse>
+	<verse name="v5">
+      <lines>Were the whole realm of nature mine,
+That were a present far too small;
+Love so amazing, so divine,
+Demands my soul, my life, my all.</lines>
+    </verse>	
+  </lyrics>
+</song>

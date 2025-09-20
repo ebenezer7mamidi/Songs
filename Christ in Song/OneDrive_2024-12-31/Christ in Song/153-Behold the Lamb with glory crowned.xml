@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Behold the Lamb with glory crowned</title>
+      <title>153</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="153"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Behold the Lamb with glory crowned,
+  To Him all pow’r is giv’n:
+No place too high for Him is found,
+  No place too high in heav’n.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>He fills the throne—the throne above;
+  Its rights to Him belong;
+The object of His Father’s love,
+  Theme of the ransomed’s song.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Though high yet He accepts the praise
+  His people offer here;
+The faintest, feeblest note they raise
+  Will reach the Savior’s ear.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>This song be ours, we join in one
+  To celebrate the Name
+Of Him that sits upon the throne,
+  And to exalt the Lamb.</lines>
+    </verse>
+	<verse name="v5">
+      <lines>To Him whom men despise and slight,
+  To Him be glory giv’n;
+The crown is His, and His by right
+  The highest place in heav’n.</lines>
+    </verse>	
+  </lyrics>
+</song>

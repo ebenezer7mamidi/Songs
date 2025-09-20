@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>There’s a wideness in God’s mercy</title>
+      <title>249</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="249"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There’s a wideness in God’s mercy,
+Like the wideness of the sea;
+There’s a kindness in His justice,
+Which is more than liberty.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>There is welcome for the sinner,
+And more graces for the good;
+There is mercy with the Savior;
+There is healing in His blood.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>There is plentiful redemption
+In the blood that has been shed;
+There is joy for all the members
+In the sorrows of the Head.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>For the love of God is broader
+Than the measure of our mind;
+And the heart of the eternal
+Is most wonderfully kind.</lines>
+    </verse>
+	<verse name="v5">
+      <lines>If our love were but more simple,
+We should take Him at His word;
+And our lives would be all sunshine
+In the sweetness of our Lord.</lines>
+    </verse>	
+  </lyrics>
+</song>

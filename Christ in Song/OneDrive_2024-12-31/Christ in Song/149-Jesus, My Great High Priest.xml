@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Jesus, My Great High Priest</title>
+      <title>149</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="149"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, my great High Priest,
+Offered his blood and died;
+My guilty conscience seeks
+No sacrifice beside.
+His pow’rful blood did once atone,
+And now it pleads before the Throne.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>To this dear Surety’s hand
+Will I commit my cause;
+He answers and fulfills
+His Father’s broken laws.
+Behold my soul at freedom set;
+My Surety paid the dreadful debt.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>My Advocate appears
+For my defense on high;
+The Father bows his ears
+And lays his thunder by.
+Not all that hell or sin can say
+Shall turn his heart, his love, away.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>Should all the hosts of death
+And pow’rs of hell unknown
+Put their most dreadful forms
+Of rage and mischief on,
+I shall be safe, for Christ displays
+His conqu’ring pow’r and guardian grace.</lines>
+    </verse>
+  </lyrics>
+</song>

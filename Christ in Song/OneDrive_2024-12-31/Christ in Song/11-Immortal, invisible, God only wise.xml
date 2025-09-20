@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Immortal, invisible, God only wise</title>
+      <title>11</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="11"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Immortal, invisible, God only wise,
+In light inaccessible hid from our eyes,
+Most blessed, most glorious, the Ancient of Days,
+Almighty, victorious, Thy great name we praise.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Unresting, unhasting, and silent as light,
+Nor wanting, nor wasting, Thou rulest in might;
+Thy justice like mountains high soaring above
+Thy clouds which are fountains of goodness and love.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>To all life Thou givest, to both great and small;
+In all life Thou livest, the true life of all;
+We blossom and flourish as leaves on the tree,
+And wither and perish, but nought changeth Thee.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>Great Father of Glory, pure Father of Light
+Thine angels adore Thee, all veiling their sight;
+All laud we would render, O help us to see:
+’Tis only the splendor of light hideth Thee.</lines>
+    </verse>
+	<verse name="v5">
+      <lines>Immortal, invisible, God only wise,
+In light inaccessible hid from our eyes,
+Most blessed, most glorious, the Ancient of Days,
+Almighty, victorious, Thy great name we praise.</lines>
+    </verse>	
+  </lyrics>
+</song>

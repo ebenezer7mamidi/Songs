@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Look, ye saints, the sight is glorious</title>
+      <title>160</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="160"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Look, ye saints, the sight is glorious;
+  See the Man of sorrows now;
+From the fight returned victorious,
+  Every knee to Him shall bow;
+Crown Him! Crown Him!
+  Crown Him! Crown Him!
+  Crowns become the Victor’s brow.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Crown the Savior! Angels, crown Him!
+  Rich the trophies Jesus brings;
+In the seat of pow’r enthrone Him,
+  While the vault of heaven rings:
+Crown Him! Crown Him!
+  Crown Him! Crown Him!
+  Crown the Savior King of kings.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Sinners in derision crowned Him,
+  Mocking thus the Savior’s claim;
+Saints and angels crowd around Him,
+  Own His title, praise His name:
+Crown Him! Crown Him!
+  Crown Him! Crown Him!
+  Spread abroad the Victor’s fame.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>Hark! those bursts of acclamation!
+  Hark! those loud triumphant chords!
+Jesus takes the highest station;
+  O what joy the sight affords!
+Crown Him! Crown Him!
+  Crown Him! Crown Him!
+  King of kings, and Lord of lords!</lines>
+    </verse>
+  </lyrics>
+</song>

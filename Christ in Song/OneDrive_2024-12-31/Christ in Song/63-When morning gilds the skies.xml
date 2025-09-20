@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>When morning gilds the skies</title>
+      <title>63</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="63"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When morning gilds the skies,
+My heart awaking cries:
+May Jesus Christ be praised!
+Alike at work and prayer
+To Jesus I repair:
+May Jesus Christ be praised!</lines>
+    </verse>
+	<verse name="v2">
+      <lines>To Thee, my God above,
+I cry with glowing love,
+May Jesus Christ be praised!
+The fairest graces spring
+In hearts that ever sing,
+May Jesus Christ be praised!</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Does sadness fill my mind?
+A solace here I find,
+May Jesus Christ be praised!
+Or fades my earthly bliss?
+My comfort still is this,
+May Jesus Christ be praised!</lines>
+    </verse>
+	<verse name="v4">
+      <lines>When evil thoughts molest,
+With this I shield my breast,
+May Jesus Christ be praised!
+The powers of darkness fear,
+When this sweet chant they hear,
+May Jesus Christ be praised!</lines>
+    </verse>
+	<verse name="v5">
+      <lines>When sleep her balm denies,
+My silent spirit sighs,
+May Jesus Christ be praised!
+The night becomes as day,
+When from the heart we say,
+May Jesus Christ be praised!</lines>
+    </verse>
+	<verse name="v6">
+      <lines>Be this, while life is mine,
+My canticle divine,
+May Jesus Christ be praised!
+Be this th’ eternal song
+Through all the ages long,
+May Jesus Christ be praised!</lines>
+    </verse>	
+  </lyrics>
+</song>

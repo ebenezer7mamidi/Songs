@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Wonderful Peace</title>
+      <title>297</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="297"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Far Away In The Depth Of My Spirit Tonight
+Rolls A Melody Sweeter Than Psalm;
+In Celestial-Like Strains It Unceasingly Falls
+Over My Soul Like An Infinite Calm.</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>Peace! Peace! Wonderful Peace,
+Coming Down From The Father Above;
+Sweep Over My Spirit Forever, I Pray,
+In Fathomless Billows Of Love.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>What A Treasure I Have In This Wonderful Peace,
+Buried Deep In The Heart Of My Soul;
+So Secure That No Power Can Mine It Away,
+While The Years Of Eternity Roll.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>I Am Resting Tonight In This Wonderful Peace,
+Resting Sweetly In Jesus’ Control;
+For I’m Kept From All Danger By Night And By Day,
+And His Glory Is Flooding My Soul.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>And I think When I Rise To That City Of Peace,
+Where The Author Of Peace I Shall See.
+That One Strain Of The Song Which The Ransomed Will Sing,
+In That Heavenly Kingdom Shall Be.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O my Soul, Are You Here Without Comfort And Rest,
+Marching Down The Rough Pathway Of Time?
+Make Jesus Your Friend Ere The Shadows Grow Dark;
+O Accept This Sweet Peace So Sublime</lines>
+    </verse>	
+  </lyrics>
+</song>

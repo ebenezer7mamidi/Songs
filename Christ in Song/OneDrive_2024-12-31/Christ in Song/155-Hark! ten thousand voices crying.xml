@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Hark! ten thousand voices crying</title>
+      <title>155</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="155"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hark! ten thousand voices crying,
+  “Lamb of God!” with one accord;
+Thousand thousand saints replying,
+  Wake at once the echo’ng chord.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>“Praise the Lamb!” the chorus waking,
+  All in heav’n together throng;
+Loud and far each tongue partaking
+  Rolls around the endless song.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Grateful incense this, ascending
+  Ever to the Father’s throne;
+Every knee to Jesus bending,
+  All the mind in heav’n is one.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>All the Father’s counsels claiming
+  Equal honors to the Son,
+All the Son’s effulgence beaming,
+  Makes the Father’s glory known.</lines>
+    </verse>
+	<verse name="v5">
+      <lines>By the Spirit all pervading,
+  Hosts unnumbered round the Lamb,
+Crowned with light and joy unfading,
+  Hail Him as the great “I AM.”</lines>
+    </verse>
+	<verse name="v6">
+      <lines>Joyful now the new creation
+  Rests in undisturbed repose,
+Blest in Jesus’ full salvation,
+  Sorrow now nor thraldom knows.</lines>
+    </verse>
+	<verse name="v7">
+      <lines>Hark! the heavenly notes again!
+  Loudly swells the song of praise;
+Through creation’s vault, Amen!
+  Amen! responsive joy doth raise.</lines>
+    </verse>	
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Where Jesus Is, Tis Heaven</title>
+      <title>285</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="285"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Since Christ my soul from sin set free,
+This world has been a heaven to me;
+And ’mid earth’s sorrows and its woe,
+’Tis heaven my Jesus here to know.</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>O hallelujah! yes, ’tis heaven,
+’Tis heaven to know my sin's forgiven;
+On land or sea, what matters where?
+Where Jesus is, ’tis heaven there.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Once heaven seemed a far-off place,
+Till Jesus showed His smiling face;
+Now it’s begun within my soul,
+’Twill last while endless ages roll.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>What matters where on earth we dwell?
+On mountain top, or in the dell,
+In cottage, or a mansion fair,
+Where Jesus is, ’tis heaven there.</lines>
+    </verse>
+  </lyrics>
+</song>

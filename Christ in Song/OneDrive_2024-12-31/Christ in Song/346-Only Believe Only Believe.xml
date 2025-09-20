@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Only Believe Only Believe</title>
+      <title>346</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="346"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fear Not, Little Flock, From The Cross To The Throne;
+From Death Into Life He Went For His Own;
+All Power In Earth, All Power Above,
+Is Given To Him For The Flock Of His Love.</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>Only Believe, Only Believe,
+All Things Are Possible, Only Believe;
+Only Believe, Only Believe,
+All Things Are Possible, Only Believe.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Fear Not, Little Flock, He Goeth Ahead,
+Your Shepherd Selecteth The Path You Must Tread;
+The Waters Of Marah He’ll Sweeten For Thee,
+He Drank All The Bitter In Gethsemane.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Fear Not, Little Flock, What Ever Your Lot,
+He Enters All Rooms,” The Doors Being Shut;”
+He Never Forsakes, He Never Is Gone,
+So Count On His Presence In Darkness And Dawn.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Jesus, Thy Boundless Love To Me</title>
+      <title>215</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="215"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, Thy Boundless Love To Me
+No Thought Can Reach, No Tongue Declare;
+O Knit My Thankful Heart To Thee,
+And Reign Without A Rival There!
+Thine Wholly, Thine Alone, I Am,
+Lord, with Thy love my heart in-flame.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>O Grant That Nothing In My Soul
+May Dwell, But Thy Pure Love Alone;
+O May Thy Love Possess Me Whole,
+My Joy, My Treasure, And My Crown!
+Strange Flames Far From My Heart Remove;
+My Every Act, Word, Thought, Be Love.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>O Love, How Cheering Is Thy Ray!
+All Pain Before Thy Presence Flies,
+Care, Anguish, Sorrow, Melt Away,
+Where’er Thy Healing Beams Arise;
+O Jesu, Nothing May I See,
+And naught desire, Or Seek, But Thee!</lines>
+    </verse>
+	<verse name="v4">
+      <lines>Still Let Thy Love Point Out My War;
+How Wondrous Things Thy Love Hath Wrought!
+Still Lead Me, Lest I Go Astray;
+Direct My Word, Inspire My Thought;
+And If I Fall, Soon May I Hear
+Thy Voice, And Know That Love Is Near.</lines>
+    </verse>
+	<verse name="v5">
+      <lines>In Suffering Be Thy Love My Peace,
+In Weakness Be Thy Love My Power;
+And When The Storms Of Life Shall Cease,
+Jesus, In That eventful Hour,
+In Death As Life Be Guide and Friend,
+That I may love Thee without end.</lines>
+    </verse>	
+  </lyrics>
+</song>

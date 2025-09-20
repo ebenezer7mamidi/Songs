@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Praise Him! Praise Him!</title>
+      <title>73</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="73"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> Praise him, praise him! Jesus, our blessed redeemer!
+Sing, O earth, his wonderful love proclaim!
+Hail him, hail him! Highest archangels in glory!
+Strength and honor give to his holy name!
+Like a shepherd, Jesus will guard his children.
+In his arms he carries them all day long.</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>Praise him! Praise him! tell of his excellent greatness.
+Praise him! Praise him! ever in  joyful song.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Praise him, praise him! Jesus, our blessed redeemer!
+For our sins, he suffered, and bled, and died.
+He our rock, our hope of eternal salvation,
+hail him, hail him! Jesus, the crucified.
+Sound his praises, Jesus who bore our sorrows,
+love unbounded, wonderful, deep, and strong.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Praise him, praise him! Jesus, our blessed redeemer!
+Heav’nly portals loud with hosannas ring!
+Jesus, Savior, reigneth forever and ever!
+Crown him, crown him! prophet, and priest, and king!
+Christ is coming, over the world victorious.
+Pow’r and glory unto the Lord belong.</lines>
+    </verse>
+  </lyrics>
+</song>

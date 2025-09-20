@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T20:11:41">
+  <properties>
+    <titles>
+      <title>CB 206 Without the Sound of a Hammer</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="206"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Without the sound of a hammer,<br/>God is building today,<br/>a house to dwell in,<br/>forever to stay.<br/>How firm a foundation!<br/>How great to behold!<br/>As each stone that is place therein<br/>shines forth as gold.</lines>
+    </verse>
+  </lyrics>
+</song>

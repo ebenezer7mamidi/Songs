@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Having seen the world’s fair beauty</title>
+      <title>384</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="384"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Having seen the world’s fair beauty,
+  Lord, I would be blind once more,
+Lest I lose the loving Presence
+  And Delight I knew before.</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>Having seen the world’s fair beauty,
+Lord, I would be blind once more,
+Lest I lose the loving Presence
+  And Delight I knew before.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Dawn and sunset, star and moonlight,
+  I can see in paradise,
+But while here on earth His mercy
+  For my blindness will suffice.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>I no more would be delivered
+  From my thorn, but look for grace,
+While within the veil His glory
+  Shineth brightly on my face.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>In the deep dark night, His beauty
+  I by faith, not sight, may trace;
+He was ridiculed and hated,
+  Yet I see His glorious face.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sun and moonlight far surpassing,
+  Clouds and Milky Way o’erspread,
+Is the glory all transcending
+  Shining from His thorn-crowned head.</lines>
+    </verse>	
+  </lyrics>
+</song>

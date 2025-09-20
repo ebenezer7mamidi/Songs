@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>I sing the mighty power of God</title>
+      <title>4</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="4"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I sing the mighty pow’r of God, that made the mountains rise,<br/>That spread the flowing seas abroad, and built the lofty skies.<br/>I sing the wisdom that ordained the sun to rule the day;<br/>The moon shines full at His command, and all the stars obey.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>I sing the goodness of the Lord, who filled the earth with food,<br/>Who formed the creatures through the Word, and then pronounced them good.<br/>Lord, how Thy wonders are displayed, where’er I turn my eye,<br/>If I survey the ground I tread, or gaze upon the sky.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>There’s not a plant or flow’r below, but makes Thy glories known,<br/>And clouds arise, and tempests blow, by order from Thy throne;<br/>While all that borrows life from Thee is ever in Thy care;<br/>And everywhere that we can be, Thou, God, art present there.</lines>
+    </verse>
+  </lyrics>
+</song>

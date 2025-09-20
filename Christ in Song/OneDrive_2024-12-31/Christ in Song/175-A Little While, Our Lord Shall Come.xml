@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>A Little While, Our Lord Shall Come</title>
+      <title>175</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="175"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>"A little while!"- our Lord shall come,
+And we shall wander here no more;
+He’ll take us to our Father’s home,
+Where He for us has gone before,
+To dwell with Him, to see His face,
+And sing the glories of His grace.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>"A little while!"- He’ll come again;
+Let us the precious hours redeem;
+Our only grief to give Him pain,
+Our joy to serve and follow Him;
+Watching and ready may we be,
+As those who long their Lord to see.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>"A little while!"- ’twill soon be past;
+Why should we shun the shame and cross?
+O let us in His footsteps haste,
+Counting for Him all else but loss;
+O how will recompense His smile
+The sufferings of this little while!</lines>
+    </verse>
+	<verse name="v4">
+      <lines>"A little while!"- come, Savior, come!
+For Thee Thy bride has tarried long;
+Take Thy poor wearied pilgrims home,
+To sing the new eternal song,
+To see Thy glory and to be
+In everything conformed to Thee!</lines>
+    </verse>
+  </lyrics>
+</song>

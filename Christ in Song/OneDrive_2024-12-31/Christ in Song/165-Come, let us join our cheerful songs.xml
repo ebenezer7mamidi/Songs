@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Come, let us join our cheerful songs</title>
+      <title>165</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="165"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, let us join our cheerful songs,
+  And thus approach the throne;
+Had we ten thousand thousand tongues,
+  Our theme of joy’s but one:</lines>
+    </verse>
+	<verse name="v2">
+      <lines>“Worthy the Lamb that’s gone on high,
+  To be exalted thus!”
+“Worthy the Lamb that died!” we cry,
+  “For He was slain for us.”</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Jesus is worthy to receive
+  Honor and pow’r divine;
+And blessings more than we can give
+  Be, Lord, forever Thine.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>Let all that dwell above the sky,
+And air, and earth, and seas,
+Conspire to lift thy glories high,
+And speak thine endless praise.</lines>
+    </verse>
+	<verse name="v5">
+      <lines>The whole creation joins in one
+To bless the sacred name
+Of him that sits upon the throne,
+And to adore the Lamb.</lines>
+    </verse>	
+  </lyrics>
+</song>

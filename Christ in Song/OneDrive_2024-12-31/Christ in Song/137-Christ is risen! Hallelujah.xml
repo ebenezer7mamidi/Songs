@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Christ is risen! Hallelujah</title>
+      <title>137</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="137"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Christ is risen! Hallelujah!
+Risen our victorious Head;
+Sing His praises; Hallelujah!
+Christ is risen from the dead.
+Gratefully our hearts adore Him,
+As His light once more appears;
+Bowing down in joy before Him,
+Rising up from griefs and tears.</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>Christ is risen: Hallelujah!
+Risen our victorious Head;
+Sing His praises; Hallelujah!
+  Christ is risen from the dead.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Christ is risen! All the sadness
+Of His earthly life is o’er;
+Through the open gates of gladness
+He returns to life once more;
+Death and hell before Him bending,
+He doth rise the Victor now,
+Angels on His steps attending,
+Glory round His wounded brow.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Christ is risen! Henceforth never
+Death nor hell shall us enthrall;
+We are Christ’s, in Him forever
+We have triumphed over all;
+All the doubting and dejection
+Of our trembling hearts have ceased,
+’Tis His day of resurrection;
+Let us rise and keep the feast.</lines>
+    </verse>
+  </lyrics>
+</song>

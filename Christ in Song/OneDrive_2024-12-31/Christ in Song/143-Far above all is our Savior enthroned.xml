@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Far above all is our Savior enthroned</title>
+      <title>143</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="143"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Far above all is our Savior enthroned;
+Crown’d is the Lamb who by sinners is owned,
+Living forever to list to our call,
+God hath exalted Him far above all.</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>Far above all! Far above all!
+Jesus the crucified far above all!
+High as His members upon Him we call,
+  God hath exalted Him far above all!</lines>
+    </verse>
+	<verse name="v2">
+      <lines>When the fierce tempest, uplifting its waves,
+Seeks to engulf us, we cry and He saves;
+Looking to Jesus, upheld by His hand,
+Tread we the billows as safe as on land.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>High are the cities that dare our assault,
+Strong are the barriers that call us to halt;
+March we on fearless, and down they must fall,
+Vanquish’d by faith in Him far above all.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>His is the kingdom from pole unto pole,
+Far above all while the ages shall roll,
+With Him the victors, who follow’d His call,
+Share in His royalty far above all.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Our times are in Thy hand</title>
+      <title>340</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="340"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Our times are in Thy hand;
+  O God, we wish them there;
+Our lives, our souls, our all, we leave
+  Entirely to Thy care.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Our times are in Thy hand:
+  Whatever they may be;
+Pleasing or painful, dark or bright,
+  As best may seem to Thee.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Our times are in Thy hand;
+  Why should we doubt or fear?
+A father’s hand will never cause
+  His child a needless tear.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>Our times are in Thy hand;
+  Jesus, the Crucified,
+Whose hand our many sins have pierced,
+  Is now our guard and guide.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Our times are in Thy hand;
+  We’ll always trust to Thee,
+Till we possess the promised crown,
+  And all Thy glory see.</lines>
+    </verse>	
+  </lyrics>
+</song>

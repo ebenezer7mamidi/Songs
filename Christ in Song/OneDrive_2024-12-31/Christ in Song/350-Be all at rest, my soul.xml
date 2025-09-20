@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Be all at rest, my soul</title>
+      <title>350</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="350"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>“Be all at rest, my soul!” Oh! blessed secret
+  Of the true life that glorifies thy Lord;
+Not always doth the busiest soul best serve Him,
+  But he who resteth on His faithful word.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>“Be all at rest!” for rest is highest service;
+  To the still heart God doth His secrets tell;
+Thus shalt thou learn to wait, and watch, and labor,
+  Strengthened to bear, since Christ in thee doth dwell.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>“Be all at rest!” for rest alone becometh
+  The soul that casts on Him its every care;
+“Be all at rest!” so shall thy life proclaim Him
+  A God who worketh and who heareth prayer.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>“Be all at rest!” so shalt thou be an answer
+  To those who question, “Who is God, and where?”
+For God is rest, and where He dwells is stillness,
+  And they who dwell in Him that rest shall share.</lines>
+    </verse>
+  </lyrics>
+</song>

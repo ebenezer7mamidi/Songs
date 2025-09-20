@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T16:32:51">
+  <properties>
+    <titles>
+      <title>CB 99 Holiness Unto The Lord</title>
+    </titles>
+    <copyright>1989 Mercy / Vineyard Publishing, Administered by Vineyard Music USA</copyright>
+    <ccliNo>270877</ccliNo>
+    <authors>
+      <author>Danny Daniels</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="99"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>E<br/><br/>Holiness unto Jesus<br/>Holiness unto You, Lord<br/>Holiness unto Jesus<br/>Holiness unto You, Lord</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Holiness unto the Lord<br/>Unto the King<br/>Holiness unto Your name<br/>I will sing</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I love You<br/>I love Your ways<br/>I love Your name<br/>I love You and all my days<br/>I'll proclaim</lines>
+    </verse>
+  </lyrics>
+</song>

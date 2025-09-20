@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T16:25:00">
+  <properties>
+    <titles>
+      <title>CB 18 Thine, O Lord, Is the Greatness</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="18"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>THINE, O LORD, IS THE GREATNESS.<br/>Thine, O Lord, is the power. Thine, O Lord is the<br/>glory, the victory, and the majesty:<br/>For all that is in the heavens and earth is Thine.<br/>Thine is the kingdom, O Lord,<br/>And Thou art exalted as head above all.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Both riches and honor come of Thee,<br/>And Thou reignest over all; and in Thine hand is<br/>power and might; and in Thine hand it is to make<br/>great, and to give strength unto all.<br/>Therefore, our God, we thank Thee, we thank<br/>Thee, we thank Thee, and praise Thy glorious<br/>name.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>In the Name of Jesus</title>
+      <title>146</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="146"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the Name of Jesus
+  Every knee shall bow,
+Every tongue confess Him
+  King of glory now;
+’Tis the Father’s pleasure
+  We should call Him Lord,
+Who from the beginning
+  Was the Mighty Word.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>At His voice creation
+  Sprang at once to sight:
+All the angel faces,
+  All the hosts of light,
+Thrones and dominations,
+  Stars upon their way,
+All the heav’nly orders,
+  In their great array.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Humbled for a season,
+  To receive a Name
+From the lips of sinners
+  Unto whom He came,
+Faithfully He bore it
+  Spotless to the last,
+Brought it back victorious,
+  When from death He passed;</lines>
+    </verse>
+	<verse name="v4">
+      <lines>Bore it up triumphant,
+  With its human light,
+Through all ranks of creatures,
+  To the central height;
+To the throne of Godhead,
+  To the Father’s breast,
+Filled it with the glory
+  Of that perfect rest.</lines>
+    </verse>
+	<verse name="v5">
+      <lines>Name Him, brothers, name Him,
+  With love strong as death,
+But with awe and wonder,
+  And with bated breath;
+He is God the Savior,
+  He is Christ the Lord,
+Ever to be worshiped,
+  Trusted, and adored.</lines>
+    </verse>
+	<verse name="v6">
+      <lines>In your hearts enthrone Him;
+  There let Him subdue
+All that is not holy,
+  All that is not true;
+Crown Him as your Captain
+  In temptation’s hour;
+Let His will enfold you
+  In its light and power.</lines>
+    </verse>
+	<verse name="v7">
+      <lines>Brothers, this Lord Jesus
+  Shall return again,
+With His Father’s glory,
+  With His angel train;
+For all wreaths of empire
+  Meet upon His brow,
+And our hearts confess Him
+  King of glory now.</lines>
+    </verse>	
+  </lyrics>
+</song>

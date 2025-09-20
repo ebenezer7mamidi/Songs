@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>O Christ, what burdens bow’d Thy head</title>
+      <title>116</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="116"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Christ, what burdens bow’d Thy head!
+  Our load was laid on Thee;
+Thou stoodest in the sinner’s stead,
+  Didst bear all ill for me.
+A victim led; Thy blood was shed;
+  Now there’s no load for me.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Death and the curse were in our cup,
+  O Christ, ’twas full for Thee!
+But Thou hast drained the last dark drop—
+  ’Tis empty now for me.
+That bitter cup—love drank it up;
+  Now blessings’ draught for me.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Jehovah lifted up His rod,
+  O Christ, it fell on Thee!
+Thou wast sore stricken of Thy God;
+  There’s not one stroke for me.
+Thy tears, Thy blood, beneath it flowed;
+  Thy bruising healeth me.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>The tempest’s awful voice was heard,
+  O Christ, it broke on Thee!
+Thy open bosom was my ward,
+  It braved the storm for me.
+Thy form was scarred, Thy visage marred;
+  Now cloudless peace for me.</lines>
+    </verse>
+	<verse name="v5">
+      <lines>Jehovah bade His sword awake,
+  O Christ, it woke ’gainst Thee!
+Thy blood the flaming blade must slake;
+  Thy heart its sheath must be—
+All for my sake, my peace to make;
+  Now sleeps that sword for me.</lines>
+    </verse>
+	<verse name="v6">
+      <lines>For me, Lord Jesus, Thou hast died,
+  And I have died in Thee;
+Thou’rt ris’n: my bands are all untied,
+  And now Thou liv’st in me.
+When purified, made white, and tried,
+  Thy glory then for me!</lines>
+    </verse>	
+  </lyrics>
+</song>

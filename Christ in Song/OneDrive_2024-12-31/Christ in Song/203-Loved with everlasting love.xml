@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Loved with everlasting love</title>
+      <title>203</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="203"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Loved with everlasting love,
+Led by grace that love to know;
+Spirit, breathing from above,
+Thou hast taught me it is so.
+Oh, this full and perfect peace!
+Oh, this transport all divine!
+In a love which cannot cease,
+I am His, and He is mine.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Heaven above is softer blue,
+Earth around is sweeter green;
+Something lives in every hue
+Christless eyes have never seen:
+Birds with gladder songs o’erflow,
+Flow’rs with deeper beauties shine,
+Since I know, as now I know,
+I am His, and He is mine.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Things that once were wild alarms
+Cannot now disturb my rest;
+Closed in everlasting arms,
+Pillowed on the loving breast.
+Oh, to lie forever here,
+Doubt and care and self resign,
+While He whispers in my ear,
+I am His, and He is mine.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>His forever, only His:
+Who the Lord and me shall part?
+Ah, with what a rest of bliss
+Christ can fill the loving heart.
+Heaven and earth may fade and flee,
+Firstborn light in gloom decline;
+But, while God and I shall be,
+I am His, and He is mine.</lines>
+    </verse>
+  </lyrics>
+</song>

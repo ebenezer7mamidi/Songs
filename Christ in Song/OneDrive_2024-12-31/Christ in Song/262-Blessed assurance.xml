@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Blessed assurance</title>
+      <title>262</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="262"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blessed assurance, Jesus is mine;
+Oh, what a foretaste of glory divine!
+Heir of salvation, purchase of God,
+Born of His Spirit, washed in His blood.</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>This is my story, this is my song,
+Praising my Savior all the day long.
+This is my story, this is my song,
+  Praising my Savior all the day long.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Perfect submission, perfect delight,
+Visions of rapture now burst on my sight;
+Angels descending, bring from above
+Echoes of mercy, whispers of love.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Perfect submission, all is at rest,
+I in my Savior am happy and blest;
+Watching and waiting, looking above,
+Filled with His goodness, lost in His love.</lines>
+    </verse>
+  </lyrics>
+</song>

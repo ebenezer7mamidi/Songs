@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T16:38:17">
+  <properties>
+    <titles>
+      <title>CB 402 Ask Ye What Great Thing I Know</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>103504</ccliNo>
+    <authors>
+      <author>Benjamin Hall Kennedy</author>
+      <author>Henri Abraham Ceser Malan</author>
+      <author>Johann Christoph Schedler</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="402"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ASK YE WHAT GREAT THING I KNOW<br/>That delights and stirs me so?<br/>What the high reward I win?<br/>Whose the name I glory in?<br/>Jesus Christ, the Crucified.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Who defeats my fiercest foes?<br/>Who consoles my saddest woes?<br/>Who revives my fainting heart,<br/>Healing all its hidden smart?<br/>Jesus Christ, the Crucified.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Who is life in life to me?<br/>Who the death of death will be?<br/>Who will place me on His right,<br/>With the countless hosts of light?<br/>Jesus Christ, the Crucified.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>This is that great thing I know;<br/>This delights and stirs me so:<br/>Faith in Him who died to save,<br/>Him who triumphed o'er the grave,<br/>Jesus Christ, the Crucified.</lines>
+    </verse>
+  </lyrics>
+</song>

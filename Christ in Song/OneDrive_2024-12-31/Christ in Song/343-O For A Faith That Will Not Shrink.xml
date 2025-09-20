@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>O For A Faith That Will Not Shrink</title>
+      <title>343</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="343"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O For A Faith That Will Not Shrink,
+Though Pressed By Many A Foe,
+That Will Not Tremble On The Brink
+Of Any Earthly Woe!</lines>
+    </verse>
+	<verse name="v2">
+      <lines>That Will Not Murmur Nor Complain
+Beneath The Chastening Rod,
+But In The Hour Of Grief Or Pain
+Will Lean Upon Its God.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>A Faith That Shines More Bright And Clear
+When Tempests Rage Without,
+That, When In Danger, Knows No Fear,
+In Darkness Feels No Doubt;</lines>
+    </verse>
+	<verse name="v4">
+      <lines>That Bears Unmoved The World’s Dread Frown,
+Nor Heeds Its Scornful Smile,
+That Seas Of Trouble Cannot Drown,
+Nor Satan’s Arts Beguile;</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lord, Give Us Such A Faith As This,
+And Then, Whatever May Come,
+We’ll Taste Even Here The Hallowed Bliss
+Of An Eternal Home.</lines>
+    </verse>	
+  </lyrics>
+</song>

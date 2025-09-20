@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Come, Thou Almighty King</title>
+      <title>1</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="1"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, Thou almighty King,<br/>Help us Thy Name to sing, help us to praise!<br/>Father all glorious, o’er all victorious,<br/>Come and reign over us, Ancient of Days!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come, Thou incarnate Word,<br/>Gird on Thy mighty sword, our prayer attend!<br/>Come, and Thy people bless, and give Thy Word success,<br/>Spirit of holiness, on us descend!</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Come, holy Comforter,<br/>Thy sacred witness bear in this glad hour;<br/>Thou Who almighty art, now rule in every heart,<br/>And ne’er from us depart, Spirit of pow’r!</lines>
+    </verse>
+	<verse name="v4">
+      <lines>To Thee, great One in Three,<br/>Eternal praises be, hence, evermore;<br/>Thy sov’reign majesty may we in glory see,<br/>And to eternity love and adore!</lines>
+    </verse>
+  </lyrics>
+</song>

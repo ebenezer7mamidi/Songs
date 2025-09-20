@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Lift Up Your Heads, Ye Mighty Gates</title>
+      <title>99</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="99"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lift up your heads, ye mighty gates;
+Behold the King of glory waits!
+The King of kings is drawing near;
+The Savior of the world is here.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>O blest the land, the city blest,
+Where Christ the ruler is confest!
+O happy hearts and happy homes
+To whom this King of triumph comes!</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Fling wide the portals of your heart;
+Make it a temple, set apart
+From earthly use for heav’n’s employ,
+Adorned with prayer and love and joy.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>Redeemer, come! We open wide
+Our hearts to thee, Lord, abide!
+Let our Thy inner presence feel;
+Thy grace and love in us reveal.</lines>
+    </verse>
+	<verse name="v5">
+      <lines>So come, our Sovereign, enter in!
+Let new and nobler life begin;
+Thy Holy Spirit guide us on,
+Until the glorious crown be won.</lines>
+    </verse>	
+  </lyrics>
+</song>

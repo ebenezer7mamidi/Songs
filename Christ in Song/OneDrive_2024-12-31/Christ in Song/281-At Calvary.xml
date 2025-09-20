@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>At Calvary</title>
+      <title>281</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="281"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Years I spent in vanity and pride,
+Caring not my Lord was crucified,
+Knowing not it was for me He died
+  On Calvary.</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>Mercy there was great, and grace was free;
+Pardon there was multiplied to me;
+There my burdened soul found liberty,
+    At Calvary.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>By God’s Word at last my sin I learned;
+Then I trembled at the law I’d spurned,
+Till my guilty soul imploring turned
+  To Calvary.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Now I’ve giv’n to Jesus everything,
+Now I gladly own Him as my King,
+Now my raptured soul can only sing
+  Of Calvary.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>Oh, the love that drew salvation’s plan!
+Oh, the grace that brought it down to man!
+Oh, the mighty gulf that God did span
+  At Calvary!</lines>
+    </verse>
+  </lyrics>
+</song>

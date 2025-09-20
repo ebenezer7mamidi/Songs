@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>My Faith Looks Up to Thee</title>
+      <title>344</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="344"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My faith looks up to thee,
+thou Lamb of Calvary,
+Savior divine.
+Now hear me while I pray;
+take all my guilt away;
+O let me from this day
+be wholly thine!</lines>
+    </verse>
+	<verse name="v2">
+      <lines>May thy rich grace impart
+strength to my fainting heart;
+my zeal inspire!
+As thou hast died for me,
+oh, may my love to thee
+pure, warm, and changeless be,
+a living fire!</lines>
+    </verse>
+	<verse name="v3">
+      <lines>While life's dark maze I tread,
+and griefs around me spread,
+be thou my guide.
+Bid darkness turn to day,
+wipe sorrow's tears away,
+nor let me ever stray
+from thee aside.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>When ends life's transient dream,
+when death's cold, sullen stream
+shall o'er me roll,
+blest Savior, then, in love,
+fear and distrust remove;
+O bear me safe above,
+a ransomed soul!</lines>
+    </verse>
+  </lyrics>
+</song>

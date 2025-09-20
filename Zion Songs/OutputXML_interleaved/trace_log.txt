@@ -1,0 +1,870 @@
+Song Processing Trace Log
+
+✔ Wrote 1_Dustula allochana choppuna.xml
+✔ Wrote 2_Anyajanulela lechi galathu.xml
+✔ Wrote 3_Yehovaa maa prabhuvaa bhoomi.xml
+✔ Wrote 4_Stutinthun stutinthun naa kaalochana.xml
+✔ Wrote 5_Yehovaa Naa Balamaa.xml
+✔ Wrote 6_Yaakobu devudaapada kaalambula.xml
+✔ Wrote 7_Naadu devaa naadu devaa.xml
+✔ Wrote 8_Yehovaa naa kaapari.xml
+✔ Wrote 9_Neeve Yehovaa naa kaaparivi.xml
+✔ Wrote 10_Yehovaa naa kaapari naaku lemi ledu.xml
+✔ Wrote 11_Yesu prabhoo kapari naaku.xml
+✔ Wrote 12_Bhoomiyu daani sampoornatha lokamu.xml
+✔ Wrote 13_Devaa nee mukhamunu naaku.xml
+✔ Wrote 14_Udaya saayanthramula nella velala prabhuvaa.xml
+✔ Wrote 15_Yehovaa naa devaa nityamu.xml
+✔ Wrote 16_Yavvani athikramamulu mannimpabaduno.xml
+✔ Wrote 17_Sannuthinthu neppudehovaanu.xml
+✔ Wrote 18_Pillalara na mata vinudi.xml
+✔ Wrote 19_Vyasana padakumu-neevu.xml
+✔ Wrote 20_Yohovaa nee kopamu cheta.xml
+✔ Wrote 21_Yehovaa koraku sahanamutho.xml
+✔ Wrote 22_Neeti vaagula koraku duppi.xml
+✔ Wrote 23_Nee velugu nee satyamu bayalu.xml
+✔ Wrote 24_Kumaari aalakinchu - nee vaalochinchi.xml
+✔ Wrote 25_Devude mana kaashrayamunu.xml
+✔ Wrote 26_Sarva janulaaraa chappatlu kotti paadudi.xml
+✔ Wrote 27_Mana devuni pattana mandaayana.xml
+✔ Wrote 28_Sarva Janulaaraa vinudi.xml
+✔ Wrote 29_Yehovaa naa devaa.xml
+✔ Wrote 30_Devaa naa devudavu neeve.xml
+✔ Wrote 31_Sarvaloka nivaasu laara.xml
+✔ Wrote 32_Nee maargamu devaa.xml
+✔ Wrote 33_Kristuni naamamu nityamu nilchun.xml
+✔ Wrote 34_Yoodaalo devudu prasiddhudu.xml
+✔ Wrote 35_Devuniki morra pettudunu elugeththi.xml
+✔ Wrote 36_Mana balamaina yaakobu devuniki.xml
+✔ Wrote 37_Sainyamula Yehovaa.xml
+✔ Wrote 38_Prabhu selavitchu daani naala kintunu.xml
+✔ Wrote 39_Prabhuvaa thara tharamula nundi.xml
+✔ Wrote 40_Devaa thara tharamulaku.xml
+✔ Wrote 41_Mahonnathuni chaatuna vasinchu vaade.xml
+✔ Wrote 42_Sarvannathuni chaatuna nivasinchedi.xml
+✔ Wrote 43_Yehovaanu stutinchuta manchidi.xml
+✔ Wrote 44_Randi yehovaanu goorchi.xml
+✔ Wrote 45_Yehovaa meeda kroththa keertana.xml
+✔ Wrote 46_Samastha deshamulaaraa andaru paadudi.xml
+✔ Wrote 47_Samastha janulaaraa meeru.xml
+✔ Wrote 48_Stutiyinchu - prabhun stutiyinchu.xml
+✔ Wrote 49_Vaaraayananu jana samaajamulo.xml
+✔ Wrote 50_Devaa naa hrudayamu.xml
+✔ Wrote 51_Stutintun devuni sabhalo.xml
+✔ Wrote 52_Yehovaa nee yokka maata.xml
+✔ Wrote 53_Naa shramalo Yehovaaku moraliditini.xml
+✔ Wrote 54_Kondala thattu kanuleththu.xml
+✔ Wrote 55_Yehovaa mandiramunaku velludamani.xml
+✔ Wrote 56_Yehovaa illu kattinchani yedala.xml
+✔ Wrote 57_Yehovaa agaadha stalamula lonundi.xml
+✔ Wrote 58_Sahodarulu yaikyata kalgi.xml
+✔ Wrote 59_Yehovaa sevakulaaraa stutinchudi.xml
+✔ Wrote 60_Yehovaanu stutinchudi aayana.xml
+✔ Wrote 61_Yehovaa neevu nannu parisheelinchi.xml
+✔ Wrote 62_Yehovaa andarikini mahopakaarundu.xml
+✔ Wrote 63_Oh naadu yesu Raajaa.xml
+✔ Wrote 64_Halleluya naa pranamaa.xml
+✔ Wrote 65_Devuniki stotramu gaanamu.xml
+✔ Wrote 66_Stutiyinchu daayana naakasha vaasulaaraa.xml
+✔ Wrote 67_Stutinchudi yehovaa devuni surya.xml
+✔ Wrote 68_Yehovaaku stutulu paadandi - meeru samaja.xml
+✔ Wrote 69_Yehovaaku krotha keerthana.xml
+✔ Wrote 70_Devuni stutiyinchudi.xml
+✔ Wrote 71_Halleluyaa yesu prabhun.xml
+✔ Wrote 72_Stutinchudi meeru stutinchudi.xml
+✔ Wrote 73_Siyonuku thirigi prabhuvu.xml
+✔ Wrote 74_Yehova na stuti kadaruda.xml
+✔ Wrote 75_Ni rekkala catuna saranondedan.xml
+✔ Wrote 76_Adyantha rahithudavagu maajyothi.xml
+✔ Wrote 77_Stutinchudi stutinchudi aayana.xml
+✔ Wrote 78_Aadi yantamu leni vaadaa.xml
+✔ Wrote 79_Calvariloni shreshtudaa - karunaa bharitha.xml
+✔ Wrote 80_Naa priya yesu neeve naa.xml
+✔ Wrote 81_Parishudda parishudda parishudda prabhuvaa.xml
+✔ Wrote 82_Mangalame yesunaku - manujaavatharunaku.xml
+✔ Wrote 83_Sundara rakshakudaa.xml
+✔ Wrote 84_Stotrintumu ninu maadu thandri.xml
+✔ Wrote 85_Kristu yesu dayaalu prabhu.xml
+✔ Wrote 86_Yesu parishudda naamamunaku.xml
+✔ Wrote 87_Yesu samasina silva chentha.xml
+✔ Wrote 88_Sannutintumu ninne.xml
+✔ Wrote 89_Yehovaanu gaanamu chesedamu.xml
+✔ Wrote 90_Aanada maananda mayenu.xml
+✔ Wrote 91_Saagilapadi mrokkedamu.xml
+✔ Wrote 92_Yehovaa mohonnathudaa.xml
+✔ Wrote 93_Aashinchumu prabhu.xml
+✔ Wrote 94_Priya yesu priya yesu.xml
+✔ Wrote 95_Idigo nee raaju vachchu chunde.xml
+✔ Wrote 96_Sharanam sharanam sharanam devaa.xml
+✔ Wrote 97_Saagilapadi aaraadhinchedamu.xml
+✔ Wrote 98_Yesu thrupti parachitivi.xml
+✔ Wrote 99_Parama pavitra swargapitha.xml
+✔ Wrote 100_Yesu madhura naamamu.xml
+✔ Wrote 101_Sarvonnatha stalambulo.xml
+✔ Wrote 102_Prabhuni smarinchu.xml
+✔ Wrote 103_Harshintunu Harshintunu.xml
+✔ Wrote 104_Naa praana priyudaa.xml
+✔ Wrote 105_Deva devuni koniyaadedamu.xml
+✔ Wrote 106_Madhura madhuramu yesu.xml
+✔ Wrote 107_Parishuddha prabhu yesu.xml
+✔ Wrote 108_Jai Jai Jai Jai raajula raajaa.xml
+✔ Wrote 109_Yehovaaku paadudi paatan.xml
+✔ Wrote 110_Yesunaadha thriloka naadha.xml
+✔ Wrote 111_Sarvashakhtudu naaku.xml
+✔ Wrote 112_Prabho needu mahimanu paadi.xml
+✔ Wrote 113_Oh yesu nee prema entho.xml
+✔ Wrote 114_O premagala yesu.xml
+✔ Wrote 115_Halleluya paadudi.xml
+✔ Wrote 116_Nene unnavaada nanina.xml
+✔ Wrote 117_Vandanamo vandana mesayyaa.xml
+✔ Wrote 118_Arpinthu stutul nee.xml
+✔ Wrote 119_Santoshame santoshame.xml
+✔ Wrote 120_Raatrimbavallu paadedanu.xml
+✔ Wrote 121_Shanthi daayaka Yesu prabhoo.xml
+✔ Wrote 122_Hrudaya marpinchedamu.xml
+✔ Wrote 123_Aananda maananada maanandame.xml
+✔ Wrote 124_Jai prabhu yesu.xml
+✔ Wrote 125_Prabhuva nee goppa thanamu.xml
+✔ Wrote 126_Vandanimmu Nimmu Prabhu.xml
+✔ Wrote 127_Oh naa hrudayamaa paadumaa.xml
+✔ Wrote 128_Devaa nee thalampulu amoolya.xml
+✔ Wrote 129_Stutulaku paatrundavu.xml
+✔ Wrote 130_Yesu kristu prabhuvaayane.xml
+✔ Wrote 131_Halleluya stuti prashamsa.xml
+✔ Wrote 132_Stotra geetamulanu paaduchu.xml
+✔ Wrote 133_Sarva krupaa nidhi yagu.xml
+✔ Wrote 134_Mahaa ghanudu mahonnathudu.xml
+✔ Wrote 135_Halleluyaa stuti Halleluyaa.xml
+✔ Wrote 136_Koniyaadi - paadi keertinchi.xml
+✔ Wrote 137_Devaa naa yandu neeku.xml
+✔ Wrote 138_Adyantha rahitha prabhuvaa.xml
+✔ Wrote 139_Nrupaa vimochaka prabhu.xml
+✔ Wrote 140_Sri rakshakuni namamu.xml
+✔ Wrote 141_Rakshakuni vichitra preman.xml
+✔ Wrote 142_Yesuni naama shabdamu.xml
+✔ Wrote 143_Kontini goppa mutyamu.xml
+✔ Wrote 144_Bhaktulara dhukka krantudu.xml
+✔ Wrote 145_Rajadi rajupai kireetamunchudi.xml
+✔ Wrote 146_Sarwamupai yesu rajyamelun.xml
+✔ Wrote 147_Yesuprabhoo gaddepainunna.xml
+✔ Wrote 148_Atyantha sundarundunu.xml
+✔ Wrote 149_Aa mundla kireetam boyenu.xml
+✔ Wrote 150_Namaskarimpa randi.xml
+✔ Wrote 151_Shudhi, Shudhi, Shudhi.xml
+✔ Wrote 152_Nee jaldaru vrukshapu.xml
+✔ Wrote 153_Yesu nangeekarinchiti daiva.xml
+✔ Wrote 154_Devaa naa prabhuvaa ninu goorchi.xml
+✔ Wrote 155_Prabhu yesu naakai nee.xml
+✔ Wrote 156_Paavanudaa maa prabhuvaa.xml
+✔ Wrote 157_Yesu nan preminchitivi.xml
+✔ Wrote 158_Prabhuvaa needu ghana.xml
+✔ Wrote 159_Prema nammakamugala.xml
+✔ Wrote 160_O prabhuvaa idi nee.xml
+✔ Wrote 161_Prema gala maa.xml
+✔ Wrote 162_Aaraadhincheda ninu madi.xml
+✔ Wrote 163_Ruchi choochi erigitini.xml
+✔ Wrote 164_Needu viswasyatha maa.xml
+✔ Wrote 165_Sannuthinchedanu ellappudu.xml
+✔ Wrote 166_Devunike mahima yuga.xml
+✔ Wrote 167_Aashcharya karuda vive.xml
+✔ Wrote 168_Naa praanamaa naa sarvamaa.xml
+✔ Wrote 169_Gaayamulan gaayamulan.xml
+✔ Wrote 170_Doota ganamulella aaraadhinchiri.xml
+✔ Wrote 171_Maa prabhu yesu neeve.xml
+✔ Wrote 172_Pranutinthumu maa Yehovaa.xml
+✔ Wrote 173_Asamanundagu oh kristu.xml
+✔ Wrote 174_Ghanatha mahima prabhuke.xml
+✔ Wrote 175_Stutiyu mahima ghanatha.xml
+✔ Wrote 176_Naa prabhu preminchenu.xml
+✔ Wrote 177_Oh prabhu neeve dhanyudavu.xml
+✔ Wrote 178_Ponditini nenu prabhuvaa.xml
+✔ Wrote 179_Andaramu prabhu ninnu.xml
+✔ Wrote 180_Poojaneeyudesu prabhu.xml
+✔ Wrote 181_Ne paadeda nityamu.xml
+✔ Wrote 182_Pravimaludaa paavanudaa.xml
+✔ Wrote 183_Vijayundu kristu.xml
+✔ Wrote 184_Yesu prabhuve saataanu.xml
+✔ Wrote 185_Paadedamu nee stutulanu.xml
+✔ Wrote 186_Prabhuvaina kristu mahimaaswaroopa.xml
+✔ Wrote 187_Yesu prabhuni sankalpamulu.xml
+✔ Wrote 188_Jayasheeludavagu oh maa.xml
+✔ Wrote 189_Mahaa saamaardya.xml
+✔ Wrote 190_Stutiyu prasamsayu mahimayu.xml
+✔ Wrote 191_Oh Abraham, Issaaku.xml
+✔ Wrote 192_Naa priyamaina Yesu prabhu.xml
+✔ Wrote 193_Tambura sitaratho.xml
+✔ Wrote 194_Naa priyudaa paapavimochakudaa.xml
+✔ Wrote 195_Ni mandiramu atisrngaramu.xml
+✔ Wrote 196_Yesu nike jayam jayamu.xml
+✔ Wrote 197_Aanandamutho  aaradhinthun.xml
+✔ Wrote 198_Naa manonetramu terachi.xml
+✔ Wrote 199_Mahima ghanatha stuthi prabavamu.xml
+✔ Wrote 200_Halleluya padeda.xml
+✔ Wrote 201_Aaraadhanalaku yogyudavu.xml
+✔ Wrote 202_Stotrinchedamu daiva.xml
+✔ Wrote 203_Daveedu vamsa yesu.xml
+✔ Wrote 204_Devaadi devuni bhoo.xml
+✔ Wrote 205_Stotramu yesu naadhaa.xml
+✔ Wrote 206_Stutiyinchu priyudaa.xml
+✔ Wrote 207_Stotramu stotramu stotramu.xml
+✔ Wrote 208_Nammaka maina naa prabhu.xml
+✔ Wrote 209_Rakshakudaa yesu prabho stotramu.xml
+✔ Wrote 210_Stotramu paadi pogadedanu.xml
+✔ Wrote 211_Stutiyinthumu - stotrinthumu.xml
+✔ Wrote 212_Yehovaa mahaatmyamu.xml
+✔ Wrote 213_Krupagala devuni koniyaadedamu.xml
+✔ Wrote 214_Stuti prashamsha.xml
+✔ Wrote 215_Bhajiyimpa randi prabhu.xml
+✔ Wrote 216_Anudinamu maa bharamu.xml
+✔ Wrote 217_Bhakhtulaaraa smariyinchedamu.xml
+✔ Wrote 218_Yesu prabhuni stutinchuta.xml
+✔ Wrote 219_Yesu divya rakshakuni.xml
+✔ Wrote 220_Prabhu naa devaa.xml
+✔ Wrote 221_Prabhaava shaktulu.xml
+✔ Wrote 222_Yesu prabhoo nee.xml
+✔ Wrote 223_Jayamani paadu jayamani.xml
+✔ Wrote 224_Oh jagadrakshakaa.xml
+✔ Wrote 225_Krupaathi shayamul.xml
+✔ Wrote 226_Stutinchu stutinchu.xml
+✔ Wrote 227_Ne sthuthinchedanu yesu namamunu.xml
+✔ Wrote 228_Padeda deva  nee krupalan.xml
+✔ Wrote 229_Yesu namam manoharam.xml
+✔ Wrote 230_Entha jaali yesuvaa.xml
+✔ Wrote 231_Shree yesu naadhuni.xml
+✔ Wrote 232_Devaadi devaa prabhuvul.xml
+✔ Wrote 233_Jai Jai yesu raajaa.xml
+✔ Wrote 234_Naadu praanamaa.xml
+✔ Wrote 235_Prabhu ninnu keertinchu.xml
+✔ Wrote 236_Jeevambu nitchina.xml
+✔ Wrote 237_Stotrinchi keertintumu.xml
+✔ Wrote 238_Stotrinchi keertinchedamu.xml
+✔ Wrote 239_Maa devaa maa devaa.xml
+✔ Wrote 240_Yehovaa goppa kaaryamulu.xml
+✔ Wrote 241_Stutintun parishudduni.xml
+✔ Wrote 242_Prabhu goppa kaaryamulu.xml
+✔ Wrote 243_Aanandamugaa Yehovaa Nee Krupaalanni.xml
+✔ Wrote 244_Devuni keertinchedamu.xml
+✔ Wrote 245_Pagatilo megha stambhamugaa.xml
+✔ Wrote 246_Rakshanya paatalu paadi.xml
+✔ Wrote 247_Kruthajnathan thalavanchi.xml
+✔ Wrote 248_Naa korakai anniyu.xml
+✔ Wrote 249_Yehovaa manakoraku.xml
+✔ Wrote 250_Yohovaa kaaryamulannitikai.xml
+✔ Wrote 251_Poorna hrudaya stotramul.xml
+✔ Wrote 252_Adavi chetla naduma.xml
+✔ Wrote 253_Devuni stutincharandi.xml
+✔ Wrote 254_Stotramu stotramayyaa devaa.xml
+✔ Wrote 255_Deva - Samvathsaramunu.xml
+✔ Wrote 256_Stutulu nee karpintunu.xml
+✔ Wrote 257_Prabhuva padedha noka.xml
+✔ Wrote 258_Oh bhakhtulaaraa mana.xml
+✔ Wrote 259_Memu bhaya padamu - ika memu.xml
+✔ Wrote 260_Bhayamu leduga manaku.xml
+✔ Wrote 261_Prabhu kristesu neeke.xml
+✔ Wrote 262_Naa priyudu naavaadu nenu.xml
+✔ Wrote 263_Ee Sudinamu-Yesu Prabuva.xml
+✔ Wrote 264_Sanvatsaradi modalu - sanvatsarantamu.xml
+✔ Wrote 265_Deva sutudu yesu.xml
+✔ Wrote 266_Mariyaku sutuduga.xml
+✔ Wrote 267_Betlehem puramuna.xml
+✔ Wrote 268_O sadbhaktulara loka.xml
+✔ Wrote 269_Doota paata padudi.xml
+✔ Wrote 270_Vintimayya nee swaramu.xml
+✔ Wrote 271_Udayinche divya rakshakudu.xml
+✔ Wrote 272_Niraakaaraa, suroopudaa.xml
+✔ Wrote 273_Yesuni shramalatoda.xml
+✔ Wrote 274_Manakai yesu maraninche.xml
+✔ Wrote 275_Yesu prabhu naa.xml
+✔ Wrote 276_Prabhu yesu.xml
+✔ Wrote 277_Nee rakhtame.xml
+✔ Wrote 278_Siluvalo baliyaina.xml
+✔ Wrote 279_Adigo calvarilo.xml
+✔ Wrote 280_Daivatanayaa kristhunadhundaa.xml
+✔ Wrote 281_Yesuni rakhtame.xml
+✔ Wrote 282_Yetuvanti yaagambu.xml
+✔ Wrote 283_Choodumade nee.xml
+✔ Wrote 284_Jeevapu maargajyotivi.xml
+✔ Wrote 285_Yesu chavonde siluvapai.xml
+✔ Wrote 286_Mahatmudaina naa prabhu.xml
+✔ Wrote 287_Calvari guttameedanu.xml
+✔ Wrote 288_Devaa naa devaa.xml
+✔ Wrote 289_Priyuni siluvanu preminthun.xml
+✔ Wrote 290_Geetam geetam jaya jaya.xml
+✔ Wrote 291_Lechinaaduraa samaadhi.xml
+✔ Wrote 292_Sresta geethamu vinabadu.xml
+✔ Wrote 293_Yesu smadhilo.xml
+✔ Wrote 294_Kristu leche Halleluya.xml
+✔ Wrote 295_Kristu nedu lechenu.xml
+✔ Wrote 296_Yesuraju vachunu dootalatho.xml
+✔ Wrote 297_Raajaadhi raajaa raave.xml
+✔ Wrote 298_Meghaaroodundai - prabhu.xml
+✔ Wrote 299_Prabhuni raakada eediname.xml
+✔ Wrote 300_Mahimayutudu maa yesu raju.xml
+✔ Wrote 301_Meghamumeeda Yesuraju.xml
+✔ Wrote 302_Sodarulaaraa lendi.xml
+✔ Wrote 303_Yesu raagaane sangamu.xml
+✔ Wrote 304_Rajula rajuga Yesu.xml
+✔ Wrote 305_Nee devuni sandhincha neevu.xml
+✔ Wrote 306_Parishuddu lellaru yesun pogadi.xml
+✔ Wrote 307_Yesu sheegramugaa vachchun  aashatho.xml
+✔ Wrote 308_Meluko mahima raju.xml
+✔ Wrote 309_Adigo vachinadevaro chudumu.xml
+✔ Wrote 310_Yesu sheeghramuga thirigi vachchun.xml
+✔ Wrote 311_Idigo nenu vachu chunnaanu.xml
+✔ Wrote 312_Jayamani paadu prabhu yesunake.xml
+✔ Wrote 313_Kaalamu sameepamu prabhu yesu.xml
+✔ Wrote 314_Prakaasha vastramutho paraloka mahimatho.xml
+✔ Wrote 315_Raajula raaju - prabhuvula prabhoo.xml
+✔ Wrote 316_Jagratha, bakthulara pilupi.xml
+✔ Wrote 317_Siyonu raaju vachchunu madini.xml
+✔ Wrote 318_Prabhuvu digivatchunu paramunundi.xml
+✔ Wrote 319_Kristu yesu vachunu.xml
+✔ Wrote 320_Boora shabhdambu ningin.xml
+✔ Wrote 321_Yesu kristu sheeghramuga.xml
+✔ Wrote 322_Kontha samayame migilinadi.xml
+✔ Wrote 323_Jayinchu vaarini koni pova.xml
+✔ Wrote 324_Halleluyah Halleluyah.xml
+✔ Wrote 325_Oh sanghamaa shubha vaartha.xml
+✔ Wrote 326_Leru leru - jagatin nee samamu.xml
+✔ Wrote 327_Rajulaku rajaina Yesu prabhuvu ranai.xml
+✔ Wrote 328_ParamaThandri suthudu.xml
+✔ Wrote 329_Deva gorrepilla siluvalo samasinappudu.xml
+✔ Wrote 330_Maharaja Yesu nekai mahima kalugu gaka.xml
+✔ Wrote 331_Paraloka rajyamu cherutaku.xml
+✔ Wrote 332_Premadankaa jagamuna.xml
+✔ Wrote 333_Jayamani padudi sarwa janama.xml
+✔ Wrote 334_Jagati karudenche - rakshana kartha.xml
+✔ Wrote 335_Danya Danya yesu namamu.xml
+✔ Wrote 336_Eyana mata vinudi - needu.xml
+✔ Wrote 337_Papamunaku jeetamu maranamu.xml
+✔ Wrote 338_Parugidara sodaruda.xml
+✔ Wrote 339_Vinudi sodarulaaraa.xml
+✔ Wrote 340_Randi randi rayamuna Yesuni.xml
+✔ Wrote 341_Iruku margambulo pravesinchu.xml
+✔ Wrote 342_Krupa kalamu dati povuchunnadi.xml
+✔ Wrote 343_Prabhu Yesuke jayamanipaadu.xml
+✔ Wrote 344_Caluvarilo vimukhti - kaligeno priyundaa.xml
+✔ Wrote 345_Yesu prabhuve gaaka vasudhalo.xml
+✔ Wrote 346_Prabhu sriyesu - prabhu sri yesu.xml
+✔ Wrote 347_Paripurnambagu guruvu yevaru.xml
+✔ Wrote 348_Prajalara vegame raare.xml
+✔ Wrote 349_Premamrutha dhaarala chindina mana.xml
+✔ Wrote 350_Rammanu chunna desu raaju.xml
+✔ Wrote 351_Randi randi yesuni yoddaku.xml
+✔ Wrote 352_Rarandi yesu padamula chera.xml
+✔ Wrote 353_Ilalo yesunake jayamu.xml
+✔ Wrote 354_Kriste sarvaadhikaari.xml
+✔ Wrote 355_Andhakaara lokamunaku.xml
+✔ Wrote 356_Maanava roopamunu dharinchi.xml
+✔ Wrote 357_Saatilenidi Yesuni rakhtamu.xml
+✔ Wrote 358_Rakshana nosagedu Yesuni.xml
+✔ Wrote 359_Papulakoraku prabhuyesu.xml
+✔ Wrote 360_Devudu lokamunu yentho preminchenu.xml
+✔ Wrote 361_Maya lokamu - mosapokumu.xml
+✔ Wrote 362_Nyaayapeetahmu nee mundu unnadi.xml
+✔ Wrote 363_Mahavaidyundu vachenu.xml
+✔ Wrote 364_Shubhavartha vintimi.xml
+✔ Wrote 365_Immaanuyeluni rakhtamu.xml
+✔ Wrote 366_Daagunedi mapunu - vega Yesu.xml
+✔ Wrote 367_Mana prabhuvaina Yesu nandu.xml
+✔ Wrote 368_Nee jeevitamu kshanabhangurame.xml
+✔ Wrote 369_Entho goppa nityamaina.xml
+✔ Wrote 370_Yesu lenicho papikaashrayame ledu.xml
+✔ Wrote 371_Maaru manassu pondumu.xml
+✔ Wrote 372_Vyardham vyardham, sarvamu.xml
+✔ Wrote 373_Kristu prabhuke sakala mahima.xml
+✔ Wrote 374_Evaro thelusaa Yesayyaa chebuthaa.xml
+✔ Wrote 375_Shramalanu ponde shree Yesudu.xml
+✔ Wrote 376_Yesu namamune paapiki rakshana.xml
+✔ Wrote 377_Yesuni venta nenu - vembadinchuchunnanu.xml
+✔ Wrote 378_Neevennallu rendu thalampulatho.xml
+✔ Wrote 379_Painunna aakasamanduna.xml
+✔ Wrote 380_Yesu prabhuve lokarakshakudu.xml
+✔ Wrote 381_Yesuni chentaku aashatho rammila.xml
+✔ Wrote 382_Idiye anukula samayamu neeku.xml
+✔ Wrote 383_Idiye samayambu randi.xml
+✔ Wrote 384_Mayaloka mayalo nela.xml
+✔ Wrote 385_Vinathi vinathi vinathi triyekuniki.xml
+✔ Wrote 386_Kala Vilu Va Neeku.xml
+✔ Wrote 387_Prabhu Yesu pilupunu.xml
+✔ Wrote 388_Prematho yesu - piluchuchunnaadu.xml
+✔ Wrote 389_Immuga nee hrudaya nimmu.xml
+✔ Wrote 390_O Paapi jeevapu yootaku raa.xml
+✔ Wrote 391_Gadiya nenu thattu chunnaanu.xml
+✔ Wrote 392_Yesu raajun nee yadalo.xml
+✔ Wrote 393_Sodarudaa paapa kshamakai.xml
+✔ Wrote 394_Yesu prabhuve neeku rakshana.xml
+✔ Wrote 395_Oh paapi sandhinchitivaa.xml
+✔ Wrote 396_Choodumu sodarudaa neevu.xml
+✔ Wrote 397_Prabhu thattu kannuleththu.xml
+✔ Wrote 398_Choodumu neevu melconumu.xml
+✔ Wrote 399_Yesuni sweekarinchu.xml
+✔ Wrote 400_Jeevitha mevvariki nee jeevitha mevvariki.xml
+✔ Wrote 401_Yesu ninnu pilichenu.xml
+✔ Wrote 402_Choodumu eekshaname calvarini.xml
+✔ Wrote 403_Entha paapinainanu - Yesu cherchukonunu.xml
+✔ Wrote 404_Yesu naadhuni gaayamulanu.xml
+✔ Wrote 405_Rakshanampu vaartanu vini.xml
+✔ Wrote 406_Prabhu yesu rammanuchunde.xml
+✔ Wrote 407_Yerushalemu gummamulaara rajunu.xml
+✔ Wrote 408_Theruvu nee hrudaya dwarambu nede.xml
+✔ Wrote 409_Krupakaalamulo prabhuyesune.xml
+✔ Wrote 410_Kristu chentaku rammu.xml
+✔ Wrote 411_Teruvabadi yunnadi krupadwaramu.xml
+✔ Wrote 412_Naa maata vinumani.xml
+✔ Wrote 413_Daari tholagitivela.xml
+✔ Wrote 414_Lokamunu vidachi vellavalenuga.xml
+✔ Wrote 415_Nee jeevitamulo gamyambu yedo.xml
+✔ Wrote 416_Aa caluvary margamulo.xml
+✔ Wrote 417_Yesu prabhu pilachuchunden.xml
+✔ Wrote 418_Shanthi santosham papakshamapana.xml
+✔ Wrote 419_Peda naruni rupamu dharinchi.xml
+✔ Wrote 420_Naadu hrudayapu dwaaram.xml
+✔ Wrote 421_Priya yesu nirminchitivi.xml
+✔ Wrote 422_Kanikarinchi nannu rakshinchu.xml
+✔ Wrote 423_Yesu naa hrudayamunanduna.xml
+✔ Wrote 424_Rakshana nosagumu prabhuva.xml
+✔ Wrote 425_Nenu ghorapaapini cheri.xml
+✔ Wrote 426_Prabhuvaa nannu karuninchumu.xml
+✔ Wrote 427_Jeevapu daata naa hrudayamuloniki.xml
+✔ Wrote 428_Viduvavu nannika ennadainanu.xml
+✔ Wrote 429_Paapini nenu thappiti.xml
+✔ Wrote 430_Nedu ne naa rakshakuni.xml
+✔ Wrote 431_Nakai chilchabaddayo.xml
+✔ Wrote 432_O yesu rakshakaa.xml
+✔ Wrote 433_Unnattu nenu vachedan.xml
+✔ Wrote 434_Aakaashamu bhuvilo nella.xml
+✔ Wrote 435_Paapabharamu dhustaguna.xml
+✔ Wrote 436_Dayagala Yesu paapi kaashrayudaa.xml
+✔ Wrote 437_Sangha mokkate, saarvathrika.xml
+✔ Wrote 438_Parishuddha shriyesuve - paralokaraaju.xml
+✔ Wrote 439_Jayinchuvadu Deva kumarudu.xml
+✔ Wrote 440_Siyonu pattanamaa.xml
+✔ Wrote 441_Siyonu puramaa - sarvonnathuni.xml
+✔ Wrote 442_Prabhu yesu sanghamu nirminchu.xml
+✔ Wrote 443_Bhaktula sanghame prabhuni.xml
+✔ Wrote 444_Santasillunu mee hrudayaalu.xml
+✔ Wrote 445_Shakhtigala shaalemu raajaa.xml
+✔ Wrote 446_Daiva darshanamuna Yaakobu.xml
+✔ Wrote 447_Immuga nee sudinambu nundi.xml
+✔ Wrote 448_Sarvashakhtuni vaakku idiye.xml
+✔ Wrote 449_Siyonu vaasu laaraa.xml
+✔ Wrote 450_Gorrepilla vivaahotsava.xml
+✔ Wrote 451_Aatma mandiramunu.xml
+✔ Wrote 452_Prabhu dayacheyu nitya.xml
+✔ Wrote 453_Nirmimpabaditimi manamu.xml
+✔ Wrote 454_Stutinchumu stutinchumu.xml
+✔ Wrote 455_Ee sangapu bunaadi.xml
+✔ Wrote 456_Deva patnamaa siyonu.xml
+✔ Wrote 457_O pavanulaaraa - meedu vishwasampu.xml
+✔ Wrote 458_Maname prabhuni paraloka gruhamu.xml
+✔ Wrote 459_Sanghame kristu yesuni shareeramu.xml
+✔ Wrote 460_Kristesu prabhuvu thana rakhtamichi.xml
+✔ Wrote 461_Parishuddha pattanamu kroththa.xml
+✔ Wrote 462_Nootana maina Yerushalemu parishudda.xml
+✔ Wrote 463_Prabhuni gruhamu aayana.xml
+✔ Wrote 464_Parishudda mandiramu naaku.xml
+✔ Wrote 465_Devudoka nagaramu manakorakai.xml
+✔ Wrote 466_Prabhu prajalaaraa rayamuna randi.xml
+✔ Wrote 467_Prabhuni sangamaa - melko - nede.xml
+✔ Wrote 468_Entha soundarya nagaramu.xml
+✔ Wrote 469_Devuni mahima mandiram.xml
+✔ Wrote 470_Yehova ninnu asirvadinci.xml
+✔ Wrote 471_Paata krotha nibhadanalanduna.xml
+✔ Wrote 472_Kristuni swaramu vindunu prabhuve.xml
+✔ Wrote 473_Dahamu theerchumayya.xml
+✔ Wrote 474_Aa dinamulalo devokthi - arudaayenu.xml
+✔ Wrote 475_Mangalamuga padudi.xml
+✔ Wrote 476_Nityudesune stutinchu.xml
+✔ Wrote 477_Dappi gonina vaanipai neetin.xml
+✔ Wrote 478_Sarassu prakkana rottelanu.xml
+✔ Wrote 479_Naadhaa Samuyelu reeti.xml
+✔ Wrote 480_Ne bodimpa janaalikin - nerpimpu.xml
+✔ Wrote 481_Nee swaramu vinupinchu prabhuvaa.xml
+✔ Wrote 482_Vinipincu prabhu ni svaramunu.xml
+✔ Wrote 483_Nityamu niluchunadi – devuni vakyamu.xml
+✔ Wrote 484_Idigo mee devudani.xml
+✔ Wrote 485_Nadrsti nipai nilipi.xml
+✔ Wrote 486_Yesuni nammedivaaru aayana.xml
+✔ Wrote 487_Yehovaanu stutinchudi - aayana.xml
+✔ Wrote 488_Siyonu paatalu - santoshamuga.xml
+✔ Wrote 489_Idigo nenoka nootana kriyanu.xml
+✔ Wrote 490_Swaschanda siyonu vaasi.xml
+✔ Wrote 491_Yehovaayandaanandame.xml
+✔ Wrote 492_Devudu meeku ellappudu thoduga.xml
+✔ Wrote 493_Ellappudu ellappudu ellappudu.xml
+✔ Wrote 494_Deva samaadhaanam shanthinadhi vale.xml
+✔ Wrote 495_Aatma vishayamai deenulaina.xml
+✔ Wrote 496_Shaashwata mainadi prema.xml
+✔ Wrote 497_Parishuddulai yundudi daiva.xml
+✔ Wrote 498_Premaa premaa - premaa.xml
+✔ Wrote 499_Erigiyuntive - Yehovaa.xml
+✔ Wrote 500_Ne Yesuni velugulo nadichedanu.xml
+✔ Wrote 501_Meere lokamunaku velugu.xml
+✔ Wrote 502_Balavantudesu mahima.xml
+✔ Wrote 503_Nene bhayapadakudadanenu.xml
+✔ Wrote 504_Manamu Yesu prabhuni mahima.xml
+✔ Wrote 505_Devaa ! nee thalampulu naa.xml
+✔ Wrote 506_Akasama Alakinchuma.xml
+✔ Wrote 507_Samaadhana - gruhambulonu.xml
+✔ Wrote 508_Lechi randi viswaasulaaraa.xml
+✔ Wrote 509_Raarammu raarammu saatveekudaina.xml
+✔ Wrote 510_Bhayapadakumu neevu - yuddamu.xml
+✔ Wrote 511_Bhaya padakumu oh chinna.xml
+✔ Wrote 512_Mana mesuni vaaralamu.xml
+✔ Wrote 513_Vaaru aayana thattu choodagane.xml
+✔ Wrote 514_Lokam jeevam maranambainan.xml
+✔ Wrote 515_Sarvashakhtuni vaakku idiye.xml
+✔ Wrote 516_Sampoorna rakshanayoota.xml
+✔ Wrote 517_Naayaatma langaru veya.xml
+✔ Wrote 518_Jeevithambu ghora kastanastamul.xml
+✔ Wrote 519_Aayana nannu nadupunanu.xml
+✔ Wrote 520_Nadpumaa mahaa Yehovaa.xml
+✔ Wrote 521_Yesu mammunu nadipinchu.xml
+✔ Wrote 522_Nee chentako prabho nejeedan.xml
+✔ Wrote 523_Poorva maasheervaadamu.xml
+✔ Wrote 524_Yesu aatma priyudaa.xml
+✔ Wrote 525_Naa prema raajukapari.xml
+✔ Wrote 526_Daiva prema pridviloni.xml
+✔ Wrote 527_Immuga nadipinchitivi.xml
+✔ Wrote 528_Anananda mahaanandam.xml
+✔ Wrote 529_Meeru Bahugaa Phalinchinacho.xml
+✔ Wrote 530_Melkonumaa melkonumaa.xml
+✔ Wrote 531_Adbutha deevenalu prabhuvaa.xml
+✔ Wrote 532_Kristuni choochuchu saagi velledanu.xml
+✔ Wrote 533_Velledamu koodi velledamu.xml
+✔ Wrote 534_Oh prabhuvaa ne daari tholagithi.xml
+✔ Wrote 535_Ee loka yaatralo ne.xml
+✔ Wrote 536_Aadi premanu vidachi pettithivaa.xml
+✔ Wrote 537_Devunitho sahapaati.xml
+✔ Wrote 538_Nishchayamuga ninnu deevinchedanu.xml
+✔ Wrote 539_Yesu manatho nundaga.xml
+✔ Wrote 540_Prabhuvaa chesitivi vaagdhanamulu.xml
+✔ Wrote 541_Aanandinchedamu Yehovaalo.xml
+✔ Wrote 542_Lellemmu Siyonu - dhariyinchumu.xml
+✔ Wrote 543_Oh ishraayelu - needu bhagyamentho.xml
+✔ Wrote 544_Naa jeevitha saagaramuna.xml
+✔ Wrote 545_Neeku kaligina danini – chepattumu.xml
+✔ Wrote 546_Yehovaye manadevudu – marpulenivadu.xml
+✔ Wrote 547_Thana rajyamunaku mahimaku.xml
+✔ Wrote 548_Prabhuvuku thaginattu.xml
+✔ Wrote 549_Samadhanamu – devuni samadhanamu.xml
+✔ Wrote 550_Yehova vimocincina vare.xml
+✔ Wrote 551_Devudehova divinci.xml
+✔ Wrote 552_Yehovanu nammukonu manavulu.xml
+✔ Wrote 553_Yudayandu deva.xml
+✔ Wrote 554_Yehova davidu badhala.xml
+✔ Wrote 555_Prabhu Yesu naa rakshakaa.xml
+✔ Wrote 556_Oh sarvashakhtudaa - naa satyadevudaa.xml
+✔ Wrote 557_Neethimanthula praardhana.xml
+✔ Wrote 558_Chetlu leni mettalandu.xml
+✔ Wrote 559_Devuni pradinchedamu daiva putruni.xml
+✔ Wrote 560_Aakasha mahakaashambulu pattani.xml
+✔ Wrote 561_Prabhuva paraloka - jeevagni nimmu.xml
+✔ Wrote 562_Parishudda agnini pampu devaa.xml
+✔ Wrote 563_Parishudda parishudda prabhu yesu.xml
+✔ Wrote 564_Nee vaatma yuddamulo jaya mondumu.xml
+✔ Wrote 565_Paramaaseervadamu kori.xml
+✔ Wrote 566_Shudda aathma digirammu.xml
+✔ Wrote 567_Yehovaaye aashcharya kaarayamulanu.xml
+✔ Wrote 568_Nimpumo prabhuvaa nannu.xml
+✔ Wrote 569_Devaa ninnu nenu viduvanu.xml
+✔ Wrote 570_Karuninchi thirigi sama koorchu prabhuvaa.xml
+✔ Wrote 571_Maa mora naalakinchumu.xml
+✔ Wrote 572_Aatma deepamunu.xml
+✔ Wrote 573_Prabhuvaa nee kaaryamunu.xml
+✔ Wrote 574_O Prabhuvaa ujeevamu nimmu.xml
+✔ Wrote 575_Paramatandri karamuleththi.xml
+✔ Wrote 576_Nimpumu O prabhuva.xml
+✔ Wrote 577_Velugitchi naaku maargamu choopu.xml
+✔ Wrote 578_Prabhu kummarinchu prabhu.xml
+✔ Wrote 579_Karuninchumu naa Yesuwa.xml
+✔ Wrote 580_Nee paada sannidiki - krupaamaya Yesayyaa.xml
+✔ Wrote 581_Adugudi meeru mana prabhu.xml
+✔ Wrote 582_Velledamu mari dhairyamutho.xml
+✔ Wrote 583_Prabhuva pampu varshamunu.xml
+✔ Wrote 584_Oh karunaanidhi mahaa prabhu.xml
+✔ Wrote 585_Rakshakaa nan - marva boku.xml
+✔ Wrote 586_Gaddiyalo nundi paru.xml
+✔ Wrote 587_Aasheervaadambul maa meeda.xml
+✔ Wrote 588_Preethigala mana Yesu.xml
+✔ Wrote 589_Sarvashakthi yutudaa.xml
+✔ Wrote 590_Oh praardhanaa su praardhanaa.xml
+✔ Wrote 591_Yesu naa prabhuva.xml
+✔ Wrote 592_Visugakunda nityamu - prardincha.xml
+✔ Wrote 593_Nee sannidhi cheritimi.xml
+✔ Wrote 594_Gunavanturaalaina ganamaina Streeye.xml
+✔ Wrote 595_Jeevitha thrushnalanu - naadu.xml
+✔ Wrote 596_O Yehovaa neeve nannu.xml
+✔ Wrote 597_Devaa nee sannidhilo nilachi.xml
+✔ Wrote 598_Praardhana vinedu devaa.xml
+✔ Wrote 599_Nenu velledanu meeru praardhanalo.xml
+✔ Wrote 600_Yedathegaka praardhinchumu.xml
+✔ Wrote 601_Vilapintuvaa Nehemyavale.xml
+✔ Wrote 602_Nenu thaggali yesu.xml
+✔ Wrote 603_Prardhinchumu nee jeevithamulo.xml
+✔ Wrote 604_Prardhinchumu  priyuda prabhu.xml
+✔ Wrote 605_Yehova ni dikkunaku na atmanu ettucunnanu.xml
+✔ Wrote 606_Na sannidhini yehova - vedakumani.xml
+✔ Wrote 607_Ahaa yemaanandam mahaa.xml
+✔ Wrote 608_Krupa kanikaramula maa.xml
+✔ Wrote 609_Amoolya rakhtamu dwaaraa.xml
+✔ Wrote 610_Paapa samudramandu.xml
+✔ Wrote 611_Neeligaganaana velige thaarala.xml
+✔ Wrote 612_Viswaasa sahithamuganu.xml
+✔ Wrote 613_Jeevinchuchunnadu Yesu prabhu.xml
+✔ Wrote 614_Naa papamulanu kshaminchen.xml
+✔ Wrote 615_Naa sankata dhukkamulella.xml
+✔ Wrote 616_Rakshana ounnatyamu.xml
+✔ Wrote 617_Parama jeevamu naaku nivva.xml
+✔ Wrote 618_Naa hrudayamu vintaga marenu.xml
+✔ Wrote 619_Hayananda sudinamu.xml
+✔ Wrote 620_Padivelalo priyuni - choochi.xml
+✔ Wrote 621_Ha! enta adbutaashcharya dinamu.xml
+✔ Wrote 622_Maa kanugrahinchina daiva.xml
+✔ Wrote 623_Siyonuku thirigi cheralo.xml
+✔ Wrote 624_Nee saakshyamu edi.xml
+✔ Wrote 625_Pallavarapu kondala paina.xml
+✔ Wrote 626_Suvaarthanu chaatimpa.xml
+✔ Wrote 627_Lemmu thejarillumu neeku.xml
+✔ Wrote 628_Siluva veerulu meere.xml
+✔ Wrote 629_Thama devunerugu vaaru.xml
+✔ Wrote 630_Siluvanu mosi Ee lokamunu.xml
+✔ Wrote 631_Karunan - erparachitivi sainyamula -  కరుణన్ - ఏర్పరచితివి సైన్యముల.xml
+✔ Wrote 632_Lokamunaku nannu.xml
+✔ Wrote 633_Lellemmu sodaree sodarudaa.xml
+✔ Wrote 634_Jai Jai Jai Jai Yesu Prabhu.xml
+✔ Wrote 635_Lelemmu sodaree sodarudaa velaaye.xml
+✔ Wrote 636_Priyudaa prabhu Yesunaku.xml
+✔ Wrote 637_Aalakinthunu aapilupunu.xml
+✔ Wrote 638_Melkommu O kavali yesuni.xml
+✔ Wrote 639_Cheekati kaalamu vachuchunde.xml
+✔ Wrote 640_Nee priya prabhuni sevakai.xml
+✔ Wrote 641_Yesu Kristurri manchi.xml
+✔ Wrote 642_Mandalo cherani gorrelenno.xml
+✔ Wrote 643_Jaagraththa jaagraththa - Yesuditlu pilchun.xml
+✔ Wrote 644_Repu maapu gooda ramyamaina.xml
+✔ Wrote 645_Odducheri nee yeduta nilchu.xml
+✔ Wrote 646_Erparachina paatranu raajaadhi.xml
+✔ Wrote 647_Parvathamaa nee vepaati.xml
+✔ Wrote 648_Oh prabhuvaa nee sevan.xml
+✔ Wrote 649_Yehova sainyamulara ayana cittamun neravercu paricarakulara.xml
+✔ Wrote 650_I bhuvipai paraloka vintaina janama prabhuyesu kristuvulo.xml
+✔ Wrote 651_Yehovaa nee krupaati shayamunu.xml
+✔ Wrote 652_Aanandinchedamu prabhu Yesulo.xml
+✔ Wrote 653_Jayamu jayamani chatinchedamu.xml
+✔ Wrote 654_Mahimatho nindina maa raajaa.xml
+✔ Wrote 655_Prabhu Yesunake jayamu.xml
+✔ Wrote 656_Melconumaa, melconumaa naa.xml
+✔ Wrote 657_Unntha stalamulapai  nekkinchi.xml
+✔ Wrote 658_Prabhuke stotramu mruthini.xml
+✔ Wrote 659_Jaya raaju jendaa yeththi.xml
+✔ Wrote 660_Oh Yesu bhakhtulaaraa.xml
+✔ Wrote 661_Shodhanaku meeru chotiyyakudi.xml
+✔ Wrote 662_Adhikaaramu pondi yuntivi.xml
+✔ Wrote 663_Swaastyamuga nitchtivi.xml
+✔ Wrote 664_Jayamu pondumani Yesu.xml
+✔ Wrote 665_Kristesu siluvapai.xml
+✔ Wrote 666_Kriste Ee jeevitamulo.xml
+✔ Wrote 667_Mana jeevitha manthayu.xml
+✔ Wrote 668_Yesu kristu ninna nedu.xml
+✔ Wrote 669_Sukhadukkhaala yatra.xml
+✔ Wrote 671_Yesulo harshinchedamu.xml
+✔ Wrote 672_Ella vela landu.xml
+✔ Wrote 673_Aanandame manakilalo.xml
+✔ Wrote 674_Mahima raaju sannidin.xml
+✔ Wrote 675_Dappigonina vaaralaaraa.xml
+✔ Wrote 676_Daahamu gala.xml
+✔ Wrote 677_Paapula rakshakudu.xml
+✔ Wrote 678_Daatumu yordhanun.xml
+✔ Wrote 679_Dhanyudavu neevu.xml
+✔ Wrote 680_Nootana aakaashamunu.xml
+✔ Wrote 681_Mana prabhu Yesu.xml
+✔ Wrote 682_Ne bhraminchi nilchiti.xml
+✔ Wrote 683_Prabhu Yesu kristuni.xml
+✔ Wrote 684_Yordhannadi darina.xml
+✔ Wrote 685_Krupaasimhaasa nundaa.xml
+✔ Wrote 686_Prabhuvaa nee  paripoornatha.xml
+✔ Wrote 687_Karunaa karudaa.xml
+✔ Wrote 688_Unnatha gruhamunu.xml
+✔ Wrote 689_Mana pattanambadigo.xml
+✔ Wrote 690_Yesuvaa naa priyamaina.xml
+✔ Wrote 691_Ninnu viduvanu nenu.xml
+✔ Wrote 692_Sarvonnathudu sarvaadhikaari.xml
+✔ Wrote 693_Velledam shresta desham.xml
+✔ Wrote 694_Prakaashamaina aashcharya.xml
+✔ Wrote 695_Vaghdaanamulu pondudi.xml
+✔ Wrote 696_Neethi sooryundu.xml
+✔ Wrote 697_Neethi sooryudu neepai.xml
+✔ Wrote 698_Prabhuvaina kreestuni.xml
+✔ Wrote 699_Yesuni nityamu stutiyinchedamu.xml
+✔ Wrote 700_Anaadi devudu aashrayamu.xml
+✔ Wrote 701_Yesuni vaaghdaanamul.xml
+✔ Wrote 702_Paravaasini ne jagamuna.xml
+✔ Wrote 703_Prabhuvaa neeve nammakamaina.xml
+✔ Wrote 704_Devuni krupa nitya mundunu.xml
+✔ Wrote 705_Unnatha durgamu.xml
+✔ Wrote 706_Mimmunu nimpe melulathoda.xml
+✔ Wrote 707_Yese manakila swaastyamu.xml
+✔ Wrote 708_Yehovaaye manakandariki.xml
+✔ Wrote 709_Mammun shrujinchina devundu.xml
+✔ Wrote 710_Shree Yesu raajyamundunu.xml
+✔ Wrote 711_Yesu neethi rakhtamenu.xml
+✔ Wrote 712_Yesoo nee rakhta neethulu.xml
+✔ Wrote 713_Yesu naavaadini.xml
+✔ Wrote 714_Shrungaara deshamu.xml
+✔ Wrote 715_Yesuni chetulandu yesuni.xml
+✔ Wrote 716_Antyadinamandu doota boora.xml
+✔ Wrote 717_Oho Yerooshalemaa.xml
+✔ Wrote 718_Shree yesu swaamy thirigi.xml
+✔ Wrote 719_Yesoo nin joothu.xml
+✔ Wrote 720_Nene bhayapada valadani.xml
+✔ Wrote 721_Priya Yesu raajunu.xml
+✔ Wrote 722_Lendi randi, bhaavi.xml
+✔ Wrote 723_Yesu prabhuve mahima.xml
+✔ Wrote 724_Prabhoo nee vaadanu.xml
+✔ Wrote 725_Paralokamu naa deshamu.xml
+✔ Wrote 726_Naa korikalu theeripoye.xml
+✔ Wrote 727_Eduru choochedamu dhruda.xml
+✔ Wrote 728_Prabhu raajyam nishchala.xml
+✔ Wrote 729_Nishchalamainadi Yesu raajyamu.xml
+✔ Wrote 730_Prabhuvaa guri yoddake.xml
+✔ Wrote 731_Kristhese mana mahima.xml
+✔ Wrote 732_Prabhuvaina kristulo thandri.xml
+✔ Wrote 733_Parvathamulu tholagi.xml
+✔ Wrote 734_Devudu deniki shilpiyunu.xml
+✔ Wrote 735_Yesu prabhuva neeve.xml
+✔ Wrote 736_Neevu denini vedakuchunnaavu.xml
+✔ Wrote 737_Yesu nee swaroopamunu.xml
+✔ Wrote 738_Nee Mandiramunandu.xml
+✔ Wrote 739_Nammadaginavadavu  nemmadini.xml
+✔ Wrote 740_Yehova naina nenu marpuleni.xml
+✔ Wrote 741_Yesuni rajyamu adi nischalamainadi.xml
+✔ Wrote 742_Sthuthiyinthumu yesu prabhu.xml
+✔ Wrote 743_Jeevamu nitcheda jeevaadhi pathiki.xml
+✔ Wrote 744_Naa naadhudaa naa yullamichiti.xml
+✔ Wrote 745_Yesoo naa siluvan.xml
+✔ Wrote 746_Naa yesu maargamanduna.xml
+✔ Wrote 747_Trithwa marmamu nerigina.xml
+✔ Wrote 748_Devayaatma bhasuraagni.xml
+✔ Wrote 749_Prabhuni darshanam.xml
+✔ Wrote 750_Priya Yesuni sainya veerulamu.xml
+✔ Wrote 751_Yaajaka dharamamu nerigi.xml
+✔ Wrote 752_Yesuni nindanu bharinchi.xml
+✔ Wrote 753_Yesuni shisyulamu yegudamu.xml
+✔ Wrote 754_Yesu kriste sajjanudu.xml
+✔ Wrote 755_Manassaara kruthajnatha liduchu.xml
+✔ Wrote 756_Ee jagatiki jyotini nenu.xml
+✔ Wrote 757_Nee siluve naaku sharanu.xml
+✔ Wrote 758_Ne nee vaadanai.xml
+✔ Wrote 759_Naadu praanamu prabho.xml
+✔ Wrote 760_Yesu prabho neeku.xml
+✔ Wrote 761_Naa rakshakuni vembadinthu.xml
+✔ Wrote 762_Naa Yesu noppukonanu.xml
+✔ Wrote 763_Silvachentha nesuvaa.xml
+✔ Wrote 764_Prabhu yesuni nenu.xml
+✔ Wrote 765_Naa sarvamaina.xml
+✔ Wrote 766_Youvanudaa santosha.xml
+✔ Wrote 767_Kraistava jeevitam.xml
+✔ Wrote 768_Atma niyamamu dwara.xml
+✔ Wrote 769_Paralokame na swasthyamu.xml
+✔ Wrote 770_Daivadaasulara meeru dheekshathoda rarandi.xml
+✔ Wrote 771_Yehova nee gudaramu - praminchuchunanu.xml
+✔ Wrote 772_Youvanudaa santosha paduma.xml
+✔ Wrote 773_Manaku jeevamaiyunna.xml
+✔ Wrote 774_Nee devuni sannidini.xml
+✔ Wrote 775_Siluve nee gurigaa.xml
+✔ Wrote 776_Meeremi vedakuchunnaru.xml
+✔ Wrote 777_Youvvanulaaraa mee youvanamul.xml
+✔ Wrote 778_Dayagala Yesu prabhoo.xml
+✔ Wrote 779_Prabhuni seva jeyarammu.xml
+✔ Wrote 780_Halleluya hosanna.xml
+✔ Wrote 781_Kristu mimmulanu.xml
+✔ Wrote 782_Evaru jayinchedaro.xml
+✔ Wrote 783_Mahaa devundu.xml
+✔ Wrote 784_Stotram stotramu devadi.xml
+✔ Wrote 785_Prabhuvuku thaginattu.xml
+✔ Wrote 786_Paramavarudu yesu prabhuvu ranai.xml
+✔ Wrote 787_Oppukonti oppukonti - na tappidamulann.xml
+✔ Wrote 788_Sampurna gnanamu kaligi atmaphalamu.xml
+✔ Wrote 789_Ata patala cheta - atu itu tirigedi.xml
+✔ Wrote 790_Devuni nija prema.xml
+✔ Wrote 791_Grandha vaaghdhaanamulanni.xml
+✔ Wrote 792_Ashrestambou - grandhamulo.xml
+✔ Wrote 793_Patihmpa shresta.xml
+✔ Wrote 794_Aanandam naa kaanandam.xml
+✔ Wrote 795_Yesune stutinchu.xml
+✔ Wrote 796_Vinthaina Yesu rakshakundu.xml
+✔ Wrote 797_Naadu pranamaa.xml
+✔ Wrote 798_Stuthi ghanatha mahima.xml
+✔ Wrote 799_Halleluya aa.xml
+✔ Wrote 800_Naakaanandam kaaranambide paapa.xml
+✔ Wrote 801_Adbutha shakhti kaladu.xml
+✔ Wrote 802_Nee jeevitha naavalo kristunu.xml
+✔ Wrote 803_Yesu theerche naa.xml
+✔ Wrote 804_Krupa chetha rakshinchenu.xml
+✔ Wrote 805_Poyenu poyenu poyenu.xml
+✔ Wrote 806_Yesuni vaakku nityamu.xml
+✔ Wrote 807_Nee dharma shaastramulo.xml
+✔ Wrote 808_Entha adbutha dhanamu.xml
+✔ Wrote 809_Aayan aashcharya karudu.xml
+✔ Wrote 810_Paapamun dukkhamunu.xml
+✔ Wrote 811_Daagi yundu nee aashrayamandun.xml
+✔ Wrote 812_Daiva prema nityamu.xml
+✔ Wrote 813_Nitya deva jeevaatma naapai.xml
+✔ Wrote 814_Balamu nichchu yesuche.xml
+✔ Wrote 815_Yehovaa koraku yeduruchuchuvaru.xml
+✔ Wrote 816_Aatmala chentaku nadupu.xml
+✔ Wrote 817_Yoodha yentho deva prasidhudavoo.xml
+✔ Wrote 818_Chetun adbutha manenu.xml
+✔ Wrote 819_Stutinchu naa praanamaa.xml
+✔ Wrote 820_Mahima ghanatha stuthi stotramu.xml
+✔ Wrote 821_Aayana naamamu aashcharyudu.xml
+✔ Wrote 822_Aashcharya maashcharya mesu naaku.xml
+✔ Wrote 823_Ninna nedu nitya kaala.xml
+✔ Wrote 824_Aanandaanandamu - mahadaanandamu.xml
+✔ Wrote 825_Aashcharya aashcharya.xml
+✔ Wrote 826_Halleluyaa Yesuku - calvarypai mrutudu.xml
+✔ Wrote 827_Sarva Janulara Devuni.xml
+✔ Wrote 828_Halleluya Hosanna.xml
+✔ Wrote 829_Nedu meeru koru konudi.xml
+✔ Wrote 830_Yesuni sannidhi entho aanandam.xml
+✔ Wrote 831_Thoorpuna padamara.xml
+✔ Wrote 832_Naa yedalon naa yedalon.xml
+✔ Wrote 833_Nallanidi naa paapa hrudayam.xml
+✔ Wrote 834_Yesu kristu aayane.xml
+✔ Wrote 835_Ahaa ahaa idigo marala.xml
+✔ Wrote 836_Aidu rottelu chepalu rendu.xml
+✔ Wrote 837_Oh devuniki mahima.xml
+✔ Wrote 838_Vaaru gorrepilla rakhtamunu.xml
+✔ Wrote 839_Mahadevuda nive.xml
+✔ Wrote 840_Devuḍu chesina paniyaiyunnāmu.xml
+✔ Wrote 841_Prabhuvaina kristuku dasulara.xml
+✔ Wrote 842_Devudu mimmunu yerparacukonenu.xml
+✔ Wrote 843_Devudu manalanu yerparachukonnadu, dhupambu veyutaku paricarya cheyutaku.xml
+✔ Wrote 844_Akasamandu - nivundaga.xml
+✔ Wrote 845_Anandamu prabhu nakosagenu.xml
+✔ Wrote 846_Aha anandame - paramanandame.xml
+✔ Wrote 847_Idigo manuṣyula madhyana devadi.xml
+✔ Wrote 848_Varnimpalenu vivarimpalenu yesayya.xml
+✔ Wrote 849_Na prana priyuda - ninne stutintun.xml
+✔ Wrote 850_Vevela stutulato aradhinceda prabhuva.xml
+✔ Wrote 851_Manava marali ra prabhu centaku.xml
+✔ Wrote 854_Bhudigantamula nivasulara.xml
+✔ Wrote 855_Nammadagina ma deva parisuddhuda.xml
+✔ Wrote 857_Vijayulam - ghana vijayulam.xml
+✔ Wrote 858_Ponduunnamu - atyadhika.xml
+✔ Wrote 859_Prabhu yesukristu aisvaryamu.xml
+✔ Wrote 860_Idigo i manusyudu - devuni kumarudu.xml
+✔ Wrote 861_Arbhatamutonu prabhavamutonu.xml
+✔ Wrote 863_Parisuddha sthalamu - ati parisuddha.xml
+✔ Wrote 864_Kristesu prabhuni visvasulamuga.xml
+✔ Wrote 865_Arpintu prabhuva na jivitam.xml
+✔ Wrote 866_Nammadagina deva - ninna nedu niratamu.xml
+✔ Wrote 867_Devuni ascaryakaryamulanu andaru.xml
+✔ Wrote 868_Yee bhuvipai paraloka vinthaina.xml
+✔ Wrote 869_Nannu preminchi na koraku-Church Promise.xml
+✔ Wrote 870_Ujjeevamu nimmu.xml
+✔ Wrote 871_Gunatisayamula ne padedanu.xml
+
+✅ Processing finished.

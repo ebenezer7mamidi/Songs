@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Hail to the Lord’s Anointed</title>
+      <title>148</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="148"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hail to the Lord’s Anointed,
+  Great David’s greater Son!
+Hail, in the time appointed,
+  His reign on earth begun!
+He comes to break oppression,
+  To set the captive free;
+To take away transgression,
+  And rule in equity.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>He shall come down like showers
+  Upon the fruitful earth;
+And love, joy, hope, like flowers,
+  Spring in His path to birth:
+Before Him on the mountains
+  Shall peace, the herald, go;
+And righteousness, in fountains,
+  From hill to valley flow.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Kings shall fall down before Him,
+  And gold and incense bring;
+All nations shall adore Him,
+  His praise all people sing;
+For He shall have dominion
+  O’er river, sea, and shore,
+Far as the eagle’s pinion,
+  Or dove’s light wing can soar.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>To Him shall prayer unceasing
+  And daily vows ascend;
+His kingdom still increasing,
+  A kingdom without end.
+The mountain dews shall nourish
+  A seed in weakness sown,
+Whose fruit shall spread and flourish,
+  And shake like Lebanon.</lines>
+    </verse>
+	<verse name="v5">
+      <lines>O’er every foe victorious
+  He on His throne shall rest,
+From age to age more glorious,
+  All-blessing and all-blest.
+The tide of time shall never
+  His covenant remove;
+His Name shall stand forever,
+  His changeless Name of Love.</lines>
+    </verse>	
+  </lyrics>
+</song>

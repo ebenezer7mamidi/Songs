@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>All that we were—our sin, our guilt</title>
+      <title>22</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="22"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All that we were—our sin, our guilt,<br/>Our death—was all our own:<br/>All that we are we owe to Thee,<br/>Thou God of grace alone.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thy mercy found us in our sins,<br/>And gave us to believe;<br/>Then, in believing, peace we found,<br/>And in Thy Christ we live.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All that we are, as saints on earth,<br/>All that we hope to be,<br/>When Jesus comes and glory dawns,<br/>We owe it all to Thee.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O God, how rich, how vast Thy love,<br/>Whoe’er can Thee repay?<br/>Thy love is past man’s finding out,<br/>Thy grace no man can say.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>But Lord, to me I pray Thee grant,<br/>More clearly may I see,<br/>That I may e’er more fully know<br/>How much I owe to Thee.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>But if man’s heart should e’er suppose<br/>He could repay Thy love,<br/>It only means he nothing knows<br/>Of love, all loves above.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>So may we never bargains make<br/>With that dear love of Thine:<br/>The love that made Thine heart once break,<br/>Whoe’er that love could win?</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Then nevermore suggest return,<br/>His love is far too high;<br/>But let our hearts with rapture burn<br/>That He for us should die.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>O Father God, we owe Thee all!<br/>All that we are and have!<br/>With grateful thanks before Thee fall,<br/>’Tis all that we can give.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Silent night, holy night!</title>
+      <title>101</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="101"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Silent night, holy night!
+All is calm, all is bright.
+Round yon Virgin, Mother and Child.
+Holy infant so tender and mild,
+Sleep in heavenly peace,
+Sleep in heavenly peace</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Silent night, holy night!
+Shepherds quake at the sight.
+Glories stream from heaven afar
+Heavenly hosts sing Alleluia,
+Christ the Savior is born!
+Christ the Savior is born</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Silent night, holy night!
+Son of God love's pure light.
+Radiant beams from Thy holy face
+With dawn of redeeming grace,
+Jesus Lord, at Thy birth
+Jesus Lord, at Thy birth</lines>
+    </verse>
+  </lyrics>
+</song>

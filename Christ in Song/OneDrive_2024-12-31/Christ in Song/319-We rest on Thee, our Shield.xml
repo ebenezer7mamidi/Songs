@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>We rest on Thee, our Shield</title>
+      <title>319</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="319"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We rest on Thee, our Shield and our Defender;
+  We go not forth alone against the foe;
+Strong in Thy strength, safe in Thy keeping tender.
+  We rest on Thee, and in Thy Name we go.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Yea, in Thy Name, O Captain of salvation!
+  In Thy dear Name, all other names above;
+Jesus our Righteousness, our sure Foundation,
+  Our Prince of glory and our King of love.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>We go in faith, our own great weakness feeling,
+  And needing more each day Thy grace to know:
+Yet from our hearts a song of triumph pealing;
+  We rest on Thee, and in Thy Name we go.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>We rest on Thee, our Shield and our Defender:
+  Thine is the battle, Thine shall be the praise
+When reigning in the Kingdom of Thy splendor;
+  Victors, we rest with Thee, through endless days.</lines>
+    </verse>
+  </lyrics>
+</song>

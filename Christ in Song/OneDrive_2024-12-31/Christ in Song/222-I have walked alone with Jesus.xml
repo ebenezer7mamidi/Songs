@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>I have walked alone with Jesus</title>
+      <title>222</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="222"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have walked alone with Jesus
+In a fellowship divine.
+Never more can earth allure me,
+I am His and He is mine.</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>I have seen Him, I have known Him,
+For He deigns to walk with me;
+And the glory of His presence will be mine eternally.
+O the glory of His presence, O the beauty of His face;
+I am His and His forever, He has won me by His grace.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>On the mountain I have seen Him,
+Christ my Comforter and Friend
+And the glory of His presence
+Will be with me to the end.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>In my failure, sin, and sorrow,
+Broken-hearted, crushed and torn,
+I have felt His presence near me,
+He has all my burdens borne.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>In the darkness, in the shadow,
+With the Saviour I have trod,
+Sweet indeed have been the lessons
+Since I’ve walked alone with God.</lines>
+    </verse>
+  </lyrics>
+</song>

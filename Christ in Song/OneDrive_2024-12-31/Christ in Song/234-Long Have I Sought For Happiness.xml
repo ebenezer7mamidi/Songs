@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Long Have I Sought For Happiness</title>
+      <title>234</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="234"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Long have I sought for happiness,
+	  But where can it be found?
+	  Only, dear Saviour in Thy grace,
+	  Where purest joys abound.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>A moment's space without God
+	  Creates in me a hell;
+	  But when He sheds His love abroad,
+	  What raptures do I feel!</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Lord, if a transient sight of Thee
+	  Affords us such a feast,
+	  How glorious will that vision be,
+	  Which shall forever last?</lines>
+    </verse>
+	<verse name="v4">
+      <lines>When shall we, Lord, Thy glory see
+	  In light without a shade,
+	  The glort which surrounded Thee
+	  Before the world was made?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>What cares, infirmities and pains
+	  Oppress our feeble frame?
+	  Immortal health and vigor reigns
+	  In presence if the Lamb.</lines>
+    </verse>
+	<verse name="v6">
+      <lines>We now but darkly thro' the glass
+	  Behold the God we own;
+	  Then shall we see Him face to face,
+	  And know as we are known.</lines>
+    </verse>
+	<verse name="v7">
+      <lines>Then satan with his fiery darts
+	  Shall us no more molest;
+	  His arrows cannot reach our hearts
+	  When we in glory rest.</lines>
+    </verse>
+	<verse name="v8">
+      <lines>The world shall no more charm eyes,
+	  Nor captive our hearts,
+	  Our soluls to nobler pleasures rise,
+	  Which God Himself imparts.</lines>
+    </verse>	
+  </lyrics>
+</song>

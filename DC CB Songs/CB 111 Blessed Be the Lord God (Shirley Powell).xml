@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T16:33:56">
+  <properties>
+    <titles>
+      <title>CB 111 Blessed Be the Lord God</title>
+    </titles>
+    <copyright>©1972
+Scripture in Song
+(Maranatha! Music)</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>37670</ccliNo>
+    <authors>
+      <author>Shirley Powell</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="111"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>BLESSED BE THE LORD GOD,<br/>The God of Israel. Blessed be the Lord God, the<br/>God of Israel, who only doeth wondrous things,<br/>who only doeth wondrous things. Blessed be His<br/>glorious name forever.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let the whole earth be filled with His glory. Amen,<br/>amen, amen, amen.<br/>(Repeat first verse)</lines>
+    </verse>
+  </lyrics>
+</song>

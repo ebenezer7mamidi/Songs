@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T16:29:10">
+  <properties>
+    <titles>
+      <title>CB 58 Lamb of God</title>
+    </titles>
+    <copyright>©1985 Straight-
+way Music Mountain Spring
+
+Music (EMI Christian Music
+Publishers)</copyright>
+    <verseOrder>v1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>16787</ccliNo>
+    <authors>
+      <author>Twila Paris</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="58"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YOUR ONLY SON, NO SIN TO HIDE,<br/>But You have sent Him from Your side,<br/>To walk upon this guilty sod,<br/>And to become the Lamb of God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your Gift of Love they crucified,<br/>They laughed and scorned Him as He died,<br/>The humble King they named a fraud,<br/>And sacrificed the Lamb of God.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O Lamb of God, sweet Lamb of God,<br/>I love the holy Lamb of God.<br/>He washed me in His precious blood,<br/>My Jesus Christ the Lamb of God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I was so lost, I should have died,<br/>But You have brought me to Your side,<br/>To be led by Your staff and rod,<br/>And to be called a lamb of God.</lines>
+    </verse>
+  </lyrics>
+</song>

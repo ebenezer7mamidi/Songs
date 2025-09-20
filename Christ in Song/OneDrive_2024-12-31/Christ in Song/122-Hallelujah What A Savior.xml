@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Hallelujah What A Savior</title>
+      <title>122</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="122"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Man of sorrows, what a name
+For the Son of God who came
+Ruined sinners to reclaim
+Hallelujah! What Savior</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Bearing shame and scoffing rude,
+in my place condemned he stood,
+sealed my pardon with his blood:
+Hallelujah, what a Savior!</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Guilty, helpless, lost were we;
+blameless Lamb of God was he,
+sacrificed to set us free:
+Hallelujah, what a Savior!</lines>
+    </verse>
+	<verse name="v4">
+      <lines>Lifted up was He to die
+"It is finished!" was His cry
+Now in Heaven lifted high
+Hallelujah! What a Savior</lines>
+    </verse>
+	<verse name="v5">
+      <lines>When he comes, our glorious King,
+all his ransomed home to bring,
+then anew this song we'll sing:
+Hallelujah, what a Savior!</lines>
+    </verse>	
+  </lyrics>
+</song>

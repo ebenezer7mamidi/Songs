@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>My heart is resting, O my God</title>
+      <title>400</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="400"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My heart is resting, O my God,
+  I will give thanks and sing;
+My heart is at the secret source
+  Of every precious thing.</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>Oh, peace of God that passeth thought,
+  I daily, hourly sing;
+My heart is at the secret source
+    Of every precious thing.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Now this frail vessel Thou hast made,
+  No hand but Thine shall fill;
+The waters of the earth have failed,
+  And I am thirsty still.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>I thirst for springs of heavenly life,
+  And here all day they rise;
+I seek the treasure of Thy love,
+  And close at hand it lies.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>A glad, new song is in my mouth,
+  To long-loved music set,
+A song of praise for all the grace
+  I have not tasted yet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I have a heritage of joy
+  That yet I must not see;
+The hand that bled to make it mine
+  Is keeping it for me.</lines>
+    </verse>
+	<verse name="v6">
+      <lines>There is a certainty of love
+  That sets my heart at rest;
+A calm assurance for today
+  That to be poor is best.</lines>
+    </verse>
+	<verse name="v7">
+      <lines>A prayer reposing on His truth,
+  Who hath made all things mine;
+That draws my captive will to Him,
+  And makes it one with Thine.</lines>
+    </verse>	
+  </lyrics>
+</song>

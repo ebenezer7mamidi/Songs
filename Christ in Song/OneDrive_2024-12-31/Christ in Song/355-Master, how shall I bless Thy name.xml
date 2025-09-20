@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Master, how shall I bless Thy name</title>
+      <title>355</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="355"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Master, how shall I bless Thy name
+  For love so great to me,
+For sweet enablings of Thy grace,
+  So sov’reign, yet so free,
+That taught me to obey Thy word,
+  And cast my care on Thee?</lines>
+    </verse>
+	<verse name="v2">
+      <lines>No anxious thought upon thy brow
+  The watching world should see;
+No carefulness! O child of God,
+  For nothing careful be!
+But cast thou all thy care on Him
+  Who always cares for thee.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>How shall I praise Thee, Savior dear,
+  For this new life so sweet,
+For taking all the care I laid
+  At Thy beloved feet,
+Keeping Thy hand upon my heart
+  To still each anxious beat?</lines>
+    </verse>
+	<verse name="v4">
+      <lines>I long to praise Thee more, and yet
+  This is no care to me;
+If Thou shalt fill my mouth with songs
+  Then I shall sing to Thee;
+And if my silence praise Thee best,
+  Then silent I will be.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Yet if it be Thy will, dear Lord,
+  Oh, send me forth to be
+Thy messenger to careful hearts,
+  To bid them taste, and see
+How good Thou art to those who cast
+  All all their care on Thee.</lines>
+    </verse>	
+  </lyrics>
+</song>

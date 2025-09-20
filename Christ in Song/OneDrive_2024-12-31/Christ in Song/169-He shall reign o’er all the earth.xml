@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>He shall reign o’er all the earth</title>
+      <title>169</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="169"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He shall reign o’er all the earth,
+He who wore the crown of thorn,
+Whom they deemed of little worth,
+Whom they met with hate and scorn;
+Send the tidings forth, that all
+Humbly at His feet may fall.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Long His heritage hath lain
+’Neath the false usurper’s sway;
+He will claim it back again,
+Rout the foes and win the day.
+Send the tidings forth, that all
+Humbly at His feet may fall.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Then, beneath His rule of peace
+Heaven shall smile, and earth shall sing,
+Ever yielding rich increase
+To the honor of her King.
+Send the tidings forth, that all
+Humbly at His feet may fall.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>Hasten, Lord, the wondrous hour,
+Bid it strike from shore to shore,
+Thine the kingdom and the power,
+Thine the glory evermore.
+Bow each rebel heart, that all
+At Thy feet adoring fall.</lines>
+    </verse>
+  </lyrics>
+</song>

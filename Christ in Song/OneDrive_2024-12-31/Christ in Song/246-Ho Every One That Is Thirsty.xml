@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Ho Every One That Is Thirsty</title>
+      <title>246</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="246"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ho, Every One That Is Thirsty In Spirit,
+Ho, Every One That Is Weary And Sad;
+Come To The Fountain, There’s Fullness In Jesus,
+All That You’re Longing For, Come And Be Glad.</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>‘I Will Pour Water On Him That Is Thirsty,
+I Will Pour Floods Upon The Dry Ground;
+Open Your Heart For The Gift I Am Bringing;
+While Ye Are Seeking Me, I Will Be Found.’</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Child Of The World, Are You Tired Of Your Bondage?
+Weary Of Earth-Joys, So False, So Untrue?
+Thirsting For God And His Fullness Of Blessing?
+List To The Promise, A Message For You!</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Child Of The Kingdom, Be Filled With The Spirit!
+Nothing But Fullness Thy Longing Can Meet:
+This The Enduement For Life And For Service;
+Thine Is The Promise, So Certain, So Sweet</lines>
+    </verse>
+  </lyrics>
+</song>

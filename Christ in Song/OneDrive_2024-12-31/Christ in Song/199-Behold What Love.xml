@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Behold What Love</title>
+      <title>199</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="199"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Behold, What Love, What Boundless Love,
+The Father Hath Bestowed
+On Sinners Lost, That We Should Be
+Now Called “The Sons Of God!”</lines>
+    </verse>  
+    <verse name="c1">
+      <lines>Behold, What Manner Of Love!
+What Manner Of Love
+The Father Hath Bestowed Upon Us,
+That We, That We Should Be Called,
+Should Be Called The Sons Of God!</lines>
+    </verse>
+	<verse name="v2">
+      <lines>No Longer Far From Him But Now
+By “Precious Blood” Made Nigh,
+Accepted In The “Well Beloved,”
+Near To God’s Heart We Lie.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>What We In Glory Soon Shall Be,
+It Doth Not Yet Appear;
+But When Our Precious Lord We See,
+We Shall His Image Bear.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>With Such A Blessed Hope In View,
+We Would More Holy Be,
+More Like Our Risen, Glorious Lord,
+Whose Face We Soon Shall See.</lines>
+    </verse>
+  </lyrics>
+</song>

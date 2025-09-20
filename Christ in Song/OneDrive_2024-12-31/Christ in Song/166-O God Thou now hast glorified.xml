@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>O God Thou now hast glorified</title>
+      <title>166</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="166"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O God, Thou now hast glorified
+Thy holy, blest eternal Son;
+The Nazarene, the Crucified,
+Now sits exalted on Thy throne:
+To Him in faith we cry aloud,
+Worthy art Thou, O Lamb of God.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Father, Thy holy name we bless,
+And gladly hail Thy just decree
+That every tongue shall soon confess
+Jesus the Lord of all to be;
+But oh, Thy grace has taught us now
+Before that Lord the knee to bow.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Him as our Lord we gladly own:
+To Him alone we now would live,
+Who bowed our hearts
+before Thy throne,
+And gave us all that love could give.
+Our willing voices cry aloud,
+Worthy art Thou, O Lamb of God.</lines>
+    </verse>
+  </lyrics>
+</song>

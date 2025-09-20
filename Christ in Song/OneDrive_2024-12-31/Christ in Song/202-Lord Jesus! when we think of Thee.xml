@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Lord Jesus! when we think of Thee</title>
+      <title>202</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="202"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord Jesus! when we think of Thee,
+  Of all Thy love and grace,
+Our spirits long and fain would see
+  Thy beauty face to face.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>And though the wilderness we tread,
+  A barren, thirsty ground,
+With thorns and briars overspread,
+  Where foes and snares abound;</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Yet in Thy love such depths we see,
+  Our hearts o’erflow with praise—
+Content ourselves, while, Lord to Thee
+  A joyful song we raise.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>Our Lord, our Life, our Rest, our Shield,
+  Our Rock, our Food, our Light;
+Each thought of Thee doth constant yield
+  Unchanging, fresh delight.</lines>
+    </verse>
+	<verse name="v5">
+      <lines>Blest Savior, keep our spirit stayed,
+  Hard following after Thee,
+Till we, in victory displayed,
+  Thy face in glory see.</lines>
+    </verse>	
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-12-03T16:36:53">
+  <properties>
+    <titles>
+      <title>CB 147 Magnify the Lord with Me</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="DCCF Chorus Book" entry="147"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MAGNIFY THE LORD WITH ME,<br/>Blessed Lamb of Calvary;<br/>For His grace so rich and free,<br/>Magnify the Lord with me.<br/>Magnify the Lord with me,<br/>Blessed Lamb of Calvary.<br/>Jesus gives the victory;<br/>O magnify the Lord with me.</lines>
+    </verse>
+  </lyrics>
+</song>

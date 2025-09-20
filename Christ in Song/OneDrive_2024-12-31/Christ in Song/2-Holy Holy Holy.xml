@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Holy, Holy, Holy</title>
+      <title>2</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="2"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy, Holy, Holy! Lord God Almighty!<br/>Early in the morning our song shall rise to Thee;<br/>Holy, holy, holy, merciful and mighty!<br/>God in three Persons, blessed Trinity!</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Holy, Holy, Holy! All the saints adore Thee,<br/>Casting down their golden crowns around the glassy sea;<br/>Cherubim and seraphim falling down before Thee,<br/>Who was, and is, and evermore shall be.</lines>
+    </verse>
+	<verse name="v3">
+      <lines>Holy, Holy, Holy! Though the darkness hide Thee,<br/>Though the eye of sinful man Thy glory may not see;<br/>Only Thou art holy; there is none beside Thee,<br/>Perfect in pow’r, in love, and purity.</lines>
+    </verse>
+	<verse name="v4">
+      <lines>Holy, Holy, Holy! Lord God Almighty!<br/>All Thy works shall praise Thy Name, in earth, and sky, and sea;<br/>Holy, holy, holy; merciful and mighty!<br/>God in three Persons, blessed Trinity!</lines>
+    </verse>
+  </lyrics>
+</song>

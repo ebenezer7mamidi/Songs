@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>Three crosses stood grimly side by side</title>
+      <title>113</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="113"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Three crosses stood grimly side by side 
+On the hill of Calvary; 
+On each a suffering man had died; 
+Two for their crimes, the other for me.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>Like a lamb they led Him out to die 
+From shades of Gethsemane; 
+He uttered no moan, no bitter cry; 
+'Twas love that moved Him to die for me. </lines>
+    </verse>
+	<verse name="v3">
+      <lines>On the central cross they nailed my Friend, 
+To languish in agony; 
+He bore it all to the bitter end — 
+O wonderful love, He died for me. </lines>
+    </verse>
+	<verse name="v4">
+      <lines>"If Thou art the Christ," they taunting, said, 
+"Come down from the cursed tree;" 
+He heeded no jeering word they said. 
+But, bowing His head. He died for me.</lines>
+    </verse>
+	<verse name="v5">
+      <lines>Like a wandering sheep I had gone astray, 
+But all my iniquity 
+My God laid on Him that awful day, 
+When, bearing my sins, He died for me.</lines>
+    </verse>
+	<verse name="v6">
+      <lines>Oh, thanks for the love that brought Him down. 
+Love, fathomless, like the sea; 
+His brow was pierced by a thorny crown. 
+That a crown of life might be given me. </lines>
+    </verse>
+	<verse name="v7">
+      <lines>My brother, behold Him, crucified, 
+On the cross of Calvary; 
+Thy ransom see in that crimson tide; 
+Oh freely it flowed for you and me.</lines>
+    </verse>	
+  </lyrics>
+</song>

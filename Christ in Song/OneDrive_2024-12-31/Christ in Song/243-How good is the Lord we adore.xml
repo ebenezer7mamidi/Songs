@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>How good is the Lord we adore</title>
+      <title>243</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="243"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How good is the Lord we adore,
+Our faithful, unchangeable Friend;
+His love is as great as His pow’r
+And knows neither measure nor end.</lines>
+    </verse>
+	<verse name="v2">
+      <lines>’Tis Jesus the first and the last,
+Who shall guide us through all to the throne;
+We’ll praise Him for all that is past,
+We’ll trust Him for all that’s to come.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.5" modifiedIn="OpenLP 2.9.5" modifiedDate="2022-08-22T13:11:09">
+  <properties>
+    <titles>
+      <title>On Christ, salvation rests secure</title>
+      <title>300</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>His Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christ in Song" entry="300"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>On Christ, salvation rests secure;
+The Rock of Ages must endure;
+Nor can that faith be overthrown
+Which rests upon the “Living Stone.”</lines>
+    </verse>
+	<verse name="v2">
+      <lines>No other hope shall intervene;
+To Him we look, on Him we lean;
+Other foundations we disown,
+And build on Christ, the “Living Stone.”</lines>
+    </verse>
+	<verse name="v3">
+      <lines>In Him it is ordained to raise
+A temple to Jehovah’s praise,
+Composed of all His saints, who own
+No Savior but the “Living Stone.”</lines>
+    </verse>
+	<verse name="v4">
+      <lines>View the vast building, see it rise:
+The work how great! the plan how wise!
+O wondrous fabric! pow’r unknown:
+That rests it on the “Living Stone.”</lines>
+    </verse>
+    <verse name="v5">
+      <lines>But most adore His precious name:
+His glory and His grace proclaim!
+For us, the lost, condemned, undone,
+He gave Himself, the “Living Stone.”</lines>
+    </verse>	
+  </lyrics>
+</song>
