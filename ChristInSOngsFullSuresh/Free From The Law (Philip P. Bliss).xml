@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T03:15:04">
+  <properties>
+    <titles>
+      <title>Free From The Law</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Philip P. Bliss</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>D<br/><br/>Once for all, O sinner, receive it,<br/>Once for all, O brother, believe it;<br/>Cling to the cross, the burden will fall,<br/>Christ hath redeemed us once for all.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Free from the law, O happy condition,<br/>Jesus has bled and there is remission,<br/>Cursed by the law and bruised by the fall,<br/>Grace hath redeemed us once for all.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now we are free, there's no condemnation,<br/>Jesus provides a perfect salvation.<br/>"Come unto Me," O hear His sweet call,<br/>Come, and He saves us once for all.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>"Children of God," O glorious calling,<br/>Surely His grace will keep us from falling;<br/>Passing from death to life at His call;<br/>Blessed salvation once for all.</lines>
+    </verse>
+  </lyrics>
+</song>

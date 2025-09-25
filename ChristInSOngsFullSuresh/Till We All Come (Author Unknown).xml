@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:52">
+  <properties>
+    <titles>
+      <title>Till We All Come</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Till we all come<br/>in the unity of the faith<br/>And to the knowledge of<br/>the Son of God<br/>Unto a perfect man<br/>unto the measure of<br/>the stature of<br/>the fullness of Christ<br/>(Ephesians 4:13)</lines>
+    </verse>
+  </lyrics>
+</song>

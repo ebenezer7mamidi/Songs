@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>268 Oh, Wonderful Love (timing words diff)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh wonderful love that takes me<br/>Though wretched and stained with sin<br/>Oh marvelous grace that makes me<br/>All holy and pure within</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh mighty power that holds me<br/>A helper forever near<br/>Oh perfect peace that enfolds me<br/>In danger and storm and fear</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh jubilant joy sustaining<br/>My faltering steps to the last<br/>Oh rapturous rest remaining<br/>When toiling and tears are past</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh matchless mercy that rates me<br/>Joint-heir with the sinless Son<br/>Oh golden glory that waits me<br/>When tempest and clouds are done</lines>
+    </verse>
+    <verse name="v5">
+      <lines>All things are mine for I am His<br/>Oh infinite gifts divine<br/>He gave his Son His only One<br/>And all that He has is mine</lines>
+    </verse>
+  </lyrics>
+</song>

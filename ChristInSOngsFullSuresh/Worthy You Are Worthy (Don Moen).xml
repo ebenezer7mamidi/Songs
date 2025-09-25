@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-06T00:20:32">
+  <properties>
+    <titles>
+      <title>Worthy You Are Worthy</title>
+    </titles>
+    <copyright>1986 Integrity's Hosanna! Music, Administered by Integrity Music, Inc.</copyright>
+    <ccliNo>17384</ccliNo>
+    <authors>
+      <author>Don Moen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/><br/>Worthy You are Worthy<br/>King of kings Lord of lords<br/>You are worthy<br/>Worthy You are worthy<br/>King of kings Lord of lords<br/>We worship You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Holy You are holy<br/>King of kings Lord of lords<br/>You are holy<br/>Holy You are holy<br/>King of kings Lord of lords<br/>We worship You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus You are Jesus<br/>King of kings Lord of lords<br/>You are Jesus<br/>Jesus You are Jesus<br/>King of kings Lord of lords<br/>We worship You</lines>
+    </verse>
+  </lyrics>
+</song>

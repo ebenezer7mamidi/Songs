@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:47">
+  <properties>
+    <titles>
+      <title>Isn't He</title>
+    </titles>
+    <copyright>1980 Mercy / Vineyard Publishing, Administered by Vineyard Music USA</copyright>
+    <ccliNo>1541</ccliNo>
+    <authors>
+      <author>John Wimber</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Isn't He<br/>Beautiful<br/>Beautiful<br/>Isn't He<br/>Prince of Peace<br/>Son of God<br/>Isn't He</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Isn't He<br/>Wonderful<br/>Wonderful<br/>Isn't He<br/>Counselor<br/>Almighty God<br/>Isn't He</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord You are<br/>Beautiful<br/>Beautiful<br/>Yes You are<br/>Prince of Peace<br/>Son of God<br/>Lord You are<br/>Yes You are</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord You are<br/>Wonderful<br/>Wonderful<br/>Lord You are<br/>Counselor<br/>Almighty God<br/>Lord You are<br/>Yes You are<br/>Wonderful</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:25:47">
+  <properties>
+    <titles>
+      <title>100 O Come All Ye Faithful</title>
+    </titles>
+    <copyright>1998, 2001 Lorenz Publishing Company, Administered by Lorenz Corporation</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>2732055</ccliNo>
+    <authors>
+      <author>John Francis Wade</author>
+      <author>Robert Lau</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>G<br/>O come all ye faithful<br/>Joyful and triumphant<br/>O come ye O come ye to Bethlehem<br/>Come and behold Him<br/>Born the King of angels</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O come let us adore Him<br/>O come let us adore Him<br/>O come let us adore Him<br/>Christ the Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sing choirs of angels<br/>Sing in exultation<br/>Sing all ye citizens of heav'n above<br/>Glory to God<br/>all glory in the highest</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yes Lord we greet Thee<br/>Born this happy morning<br/>Jesus to Thee be all glory giv'n<br/>Word of the Father<br/>Now in flesh appearing</lines>
+    </verse>
+  </lyrics>
+</song>

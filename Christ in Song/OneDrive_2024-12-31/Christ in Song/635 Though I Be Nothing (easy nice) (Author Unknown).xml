@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:42">
+  <properties>
+    <titles>
+      <title>635 Though I Be Nothing (easy nice)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Though I be nothing I accept<br/>The uttermost Thou givest<br/>One life alone between us now<br/>One life the life Thou livest</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Though I be nothing I exult<br/>In Thy divine perfection<br/>And taste the deep mysterious joy<br/>Of absolute subjection</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Though I be nothing I rejoice<br/>To find my all in Thee<br/>Not I but Christ forevermore<br/>Amen - So let it be</lines>
+    </verse>
+  </lyrics>
+</song>

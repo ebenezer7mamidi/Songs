@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:44">
+  <properties>
+    <titles>
+      <title>Behold The Glories Of The Lamb</title>
+    </titles>
+    <authors>
+      <author>Isaac Watts</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Behold the glories of the Lamb<br/>Amidst His Father's throne.<br/>Prepare new honors for His Name,<br/>And songs before unknown.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let elders worship at His feet,<br/>The Church adore around,<br/>With vials full of odors sweet,<br/>And harps of sweeter sound.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Those are the prayers of the saints,<br/>And these the hymns they raise;<br/>Jesus is kind to our complaints,<br/>He loves to hear our praise.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Eternal Father, who shall look<br/>Into Thy secret will?<br/>Who but the Son should take that Book<br/>And open every seal?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>He shall fulfill Thy great decrees,<br/>The Son deserves it well;<br/>Lo, in His hand the sovereign keys<br/>Of Heav'n, and death, and hell!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Now to the Lamb that once was slain<br/>Be endless blessings paid;<br/>Salvation, glory, joy remain<br/>Forever on Thy head.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Thou hast redeemed our souls with blood,<br/>Hast set the prisoner free;<br/>Hast made us kings and priests to God,<br/>And we shall reign with Thee.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>The worlds of nature and of grace<br/>Are put beneath Thy power;<br/>Then shorten these delaying days,<br/>And bring the promised hour.</lines>
+    </verse>
+  </lyrics>
+</song>

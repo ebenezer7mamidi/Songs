@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:45">
+  <properties>
+    <titles>
+      <title>For As High As The Heavens</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>a<br/>For as high as the heavens are above the earth<br/>So great is His love towards me<br/>For as far as the east is from the west<br/>So far are my sins from me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Great is the Lord<br/>His mercy endures forever and ever<br/>Great is the Lord<br/>His mercy endures forever and ever</lines>
+    </verse>
+  </lyrics>
+</song>

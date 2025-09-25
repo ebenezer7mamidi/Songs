@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-02-05T16:00:01">
+  <properties>
+    <titles>
+      <title>Within The Veil</title>
+    </titles>
+    <comments>
+      <comment>verse 2 (we version)
+verse 3 (optional - with explanation)
+
+[above are Song Tags with notes imported from EasyWorship]</comment>
+    </comments>
+    <copyright>1978 Genesis Music, Administered by Genesis Music</copyright>
+    <ccliNo>28926</ccliNo>
+    <authors>
+      <author>Ruth Dryden</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/>Within the veil,<br/>I now would come<br/>Into the Holy Place<br/>To look upon Your face.<br/>I see such beauty there,<br/>None other can compare<br/>I worship You, my Lord,<br/>Within the veil</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Within the veil,<br/>We now would come<br/>Into the Holy Place<br/>To look upon Your face.<br/>We see such beauty there,<br/>None other can compare<br/>We worship You, our Lord,<br/>Within the veil</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Within the veil,<br/>We love to come<br/>Into the Holy Place<br/>To look upon Your face.<br/>We see such beauty there,<br/>None other can compare<br/>We worship You, our Lord,<br/>Within the veil</lines>
+    </verse>
+  </lyrics>
+</song>

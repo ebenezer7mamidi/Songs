@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:37">
+  <properties>
+    <titles>
+      <title>060 Great God We Sing That Mighty Hand</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>great god we sing that mighty hand<br/>by which supported still we stand<br/>the opening year Thy mercy shows<br/>that mercy crowns it till it close</lines>
+    </verse>
+    <verse name="v2">
+      <lines>by day by night at home abroad<br/>still are we guarded by our god<br/>by His incessant bounty fed<br/>by His unerring counsel led</lines>
+    </verse>
+    <verse name="v3">
+      <lines>with grateful hearts the past we own<br/>the future all to us unknown<br/>we to Thy guardian care commit<br/>and peaceful leave before Thy feet</lines>
+    </verse>
+    <verse name="v4">
+      <lines>in scenes exulted or depressed<br/>thou art our Joy and thou our Rest<br/>thy goodness all our hopes shall raise<br/>adored through all our changing days</lines>
+    </verse>
+    <verse name="v5">
+      <lines>when death shall interrupt these songs<br/>and seal in silence mortal tongues<br/>our Helper god in whom we trust<br/>shall keep our souls and guard our dust</lines>
+    </verse>
+  </lyrics>
+</song>

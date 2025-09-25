@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T03:37:31">
+  <properties>
+    <titles>
+      <title>Hallelujah What A Savior*</title>
+    </titles>
+    <copyright>Public Domain, Administered by CCLI Administration Account</copyright>
+    <ccliNo>29530</ccliNo>
+    <authors>
+      <author>Philip Paul Bliss</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A<br/><br/>Man of Sorrows what a name<br/>For the Son of God who came<br/>Ruined sinners to reclaim<br/>Hallelujah what a Savior</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bearing shame and scoffing rude<br/>In my place condemned He stood<br/>Sealed my pardon with His blood<br/>Hallelujah what a Savior</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Guilty vile and helpless we<br/>Spotless Lamb of God was He<br/>Full atonement can it be<br/>Hallelujah what a Savior</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lifted up was He to die<br/>It is finished was His cry<br/>Now in heaven exalted high<br/>Hallelujah what a Savior</lines>
+    </verse>
+    <verse name="v5">
+      <lines>When He comes our glorious King<br/>All His ransomed home to bring<br/>Then anew this song we'll sing<br/>Hallelujah what a Savior</lines>
+    </verse>
+  </lyrics>
+</song>

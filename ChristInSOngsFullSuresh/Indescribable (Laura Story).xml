@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-11T15:49:35">
+  <properties>
+    <titles>
+      <title>Indescribable</title>
+    </titles>
+    <copyright>2004 worshiptogether.com songs / sixsteps Music / Gleaning Publishing, Administered by EMI Christian Music Publishing</copyright>
+    <verseOrder>v1 v2 c1 c2 v3 v4 c3 c2</verseOrder>
+    <ccliNo>4403076</ccliNo>
+    <authors>
+      <author>Laura Story</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/><br/>From the highest of heights<br/>To the depths of the sea<br/>Creation's revealing Your majesty</lines>
+    </verse>
+    <verse name="v2">
+      <lines>From the colors of fall<br/>To the fragrance of spring<br/>Ev'ry creature unique<br/>In the song that it sings<br/>All exclaiming</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Indescribable uncontainable<br/>You placed the stars in the sky<br/>And You know them by name<br/>You are amazing God</lines>
+    </verse>
+    <verse name="c2">
+      <lines>All powerful untamable<br/>Awestruck we fall to our knees<br/>As we humbly proclaim<br/>You are amazing God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Who has told ev'ry lightning bolt<br/>Where it should go<br/>Or seen heavenly storehouses<br/>Laden with snow</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Who imagined the sun<br/>And gives source to its light<br/>Yet conceals it to bring us<br/>The coolness of night<br/>None can fathom</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Incomp'rable unchangeable<br/>You see the depths of my heart<br/>And You love me the same<br/>You are amazing God</lines>
+    </verse>
+  </lyrics>
+</song>

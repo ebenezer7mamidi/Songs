@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:49">
+  <properties>
+    <titles>
+      <title>Lord Thou Art God's Annointed</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord Thou art God's anointed<br/>Thou art the King of kings<br/>Here in full adoration<br/>Our song to thee we bring<br/>Thy Kingdom is forever<br/>Established is thy throne<br/>Thy reign with love and justice<br/>In glory stands alone</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Upon the Hill of Zion<br/>Hath God established Thee<br/>And all the nations given<br/>Thy heritage to be<br/>To Thee hath God committed<br/>His Full Authority<br/>To rule with might the<br/>Nations unto eternity</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Before the time of fulness<br/>while darkness still prevails<br/>Ten thousands daily render<br/>To Thee their loyal hails<br/>From shore to shore Thy people<br/>To Thee their praises sing<br/>They worship - love and serve Thee<br/>As their dear saviour King</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When in the time appointed<br/>with glory thou wilt come<br/>The earth with all it's nations<br/>Thy Kingdom will become<br/>In majesty and splendour<br/>Wilt thou be served as King<br/>All kindreds and all peoples<br/>To Thee their praise shall ring</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T01:13:21">
+  <properties>
+    <titles>
+      <title>A Fullness Resides In Jesus</title>
+    </titles>
+    <authors>
+      <author>Fawcett</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>F<br/>A fullness resides in Jesus our Head<br/>A fullness abides to answer all need:<br/>The Father's good pleasure<br/>has laid up a store,<br/>A plentiful treasure, to give to the poor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Whatever distress awaits us below,<br/>Such plentiful grace the Lord will bestow,<br/>As still shall support us and silence our fear,<br/>And nothing can hurt us while Jesus is near.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When sorrows assail us, or terrors draw nigh,<br/>His love will not fail us, He'll guard with His eye;<br/>And when we are fainting and ready to fail,<br/>He'll give what is wanting, and make us prevail.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We trust in His protection; we'll lean on His might;<br/>We're sure His direction will guide us aright:<br/>We know who surrounds us, almighty to save;<br/>And no one confounds us the Saviour who have.</lines>
+    </verse>
+  </lyrics>
+</song>

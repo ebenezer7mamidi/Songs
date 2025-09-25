@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:38">
+  <properties>
+    <titles>
+      <title>219 Where Shall Our Wondering Souls Begin</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Where shall our wond'ring souls begin<br/>How shall we all to heav'n aspire<br/>As slaves redeemed from death and sin<br/>As brands plucked from eternal fire<br/>How shall we suited triumphs rarise<br/>Or sing our great Deliv'rer's praise</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh how shall we the goodness tell<br/>Father which Thou to us hast showed<br/>Children of wrath<br/>And doomed to hell<br/>But children now redeemed to God<br/>On earth we know our sins forgiven<br/>Blest with this antepast*<br/>of heaven<br/>* "foretaste"</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Our hearts are full of Christ and long<br/>Their glorious matter to declare<br/>Of Him we make our loftier song<br/>We cannot from His praise forbear<br/>Our ready tongues make haste to sing<br/>The glories of the heavenly King</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fairer than all the earth-born race<br/>Perfect in comeliness Thou art<br/>Replenished are Thy lips with grace<br/>And full of love Thy tender heart<br/>God ever blest we bow the knee<br/>And own all fullness dwells in Thee</lines>
+    </verse>
+  </lyrics>
+</song>

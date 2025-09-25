@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T02:28:38">
+  <properties>
+    <titles>
+      <title>Blessed Be Your Name</title>
+    </titles>
+    <copyright>2002 Thankyou Music, Administered by EMI Christian Music Publishing</copyright>
+    <verseOrder>v1 v2 p1 c1 v3 v4 p1 c1 b1 b1 p1 c1</verseOrder>
+    <ccliNo>3798438</ccliNo>
+    <authors>
+      <author>Beth Redman</author>
+      <author>Matt Redman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A<br/><br/>Blessed be Your name<br/>In the land that is plentiful<br/>Where Your streams of abundance flow<br/>Blessed be Your name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Blessed be Your name<br/>When I'm found in the desert place<br/>Though I walk through the wilderness<br/>Blessed be Your name</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Every blessing You pour out<br/>I'll turn back to praise<br/>When the darkness closes in<br/>Lord still I will say</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Blessed be the name of the Lord<br/>Blessed be Your name<br/>Blessed be the name of the Lord<br/>Blessed be Your glorious name</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Blessed be Your name<br/>When the sun's shining down on me<br/>When the world's all as it should be<br/>Blessed be Your name</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Blessed be Your name<br/>On the road marked with suffering<br/>Though there's pain in the offering<br/>Blessed be Your name</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You give and take away<br/>You give and take away<br/>My heart will choose to say<br/>Lord blessed be Your name</lines>
+    </verse>
+  </lyrics>
+</song>

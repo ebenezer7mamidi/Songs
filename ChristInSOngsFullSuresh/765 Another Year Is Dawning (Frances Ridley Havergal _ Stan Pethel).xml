@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>765 Another Year Is Dawning</title>
+    </titles>
+    <copyright>© Words: Public Domain &#13;
+Music: 1989 Van Ness Press, Inc., Administered by Music Services, Inc.</copyright>
+    <ccliNo>1871158</ccliNo>
+    <authors>
+      <author>Frances Ridley Havergal | Stan Pethel</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/>Verse 1<br/>Another year is dawning<br/>Dear Father let it be<br/>In working or in waiting<br/>Another year with Thee<br/>Another year of progress<br/>Another year of praise<br/>Another year of proving<br/>Thy presence all the days</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Another year of mercies<br/>Of faithfulness and grace<br/>Another year of gladness<br/>In the shining of Thy face<br/>Another year of leaning<br/>Upon Thy loving breast<br/>Another year of trusting<br/>Of quiet happy rest</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Another year of service<br/>Of witness for Thy love<br/>Another year of training<br/>For holier work above<br/>Another year is dawning<br/>Dear Father let it be<br/>On earth or else in heaven<br/>Another year for Thee</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T14:48:39">
+  <properties>
+    <titles>
+      <title>The Lord Is Good</title>
+    </titles>
+    <copyright>1982 Maranatha! Music / CCCM Music, Administered by Maranatha! Music</copyright>
+    <verseOrder>v1 c2 v2 c1 c2</verseOrder>
+    <ccliNo>38473</ccliNo>
+    <authors>
+      <author>Dan Marks</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/><br/>The Lord is good,<br/>(echo: the Lord is good)<br/>the Lord is good,<br/>(echo: the Lord is good)<br/>blessed is the man<br/>Who puts his trust in Him,</lines>
+    </verse>
+    <verse name="c2">
+      <lines>The Lord is good,<br/>(echo: the Lord is good)<br/>the Lord is good,<br/>(echo: the Lord is good)<br/>Taste and see that the Lord is good.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He is fairer than the lily of the valley.<br/>He is brighter than the morning star.<br/>He is purer than the snow,<br/>Fresher than the breeze,<br/>Lovelier by far than all of these.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>The Lord is good,<br/>(echo: the Lord is good)<br/>the Lord is good,<br/>(echo: the Lord is good)<br/>blessed is the man<br/>Who puts his trust in Him,</lines>
+    </verse>
+  </lyrics>
+</song>

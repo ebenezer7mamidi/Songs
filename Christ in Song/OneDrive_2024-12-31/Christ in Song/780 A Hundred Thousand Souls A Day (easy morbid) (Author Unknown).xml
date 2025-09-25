@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>780 A Hundred Thousand Souls A Day (easy morbid)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A hundred thousand souls a day<br/>Are passing one by one away<br/>In Christ-less guilt and gloom<br/>Without one ray of hope or light<br/>With future dark as endless night<br/>They're passing to their doom<br/>They're passing to their doom</lines>
+    </verse>
+    <verse name="c1">
+      <lines>They're passing passing<br/>Fast away in thousands day by day<br/>They're passing to their doom<br/>They're passing to their doom</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Holy Ghost Thy people move<br/>Baptize their hearts with faith and love<br/>And consecrate their gold<br/>At Jesus' feet their millions pour<br/>And all their ranks unite once more<br/>As in the days of old<br/>As in the days of old</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The master's coming draweth near<br/>The Son of Man will soon appear<br/>His kingdom is at hand<br/>But ere that glorious day can be<br/>This gospel of the kingdom we<br/>Must preach in every land<br/>Must preach in every land</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh let us then His coming haste<br/>Oh let us end this awful waste<br/>Of souls that never die<br/>For many millions still are lost<br/>A Savior's blood has paid the cost<br/>Oh hear their dying cry<br/>Oh hear their dying cry</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Armies of pray'r your promise claim<br/>Prove the full pow'r of Jesus' name<br/>And take the victory<br/>Your conq'ring Captain leads you on<br/>The glorious fight may still be won<br/>This very century<br/>This very century</lines>
+    </verse>
+  </lyrics>
+</song>

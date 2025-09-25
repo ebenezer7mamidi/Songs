@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>427 Lord I Believe (very nice - chorus takes a lit</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <ccliNo>169926</ccliNo>
+    <authors>
+      <author>Herbert Booth</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When sorrows and storms<br/>Are besetting my track<br/>And Satan is whisp'ring<br/>You'd better turn back<br/>Oh then I have proved it<br/>Tho' dark be the way<br/>A little believing<br/>Drives clouds right away</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lord I believe - Lord I believe<br/>Saviour raise my faith in Thee<br/>Till it can move a mountain<br/>Lord I believe - Lord I believe<br/>All my doubts are buried<br/>In the Fountain</lines>
+    </verse>
+    <verse name="v2">
+      <lines>How easy when sailing<br/>The sea at a calm<br/>To trust in the strength<br/>Of Jehovah's great arm<br/>But somehow I find<br/>When the waves swamp the boat<br/>It takes some believing<br/>To keep things afloat</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'll stand to the end<br/>I have heard people say<br/>I'll fight till I die<br/>And I'll ne'er run away<br/>But when the temptations<br/>So fiercely assailed<br/>They left off believing<br/>And terribly failed</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And others there are<br/>Full of courage and zeal<br/>Who go to the battle<br/>Like warriors of steel<br/>But right in the heat<br/>Of the conflict with sin<br/>Instead of believing<br/>They faint and give in</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh let us remember<br/>In running our race<br/>That faith is not feeling<br/>And trust is not trace<br/>And when all is seeming<br/>As black as the night<br/>We'll keep on believing<br/>And go on with the fight</lines>
+    </verse>
+  </lyrics>
+</song>

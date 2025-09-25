@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:48">
+  <properties>
+    <titles>
+      <title>Its your blood</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>It's Your blood that cleanses me<br/>It's Your blood that gives me life<br/>It's Your blood that took my place<br/>In redeeming sacrifice</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Washes me whiter than the snow<br/>Than the snow<br/>My Jesus<br/>God's precious sacrifce</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>It's the blood of the Lamb<br/>It's the blood of the Lamb<br/>It's the blood of the Lamb<br/>That can cleanse the deepest stain</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Washes me whiter than the snow<br/>Than the snow<br/>My Jesus<br/>God's precious sacrifice</lines>
+    </verse>
+  </lyrics>
+</song>

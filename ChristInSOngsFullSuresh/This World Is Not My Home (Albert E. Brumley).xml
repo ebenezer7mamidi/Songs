@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:52">
+  <properties>
+    <titles>
+      <title>This World Is Not My Home</title>
+    </titles>
+    <copyright>© 1936. Renewed 1964 Albert E. Brumley And Sons, Administered by ClearBox Rights, LLC</copyright>
+    <ccliNo>33430</ccliNo>
+    <authors>
+      <author>Albert E. Brumley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This world is not my home I'm just a passing thru<br/>My treasures are laid up somewhere beyond the blue<br/>The angels beckon me from heaven's open door<br/>And I can't feel at home in this world anymore</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O Lord You know I have no friend like You<br/>If heaven's not my home then Lord what will I do<br/>The angels beckon me from heaven's open door<br/>And I can't feel at home in this world any more</lines>
+    </verse>
+    <verse name="v2">
+      <lines>They're all expecting me and that's one thing I know<br/>My Savior pardoned me and now I onward go<br/>I know He'll take me thru tho' I am weak and poor<br/>And I can't feel at home in this world anymore</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I have a loving Father up in gloryland<br/>I don't expect to stop until I shake His hand<br/>He's waiting now for me in heaven's open door<br/>And I can't feel at home in this world anymore</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Just up in gloryland we'll live eternally<br/>The saints on ev'ry hand are shouting victory<br/>Their song of sweetest praise<br/>Drift back from heaven's shore<br/>And I can't feel at home in this world anymore</lines>
+    </verse>
+  </lyrics>
+</song>

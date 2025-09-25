@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T15:23:27">
+  <properties>
+    <titles>
+      <title>Thou Art Worthy Great Jehovah</title>
+    </titles>
+    <copyright>1980 Integrity's Hosanna! Music, Administered by Integrity Music, Inc.</copyright>
+    <ccliNo>15795</ccliNo>
+    <authors>
+      <author>Karen Eagan</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/><br/>Thou art worthy, Great Jehovah.<br/>Thou art worthy, Almighty God.<br/>Thou art worthy, Abba Father.<br/>Thou art worthy,<br/>Dear Lamb of God.</lines>
+    </verse>
+  </lyrics>
+</song>

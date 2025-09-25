@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T15:49:26">
+  <properties>
+    <titles>
+      <title>What A Friend We Have In Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>F<br/>What A Friend we have in Jesus<br/>All our sins and griefs to bear<br/>What a privilege to carry<br/>Ev'rything to God in prayer<br/>O what peace we often forfeit<br/>O what needless pain we bear<br/>All because we do not carry<br/>Ev'rything to God in prayer</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Have we trials and temptations<br/>Is there trouble anywhere<br/>We should never be discouraged<br/>Take it to the Lord in prayer<br/>Can we find a friend so faithful<br/>Who will all our sorrows share<br/>Jesus knows our ev'ry weakness<br/>Take it to the Lord in prayer</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Are we weak and heavy laden<br/>Cumbered with a load of care<br/>Precious Savior still our refuge<br/>Take it to the Lord in prayer<br/>Do thy friends despise forsake thee<br/>Take it to the Lord in prayer<br/>In His arms He'll take and shield thee<br/>Thou wilt find a solace there</lines>
+    </verse>
+  </lyrics>
+</song>

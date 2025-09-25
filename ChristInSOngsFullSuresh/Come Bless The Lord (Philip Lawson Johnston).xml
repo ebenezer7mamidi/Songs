@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:45">
+  <properties>
+    <titles>
+      <title>Come Bless The Lord</title>
+    </titles>
+    <copyright>1975 Thankyou Music, Administered by EMI Christian Music Publishing</copyright>
+    <ccliNo>78763</ccliNo>
+    <authors>
+      <author>Philip Lawson Johnston</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Come bless the Lord<br/>All you servants of the Lord<br/>Who stand by night<br/>In the house of the Lord</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Lift up your hands<br/>In the holy place<br/>And bless the Lord<br/>and bless the Lord<br/>and bless the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

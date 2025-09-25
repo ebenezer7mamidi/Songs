@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:48">
+  <properties>
+    <titles>
+      <title>Kingdom of God</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 c1 b1 c1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh that I could see your face<br/>How I'm longing for the day<br/>Brighter sun of holy grace<br/>make my heart a holy place</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Blessed are the poor who have nothing to own<br/>Blessed are the mourners who are crying alone<br/>Blesed are the guilty who have nowhere to go</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>For their hearts have a home in the Kingdom of God<br/>And their souls are the songs of the Kingdom of God and their souls are the songs of the Kingdom of God<br/>And they will find a refuge for theirs in the Kingdom of God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Beauty shining from your face<br/>Always longed tro see this place<br/>Is there somewhere I can stay?<br/>Even justg a couple days?</lines>
+    </verse>
+    <verse name="b1">
+      <lines>The Lord is my shepherd we shall not want<br/>In valley or pasture we shall not want<br/>Our cup runneth over and over<br/>For now and forever<br/>For now and forever</lines>
+    </verse>
+  </lyrics>
+</song>

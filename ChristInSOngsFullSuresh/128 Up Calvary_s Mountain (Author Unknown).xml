@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-19T20:45:20">
+  <properties>
+    <titles>
+      <title>128 Up Calvary's Mountain</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Up Calvary's mountain one dreadful mortn<br/>Walked Christ my Savior weary and worn<br/>Facing for sinnert death on the cross<br/>That hHe might save them from endless loss</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Blessed Redeemer precious Redeemer<br/>Seems now I see Him on Calvary's RTree<br/>Wouded and bvleeding for sinners pleading<br/>Blind an unheeding dying for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>"Father forgiver them" thus did He pray<br/>E'en while His life-blood flowed fast away<br/>Praying for sinners while in such woe<br/>No one but Jesus ever loved us so</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O how I love Him<br/>Savior and Friend<br/>How can my praises ever find end<br/>Through years unnumbered on heaven's shore<br/>My tounge shall praise Him forevermore</lines>
+    </verse>
+  </lyrics>
+</song>

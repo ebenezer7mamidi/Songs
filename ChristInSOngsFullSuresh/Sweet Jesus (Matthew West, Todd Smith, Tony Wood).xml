@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:51">
+  <properties>
+    <titles>
+      <title>Sweet Jesus</title>
+    </titles>
+    <copyright>2003 Westies, Inc. Music Publishing; Word Music, LLC; Row J, Seat 9 Songs; New Spring; Todd Smith Pu, Administered by Bug Music, Inc.; Brentwood-Benson Music Publishing</copyright>
+    <ccliNo>4045410</ccliNo>
+    <authors>
+      <author>Matthew West</author>
+      <author>Todd Smith</author>
+      <author>Tony Wood</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sweet Jesus my Savior<br/>You are my faithful Friend<br/>You made me You know me<br/>You've seen my ev'ry sin<br/>And my soul is amazed<br/>By the gift of Your grace<br/>And the arms that take me in<br/>Sweet Jesus my Savior<br/>You are my faithful Friend</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sweet Jesus my shelter<br/>You are my faithful Friend<br/>The refuge I run to<br/>When the world comes closing in<br/>Why should I be afraid<br/>When I know I am saved<br/>By the arms that take me in<br/>Sweet Jesus my shelter<br/>You are my faithful Friend</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sweet Jesus my Shepherd<br/>You are my faithful Friend<br/>You hold me You lead me<br/>I'll follow to the end<br/>And once more I will say<br/>On that beautiful day<br/>When Your arms take me in<br/>Sweet Jesus my Shepherd<br/>You are my faithful Friend</lines>
+    </verse>
+    <verse name="e1">
+      <lines>And once more I will say<br/>On that beautiful day<br/>When Your arms take me in<br/>Sweet Jesus my Shepherd<br/>You are my faithful Friend</lines>
+    </verse>
+  </lyrics>
+</song>

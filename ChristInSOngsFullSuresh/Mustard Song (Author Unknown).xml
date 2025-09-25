@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:49">
+  <properties>
+    <titles>
+      <title>Mustard Song</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How big is a mustard seed<br/>all the faith you will need<br/>to move a mountain to the sea<br/>will fit inside that seed</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus said it's so sad to me<br/>when you walk in unbelief<br/>everything's a possibility<br/>with faith no bigger than a mustard seed</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A mustard seed would be hard to measure<br/>it's smaller than a speck<br/>lighter than a feather<br/>but this truth should make us feel better<br/>it's the size of God that matters</lines>
+    </verse>
+  </lyrics>
+</song>

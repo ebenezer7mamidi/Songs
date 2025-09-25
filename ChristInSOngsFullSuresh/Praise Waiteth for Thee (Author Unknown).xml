@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:50">
+  <properties>
+    <titles>
+      <title>Praise Waiteth for Thee</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Praise waiteth for Thee, O Lord<br/>Praise waiteth for Thee<br/>Praise waiteth for Thee, O Lord<br/>Waiteth for Thee in Zion.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thou are worthy of praise, O Lord<br/>Thou are worthy of praise<br/>Thou are worthy of praise, O Lord<br/>Worthy of praise in Zion.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Who so offereth praise O Lord<br/>Glorifieth Thee<br/>Who so offereth praise O Lord<br/>Glorifies Thee in Zion</lines>
+    </verse>
+  </lyrics>
+</song>

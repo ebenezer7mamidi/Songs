@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T15:34:15">
+  <properties>
+    <titles>
+      <title>Up From The Grave He Arose</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>G<br/><br/>Low in the grave He lay<br/>Jesus my Saviour<br/>Waiting the coming day<br/>Jesus my Lord</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Up from the grave He arose<br/>With a mighty triumph o'er His foes<br/>He arose a Victor<br/>from the dark domain<br/>And He lives forever<br/>With His saints to reign<br/>He arose, He arose<br/>Halleluia! Christ arose</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vainly they watched His bed<br/>Jesus my Saviour<br/>Vainly they seal the dead<br/>Jesus my Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Death cannot keep his prey<br/>Jesus my Saviour<br/>He tore the bars away<br/>Jesus my Lord</lines>
+    </verse>
+  </lyrics>
+</song>

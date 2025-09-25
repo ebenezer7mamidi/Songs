@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>767 We've A Story To Tell To The Nations (hymn of</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <ccliNo>2257437</ccliNo>
+    <authors>
+      <author>Henry Ernest Nichol</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We've a story to tell to the nations<br/>That shall turn their hearts to the right<br/>A story of truth and mercy<br/>A story of peace and light<br/>A story of peace and light</lines>
+    </verse>
+    <verse name="c1">
+      <lines>For the darkness shall turn to dawning<br/>And the dawning to noonday bright<br/>And Christ's great kingdom shall come to earth<br/>The kingdom of love and light</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We've a song to be sung to the nations<br/>That shall lift their hearts to the Lord<br/>A song that shall conquer evil<br/>And shatter the spear and sword<br/>And shatter the spear and sword</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We've a message to give to the nations<br/>That the Lord who reigneth above<br/>Hath sent us His Son to save us<br/>And show us that God is love<br/>And show us that God is love</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We've a Saviour to show to the nations<br/>Who the path of sorrow has trod<br/>That all of the world's great peoples<br/>Might come to the truth of God<br/>Might come to the truth of God</lines>
+    </verse>
+  </lyrics>
+</song>

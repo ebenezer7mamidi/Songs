@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-04-23T13:37:27">
+  <properties>
+    <titles>
+      <title>In Immanuel's land</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>The sands of time are sinking<br/>The dawn of heaven breaks<br/>The summer morn I've sighed for<br/>The fair sweet morn awakes</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Dark dark hath been the midnight<br/>But dayspring is at hand<br/>And glory glory dwelleth<br/>In Immanuel's land.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>O Christ! He is the fountain,<br/>The deep sweet well of love.<br/>The streams on earth I've tasted<br/>more deep I'll drink above</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>There, to an ocean's fullness<br/>His mercies doth expand<br/>And glory glory dwelleth<br/>in Immanuel's land</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>with mercy and with judgment<br/>my web of time He wove<br/>and aye the dews of sorrow<br/>were lustered with His love</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>i'll bless the hand that guided<br/>I'll bless the heart that planned<br/>when throned where glory dwelleth<br/>in Immanuel's land</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>oh I am my Beloved's<br/>and my Beloved's mine<br/>He brings a poor vile sinner<br/>into his house of wine.</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>I stand upon His merit<br/>I know no other stand<br/>not e'en where glory dwelleth<br/>in Immanuel's land</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>The Bride eyes not her garment<br/>But her dear Bridegroom's face<br/>I will not gaze at glory<br/>But on my King of grace</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>Not at the crown He giveth<br/>But on His pierced hand<br/>The Lamb is all the glory<br/>of Immanuel's land</lines>
+    </verse>
+  </lyrics>
+</song>

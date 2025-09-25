@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T01:40:05">
+  <properties>
+    <titles>
+      <title>All Through The Day</title>
+    </titles>
+    <copyright>1977 Tom Howard Music, Administered by Fun Attic Music</copyright>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <ccliNo>38734</ccliNo>
+    <authors>
+      <author>Tom Howard</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>D<br/>All through the day<br/>All through the night<br/>Dwell in His promises<br/>Walk in His light<br/>Darkness will flee<br/>At His command<br/>All through the day and night<br/>We're in His hand</lines>
+    </verse>
+    <verse name="v1">
+      <lines>You have a friend<br/>He waits for you<br/>Watching to see<br/>Just what you'll do<br/>You'll only find your strength<br/>Within His mighty calm<br/>And with His joy<br/>Your life will be a Psalm</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tell Him your cares<br/>Confess your doubts<br/>He works within<br/>To work it out<br/>His Word will comfort you<br/>His love is a healing balm<br/>And with His joy<br/>Your life will be a Psalm</lines>
+    </verse>
+  </lyrics>
+</song>

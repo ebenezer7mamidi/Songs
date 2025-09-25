@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:37">
+  <properties>
+    <titles>
+      <title>020 We praise Thee, Glorious Father</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We praise Thee, glorious Father<br/>As objects of Thy grace<br/>Who for Thine own heart's<br/>Pleasure are now before Thy face<br/>Thy sons marked out for<br/>Glory known from eternity-<br/>With Christ Thy well Beloved object<br/>Supreme to Thee</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Who else but Thee O Father<br/>Could in Thine only Son<br/>So bless us with Thy Spirit<br/>And have us for Thine own?<br/>Soon shall we be forever<br/>With Christ in glory; then<br/>We'll shine in His blest image<br/>Eternally, Amen</lines>
+    </verse>
+  </lyrics>
+</song>

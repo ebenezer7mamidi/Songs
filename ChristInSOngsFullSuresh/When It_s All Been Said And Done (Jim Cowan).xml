@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:52">
+  <properties>
+    <titles>
+      <title>When It's All Been Said And Done</title>
+    </titles>
+    <copyright>© 1999 Integrity's Hosanna! Music, Administered by EMI Christian Music Publishing</copyright>
+    <ccliNo>2788353</ccliNo>
+    <authors>
+      <author>Jim Cowan</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When it's all been said and done<br/>There is just one thing that matters<br/>Did I do my best to live for truth<br/>Did I live my life for You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When it's all been said and done<br/>All my treasures will mean nothing<br/>Only what I've done for love's reward<br/>Will stand the test of time</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord Your mercy is so great<br/>That You look beyond our weakness<br/>And find purest gold in miry clay<br/>Making sinners into saints</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will always sing Your praise<br/>Here on earth and ever after<br/>For You've shown me Heaven's my true home<br/>When it's all been said and done<br/>You're my life when life is gone</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Lord I'll live my life for You</lines>
+    </verse>
+  </lyrics>
+</song>

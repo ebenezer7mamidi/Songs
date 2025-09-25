@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>385 Hast Thou Heard Him (different tune no chorus)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>G<br/>Hast thou heard Him,<br/>seen Him, known Him?<br/>Is not thine<br/>A captured heart?<br/>Chief among ten thousand own Him,<br/>Joyful choose<br/>The better part</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Idols once they won thee<br/>charmed thee,<br/>Lovely things of time and sense;<br/>Gilded thus does sin disarm thee,<br/>Honeyed lest thou turn thee thence.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>What has stripped<br/>the seeming beauty<br/>From the idols of the earth?<br/>Not a sense of right or duty,<br/>But the sight of peerless worth</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Not the crushing of those idols,<br/>With its bitter void and smart,<br/>But the beaming of His beauty,<br/>The unveiling of His heart.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Who extinguishes their taper<br/>Till they hail the rising sun?<br/>Who discards the garb of winter<br/>Till the summer has begun?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>'Tis that look that melted Peter<br/>'Tis that face that Stephen saw,<br/>'Tis that heart that wept with Mary,<br/>Can alone from idols draw.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Draw and win and fill completely,<br/>Till the cup o'erflow the brim;<br/>What have we to do with idols<br/>Who have companied with Him?</lines>
+    </verse>
+  </lyrics>
+</song>

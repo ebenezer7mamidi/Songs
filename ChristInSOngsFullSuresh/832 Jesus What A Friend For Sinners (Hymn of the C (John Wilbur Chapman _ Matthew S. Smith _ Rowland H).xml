@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>832 Jesus What A Friend For Sinners (Hymn of the C</title>
+    </titles>
+    <copyright>© Words: 2004 detuned radio music &#13;
+Music: Public Domain</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <ccliNo>4989686</ccliNo>
+    <authors>
+      <author>John Wilbur Chapman | Matthew S. Smith | Rowland H</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>E<br/>Verse 1<br/>Jesus what a friend for sinners<br/>Jesus lover of my soul<br/>Friends may fail me foes assail me<br/>He my Savior makes me whole</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hallelujah what a Savior<br/>Hallelujah what a Friend<br/>Saving helping keeping loving<br/>He is with me to the end</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus what a strength in weakness<br/>Let me hide myself in Him<br/>Tempted tried and sometimes failing<br/>He my strength my vict'ry wins</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus what a help in sorrow<br/>While the billows o'er me roll<br/>Even when my heart is breaking<br/>He my comfort helps my soul</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus what a guide and keeper<br/>While the tempest still is high<br/>Storms about me night o'ertakes me<br/>He my pilot hears my cry</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus I do now receive Him<br/>More than all in Him I find<br/>He hath granted me forgiveness<br/>I am His and He is mine</lines>
+    </verse>
+  </lyrics>
+</song>

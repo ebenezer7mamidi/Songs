@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:44">
+  <properties>
+    <titles>
+      <title>Agnus Dei</title>
+    </titles>
+    <copyright>1990 Milene Music, Administered by Sony/ATV Milene Music</copyright>
+    <ccliNo>626713</ccliNo>
+    <authors>
+      <author>Michael W. Smith</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Alleluia alleluia<br/>For the Lord God Almighty reigns<br/>Alleluia alleluia<br/>For the Lord God Almighty reigns</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Alleluia<br/>Holy holy<br/>Are You Lord God Almighty<br/>Worthy is the Lamb<br/>Worthy is the Lamb</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>You are holy holy<br/>Are You Lord God Almighty<br/>Worthy is the Lamb<br/>Worthy is the Lamb<br/>Amen</lines>
+    </verse>
+  </lyrics>
+</song>

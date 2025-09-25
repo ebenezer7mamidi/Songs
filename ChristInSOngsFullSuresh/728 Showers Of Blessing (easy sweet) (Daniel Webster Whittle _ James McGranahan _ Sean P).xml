@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:42">
+  <properties>
+    <titles>
+      <title>728 Showers Of Blessing (easy sweet)</title>
+    </titles>
+    <copyright>© 2003 Broadman Press, Administered by Music Services, Inc.</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <ccliNo>4324375</ccliNo>
+    <authors>
+      <author>Daniel Webster Whittle | James McGranahan | Sean P</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There shall be showers of blessing<br/>This is the promise of love<br/>There shall be seasons refreshing<br/>Sent from the Savior above</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Showers of blessing<br/>Showers of blessing we need<br/>Mercy drops round us are falling<br/>But for the showers we plead</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There shall be showers of blessing<br/>Precious reviving again<br/>Over the hills and the valleys<br/>Sound of abundance of rain</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There shall be showers of blessing<br/>Send them upon us O Lord<br/>Grant to us now a refreshing<br/>Come and now honor Thy Word</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There shall be showers of blessing<br/>Oh that today they might fall<br/>Now as to God we're confessing<br/>Now as on Jesus we call</lines>
+    </verse>
+    <verse name="v5">
+      <lines>There shall be showers of blessing<br/>If we but trust and obey<br/>There shall be seasons refreshing<br/>If we let God have His way</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-19T20:00:46">
+  <properties>
+    <titles>
+      <title>045 On The Lamb Our Souls Are Resting</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>On the Lamb our souls are resting<br/>What His love no tongue can say<br/>All our sins so great so many<br/>In His blood are washed away</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sweetest rest and peace have filled us<br/>Sweeter praise than tongue can tell<br/>God is satisfied with Jesus<br/>We are satisfied as well</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Conscience now no more condemns us<br/>For His own most precious blood<br/>Once for all has washed and cleansed us<br/>Cleansed us in the eyes of God</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Filled with this sweet peace forever<br/>On we go through strife and care<br/>Till we find that peace around us<br/>In the Lamb's high glory there</lines>
+    </verse>
+  </lyrics>
+</song>

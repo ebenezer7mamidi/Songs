@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:46">
+  <properties>
+    <titles>
+      <title>House of the Lord</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 c1 b1 c1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>We worship the God who was<br/>We worship the God who is<br/>We worship the God who evermore will be</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>He opened the prison doors<br/>He parted the raging sea<br/>My God, He holds the victory</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>There's joy in the house of the Lord<br/>There's joy in the house of the Lord today<br/>And we won't be quiet<br/>We shout out Your praise</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>There's joy in the house of the Lord<br/>Our God is surely in this place<br/>And we won't be quiet<br/>We shout out Your praise</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>We sing to the God who heals<br/>We sing to the God that saves<br/>We sing to the God<br/>Who always makes a way</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>'Cause He hung up on that cross<br/>And He rose up from that grave<br/>My God's still rolling stones away</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>We were the beggars<br/>Now we're royalty<br/>We were the prisoners<br/>Now we're running free</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>We are forgiven<br/>Accepted,<br/>Redeemed by His grace<br/>Let the house of the Lord<br/>Sing praise</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:52">
+  <properties>
+    <titles>
+      <title>We Bow Down</title>
+    </titles>
+    <copyright>1984 New Spring, Administered by Brentwood-Benson Music Publishing, Inc.</copyright>
+    <ccliNo>20003</ccliNo>
+    <authors>
+      <author>Twila Paris</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are Lord of creation<br/>And Lord of my life<br/>Lord of the land and the sea<br/>You were Lord of the heavens<br/>Before there was time<br/>And Lord of all Lords You will be</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We bow down<br/>And we worship You Lord<br/>We bow down<br/>And we worship You Lord<br/>We bow down<br/>And we worship You Lord<br/>Lord of all lords You will be</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are King of creation<br/>And King of my life<br/>King of the land and the sea<br/>You were King of the heavens<br/>Before there was time<br/>And King of all kings You will be</lines>
+    </verse>
+    <verse name="c2">
+      <lines>We bow down<br/>And we crown You the King<br/>We bow down<br/>And we crown You the King<br/>We bow down<br/>And we crown You the King<br/>King of all kings You will be</lines>
+    </verse>
+  </lyrics>
+</song>

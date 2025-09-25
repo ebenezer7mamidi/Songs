@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T01:21:15">
+  <properties>
+    <titles>
+      <title>Above All</title>
+    </titles>
+    <comments>
+      <comment>ending (optional)
+
+[above are Song Tags with notes imported from EasyWorship]</comment>
+    </comments>
+    <copyright>1999 Integrity's Hosanna! Music / LenSongs Publishing, Administered by Integrity Music, Inc. / LenSongs Publishing</copyright>
+    <ccliNo>2672885</ccliNo>
+    <authors>
+      <author>Lenny LeBlanc</author>
+      <author>Paul Baloche</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A<br/>Above all powers above all kings<br/>Above all nature and all created things<br/>Above all wisdom and all the ways of man<br/>You were here before the world began</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Above all kingdoms above all thrones<br/>Above all wonders the world has ever known<br/>Above all wealth and treasures of the earth<br/>There's no way to measure<br/>What You're worth</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Crucified laid behind a stone<br/>You lived to die rejected and alone<br/>Like a rose trampled on the ground<br/>You took the fall and thought of me<br/>Above all</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Like a rose trampled on the ground<br/>You took the fall and thought of me<br/>Above all</lines>
+    </verse>
+  </lyrics>
+</song>

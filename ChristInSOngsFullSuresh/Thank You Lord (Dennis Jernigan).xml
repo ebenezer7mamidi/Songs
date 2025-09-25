@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T14:30:24">
+  <properties>
+    <titles>
+      <title>Thank You Lord</title>
+    </titles>
+    <copyright>1991 Shepherd's Heart Music, Inc., Administered by Word Music Group, Inc.</copyright>
+    <verseOrder>v1 c1 c2 c1 c2</verseOrder>
+    <ccliNo>577439</ccliNo>
+    <authors>
+      <author>Dennis Jernigan</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>And I thank You, thank You, Lord,<br/>(And I thank You, thank You, Lord,)<br/>Thank You. thank You, Lord,<br/>(thank You, thank You, Lord,)</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Thank You for loving<br/>And setting me free,<br/>Thank You for giving<br/>Your life just for me,<br/>How I thank You, Lord,<br/>Jesus, I thank You, Lord,</lines>
+    </verse>
+    <verse name="v1">
+      <lines>For all that You've done<br/>I will thank You,<br/>For all that You're going to do,<br/>For all that You've promised,<br/>And all that You are<br/>Is all that has carried me through,<br/>Jesus, I thank You</lines>
+    </verse>
+  </lyrics>
+</song>

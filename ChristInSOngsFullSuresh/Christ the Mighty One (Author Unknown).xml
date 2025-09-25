@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:45">
+  <properties>
+    <titles>
+      <title>Christ the Mighty One</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/>For forty days in full array we heard the giant cry,<br/>Cursing God and God's own men who stood there terrified,<br/>Until we saw the Mighty One cut off the giant's head,<br/>And then we knew the battle won whatever lay ahead.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Day to day we find our flesh oppose us to our face -<br/>Threatening to overwhelm and take God's rightful place.<br/>But our Old Man was crucified with Christ on Calvary!<br/>Arise, O Church, and shout in praise, and claim His victory!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>When we believe, it doesn't matter how the battle seems,<br/>For we believe that Jesus Christ has won the victory.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hallelujah! Praise the Lord! The Mighty One is King!<br/>Firmly seated on the throne as Lord of everything!<br/>As yet we hope but do not see all things beneth His feet,<br/>But we proclaim until that day His victory's complete!</lines>
+    </verse>
+  </lyrics>
+</song>

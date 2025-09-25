@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:44">
+  <properties>
+    <titles>
+      <title>Blessed Be The Lord Our God Of Israel</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Blessed be the Lord our God of Israel<br/>From everlasting to everlasting.<br/>Blessed be the Lord our God of Israel<br/>From everlasting to everlasting.</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Let all the people say "Amen" (Amen!)<br/>Let all the people say "Amen" (Amen!)<br/>Let all the people say "Amen"<br/>Oh, praise the Lord!</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Gather us, O Lord, our God,<br/>from among the nations.<br/>(Gather us, O Lord, our God,<br/>from among the nations.)<br/>Deliver us and save us, O God,<br/>God of our salvation.<br/>(Deliver us and save us, O God,<br/>God of our salvation.)</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>So that we may give thanks to Thy holy name<br/>And glory in Thy praise.<br/>Hallelujah!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Praise the Lord, give thanks to the Lord,<br/>for He is good.<br/>(Praise the Lord, give thanks to the Lord,<br/>for He is good.)<br/>His steadfast love endures forever,<br/>and He is good.<br/>(His steadfast love endures forever,<br/>and He is good.)</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Behold the mighty deeds of the Lord,<br/>And show forth all His praise.<br/>Hallelujah!</lines>
+    </verse>
+  </lyrics>
+</song>

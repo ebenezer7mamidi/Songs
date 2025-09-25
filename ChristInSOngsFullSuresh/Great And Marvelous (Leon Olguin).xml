@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T03:31:29">
+  <properties>
+    <titles>
+      <title>Great And Marvelous</title>
+    </titles>
+    <copyright>1988 Sound Truth Publishing, Administered by Sound Truth Publishing</copyright>
+    <ccliNo>311633</ccliNo>
+    <authors>
+      <author>Leon Olguin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>G<br/>Great and marvelous<br/>are Your works<br/>Lord God Almighty<br/>Just and true<br/>are Your ways<br/>Oh Lord the King of ages<br/>Who shall not fear You<br/>oh Lord<br/>And glorify Your name</lines>
+    </verse>
+    <verse name="c1">
+      <lines>For You alone are holy<br/>For You alone are holy<br/>For You alone are holy<br/>Almighty God</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T02:09:42">
+  <properties>
+    <titles>
+      <title>Be Exalted O God</title>
+    </titles>
+    <copyright>1977 Scripture In Song, Administered by Integrity Music, Inc.</copyright>
+    <verseOrder>v1 v2 c1 v3 c2</verseOrder>
+    <ccliNo>21112</ccliNo>
+    <authors>
+      <author>Brent Chambers</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A<br/>I will give thanks to Thee<br/>O Lord among the people<br/>I will sing praises to Thee<br/>Among the nations</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For Thy steadfast love is great<br/>Is great to the heavens<br/>And Thy faithfulness<br/>Thy faithfulness to the clouds</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Be exalted O God above the heavens<br/>Let Thy glory be over all the earth<br/>Be exalted O God above the heavens<br/>Let Thy glory be over all the earth</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We will give thanks to Thee<br/>O Lord among the people<br/>We will sing praises to Thee<br/>Among the nations</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Be exalted O God above the heavens<br/>Let Thy glory be over all the earth<br/>Be exalted O God above the heavens<br/>Let Thy glory<br/>Let Thy glory<br/>Let Thy glory be over<br/>All the earth</lines>
+    </verse>
+  </lyrics>
+</song>

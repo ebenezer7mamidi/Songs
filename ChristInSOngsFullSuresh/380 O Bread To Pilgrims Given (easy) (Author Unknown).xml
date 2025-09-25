@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>380 O Bread To Pilgrims Given (easy)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh Bread to pilgrims given<br/>Oh Food for saints to eat<br/>Oh Manna sent from heaven<br/>For heav'n-born natures meet<br/>Give us for Thee long pining<br/>To eat till richly filled<br/>Till earth's delights resigning<br/>Our ev'ry wish is stilled</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh Water life bestowing<br/>From out the Savior's heart<br/>A fountain purely flowing<br/>A fount of love Thou art<br/>Oh let us freely tasting<br/>Our burning thirst assuage<br/>Thy sweetness never wasting<br/>Avails from age to age</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus this feast receiving<br/>We Thee unseen adore<br/>Thy faithful word believing<br/>We take and doubt no more<br/>Give us Thou true and loving<br/>On earth to live in Thee<br/>Then God the veil removing<br/>Thy glorious face to see</lines>
+    </verse>
+  </lyrics>
+</song>

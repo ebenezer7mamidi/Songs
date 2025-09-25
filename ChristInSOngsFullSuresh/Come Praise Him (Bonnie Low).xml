@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:45">
+  <properties>
+    <titles>
+      <title>Come Praise Him</title>
+    </titles>
+    <copyright>1977, 1983 C.A. Music, Administered by Music Services</copyright>
+    <ccliNo>28342</ccliNo>
+    <authors>
+      <author>Bonnie Low</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Come praise Him exalt Him<br/>And worship His name<br/>Today and forever<br/>He's always the same</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Come praise Him my Savior<br/>The Lamb that was slain<br/>Come praise Him exalt Him<br/>The Lord is His name</lines>
+    </verse>
+  </lyrics>
+</song>

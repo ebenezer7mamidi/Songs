@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-21T23:52:25">
+  <properties>
+    <titles>
+      <title>Oh Lord my heart longs to be</title>
+    </titles>
+    <comments>
+      <comment>verse 2( we option)
+
+[above are Song Tags with notes imported from EasyWorship]</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 c2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>A<br/><br/>O Lord my heart longs to be<br/>A habitation fit for Thee<br/>A place where peace reigns<br/>And love can flourish<br/>A heart where You will feel at home</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>O Lord I want to be like you<br/>My tongue to speak the words You do<br/>My hands to stretch forth in healing others<br/>My feet to carry the good news</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>That You are God<br/>You're the Way<br/>You're the Truth and You're the life<br/>King of kings<br/>Lord of lords<br/>Prince of Peace<br/>Lord Jesus Christ</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>And by Your<br/>Shed blood<br/>The Great Redeemer<br/>You saved my soul<br/>You paid the price</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>O Lord our hearts long to be<br/>A habitation fit for Thee<br/>A place where peace reigns<br/>And love can flourish<br/>A heart where You will feel at home</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>O Lord we want to be like you<br/>Our tongues to speak the words You do<br/>Our hands to stretch forth in healing others<br/>Our feet to carry the good news</lines>
+    </verse>
+    <verse name="c2">
+      <lines>And by Your<br/>Shed blood<br/>The Great Redeemer<br/>You saved our souls<br/>You paid the price</lines>
+    </verse>
+  </lyrics>
+</song>

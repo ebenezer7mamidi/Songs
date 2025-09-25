@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:44">
+  <properties>
+    <titles>
+      <title>Behold What Love</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Behold what love,<br/>what boundless love,<br/>the Father has bestowed<br/>on sinners lost<br/>that we should now be<br/>called the sons of God</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Behold, what manner of love!<br/>What manner of love the</lines>
+    </verse>
+  </lyrics>
+</song>

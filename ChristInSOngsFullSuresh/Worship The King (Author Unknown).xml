@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:53">
+  <properties>
+    <titles>
+      <title>Worship The King</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Worship the King<br/>Our God and Creator<br/>Bow low before Him<br/>All the earth<br/>Sing of His praise<br/>In great Adoration<br/>Worship our Lord<br/>And tell of His worth</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Worthy is God<br/>Our light and salvation<br/>Holy is He<br/>And Mighty to save<br/>He won our freedom<br/>There on the cross<br/>Triumphed victorious<br/>When He rose from the grave</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus is Lord<br/>And reigneth forever<br/>There on the throne<br/>Our ruler is He<br/>Praise Him ye heavens<br/>Praise Him ye people<br/>Jesus is Lord<br/>And ever shall be</lines>
+    </verse>
+  </lyrics>
+</song>

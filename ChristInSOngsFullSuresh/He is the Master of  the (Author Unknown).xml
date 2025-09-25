@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T03:49:23">
+  <properties>
+    <titles>
+      <title>He is the Master of  the</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>a<br/><br/>I know the Master of the wind<br/>I know the Maker of the rain<br/>He can calm the storm<br/>Make the sun shine again<br/>I know the Master of the wind</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>My boat of life sails<br/>On a troubled sea<br/>Ever there's a wind in my sail<br/>But I have a friend<br/>Who watches over me<br/>When the breeze turns into a gale</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sometimes I soar<br/>Like an eagle to the sky<br/>Among the peaks<br/>My soul can be found<br/>An unexpected storm<br/>May drive me from the heights<br/>Bring me low<br/>But ne'er brings me down</lines>
+    </verse>
+  </lyrics>
+</song>

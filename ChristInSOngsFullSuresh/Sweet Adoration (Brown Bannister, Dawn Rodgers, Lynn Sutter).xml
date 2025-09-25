@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:51">
+  <properties>
+    <titles>
+      <title>Sweet Adoration</title>
+    </titles>
+    <copyright>1980 Word Music, LLC, Administered by Word Music Group, Inc.</copyright>
+    <ccliNo>16213</ccliNo>
+    <authors>
+      <author>Brown Bannister</author>
+      <author>Dawn Rodgers</author>
+      <author>Lynn Sutter</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sweet adoration<br/>Flows from Your children<br/>Glory and honor and praise<br/>Are a part of our constant devotion,<br/>Love set in motion<br/>For the Divine One<br/>Who reigns in our hearts.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When I am troubled<br/>By heartache and struggle,<br/>I come and adore You,<br/>You take me away<br/>From all worldly sensation<br/>And endless temptation;<br/>All of my trials<br/>Are lost in Your love.</lines>
+    </verse>
+  </lyrics>
+</song>

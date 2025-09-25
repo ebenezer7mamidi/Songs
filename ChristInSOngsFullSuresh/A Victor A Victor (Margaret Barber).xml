@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T01:17:12">
+  <properties>
+    <titles>
+      <title>A Victor A Victor</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Margaret Barber</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/>I dare not be defeated,<br/>With Calvary in view,<br/>Where Jesus conquered Satan,<br/>Where all His foes he slew.<br/>Come, Lord, and give the vision<br/>To nerve me for the fight,<br/>Make me an overcomer<br/>Clothed with Thy Spirit's might</lines>
+    </verse>
+    <verse name="c1">
+      <lines>A victor, a victor<br/>Because of Calvary<br/>Make me an overcomer,<br/>A conqu'ror, A conqu'ror,<br/>Lord, in Thee</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I dare not be defeated<br/>Since Christ, my conquering King<br/>Has called me to the battle<br/>which He did surely win.<br/>Come, lord, and give me courage,<br/>Thy conqu'ring Spirit give,<br/>Make me an overcomer,<br/>In pow'r within me live</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I dare not be defeated,<br/>When Jesus leads me on<br/>To press through hellish regions<br/>To share with Him His Throne<br/>Come, Lord, and give Thy soldier<br/>The pow'r to wield the sword,<br/>Make me an overcomer<br/>Through Thine inerrant Word</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I dare not be defeated,<br/>Just at the set of sun,<br/>When Jesus waits to whisper,<br/>Well done, beloved, well done<br/>Come, lord, bend from the Glory,<br/>On me Thy Spirit cast,<br/>Make me an overcomer,<br/>A victor to the last</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-20T00:41:27">
+  <properties>
+    <titles>
+      <title>Like A River Glorious</title>
+    </titles>
+    <copyright>Public Domain, Administered by CCLI Administration Account</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>33935</ccliNo>
+    <authors>
+      <author>Frances Ridley Havergal</author>
+      <author>James Mountain</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D/E<br/>Like a river glorious<br/>Is God's perfect peace<br/>Over all victorious<br/>In its bright increase<br/>Perfect yet it floweth<br/>Fuller every day<br/>Perfect yet it groweth<br/>Deeper all the way</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Stayed upon Jehovah<br/>Hearts are fully blest<br/>Finding as He promised<br/>Perfect peace and rest</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hidden in the hollow<br/>Of His blessed hand<br/>Never foe can follow<br/>Never traitor stand<br/>Not a surge of worry<br/>Not a shade of care<br/>Not a blast of hurry<br/>Touch the spirit there</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Every joy or trial<br/>Falleth from above<br/>Traced upon our dial<br/>By the Son of Love<br/>We may trust Him fully<br/>All for us to do<br/>They who trust Him wholly<br/>Find Him wholly true</lines>
+    </verse>
+  </lyrics>
+</song>

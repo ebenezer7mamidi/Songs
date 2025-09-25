@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:37">
+  <properties>
+    <titles>
+      <title>014 Come Let Us All Unite to Sing</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Come let us all unite to sing<br/>God is love! God is love!<br/>While heav'n and earth Their praises bring<br/>God is love! God is love!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Let ev'ry soul from Sin awake <br/>Each in his heart sweet Music make<br/>And sweetly sing For Jesus' sake<br/>God is love! God is love!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>How happy is our Portion here<br/>God is love! God is love!<br/>His promises our Spirits cheer<br/>God is love! God is love!</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>He is our sun and shield by day<br/>Our help, our hope, <br/>Our strength, and stay<br/>He will be with us all the way<br/>God is love! God is love!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>In glory we shall sing again<br/>God is love! God is love!<br/>Yes, this shall be Our lofty strain<br/>God is love! God is love!</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>While endless ages roll along<br/>In concert with the Heav'nly throng<br/>This shall be our Sweetest song<br/>God is love! God is love!</lines>
+    </verse>
+  </lyrics>
+</song>

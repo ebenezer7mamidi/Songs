@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:45">
+  <properties>
+    <titles>
+      <title>Fill My Cup</title>
+    </titles>
+    <copyright>1989 Sea Of Glass Music, Administered by Sea Of Glass Music</copyright>
+    <ccliNo>2483861</ccliNo>
+    <authors>
+      <author>Chuck Girard</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Fill my cup fill it up<br/>Baptize me in the crystal sea<br/>And fill me up<br/>Fill my cup fill it up<br/>Capture me with Your Spirit<br/>Please and fill me up</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Here's my cup<br/>Would You fill it up<br/>Would You let me overflow<br/>My heart just wants to show</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>How I love you<br/>I will sing<br/>And I will shout<br/>Makin' music to You Lord<br/>My heart will strike the chord<br/>Of my steadfast love</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Fill my cup fill it up<br/>With the fallin' rain<br/>Fill my cup fill it up<br/>Like it was again</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Come and dine come and walk<br/>Through the open door<br/>I've had a taste of Your love<br/>And I want more more more</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>When I'm blue<br/>And it dims my view<br/>Like a faded photograph<br/>Just blow away the chaff</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Let the wind blow<br/>I get weary<br/>And I get worn<br/>And I lose my point of view<br/>But I'll get my eye on You<br/>And I won't let go</lines>
+    </verse>
+  </lyrics>
+</song>

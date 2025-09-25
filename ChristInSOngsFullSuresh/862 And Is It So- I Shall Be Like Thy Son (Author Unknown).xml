@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>862 And Is It So- I Shall Be Like Thy Son</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>And is it so- I shall be like Thy Son?<br/>Is this the grace which He for me has won?<br/>Father of glory- <br/>thought beyond all thought!-<br/>In glory, to Him own blest likeness brought!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, Jesus, Lord, who loved me like Thee?<br/>Fruit of Thy work, with Thee, too, there to see<br/>Thy glory, Lord, while endles ages roll,<br/>Myself the prize and travail of Thy soul.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yet it must be: Thy love had not its rest<br/>Were Thy redeemed not with Thee fully blest;<br/>That love that gives not as the world, but shares<br/>All it possesses with its loved co-heirs.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nor I alone; Thy loved ones, all complete<br/>In glory, round Thee here with joy shall meet;<br/>All like Thee, for Thy glory like Thee, Lord,<br/>Object supreme of all, by all adored.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T16:26:43">
+  <properties>
+    <titles>
+      <title>I praise you for your faithfulness</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/><br/>I praise you for your faithfulness oh Lord<br/>And for your Father's love that never fails<br/>Who am I, the King of love my Shepherd is<br/>Who am I, that you should call me friend</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Made lower than the angels for a time<br/>To suffer death for only you alone<br/>Are my one high priest<br/>My only sacrifice<br/>And my advocate before the throne</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Though you know all my ways<br/>Yet your love for me endures<br/>When I think upon these things<br/>Oh I love you more and more<br/>I praise you for your faithfulness oh Lord</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-20T00:54:49">
+  <properties>
+    <titles>
+      <title>Lord You have my heart</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/><br/>Lord You have my heart<br/>And I will search for Yours<br/>Jesus take my life and lead me on</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord You have my heart<br/>And I will search for Yours<br/>Let me be to You a sacrifice</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And I will praise You, Lord<br/> (I will praise You, Lord)<br/>And I will sing of love come down<br/> (I will sing of love come down)<br/>And as you show your face<br/> (show your face)<br/>We'll see Your glory here</lines>
+    </verse>
+  </lyrics>
+</song>

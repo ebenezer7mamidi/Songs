@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-19T18:57:16">
+  <properties>
+    <titles>
+      <title>007 All Creatures Of Our God And King</title>
+    </titles>
+    <copyright>Public Domain, Administered by CCLI Administration Account</copyright>
+    <ccliNo>1503</ccliNo>
+    <authors>
+      <author>St. Francis of Assisi</author>
+      <author>William Henry Draper</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/>All creatures of our God and King<br/>Lift up your voice and with us sing<br/>Alleluia alleluia<br/>Thou burning sun with golden beam<br/>Thou silver moon with softer gleam<br/>O praise Him O praise Him<br/>Alleluia alleluia alleluia</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thou rushing wind that art so strong<br/>Ye clouds that sail in heav'n along<br/>O praise Him alleluia<br/>Thou rising morn in praise rejoice<br/>Ye lights of evening find a voice<br/>O praise Him O praise Him<br/>Alleluia alleluia alleluia</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thou flowing water pure and clear<br/>Make music for thy Lord to hear<br/>Alleluia alleluia<br/>Thou fire so masterful and bright<br/>Thou givest man both warmth and light<br/>O praise Him O praise Him<br/>Alleluia alleluia alleluia</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And all ye men of tender heart<br/>Forgiving others take your part<br/>O sing ye alleluia<br/>Ye who long pain and sorrow bear<br/>Praise God and on Him cast your care<br/>O praise Him O praise Him<br/>Alleluia alleluia alleluia</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Let all things their Creator bless<br/>And worship Him in humbleness<br/>O praise Him alleluia<br/>Praise praise the Father praise the Son<br/>And praise the Spirit Three in One<br/>O praise Him O praise Him<br/>Alleluia alleluia alleluia</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:47">
+  <properties>
+    <titles>
+      <title>I Just Want To Be</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>G<br/>I just want to be where You are<br/>Dwelling daily in Your presence<br/>I don't want to worship from afar<br/>Draw me near to where You are</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I just want to be where You are<br/>In Your dwelling place forever<br/>Take me to the place where You are<br/>I just want to be with You</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>I want to be where You are<br/>Dwelling in Your presence<br/>Feasting at Your table<br/>Surrounded by Your glory</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>In Your presence<br/>That's where I always want to be<br/>I just want to be<br/>I just want to be with You</lines>
+    </verse>
+  </lyrics>
+</song>

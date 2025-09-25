@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-11T15:32:11">
+  <properties>
+    <titles>
+      <title>I will sing unto the Lord as long as I live</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/><br/>I will sing unto the Lord<br/>As long as I live<br/>I will sing praise to my God<br/>While I have my being<br/>My meditation of Him shall be sweet<br/>I will be glad I will be glad in the Lord</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Bless Thou the Lord oh my soul<br/>Praise ye the Lord<br/>(Praise ye the Lord)<br/>Bless Thou the Lord oh my soul<br/>Praise ye the Lord</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Bless Thou the Lord oh my soul<br/>Praise ye the Lord<br/>(Praise ye the Lord)<br/>Bless Thou the Lord oh my soul<br/>Praise ye the Lord<br/>(Praise the Lord)</lines>
+    </verse>
+  </lyrics>
+</song>

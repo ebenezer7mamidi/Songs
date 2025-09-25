@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>865 How Bright These Glorious Spirits Shine</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How bright these glorious spirits shine!<br/>Whence all their bright array?<br/>How came they to the blissful seats<br/>of everlasting day?<br/>Lo! these are they from suf-f'rings<br/>great who came to realms of light,<br/>And in the blood of Christ have washed<br/>those robes which shine so bright.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now, with triumphal palms, they stand<br/>Before the throne on high,<br/>And serve the God they love,<br/>Amidst the glories of the sky.<br/>His presence fills each heart with joy,<br/>Tunes ev'ry mouth to sing:<br/>By day, by night, the sacred courts<br/>With glad hosannas ring.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hunger and thirst are felt no more,<br/>Nor suns with scorching ray;<br/>God is their Sun, whose cheering beams<br/>Diffuse eternal day.<br/>The Lamb which dwells amidst the throne<br/>Shall o'er them still preside,<br/>Feed them with nourishment divine,<br/>And all their footsteps guide.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>'Mong pastures green He'll guide His flock<br/>Where living streams appear;<br/>And God the Lord from ev'ry eye<br/>Shall wipe off every tear.<br/>To Him who sits on the throne,<br/>The God whom we all adore,<br/>And to the Lamb that once was slain,<br/>Be glory evermore!</lines>
+    </verse>
+  </lyrics>
+</song>

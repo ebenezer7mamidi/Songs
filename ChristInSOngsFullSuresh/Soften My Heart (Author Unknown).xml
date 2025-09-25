@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:51">
+  <properties>
+    <titles>
+      <title>Soften My Heart</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Soften my heart Lord<br/>Soften my heart<br/>From all indiffrence<br/>Set me apart<br/>To feel with compasion<br/>And hear with your heart<br/>Soften my heart oh Lord<br/>Soften my heart</lines>
+    </verse>
+  </lyrics>
+</song>

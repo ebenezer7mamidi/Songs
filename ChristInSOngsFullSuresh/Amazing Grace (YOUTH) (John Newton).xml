@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T01:51:15">
+  <properties>
+    <titles>
+      <title>Amazing Grace (YOUTH)</title>
+    </titles>
+    <comments>
+      <comment>chorus( youth chorus)
+verse 3 (in hymn book)
+verse 3 (verse 4 in book...)
+
+[above are Song Tags with notes imported from EasyWorship]</comment>
+    </comments>
+    <copyright>Public Domain, Administered by CCLI Administration Account</copyright>
+    <ccliNo>2762836</ccliNo>
+    <authors>
+      <author>John Newton</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>E<br/>Amazing grace how sweet the sound<br/>That saved a wretch like me<br/>I once was lost but now am found<br/>Was blind but now I see</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Alleluia<br/>Alleluia Allelu<br/> Alleluia<br/>Alleluia Allelu<br/> Alleluia<br/>Alleluia Allelu<br/> Alleluia<br/>Alleluia Allelu</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Twas grace that taught my heart to fear<br/>And grace my fears relieved<br/>How precious did that grace appear<br/>The hour I first believed</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>The Lord hath promised good to me<br/>His Word my hope secures<br/>He will my shield and portion be<br/>as long as life endures</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Through many dangers toils and snares<br/>I have already come<br/>'Tis grace has brought me safe thus far<br/>And grace will lead me home</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>When we've been there ten thousand years<br/>Bright shining as the sun<br/>We've no less days to sing God's praise<br/>Than when we've first begun</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Praise God</lines>
+    </verse>
+  </lyrics>
+</song>

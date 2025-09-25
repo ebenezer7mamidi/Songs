@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:51">
+  <properties>
+    <titles>
+      <title>Sunshine Rain</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sunshine rain refreshing reviving rain<br/>Showers from above<br/>Tell us of His love<br/>Sunshine rain refreshing reviving rain<br/>Thank you God for showers from above</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In my heart there rings a melody<br/>There rings a melody<br/>of heavenly harmony<br/>In my heart there rings a melody<br/>There rings a melody of love</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Morning noon and night<br/>I have a song that Jesus taught me<br/>It's a song I love to sing<br/>For it comes from above</lines>
+    </verse>
+  </lyrics>
+</song>

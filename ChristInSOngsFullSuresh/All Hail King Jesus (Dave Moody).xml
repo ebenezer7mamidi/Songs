@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T01:24:06">
+  <properties>
+    <titles>
+      <title>All Hail King Jesus</title>
+    </titles>
+    <copyright>1981 Dayspring Music, LLC, Administered by Word Music Group, Inc.</copyright>
+    <ccliNo>12877</ccliNo>
+    <authors>
+      <author>Dave Moody</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/>All hail King Jesus<br/>All hail Emmanuel<br/>King of kings<br/>Lord of lords<br/>Bright Morning Star</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And throughout eternity<br/>I'm going to praise Him<br/>And forevermore<br/>I will reign with Him</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>All hail King Jesus<br/>All hail Emmanuel<br/>King of kings<br/>Lord of lords<br/>Bright Morning Star</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>And throughout eternity<br/>we're going to praise Him<br/>And forevermore<br/>we will reign with Him</lines>
+    </verse>
+  </lyrics>
+</song>

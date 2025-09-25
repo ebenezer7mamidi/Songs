@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T04:04:06">
+  <properties>
+    <titles>
+      <title>Hosanna</title>
+    </titles>
+    <copyright>1985 Shadow Spring Music, Administered by Music Services</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>21545</ccliNo>
+    <authors>
+      <author>Carl Tuttle</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>F<br/><br/>Hosanna, Hosanna,<br/>Hosanna in the highest<br/>Hosanna, Hosanna,<br/>Hosanna in the highest</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lord we lift up Your Name<br/>With our hearts full of praise<br/>We exalt You oh Lord our God<br/>Hosanna in the highest</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Glory, Glory,<br/>Glory to the King of kings<br/>Glory, Glory,<br/>Glory to the King of kings</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Praise Him, praise Him,<br/>praise Him,<br/>He is Lord of Lords.<br/>Praise Him, praise Him,<br/>praise Him,<br/>He is Lord of Lords.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus, Jesus,<br/>Jesus is the Lord of Lords.<br/>Jesus, Jesus,<br/>Jesus is the Lord of Lords.</lines>
+    </verse>
+  </lyrics>
+</song>

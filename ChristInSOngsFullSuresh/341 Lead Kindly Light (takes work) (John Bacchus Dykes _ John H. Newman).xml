@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>341 Lead Kindly Light (takes work)</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <ccliNo>121311</ccliNo>
+    <authors>
+      <author>John Bacchus Dykes | John H. Newman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lead kindly light<br/>Amid th' encircling gloom<br/>Lead Thou me on<br/>The night is dark<br/>And I am far from home<br/>Lead Thou me on<br/>Keep Thou my feet<br/>I do not ask to see<br/>The distant scene<br/>One step enough for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I was not ever thus<br/>Nor prayed that Thou<br/>Shouldst lead me on<br/>I loved to choose and see my path<br/>But now lead Thou me on<br/>I loved the garish day<br/>And spite of fears<br/>Pride ruled my will<br/>Remember not past years</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mean time along the<br/>Narrow rugged path<br/>Thyself hast trod<br/>Lead Savior lead me home<br/>In childlike faith<br/>Home to my God<br/>To rest forever after earthly stirife<br/>In the calm light of everlasting life</lines>
+    </verse>
+  </lyrics>
+</song>

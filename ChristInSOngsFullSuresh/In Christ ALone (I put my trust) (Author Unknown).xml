@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:47">
+  <properties>
+    <titles>
+      <title>In Christ ALone (I put my trust)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>G<br/>In Christ alone I put my trust<br/>I lay my life upon the power of the cross<br/>In every victory let it be said of me<br/>My source of strength<br/>My source of hope<br/>Is Christ alone</lines>
+    </verse>
+  </lyrics>
+</song>

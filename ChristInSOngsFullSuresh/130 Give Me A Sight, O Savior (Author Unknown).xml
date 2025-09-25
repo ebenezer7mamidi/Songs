@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-19T20:46:31">
+  <properties>
+    <titles>
+      <title>130 Give Me A Sight, O Savior</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Give me a sight O Savior<br/>Of Thy wondrous love to me<br/>Of the love that brought Thee down to earth<br/>To die on Calvary</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh make me understand it<br/>Help me to take it in<br/>What it meant To Thee the Holy One<br/>To bear away my sin</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Was it the nails O Savior<br/>That bound Thee to the tree<br/>Nay 'twas Thine everlasting love<br/>Thy love for me - for me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh wonder of all wonders<br/>That through Thy death for me<br/>My open sins - my secret sins<br/>Can all forgiven be</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Then melt my heart O Savior<br/>Bend me yea break me down<br/>Until I own Thee Conqueror<br/>And Lord and Sov'reign crown</lines>
+    </verse>
+  </lyrics>
+</song>

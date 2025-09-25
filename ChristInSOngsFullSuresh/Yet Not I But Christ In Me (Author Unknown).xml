@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-06T00:22:57">
+  <properties>
+    <titles>
+      <title>Yet Not I But Christ In Me</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 e1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>C<br/><br/>What gift of grace is Jesus, my Redeemer.<br/>There is no more for heaven now to give.<br/>He is my joy, my righteousness and freedom,<br/>My steadfast love, my deep and boundless peace.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>To this I hold: my hope is only Jesus.<br/>For my life is wholly bound to His.<br/>Oh how strange and divine, I can sing; all is mine!<br/>Yet not I, but through Christ in me.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>The night is dark, but I am not forsaken,<br/>For by my side the Savior, He will stay.<br/>I labor on in weakness and rejoicing,<br/>For in my need, His power is displayed.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>To this I hold: my Shepherd will defend me.<br/>Through the deepest valley He will lead.<br/>Oh the night has been won, and I shall overcome!<br/>Yet not I, but through Christ in me.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>No fate I dread, I know I am forgiven,<br/>the future sure, the price, it has been paid.<br/>For Jesus bled and suffered for my pardon,<br/>and He was raised to overthrow the grave.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>To this I hold: my sin has been defeated.<br/>Jesus now, and ever, is my plea.<br/>Oh the chains are released, I can sing: I am free!<br/>Yet not I, but through Christ in me.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>With every breath I long to follow Jesus,<br/>For He has said that He will bring me home.<br/>And day by day I know He will renew me<br/>until I stand with joy before the throne.</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>To this I hold: my hope is only Jesus.<br/>All the glory evermore to Him.<br/>When the race is complete,<br/>Still my lips shall repeat:<br/>Yet not I, but through Christ in me.</lines>
+    </verse>
+    <verse name="v4c">
+      <lines>To this I hold: my hope is only Jesus.<br/>All the glory evermore to Him.<br/>When the race is complete, still my lips shall repeat:<br/>Yet not I, but through Christ in me.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>When the race is complete, still my lips shall repeat:<br/>Yet not I, but through Christ in me.<br/>Yet not I, but through Christ in me.<br/>Yet not I, but through Christ in me.</lines>
+    </verse>
+  </lyrics>
+</song>

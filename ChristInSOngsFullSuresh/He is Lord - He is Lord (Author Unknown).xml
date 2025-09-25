@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T03:48:23">
+  <properties>
+    <titles>
+      <title>He is Lord - He is Lord</title>
+    </titles>
+    <verseOrder>v1 v2 v2 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/><br/>He is Lord - He is Lord<br/>I know it in my spirit<br/>He is Lord - He is Lord<br/>I know it in my heart</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>He is Lord - He is Lord<br/>Alive and arisen<br/>He is Lord - He is Lord<br/>He is Lord</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>You're my Lord - You're my Lord<br/>I know it in my spirit<br/>You're my Lord - You're my Lord<br/>I know it in my heart</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>You're my Lord - You're my Lord<br/>Alive and arisen<br/>You're my Lord - You're my Lord<br/>You're my Lord</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>You're our Lord - You're our Lord<br/>We know it in our spirit<br/>You're our Lord - You're our Lord<br/>We know it in our heart</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>You're our Lord - You're our Lord<br/>Alive and arisen<br/>You're our Lord - You're our Lord<br/>You're our Lord</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>He is here - He is here<br/>I know it in my spirit<br/>He is here - He is here<br/>I know it in my heart</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>He is here - He is here<br/>Alive and arisen<br/>He is here - He is here<br/>He is here</lines>
+    </verse>
+  </lyrics>
+</song>

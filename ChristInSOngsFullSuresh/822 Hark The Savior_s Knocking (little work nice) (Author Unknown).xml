@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>822 Hark The Savior's Knocking (little work nice)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hark the Savior's knocking knocking<br/>Knocking at your heart<br/>Oh do not be hardened hardened<br/>Lest He should depart<br/>Rise and open up your heart<br/>Quickly let Him in<br/>Life divine He'll give you give you<br/>And forgive your sin</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Let Him in - Let Him in<br/>He's knocking at your heart<br/>Let Him in - Oh let Him in<br/>Let Him in your heart</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Why should you still tarry tarry<br/>Keep Him waiting there<br/>He is kind and gracious gracious<br/>Merciful and dear<br/>Listen to His tender voice<br/>Do not grieve His heart<br/>Won't you let Him enter enter<br/>And His grace impart</lines>
+    </verse>
+  </lyrics>
+</song>

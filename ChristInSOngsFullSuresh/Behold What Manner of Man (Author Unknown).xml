@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:44">
+  <properties>
+    <titles>
+      <title>Behold What Manner of Man</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Behold what manner of man is this,<br/>Who stands 'twixt God and man?<br/>His eyes are as a flame of fire,<br/>His fan is in His hand.<br/>John saw Him in the seven churches,<br/>As the Sun in brilliancy.<br/>Behold what manner of man is this?<br/>What manner of man is He?</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>He's the Lord of Glory,<br/>He is the great "I AM",<br/>The Alpha and Omega,<br/>The Beginning and the End;<br/>His Name is "Wonderful,"<br/>The Prince of Peace is He,<br/>He's the Everlasting Father,<br/>for all eternity.</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Behold what manner of man is this,<br/>Who spake to the woman at the well?<br/>Everlasting life I'll give to thee,<br/>Far richer than man can tell.<br/>And whosoever shall drink of the well<br/>Shall live eternally.<br/>Behold what manner of man is this?<br/>What manner of man is He?</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Behold what manner of man is this?<br/>Who spake to the maimed and halt?<br/>He says, "Thy sins be forgiven thee,<br/>Take up thy bed and walk."<br/>He stands as the mighty Healer now,<br/>And He cries, "Come unto Me!"<br/>Behold what manner of man is this?<br/>What manner of man is He?</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>433 Turn Your Eyes Upon Jesus (chorus &amp; verses)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>D<br/>Chorus 1<br/>Turn your eyes upon Jesus,<br/>Look full in His wonderful face,<br/>And the things of earth<br/>Will grow strangely dim<br/>In the light of His glory and grace.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>O soul, are you weary and troubled,<br/>No light in the darkness you see?<br/>There's light for a look at the Savior<br/>And life more abundant and free.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Turn your eyes upon Jesus,<br/>Look full in His wonderful face,<br/>And the things of earth<br/>Will grow strangely dim<br/>In the light of His glory and grace.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Through death into life everlasting<br/>He passed and we follow Him there.<br/>Over us sin no more hath dominion<br/>For more than conquerors we are.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>His Word shall not fail you He promised -<br/>Believe Him and all will be well.<br/>Then go to a world that is dying<br/>His perfect salvation to tell.</lines>
+    </verse>
+  </lyrics>
+</song>

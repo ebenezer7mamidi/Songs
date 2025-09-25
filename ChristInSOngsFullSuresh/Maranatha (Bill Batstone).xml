@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-12T15:13:10">
+  <properties>
+    <titles>
+      <title>Maranatha</title>
+    </titles>
+    <copyright>1989 Maranatha Praise, Inc., Administered by Music Services</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>118207</ccliNo>
+    <authors>
+      <author>Bill Batstone</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/><br/>Maranatha Lord we seek You<br/>Every heart here Waits as one<br/>Lord draw near us For we need You<br/>Maranatha<br/>Oh Lord Jesus come</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O Lord come, O Lord come<br/>We await Your presence<br/>Oh Lord come<br/>Come and meet us<br/>We long to see You<br/>Maranatha<br/>Oh Lord Jesus come</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Where Your people Join together<br/>Lord Your Spirit Fills that place<br/>You are here now Lord forever<br/>Now in Spirit<br/>But one day face to face</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now we watch Lord For Your appearing<br/>When the veil is torn away<br/>As we see our<br/>Freedom nearing<br/>May this prayer grow Stronger every day</lines>
+    </verse>
+  </lyrics>
+</song>

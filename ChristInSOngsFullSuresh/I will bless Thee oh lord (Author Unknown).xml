@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-22T15:56:15">
+  <properties>
+    <titles>
+      <title>I will bless Thee oh lord</title>
+    </titles>
+    <comments>
+      <comment>verse 1(we will bless..)
+verse 1 ( i will bless...)
+
+[above are Song Tags with notes imported from EasyWorship]</comment>
+    </comments>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>With our hands lifted up<br/>And our mouths filled with praise<br/>With a heart of thanksgiving<br/>We will bless Thee oh Lord</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>We will bless Thee oh Lord<br/>We will bless Thee oh Lord<br/>With a heart of thanksgiving<br/>We will bless Thee oh Lord</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>With my hands lifted up<br/>And my mouth filled with praise<br/>With a heart of thanksgiving<br/>I will bless Thee oh Lord</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>I will bless Thee oh Lord<br/>I will bless Thee oh Lord<br/>With a heart of thanksgiving<br/>I will bless Thee oh Lord</lines>
+    </verse>
+  </lyrics>
+</song>

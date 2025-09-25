@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:48">
+  <properties>
+    <titles>
+      <title>Jesus Shall Reign</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <ccliNo>1510</ccliNo>
+    <authors>
+      <author>Isaac Watts | John C. Hatton</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus shall reign where'er the sun<br/>Does His successive journeys run<br/>His kingdom stretch from shore to shore<br/>Till moons shall rise and set no more</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To Him shall endless prayer be made<br/>And princes throng to crown His head<br/>His name like sweet perfume shall rise<br/>With every morning sacrifice</lines>
+    </verse>
+    <verse name="v3">
+      <lines>People and realms of every tongue<br/>Dwell on His love with sweetest song<br/>And infant voices shall proclaim<br/>Their early blessings on His name</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Blessings abound wherever He reigns<br/>The prisoner leaps to lose his chains<br/>The weary find eternal rest<br/>And all the sons of want are blest</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Let every creature rise and bring<br/>The highest honours to our King<br/>Angels descend with songs again<br/>And earth repeats the loud amen</lines>
+    </verse>
+  </lyrics>
+</song>

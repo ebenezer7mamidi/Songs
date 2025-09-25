@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T14:20:55">
+  <properties>
+    <titles>
+      <title>Take Me In to the Holy</title>
+    </titles>
+    <copyright>1987 Dayspring Music, LLC, Administered by Word Music Group, Inc.</copyright>
+    <ccliNo>19272</ccliNo>
+    <authors>
+      <author>Dave Browning</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Cm<br/><br/>Take me in to the Holy of Holies<br/>Take me in by the blood of the Lamb<br/>So take me in to the Holy of Holies<br/>Take the coal cleanse my lips<br/>Here I am</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Take me past the outer courts<br/>And thru the holy place<br/>Past the brazen altar<br/>Lord I want to see Your face</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pass me by the crowds of people<br/>And the priests who sing their praise<br/>I hunger and thirst for Your righteousness<br/>And it's only found one place</lines>
+    </verse>
+  </lyrics>
+</song>

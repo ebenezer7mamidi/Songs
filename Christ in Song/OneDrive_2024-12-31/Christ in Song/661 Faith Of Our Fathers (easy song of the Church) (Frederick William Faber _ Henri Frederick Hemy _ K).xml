@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:42">
+  <properties>
+    <titles>
+      <title>661 Faith Of Our Fathers (easy song of the Church)</title>
+    </titles>
+    <copyright>© Words: Public Domain &#13;
+Music: 2001 Word Music, LLC (a div. of Word Music Group, Inc.)</copyright>
+    <ccliNo>3271773</ccliNo>
+    <authors>
+      <author>Frederick William Faber | Henri Frederick Hemy | K</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Faith of our fathers living still<br/>In spite of dungeon fire and sword<br/>O how our hearts beat high with joy<br/>Whene'er we hear that glorious word<br/>Faith of our fathers holy faith<br/>We will be true to thee 'til death</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Faith of our fathers we will strive<br/>To win all nations unto thee<br/>And through the truth that comes from God<br/>Mankind shall then indeed by free<br/>Faith of our fathers holy faith<br/>We will be true to thee 'til death</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Faith of our fathers we will love<br/>Both friend and foe in all our strife<br/>And preach thee too as love knows how<br/>By kindly words and virtuous life<br/>Faith of our fathers holy faith<br/>We will be true to thee 'til death</lines>
+    </verse>
+  </lyrics>
+</song>

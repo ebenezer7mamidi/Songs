@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-11-30T00:34:02">
+  <properties>
+    <titles>
+      <title>Thine O Lord Is The Greatness</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>G<br/><br/>Thine, O Lord, is the greatness,<br/>Thine, O Lord, is the power,<br/>Thine, O Lord, is the glory,<br/>The victory and the majesty.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For all that is in the heavens And earth is Thine,<br/>Thine is the kingdom, O Lord.<br/>And Thou art exalted As head above all.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Both riches and honor Come of Thee,<br/>And Thou reignest over all.<br/>And in Thy hand is Power and might,<br/>And in Thy hand it is to make great<br/>And to give strength unto all.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Therefore, our God, We thank Thee,<br/>We thank Thee, we thank Thee<br/>And praise Thy glorious name.<br/>(repeat)</lines>
+    </verse>
+  </lyrics>
+</song>

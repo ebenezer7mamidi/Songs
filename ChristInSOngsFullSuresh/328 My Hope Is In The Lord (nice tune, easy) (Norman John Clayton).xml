@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-07-16T14:56:26">
+  <properties>
+    <titles>
+      <title>328 My Hope Is In The Lord (nice tune, easy)</title>
+    </titles>
+    <copyright>© 1945 Norman J. Clayton. Renewed 1973 Wordspring Music, LLC, Administered by Word Music Group, Inc.</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>65934</ccliNo>
+    <authors>
+      <author>Norman John Clayton</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>E <br/><br/>My hope is in the Lord<br/>Who gave Himself for me<br/>And paid the price<br/>Of all my sin at Calvary</lines>
+    </verse>
+    <verse name="c1">
+      <lines>For me He died<br/>For me He lives<br/>And everlasting life<br/>And light He freely gives</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No merit of my own<br/>His anger to suppress<br/>My only hope is found<br/>In Jesus' righteousness</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And now for me He stands<br/>Before the Father's throne<br/>He shows His wounded hands<br/>And names me as His own</lines>
+    </verse>
+    <verse name="v4">
+      <lines>His grace has planned it all<br/>'Tis mine but to believe<br/>And recognize His work of love<br/>And Christ receive</lines>
+    </verse>
+  </lyrics>
+</song>

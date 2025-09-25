@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T02:25:10">
+  <properties>
+    <titles>
+      <title>Blessed Be The Lord God Almighty</title>
+    </titles>
+    <copyright>1984 Scripture In Song, Administered by Integrity Music, Inc.</copyright>
+    <ccliNo>21480</ccliNo>
+    <authors>
+      <author>Bob Fitts</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>A<br/><br/>Blessed be the Lord God Almighty<br/>Who was and is and is to come<br/>Blessed be the Lord God Almighty<br/>Who reigns forevermore</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A<br/><br/>Father in heaven how we love You<br/>We lift Your name in all the earth<br/>May Your kingdom be established<br/>In our praises<br/>As Your people declare Your mighty works</lines>
+    </verse>
+  </lyrics>
+</song>

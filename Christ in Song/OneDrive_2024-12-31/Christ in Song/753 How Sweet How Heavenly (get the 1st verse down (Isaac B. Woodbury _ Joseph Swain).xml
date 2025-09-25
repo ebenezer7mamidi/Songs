@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>753 How Sweet How Heavenly (get the 1st verse down</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <ccliNo>732920</ccliNo>
+    <authors>
+      <author>Isaac B. Woodbury | Joseph Swain</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How sweet how heav'nly is the sight<br/>When those who love the Lord<br/>In one another's peace delight<br/>And so fulfill His Word</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When each can feel His brother's sigh<br/>And with Him bear apart<br/>When sorrow flows from eye to eye<br/>And joy from heart to heart</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When free from envy scorn and pride<br/>Our wishes all above<br/>Each can His brother's failings hide<br/>And show a brother's love</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When love in one delightful stream<br/>Thro' ev'ry bosom flows<br/>When union sweet and dear esteem<br/>In ev'ry action glows</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Love is the golden chain that binds<br/>The saints to Christ above<br/>And He is heaven's heir that finds<br/>His bosom glow with love</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:47">
+  <properties>
+    <titles>
+      <title>In The Lord Alone</title>
+    </titles>
+    <copyright>1989 Maranatha Praise, Inc., Administered by Music Services</copyright>
+    <ccliNo>173156</ccliNo>
+    <authors>
+      <author>Walt Harrah</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the Lord the Lord alone<br/>Are righteousness and strength<br/>The height and breadth<br/>And length of love is found in Him<br/>In the Lord the Lord alone<br/>Are righteousness and strength<br/>In the Lord in the Lord alone</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the Lord the Lord alone<br/>Are life and health and peace<br/>His mercies and His loving kindness<br/>Never cease<br/>In the Lord the Lord alone<br/>Are life and health and peace<br/>In the Lord in the Lord alone</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In the Lord the Lord alone<br/>Is ev'rything I need<br/>The Son of Man now reigning high<br/>Will intercede<br/>In the Lord the Lord alone<br/>Is ev'rything I need<br/>In the Lord in the Lord alone</lines>
+    </verse>
+    <verse name="e1">
+      <lines>in the lord in the lord alone<br/>in the lord in the lord alone</lines>
+    </verse>
+  </lyrics>
+</song>

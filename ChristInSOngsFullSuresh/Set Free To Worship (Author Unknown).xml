@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:50">
+  <properties>
+    <titles>
+      <title>Set Free To Worship</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Set free to worship<br/>I'm set free to praise Him<br/>I'm set free to rejoice<br/>Before the throne</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>So I'll laugh I'll dance<br/>I'll shout and sing<br/>Hallelujah amen<br/>Let His praises ring<br/>Set free to rejoice forevermore</lines>
+    </verse>
+  </lyrics>
+</song>

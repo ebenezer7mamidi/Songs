@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:51">
+  <properties>
+    <titles>
+      <title>Step By Step</title>
+    </titles>
+    <comments>
+      <comment>chorus 2 (optional)
+
+[above are Song Tags with notes imported from EasyWorship]</comment>
+    </comments>
+    <copyright>1991 BMG Songs, Inc., Administered by BMG Music Publishing</copyright>
+    <ccliNo>696994</ccliNo>
+    <authors>
+      <author>David  Strasser</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>O God You are my God<br/>And I will ever praise You<br/>O God You are my God<br/>And I will ever praise You<br/>I will seek You in the morning<br/>And I will learn to walk in Your ways<br/>And step by step You'll lead me<br/>And I will follow You all of my days</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>I will follow you all of my days<br/>Yes I will follow you all of my days<br/>And step by step You'll lead me<br/>And I will follow You all of my days</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>O God You are our God<br/>And we will ever praise You<br/>O God You are our God<br/>And we will ever praise You<br/>We will seek You in the morning<br/>And we will learn to walk in Your ways<br/>And step by step You'll lead us<br/>And we will follow You all of our days</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>We will follow you all of our days<br/>Yes we will follow you all of our days<br/>And step by step You'll lead us<br/>And we will follow You all of our days</lines>
+    </verse>
+  </lyrics>
+</song>

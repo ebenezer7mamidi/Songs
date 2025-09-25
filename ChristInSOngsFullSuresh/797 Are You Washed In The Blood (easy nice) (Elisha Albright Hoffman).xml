@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>797 Are You Washed In The Blood (easy nice)</title>
+    </titles>
+    <copyright>Public Domain, Administered by CCLI Administration Account</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>21105</ccliNo>
+    <authors>
+      <author>Elisha Albright Hoffman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Have you been to Jesus<br/>For the cleansing power<br/>Are you washed in the blood of the Lamb<br/>Are you fully trusting<br/>In His grace this hour<br/>Are you washed in the blood of the Lamb</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Are you washed in the blood<br/> (Are you washed) (in the blood)<br/>In the soul-cleansing blood of the Lamb<br/> (of the Lamb)<br/>Are your garments spotless<br/>Are they white as snow<br/>Are you washed in the blood of the Lamb</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Are you walking daily by the Savior's side<br/>Are you washed in the blood of the Lamb<br/>Do you rest each moment in the Crucified<br/>Are you washed in the blood of the Lamb</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When the Bridegroom cometh<br/>Will your robes be white<br/>Are you washed in the blood of the Lamb<br/>Will your soul be ready<br/>For the mansions bright<br/>And be washed in the blood of the Lamb</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lay aside the garments<br/>That are stained with sin<br/>And be washed in the blood of the Lamb<br/>There's a fountain flowing<br/>For the soul unclean<br/>O be washed in the blood of the Lamb</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:38">
+  <properties>
+    <titles>
+      <title>204 Now I Belong To Jesus (Awesome - Easy)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus my Lord<br/>Will love me forever<br/>From Him no power<br/>Of evil can sever<br/>He gave His life<br/>To ransom my soul<br/>Now I belong to Him</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Now I belong to Jesus<br/>Jesus belongs to me<br/>Not for the years<br/>Of time alone<br/>But for eternity</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Once I was lost<br/>In sin's degradation<br/>Jesus came down<br/>To bring me salvation<br/>Lifted me up<br/>From sorrow and shame<br/>Now I belong to Him</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Joy floods my soul<br/>For Jesus has saved me<br/>Freed me from sin<br/>That long had enslaved me<br/>His precious blood<br/>He gave to redeem<br/>Now I belong to Him</lines>
+    </verse>
+  </lyrics>
+</song>

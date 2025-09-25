@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:42">
+  <properties>
+    <titles>
+      <title>677 Strong Are The Walls Around me (easy nice)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Strong are the walls around me<br/>That hold me all the day<br/>But they who thus have bound me<br/>Cannot keep God away<br/>My very dungeon walls are dear<br/>Because the God I love is here</lines>
+    </verse>
+    <verse name="v2">
+      <lines>They know who thus oppress me<br/>'Tis hard to be alone<br/>But know not One can bless me<br/>Who comes through bars and stone<br/>He makes my dungeon's darkness bright<br/>And fills my bosom with delight</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thy love O God restores me<br/>From sighs and tears to praise<br/>And deep my soul adores Thee<br/>Nor thinks of time or place<br/>I ask no more in good or ill<br/>But union with Thy holy will</lines>
+    </verse>
+    <verse name="v4">
+      <lines>'Tis that which makes my treasure<br/>'Tis that which brings my gain<br/>Converting woe to pleasure<br/>And reaping joy from pain<br/>Oh 'tis enough whate'er befall<br/>To know that God is All in all</lines>
+    </verse>
+  </lyrics>
+</song>

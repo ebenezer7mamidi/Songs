@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:41">
+  <properties>
+    <titles>
+      <title>603 I Surrender All (familiar hymn of the church)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/>Verse 1<br/>All to Jesus I surrender<br/>All to Him I freely give<br/>I will ever love and trust Him<br/>In His presence daily live</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I surrender all<br/>I surrender all<br/>All to Thee my blessed Savior<br/>I surrender all</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All to Jesus I surrender<br/>Humbly at His feet I bow<br/>Worldly pleasures all forsaken<br/>Take me Jesus<br/>Take me now</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All to Jesus I surrender<br/>Make me Savior wholly Thine<br/>Let me feel Thy Holy Spirit<br/>Truly know that Thou art mine</lines>
+    </verse>
+    <verse name="v4">
+      <lines>All to Jesus I surrender<br/>Lord I give myself to Thee<br/>Fill me with Thy love and power<br/>Let Thy blessing fall on me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>All to Jesus I surrender<br/>Now I feel the sacred flame<br/>Oh the joy of full salvation<br/>Glory glory to His name</lines>
+    </verse>
+  </lyrics>
+</song>

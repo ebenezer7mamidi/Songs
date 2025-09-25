@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:53">
+  <properties>
+    <titles>
+      <title>You Are My Destiny</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are my destiny<br/>Living inside of me<br/>Now that You set me free<br/>I hunger for You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Peace I've been longing for<br/>Flow through me now once more<br/>My heart's an open door<br/>Proclaim to the world</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Holy holy Lord God Almighty<br/>We bow down before Thee<br/>To worship Your name<br/>Jesus Savior my heart is Yours Lord<br/>Pour out Your mercy<br/>Come and fill this place</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Your love and nothing less<br/>Conquers my emptiness<br/>Unending faithfulness<br/>I lift up my hands and cryVerse 1<br/>You are my destiny<br/>Living inside of me<br/>Now that You set me free<br/>I hunger for You</lines>
+    </verse>
+  </lyrics>
+</song>

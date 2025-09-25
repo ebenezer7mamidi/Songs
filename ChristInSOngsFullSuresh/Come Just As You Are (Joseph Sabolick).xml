@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:45">
+  <properties>
+    <titles>
+      <title>Come Just As You Are</title>
+    </titles>
+    <copyright>© 1993 Maranatha Praise, Inc., Administered by Maranatha! Music</copyright>
+    <ccliNo>1189479</ccliNo>
+    <authors>
+      <author>Joseph Sabolick</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come just as you are<br/>Hear the Spirit call<br/>Come just as you are<br/>Come and see (come and see)<br/>Come receive (come receive)<br/>Come and live (come and live)<br/>Forever</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Life everlasting<br/>And strength for today<br/>Taste the Living Water<br/>And never thirst again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come just as you are<br/>Hear the Spirit call<br/>Come just as you are<br/>Come receive (come receive)<br/>Christ the King (Christ the King)<br/>Come and live (come and live)<br/>Forevermore</lines>
+    </verse>
+  </lyrics>
+</song>

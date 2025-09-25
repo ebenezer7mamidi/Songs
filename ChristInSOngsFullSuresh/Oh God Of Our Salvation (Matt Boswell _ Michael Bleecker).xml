@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:49">
+  <properties>
+    <titles>
+      <title>Oh God Of Our Salvation</title>
+    </titles>
+    <copyright>© 2009 Dayspring Music, LLC (a div. of Word Music Group, Inc.)&#13;
+Bleecker Publishing (Admin. by Micha</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 b1 e1</verseOrder>
+    <ccliNo>5564684</ccliNo>
+    <authors>
+      <author>Matt Boswell | Michael Bleecker</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O God of our salvation<br/>Who reigns upon the throne<br/>The sov'reign Father great is He<br/>From Whom all blessings flow</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O God of our salvation<br/>From Whom redemption comes<br/>O Father Son and Spirit<br/>The blessed Three in One</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Behold the Son our Savior<br/>Who for our sin was slain<br/>The Christ Who purchased with His blood<br/>The wretched souls of men</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O God the Holy Spirit<br/>Revealing deity<br/>The fount of life and love divine<br/>Throughout eternity</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>Ascribe O church the greatness<br/>And the glory due His name<br/>One God one King one Essence<br/>Our triune God proclaimed</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>Amen<br/>Amen<br/>Amen<br/>Amen<br/>(REPEAT)</lines>
+    </verse>
+    <verse name="e1">
+      <lines>(Amen) God of our salvation<br/>(Amen) Who reigns upon the throne<br/>(Amen) The sov'reign Father great is He<br/>(Amen) From Whom all blessings flow</lines>
+    </verse>
+  </lyrics>
+</song>

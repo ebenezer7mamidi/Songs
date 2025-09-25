@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>786 Jesus Saves</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We have heard the joyful sound<br/>Jesus saves Jesus saves<br/>Spread the tidings all around<br/>Jesus saves Jesus saves<br/>Bear the news to every land<br/>Climb the mountains cross the waves<br/>Onward 'tis our Lord's command<br/>Jesus saves Jesus saves</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Waft it on the rolling tide<br/>Jesus saves Jesus saves<br/>Tell to sinners far and wide<br/>Jesus saves Jesus saves<br/>Sing you islands of the sea<br/>Echo back you ocean caves<br/>Earth shall keep her jubilee<br/>Jesus saves Jesus saves</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sing above the battle strife<br/>Jesus saves Jesus saves<br/>By His death and endless life<br/>Jesus saves Jesus saves<br/>Shout it brightly through the gloom<br/>When the heart for mercy craves<br/>Sing in triumph o'er the tomb<br/>Jesus saves Jesus saves</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Give the winds a mighty voice<br/>Jesus saves Jesus saves<br/>Let the nations now rejoice<br/>Jesus saves Jesus saves<br/>Shout salvation full and free<br/>Highest hills and deepest caves<br/>This our song of victory<br/>Jesus saves Jesus saves</lines>
+    </verse>
+  </lyrics>
+</song>

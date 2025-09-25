@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:37">
+  <properties>
+    <titles>
+      <title>033 Now thank we all our God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Now thank we all our God<br/>With heart and hands and voices<br/>Who wondrous things hath done<br/>In whom this world rejoices<br/>Who from our mother's arms<br/>Hath blest us on our way<br/>With countless gifts of love<br/>And still is ours today</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh may this bounteous God<br/>Through all our life be near us<br/>With ever joyful hearts<br/>And blessed peace to cheer us<br/>And keep us in His grace<br/>And guide us when perplexed<br/>And free us from all ills<br/>In this world and the next</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All praise and thanks to God<br/>The Father now be given<br/>The Son and Him who reigns<br/>With them in highest Heaven<br/>The one eternal God<br/>Whom eath and Heaven adore<br/>For thus it was and is now<br/>And shall be evermore</lines>
+    </verse>
+  </lyrics>
+</song>

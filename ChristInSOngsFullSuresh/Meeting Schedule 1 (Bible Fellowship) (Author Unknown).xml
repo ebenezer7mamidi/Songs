@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-04-02T14:52:15">
+  <properties>
+    <titles>
+      <title>Meeting Schedule 1 (Bible Fellowship)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>- Tuesday Sisters Meeting 10am (Hybrid)<br/>-Tuesday Young Adult Meeting 6pm<br/>- Wednesday Prayer 7:30 pm (Hybrid)</lines>
+    </verse>
+  </lyrics>
+</song>

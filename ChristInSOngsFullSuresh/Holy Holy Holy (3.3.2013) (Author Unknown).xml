@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:46">
+  <properties>
+    <titles>
+      <title>Holy Holy Holy (3.3.2013)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy Holy Holy<br/>Holy Holy Holy<br/>Holy is the Lord God Almighty</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Worthy to receive glory<br/>Worthy to receive honor<br/>Worthy to receive all our praise today</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So we'll<br/>Praise Him<br/>Praise Him and lift Him up<br/>We'll Praise Him<br/>Exalt His name forever</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We'll Praise Him<br/>Praise Him and lift Him up<br/>We'll Praise Him<br/>Exalt His name forever more</lines>
+    </verse>
+  </lyrics>
+</song>

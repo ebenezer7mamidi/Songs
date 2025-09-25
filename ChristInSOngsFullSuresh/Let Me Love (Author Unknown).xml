@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:48">
+  <properties>
+    <titles>
+      <title>Let Me Love</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>G<br/>Let me love and not be respected<br/>Let me serve and not be rewarded<br/>Let me labor and not be remembered<br/>Let me suffer and not be regarded</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tis the pouring, not the drinking<br/>Tis the breaking, not the keeping<br/>A life suffering to seek others blessing<br/>A life loving and true comfort giving</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Not expecting pity and concern<br/>Not accepting solace and applause<br/>Even lonely even forgotten<br/>Even wordless even forsaken</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tears and blood my price for the righteous<br/>crown shall be<br/>Losing all my cost for a faithful pilgrims life<br/>Twas the life oh Lord that you choose to live<br/>In those days when on earth you walked</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gladly suffered all injury and loss<br/>So that all might draw near and repose<br/>I cannot see how much farther I shall go<br/>Still I press on knowing that there is no return</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Let me follow your pattern so perfect and true<br/>Bearing in gratitude without complaint<br/>In this time of trial oh my Lord I pray<br/>That you'd wipe all my hidden tears away<br/>Let me learn oh Lord you are my reward<br/>Let me be others blessing all my day</lines>
+    </verse>
+  </lyrics>
+</song>

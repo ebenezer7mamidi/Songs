@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-11T15:01:27">
+  <properties>
+    <titles>
+      <title>Remembrance (The Communion Song)</title>
+    </titles>
+    <copyright>© 2009 Thankyou Music, Administered by EMI Christian Music Publishing</copyright>
+    <verseOrder>v1 p1 c1 v2 p1 c1 b1 p1 c1</verseOrder>
+    <ccliNo>5484616</ccliNo>
+    <authors>
+      <author>Matt Maher | Matt Redman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/><br/>Oh how could it be<br/>That my God would welcome me<br/>Into this mystery<br/>Say take this bread take this wine<br/>Now the simple made divine<br/>For any to receive</lines>
+    </verse>
+    <verse name="p1">
+      <lines>By Your mercy we come to Your table<br/>By Your grace You are making us faithful</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lord we remember You<br/>And remembrance leads us to worship<br/>And as we worship You<br/>Our worship leads to communion<br/>We respond to Your invitation<br/>We remember You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>See His body His blood<br/>Know that He has overcome<br/>Ev'ry trial we will face<br/>And none too lost to be saved<br/>None too broken or ashamed<br/>All are welcome in this place</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Dying You destroyed our death<br/>Rising You give new life<br/>Lord Jesus come in glory<br/>Lord Jesus come in glory<br/>Lord Jesus come in glory<br/>Lord Jesus come in glory</lines>
+    </verse>
+  </lyrics>
+</song>

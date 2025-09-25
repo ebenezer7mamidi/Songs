@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:42">
+  <properties>
+    <titles>
+      <title>722 Shine Thou Upon Us Lord (familiar easy tune)</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <ccliNo>753095</ccliNo>
+    <authors>
+      <author>Arthur Henry Mann | John Ellerton</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Shine Thou upon us Lord<br/>True light of men today<br/>And through the written Word<br/>Thy very self display<br/>That so from hearts which burn<br/>With gazing on Thy face<br/>Thy little ones may learn<br/>The wonders of Thy grace</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Breathe Thou upon us Lord<br/>Thy Spirit's living flame<br/>That so with one accord<br/>Our lips may tell Thy name<br/>Give Thou the hearing ear<br/>Fix Thou the wand'ring thought<br/>That those we teach may hear<br/>The great things Thou hast wrought</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Speak Thou for us O Lord<br/>In all we say of Thee<br/>According to Thy Word<br/>Let all our teaching be<br/>That so Thy lambs may know<br/>Their own true Shepherd's voice<br/>Where'er He leads them go<br/>And in His love rejoice</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Live Thou within us Lord<br/>Thy mind and will be ours<br/>Be Thou beloved adored<br/>And served with all our powers<br/>That so our lives may teach<br/>Thy children what Thou art<br/>And plead by more than speech<br/>For Thee with ev'ry heart</lines>
+    </verse>
+  </lyrics>
+</song>

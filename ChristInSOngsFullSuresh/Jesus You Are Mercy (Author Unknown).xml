@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-12T16:05:07">
+  <properties>
+    <titles>
+      <title>Jesus You Are Mercy</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 b1 c1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>C<br/>Jesus You are mercy<br/>Jesus You are justice<br/>Jesus You are worthy<br/>That is what You are</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>You died alone to save me<br/>You rose so You could raise me<br/>You did this all to make me<br/>A chosen child of God</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Worthy is the Lamb that once was slain<br/>To receive all glory pow'r and praise</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>For with Your blood<br/>You purchased us for God<br/>Jesus You are worthy<br/>That is what You are</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus You are mercy<br/>Jesus You are justice<br/>Jesus You are worthy<br/>That is what You are</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>Perfect sacrifice<br/>Crushed by God for us<br/>Bearing in Your hurt<br/>All that I deserve</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>Misjudged for my misdeeds<br/>You Suffered silently<br/>The only guiltless man<br/>In all of history</lines>
+    </verse>
+  </lyrics>
+</song>

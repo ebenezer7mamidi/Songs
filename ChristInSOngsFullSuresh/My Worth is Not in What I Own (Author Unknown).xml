@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-20T01:39:46">
+  <properties>
+    <titles>
+      <title>My Worth is Not in What I Own</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 v4 c1 v5 c1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/><br/>My worth is not in what I own<br/>Not in the strength of flesh and bone<br/>But in the costly wounds of love<br/>At the cross</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My worth is not in skill or name<br/>In win or lose, in pride or shame<br/>But in the blood of Christ that flowed<br/>At the cross</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I rejoice in my Redeemer<br/>Greatest treasure<br/>Wellspring of my soul<br/>I will trust in Him no other<br/>My soul is satisfied in Him alone</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As summer flowers we fade and die<br/>Fame, youth, and beauty hurry by<br/>But life eternal calls to us<br/>At the cross</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will not boast in wealth or might<br/>Or human wisdom's fleeting light<br/>But I will boast in knowing Christ<br/>At the cross</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Two wonders here that I confess<br/>My worth and my unworthiness<br/>My value fixed my ransom paid<br/>At the cross</lines>
+    </verse>
+  </lyrics>
+</song>

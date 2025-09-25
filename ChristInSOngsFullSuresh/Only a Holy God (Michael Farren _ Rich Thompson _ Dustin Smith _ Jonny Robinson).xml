@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-07-30T13:55:19">
+  <properties>
+    <titles>
+      <title>Only a Holy God</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 c1 c1 v4 c2</verseOrder>
+    <authors>
+      <author>Michael Farren / Rich Thompson / Dustin Smith / Jonny Robinson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/><br/>Who else commands all the hosts of heaven?<br/>Who else could make every king bow down?<br/>Who else can whisper and darkness trembles?<br/>Only a Holy God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What other beauty demands such praises?<br/>What other splendour outshines the sun?<br/>What other majesty rules with justice?<br/>Only a Holy God</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Come and behold Him<br/>The One and the Only<br/>Cry out, sing holy<br/>Forever a Holy God<br/>Come and worship the Holy God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>What other glory consumes like fire?<br/>What other power can raise the dead?<br/>What other name remains undefeated?<br/>Only a Holy God</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Who else could rescue me from my failing?<br/>Who else would offer His only Son?<br/>Who else invites me to call Him Father?<br/>Only a Holy God<br/>Only a Holy God</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Come and behold Him<br/>The One and the Only<br/>Cry out, sing holy<br/>Forever a Holy God<br/>Come and worship the Holy God<br/>Come and worship the Holy God</lines>
+    </verse>
+  </lyrics>
+</song>

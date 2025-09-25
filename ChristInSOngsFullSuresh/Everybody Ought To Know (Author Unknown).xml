@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:45">
+  <properties>
+    <titles>
+      <title>Everybody Ought To Know</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Everybody ought to know<br/>Everybody ought to know<br/>Everybody ought to know<br/>Who Jesus is</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Everybody ought to tell<br/>Everybody ought to tell<br/>Everybody ought to tell<br/>Who Jesus is</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He's the fairest of ten thousand<br/>He's the bright and morning star<br/>He's the lily of the valley<br/>Everybody ought to know</lines>
+    </verse>
+  </lyrics>
+</song>

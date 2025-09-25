@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:42">
+  <properties>
+    <titles>
+      <title>678 Love Constitutes My Crime (easy nice tune)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Love constitutes my crime<br/>For this they keep me here<br/>Imprisoned thus so long a time<br/>For Him I hold so dear<br/>And yet I am as when I came<br/>The subject of this holy flame</lines>
+    </verse>
+    <verse name="v2">
+      <lines>How can I better grow<br/>How from my own heart fly<br/>Those who imprison me should know<br/>True love can never die<br/>Yet tread and crush it with disdain<br/>And it will live and burn again</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And am I then to blame<br/>He's always in my sight<br/>And having once inspired the flame<br/>He always keeps it bright<br/>For this they smite me and reprove<br/>Because I cannot cease to love</lines>
+    </verse>
+    <verse name="v4">
+      <lines>What power shall dim its ray<br/>Dropped burning from above<br/>Eternal life shall ne'er decay<br/>God is the life of love<br/>And when its source of life is o'er<br/>And only then 'twill shine no more</lines>
+    </verse>
+  </lyrics>
+</song>

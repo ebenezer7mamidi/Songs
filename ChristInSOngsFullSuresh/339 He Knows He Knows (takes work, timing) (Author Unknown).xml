@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>339 He Knows He Knows (takes work, timing)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I know not what awaits me<br/>God kindly veils my eyes<br/>And o'er each step of my<br/>Onward way<br/>He makes new scenes to rise<br/>And ev'ry joy He sends<br/>Me comes<br/>A sweet and glad surprise</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Where He may lead<br/>I'll follow<br/>My trust in Him repose<br/>And every hour in perfect peace<br/>I'll sing He knows - He knows<br/>And every hour in perfect peace<br/>I'll sing He knows - He knows</lines>
+    </verse>
+    <verse name="v2">
+      <lines>One step I see before me<br/>'Tis all I need to see<br/>The light of heaven<br/>More brightly shines<br/>When earth's illusions flee<br/>And sweetly through<br/>The silence comes<br/>His loving Trust in Me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh blissful lack of wisdom<br/>'Tis blessed not to know<br/>He holds me with<br/>His own right hand<br/>And will not let me go<br/>And lulls my troubled<br/>Soul to rest<br/>In Him who loves me so</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So on I go not knowing<br/>I would not if I might<br/>I'd rather walk<br/>In the dark with God<br/>Than go alone in the light<br/>I'd rather walk by faith with Him<br/>Than go alone by sight</lines>
+    </verse>
+  </lyrics>
+</song>

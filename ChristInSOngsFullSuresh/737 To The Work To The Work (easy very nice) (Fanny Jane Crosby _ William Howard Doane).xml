@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:42">
+  <properties>
+    <titles>
+      <title>737 To The Work To The Work (easy very nice)</title>
+    </titles>
+    <copyright>© Words: Public Domain &#13;
+Music: Public Domain</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4</verseOrder>
+    <ccliNo>98619</ccliNo>
+    <authors>
+      <author>Fanny Jane Crosby | William Howard Doane</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To the work to the work<br/>We are servants of God<br/>Let us follow the path<br/>That our Master has trod<br/>With the balm of His counsel<br/>Our strength to renew<br/>Let us do with our might<br/>What our hands find to do</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Toiling on (toiling on)<br/>Toiling on (toiling on)<br/>Toiling on (toiling on)<br/>Toiling on (toiling on)<br/>Let us hope (and trust)<br/>Let us watch (and pray)<br/>And labor till the Master comes</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To the work to the work<br/>Let the hungry be fed<br/>To the fountain of life<br/>Let the weary be led<br/>In the cross and its banner<br/>Our glory shall be<br/>While we herald the tidings<br/>"Salvation is free"</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To the work to the work<br/>There is labor for all<br/>For the kingdom of darkness<br/>And error shall fall<br/>And the name of Jehovah<br/>Exalted shall be<br/>In the loud swelling chorus<br/>"Salvation is free"</lines>
+    </verse>
+    <verse name="v4">
+      <lines>To the work to the work<br/>In the strength of the Lord<br/>And a robe and a crown<br/>Shall our labor reward<br/>When the home of the faithful<br/>Our dwelling shall be<br/>And we shout with the ransomed<br/>"Salvation is free"</lines>
+    </verse>
+  </lyrics>
+</song>

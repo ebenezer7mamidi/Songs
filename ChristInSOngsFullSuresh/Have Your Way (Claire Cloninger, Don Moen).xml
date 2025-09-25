@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T03:40:01">
+  <properties>
+    <titles>
+      <title>Have Your Way</title>
+    </titles>
+    <copyright>2000 Juniper Landing Music; Integrity's Hosanna! Music, Administered by EMI Christian Music Publishing; ROM Administration</copyright>
+    <ccliNo>3166235</ccliNo>
+    <authors>
+      <author>Claire Cloninger</author>
+      <author>Don Moen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>E<br/><br/>Have Your way<br/>(Have Your way)<br/>Have Your way<br/>(Have Your way)<br/>Holy Spirit fill our hearts<br/>And have Your way</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As we wait<br/>(We wait on You)<br/>As we pray<br/>(We pray to You)<br/>Speak Your Word<br/>Into our hearts<br/>And have Your way</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Speak Your Word<br/>Into our hearts<br/>And have Your way<br/>Speak Your Word<br/>Into our hearts<br/>And have Your way</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T15:15:53">
+  <properties>
+    <titles>
+      <title>This Is My Rest Forever</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/><br/>This is my rest forever:<br/>Here will I dwell;<br/>For the Lord hath chosen Zion,<br/>He hath desired it for His habitation.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He will abundantly bless her provision;<br/>He will satisfy her poor with bread.<br/>He will clothe her priests with salvation;<br/>And her saints shall shout aloud for joy.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:42">
+  <properties>
+    <titles>
+      <title>717 For All The Saints (Awesome Song of the Church</title>
+    </titles>
+    <copyright>© Words: Public Domain &#13;
+Music: Oxford University Press</copyright>
+    <ccliNo>90590</ccliNo>
+    <authors>
+      <author>Ralph Vaughan Williams | William Walsham How</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For all the saints<br/>Who from their labours rest<br/>Who Thee by faith<br/>Before the world confessed<br/>Thy name O Jesus<br/>Be for ever blest<br/>Alleluia - Alleluia</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thou wast their Rock<br/>Their Fortress and their Might<br/>Thou Lord their Captain<br/>In the well fought fight<br/>Thou in the darkness drear<br/>Their one true Light<br/>Alleluia - Alleluia</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh may Thy soldiers<br/>Faithful true and bold<br/>Fight as the saints<br/>Who nobly fought of old<br/>And win with them<br/>The victor's crown of gold<br/>Alleluia - Alleluia</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh blest communion<br/>Fellowship divine<br/>We feebly struggle<br/>They in glory shine<br/>Yet all are one in Thee<br/>For all are Thine<br/>Alleluia - Alleluia</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And when the strife is fierce<br/>The warfare long<br/>Steals on the ear<br/>The distant triumph song<br/>And hearts are brave again<br/>And arms are strong<br/>Alleluia - Alleluia</lines>
+    </verse>
+    <verse name="v6">
+      <lines>The golden evening<br/>Brightens in the west<br/>Soon soon to faithful<br/>Warriors cometh rest<br/>Sweet is the calm<br/>Of Paradise the blest<br/>Alleluia - Alleluia</lines>
+    </verse>
+    <verse name="v7">
+      <lines>But lo there breaks<br/>A yet more glorious day<br/>The saints triumphant<br/>Rise in bright array<br/>The King of Glory<br/>Passes on His way<br/>Alleluia - Alleluia</lines>
+    </verse>
+    <verse name="v8">
+      <lines>From earth's wide bounds<br/>From ocean's farthest coast<br/>Through gates of pearl<br/>Streams in the countless host<br/>Singing to Father<br/>Son and Holy Ghost<br/>Alleluia - Alleluia</lines>
+    </verse>
+  </lyrics>
+</song>

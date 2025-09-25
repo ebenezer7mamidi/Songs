@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:45">
+  <properties>
+    <titles>
+      <title>Father I Adore You</title>
+    </titles>
+    <copyright>1972 Maranatha! Music / CCCM Music, Administered by Maranatha! Music</copyright>
+    <ccliNo>26557</ccliNo>
+    <authors>
+      <author>Terrye Coelho</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Father I adore You<br/>Lay my life before You<br/>How I love You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus I adore You<br/>Lay my life before You<br/>How I love You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Spirit I adore You<br/>Lay my life before You<br/>How I love You</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-19T20:07:16">
+  <properties>
+    <titles>
+      <title>059 Rejoice Ye Pure In Heart</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>rejoice ye pure in heart<br/>rejoice give thanks and sing<br/>your festal banner wave on high<br/>the cross of christ your King</lines>
+    </verse>
+    <verse name="c1">
+      <lines>rejoice rejoice<br/>rejoice rejoice<br/>rejoice give thanks and sing</lines>
+    </verse>
+    <verse name="v2">
+      <lines>bright youth and snow crowned age<br/>strong men and maidens meek<br/>raise high your face exulting song<br/>god's wondrous praises speak</lines>
+    </verse>
+    <verse name="v3">
+      <lines>with voice as full and strong<br/>as ocean's surging praise<br/>send forth the hymns our fathers loved<br/>the psalms of ancient days</lines>
+    </verse>
+    <verse name="v4">
+      <lines>with all the angel choirs<br/>with all the saints on earth<br/>pour out the strains of joy and bliss<br/>true rapture noblest mirth</lines>
+    </verse>
+    <verse name="v5">
+      <lines>still lift your standard high<br/>still march in firm array<br/>as warriors through the darkness toil<br/>till dawns the golden day</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T14:23:22">
+  <properties>
+    <titles>
+      <title>I am Redeemed</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/><br/>I will exalt in the God of my salvation<br/>For He has clothed me in robes of righteousness<br/>I will rejoice in the presence of the bridegroom<br/>Coming to reign over sin victorious</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Pure as the driven snow<br/>You cleansed and made me whole<br/>Just as a bride in garments of white<br/>You covered my shame</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>In garments of holiness<br/>In robes of righteousness<br/>Forever I'll sing<br/>Praise to the King<br/>I am redeemed</lines>
+    </verse>
+  </lyrics>
+</song>

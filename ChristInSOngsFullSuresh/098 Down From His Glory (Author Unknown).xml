@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-19T20:33:11">
+  <properties>
+    <titles>
+      <title>098 Down From His Glory</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>D<br/><br/>Down from His glory<br/>Ever living story<br/>My God and Savior came<br/>And Jesus was His name</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Born in a manger<br/>To His own a stranger<br/>A Man of sorrows<br/>tears and agony</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>O how I love Him<br/>How I adore Him<br/>My breath my sunshine<br/>My all in all</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>The great Creator<br/>Became my Savior<br/>And all God's fullness<br/>Dwelleth in Him</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>What condescension<br/>Bringing us redemption<br/>That in the dead of night<br/>Not one faint hope in sight</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>God gracious tender<br/>Laid aside His splendor<br/>Stooping to woo to win<br/>To save my soul</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Without reluctance<br/>Flesh and blood His substance<br/>He took the form of man<br/>Revealed the hidden plan</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>O glorious myst'ry<br/>Sacrifice of Calv'ry<br/>And now I know Thou art<br/>The great I AM</lines>
+    </verse>
+  </lyrics>
+</song>

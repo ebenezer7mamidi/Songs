@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>314 Jesus Savior Pilot Me (easy)</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <ccliNo>120958</ccliNo>
+    <authors>
+      <author>Edward Hopper | John Edgar Gould</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus Savior pilot me<br/>Over life's tempestuous sea<br/>Unknown waves before me roll<br/>Hiding rocks and treach'rous shoal<br/>Chart and compass came from Thee<br/>Jesus Savior pilot me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As a mother stills her child<br/>Thou canst hush the ocean wild<br/>Boist'rous waves obey Thy will<br/>When Thou say'st to them be still<br/>Wondrous Sov'reign of the sea<br/>Jesus Savior pilot me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When at last I near the shore<br/>And the fearful breakers roar<br/>'Twixt me and the peaceful rest<br/>Then while leaning on Thy breast<br/>May I hear Thee say to me<br/>Fear not I will pilot Thee</lines>
+    </verse>
+  </lyrics>
+</song>

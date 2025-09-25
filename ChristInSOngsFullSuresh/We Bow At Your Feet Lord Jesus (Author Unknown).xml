@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:52">
+  <properties>
+    <titles>
+      <title>We Bow At Your Feet Lord Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We bow at your feet, Lord Jesus<br/>In humble adoration.<br/>Redeem the time that we have lost<br/>From your presence in worship we pray</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Restore in us your temple<br/>With fire and holy fear<br/>For the time has come to reveal your Son<br/>In the hearts of a chosen people.</lines>
+    </verse>
+  </lyrics>
+</song>

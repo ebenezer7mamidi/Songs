@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T15:46:59">
+  <properties>
+    <titles>
+      <title>We're Under The Blood Of The Lamb</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A<br/><br/>Oh the blood of the Passover Lamb<br/>Is applied to the door of my life<br/>No power of darkness<br/>Could ever withstand<br/>The force of the blood sacrifice</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tho Satan will bring accusations<br/>We let Him know right<br/>Where we stand<br/>For now there is no condemnation<br/>We're under the blood of the Lamb</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>We're under the blood of the Lamb<br/>That covers the guilt of our past<br/>By the mercy of God<br/>Holy and righteous we stand</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>We're under the blood of the Lamb<br/>We're safe and secure<br/>From the enemy's plan<br/>No weapon formed<br/>against us will stand<br/>We're under the blood of the Lamb</lines>
+    </verse>
+  </lyrics>
+</song>

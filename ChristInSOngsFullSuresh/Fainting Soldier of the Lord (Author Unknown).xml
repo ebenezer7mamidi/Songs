@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T03:01:55">
+  <properties>
+    <titles>
+      <title>Fainting Soldier of the Lord</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/><br/>Fainting soldier of the Lord,<br/>Hear His sweet inspiring word<br/>"I have conquered all thy foes<br/>I have suffered all thy woes<br/>Struggling soldier, trust in Me,<br/>I have overcome for thee."</lines>
+    </verse>
+    <verse name="c1">
+      <lines>"I have overcome, overcome<br/>Overcome for thee.<br/>Thou shalt overcome, overcome,<br/>overcome through me."</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fear not, though thy foes be strong<br/>Faint not, though the strife be long.<br/>Trust thy glorious Captain's power<br/>Watch with Him one little hour<br/>Hear Him calling "Follow me<br/>I have overcome for thee"</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Soon the conflict will be done<br/>Soon the battle will be won<br/>Soon shall wave the victor's palm<br/>Soon shall ring th'eternal psalm<br/>Then our joyful song shall be<br/>"I have overcome for thee"</lines>
+    </verse>
+  </lyrics>
+</song>

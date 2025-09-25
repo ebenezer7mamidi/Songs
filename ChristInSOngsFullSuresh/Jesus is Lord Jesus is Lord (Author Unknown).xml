@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:48">
+  <properties>
+    <titles>
+      <title>Jesus is Lord Jesus is Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus is Lord<br/>Jesus is Lord<br/>Jesus is Lord<br/>over all the earth</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus is Lord<br/>Jesus is Lord<br/>Jesus is Lord<br/>of the heavens above</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus is Lord, hallelujah<br/>Jesus is Lord, hallelujah<br/>Jesus is Lord<br/>He is Lord and King<br/>oh, oh, oh</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus is Lord, hallelujah<br/>Jesus is Lord, hallelujah<br/>Jesus is Lord<br/>He is Lord and King</lines>
+    </verse>
+  </lyrics>
+</song>

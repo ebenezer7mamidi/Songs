@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-19T19:00:22">
+  <properties>
+    <titles>
+      <title>026 Abba Father We Adore Thee</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>C<br/><br/>Abba Father we adore Thee<br/>Humbly now our homage pay<br/>'Tis Thy children's bliss To know Thee<br/>None but children "Abba" say</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>This high honor we inherit<br/>Thy free gift through Jesus' blood<br/>God the Spirit with our spirit<br/>Witnesseth we're sons of God</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Thine own purpose Gave us being<br/>When in Christ in That vast plan<br/>Thou in Christ didst Choose Thy people<br/>E'en before the world began</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Oh what love Thou Father bore us<br/>Oh how precious in Thy sight<br/>When to Thine own Son Thou gav'st us<br/>To Thy Son Thy soul's delight</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Though our nature's Fall in Adam<br/>Shut us wholly out from God<br/>Thine eternal counsel Brought us<br/>Nearer still through Jesus's blood</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>For in Him we found Redemption<br/>Grace and glory in Thy Son<br/>O the height and Depth of mercy<br/>Christ and His redeemed Are one</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Hence through all the Changing seasons<br/>Trouble sickness sorrow woe<br/>Nothing changeth Thine affections<br/>Love divine shall bring Us through</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Soon shall all Thy blood Bought children<br/>Round the throne their Anthems raise<br/>And in songs of rich salvation<br/>Shout to Thine eternal praise</lines>
+    </verse>
+  </lyrics>
+</song>

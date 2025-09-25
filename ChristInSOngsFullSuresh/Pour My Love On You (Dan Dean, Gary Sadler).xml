@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-03-31T14:23:01">
+  <properties>
+    <titles>
+      <title>Pour My Love On You</title>
+    </titles>
+    <copyright>Meadowgreen Music Company / Paintbrush Music / Dawn Treader Music / Dudedabe Music, Administered by EMI Christian Music Publishing</copyright>
+    <verseOrder>v1 v2 c1</verseOrder>
+    <ccliNo>3262957</ccliNo>
+    <authors>
+      <author>Dan Dean</author>
+      <author>Gary Sadler</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/><br/>I don't know how<br/>to say exactly how I feel<br/>I can't begin to tell You<br/>What Your love has meant<br/>I'm lost for words</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Is there a way<br/>to show the passion in my heart<br/>Can I express<br/>how truly great I think You are<br/>My dearest Friend<br/>Lord this is my desire<br/>To pour my love on You</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Like oil upon Your feet<br/>Like wine for You to drink<br/>Like water from my heart<br/>I pour my love on You</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>If praise is like perfume<br/>I'll lavish mine on You<br/>Till every drop is gone<br/>I'll pour my love on You</lines>
+    </verse>
+  </lyrics>
+</song>

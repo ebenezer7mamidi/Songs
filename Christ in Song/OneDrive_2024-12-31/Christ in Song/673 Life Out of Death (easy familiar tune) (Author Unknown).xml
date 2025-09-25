@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:42">
+  <properties>
+    <titles>
+      <title>673 Life Out of Death (easy familiar tune)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Life out of death<br/>Dear master is it spoken<br/>Of the life here,<br/>Or in a better land?<br/>Nay, wherefore wait?<br/>The vessel marred and broken<br/>Shall now be molded<br/>By the potters hand</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Life out of death<br/>O wonderous resurection!<br/>Seed shown in conscious<br/>Weakness raised in power<br/>Thy life lived out in<br/>Days of toil and friction<br/>"Not I but Christ" in me<br/>From hour to hour</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Life out of death<br/>A Pilgrim path and lonely<br/>Trodden by those who<br/>Glory in the cross<br/>They live in fellowship with<br/>"Jesus Only"<br/>And for His sake<br/>Count earthly gain but loss</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Life out of death<br/>Blessed mission to be ever<br/>Bearing the living<br/>Water brimming o'er<br/>With life abundant<br/>From the clear pure river<br/>Telling that thirsty souls need<br/>Thirst no more</lines>
+    </verse>
+  </lyrics>
+</song>

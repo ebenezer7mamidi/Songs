@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:41">
+  <properties>
+    <titles>
+      <title>558 Nearer My God To Thee (easy familiar)</title>
+    </titles>
+    <copyright>Public Domain, Administered by CCLI Administration Account</copyright>
+    <ccliNo>78835</ccliNo>
+    <authors>
+      <author>Lowell Mason</author>
+      <author>Sarah Fuller Flower Adams</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>E<br/>Verse 1<br/>Nearer my God to Thee<br/>Nearer to Thee<br/>E'en though it be a cross<br/>That raiseth me<br/>Still all my song shall be<br/>Nearer my God to Thee<br/>Nearer my God to Thee<br/>Nearer to Thee</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Though like the wanderer<br/>The sun gone down<br/>Darkness be over me<br/>My rest a stone<br/>Yet in my dreams I'd be<br/>Nearer my God to Thee<br/>Nearer my God to Thee<br/>Nearer to Thee</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There let the way appear<br/>Steps unto heav'n<br/>All that Thou sendest me<br/>In mercy giv'n<br/>Angels to beckon me<br/>Nearer my God to Thee<br/>Nearer my God to Thee<br/>Nearer to Thee</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Then with my waking thought<br/>Bright with Thy praise<br/>Out of my stony griefs<br/>Bethel I'll raise<br/>So by my woes to be<br/>Nearer my God to Thee<br/>Nearer my God to Thee<br/>Nearer to Thee</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Or if on joyful wing<br/>Cleaving the sky<br/>Sun moon and stars forgot<br/>Upward I fly<br/>Still all my song shall be<br/>Nearer my God to Thee<br/>Nearer my God to Thee<br/>Nearer to Thee</lines>
+    </verse>
+  </lyrics>
+</song>

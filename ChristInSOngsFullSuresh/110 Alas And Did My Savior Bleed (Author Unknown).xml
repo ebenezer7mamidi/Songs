@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-19T20:35:02">
+  <properties>
+    <titles>
+      <title>110 Alas And Did My Savior Bleed</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alas and did my Savior bleed<br/>And did my Sovereign die<br/>Would He devote that sacred head<br/>For such a worm as I</lines>
+    </verse>
+    <verse name="c1">
+      <lines>At the cross at the cross<br/>Where I first saw the light<br/>And the burden of my heart rolled away<br/>It was there by faith I received my sight<br/>And now I am happy all the day</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Was it for sins that I have done<br/>He groaned upon the tree<br/>Amazing pity grace unknown<br/>And love beyond degree</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Well might the sun in darkness hide<br/>And shut His glories in<br/>When Christ the mighty Maker died<br/>For man the creature's sin</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Thus might I hide my blushing face<br/>While His dear cross appears<br/>Dissolve my heart in thankfulness<br/>And melt mine eyes to tears</lines>
+    </verse>
+    <verse name="v5">
+      <lines>But drops of grief can ne'er repay<br/>The debt of love I owe<br/>Here Lord I give myself away<br/>'Tis all that I can do</lines>
+    </verse>
+  </lyrics>
+</song>

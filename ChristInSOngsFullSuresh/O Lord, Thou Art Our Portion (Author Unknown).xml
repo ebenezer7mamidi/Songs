@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:49">
+  <properties>
+    <titles>
+      <title>O Lord, Thou Art Our Portion</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Lord, Thou art our portion,<br/>the Christ and coming King!<br/>Of all Thy grace and glory,<br/>forever we shall sing.<br/>For soon shall be Thy crowning,<br/>in power and majesty!<br/>O Lord, Thou art our portion,<br/>for all eternity.</lines>
+    </verse>
+  </lyrics>
+</song>

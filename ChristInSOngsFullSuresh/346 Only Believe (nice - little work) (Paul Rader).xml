@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>346 Only Believe (nice - little work)</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <ccliNo>13601</ccliNo>
+    <authors>
+      <author>Paul Rader</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fear not little flock<br/>From the cross to the throne<br/>From death into life He went for His own<br/>All power in earth all power above<br/>Is given to Him for the flock of His love</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Only believe only believe<br/>All things are possible only believe<br/>Only believe only believe<br/>All things are possible only believe</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fear not little flock He goeth ahead<br/>Your Shepherd selecteth the path you must tread<br/>The waters of Marah He'll sweeten for thee<br/>He drank all the bitter in Gethsemane</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fear not little flock whatever your lot<br/>He enters all rooms the doors being shut<br/>He never forsakes He never is gone<br/>So count on His presence in darkness and dawn</lines>
+    </verse>
+  </lyrics>
+</song>

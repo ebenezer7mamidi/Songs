@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:48">
+  <properties>
+    <titles>
+      <title>Light The Fire Again</title>
+    </titles>
+    <copyright>1994 Mercy / Vineyard Publishing / Vineyard Songs Canada, Administered by Vineyard Music USA</copyright>
+    <ccliNo>1346920</ccliNo>
+    <authors>
+      <author>Brian Doerksen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>I am here to buy gold<br/>Refined in the fire<br/>Naked and poor<br/>Wretched and blind I come<br/>Clothe me in white<br/>So I won't be ashamed<br/>Lord light the fire again</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Don't let my love grow cold<br/>I'm calling out<br/>Light the fire again<br/>Don't let my vision die<br/>I'm calling out<br/>Light the fire again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You know my heart my deeds<br/>I'm calling out<br/>Light the fire again<br/>I need Your discipline<br/>I'm calling out<br/>Light the fire again</lines>
+    </verse>
+  </lyrics>
+</song>

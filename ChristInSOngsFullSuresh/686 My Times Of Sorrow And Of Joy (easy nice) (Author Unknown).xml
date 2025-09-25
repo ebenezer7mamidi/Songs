@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:42">
+  <properties>
+    <titles>
+      <title>686 My Times Of Sorrow And Of Joy (easy nice)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My times of sorrow and of joy<br/>Great God are in Thy hand<br/>My choicest comforts come from Thee<br/>And go at Thy command</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If Thou shouldst take them all away<br/>Yet would I not repine<br/>Before they were possesed by me<br/>They were entirely Thine</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nor would I drop a murmuring word<br/>Though the whole world were gone<br/>But seek enduring happiness<br/>In Thee and Thee alone</lines>
+    </verse>
+    <verse name="v4">
+      <lines>What is the world with all its store<br/>'Tis but a bitter sweet<br/>When I attempt to pluck the rose<br/>A pricking thorn I meet</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Here perfect bliss can ne'er be found<br/>The honey's mixed with gall<br/>Midst changing scenes and dying friends<br/>Be Thou my all in all</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:42">
+  <properties>
+    <titles>
+      <title>699 Conquering Now And Still To Conquer (easy WOW</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>G#<br/>verse 1<br/>Conquering now and still to conquer<br/>Rideth a King in His might<br/>Leading the host of all the faithful<br/>Into the midst of the fight<br/>See them with courage advancing<br/>Clad in their brilliant array<br/>Shouting the name of their Leader<br/>Hear them exultingly say</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Not to the strong is the battle<br/>Not to the swift is the race<br/>Yet to the true and the faithful<br/>Vict'ry is promised through grace</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Conquering now and still to conquer<br/>Who is this wonderful King<br/>Whence all the armies which He leadeth<br/>While of His glory they sing<br/>He is our Lord and Redeemer<br/>Savior and Monarch Divine<br/>They are the stars that forever<br/>Bright in His Kingdom will shine</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Conquering now and still to conquer<br/>Jesus Thou Ruler of all<br/>Thrones and their scepters all shall perish<br/>Crowns and their splendor shall fall<br/>Yet shall the armies Thou leadest<br/>Faithul and true to the last<br/>Find in Thy mansions eternal<br/>Rest when their warfare is past</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T02:18:58">
+  <properties>
+    <titles>
+      <title>Beneath the cross of Jesus*</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>C<br/><br/>Beneath the cross of Jesus<br/>I gladly take my stand<br/>The shadow of a mighty rock<br/>Within a weary land</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>A home within the wilderness<br/>A rest upon the way<br/>From the burning of the noontide heat<br/>And the burden of the day</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Oh, safe and happy shelter<br/>Oh, refuge tried and sweet<br/>Oh, trysting place where heaven's love<br/>And heaven's justice meet</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>As to the holy patriarch<br/>That wondrous dream was given<br/>So seems my Savior's cross to me<br/>A ladder up to heaven</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>There lies beneath its shadow<br/>But on the farther side<br/>The darkness of an awful grave<br/>That gapes both deep and wide</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>And there between us stands the cross<br/>Two arms outstretched to save<br/>Like a watchman set to guard the way<br/>From that eternal grave</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Upon that cross of Jesus<br/>My eyes at times can see<br/>The very dying form of One<br/>Who suffered there for me</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>And from my smitten heart with tears<br/>Two wonders I confess<br/>The wonder of His glorious love<br/>And my unworthiness</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>I take O cross thy shadow<br/>For my abiding place<br/>I ask no other sunshine than<br/>The sunshine of His face</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>Content to let the world go by<br/>To know no gain nor loss<br/>My sinful self my only shame<br/>My glory all the cross</lines>
+    </verse>
+  </lyrics>
+</song>

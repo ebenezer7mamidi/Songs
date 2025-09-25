@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-05-19T13:55:51">
+  <properties>
+    <titles>
+      <title>Holy Forever</title>
+    </titles>
+    <verseOrder>v1 p1 c1 v2 p1 c1 c2 e1</verseOrder>
+    <authors>
+      <author>Chris Tomlin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A thousand generations<br/>Falling down in worship<br/>To sing the song of ages to the Lamb<br/>And all who’ve gone before us<br/>And all who will believe<br/>Will sing the song of ages to the Lamb</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Your name is the highest<br/>Your name is the greatest<br/>Your name stands above them all<br/>All thrones and dominions<br/>All pow'rs and positions<br/>Your name stands above them all</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And the angels cry, holy<br/>All creation cries, Holy<br/>You are lifted high, holy, holy forever</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If you’ve been forgiven<br/>And if you’ve been redeemed<br/>Sing the song forever to the Lamb<br/>If you walk in freedom<br/>And if you bear His name<br/>Sing the song forever to the Lamb<br/>We'll sing the song forever and amen</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Hear your people sing, holy<br/>To the King of Kings, holy<br/>You will always be, holy, holy forever</lines>
+    </verse>
+    <verse name="e1">
+      <lines>You will always be, holy, holy forever<br/></lines>
+    </verse>
+  </lyrics>
+</song>

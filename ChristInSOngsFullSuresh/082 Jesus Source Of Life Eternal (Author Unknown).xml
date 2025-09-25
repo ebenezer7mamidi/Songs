@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:37">
+  <properties>
+    <titles>
+      <title>082 Jesus Source Of Life Eternal</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>jesus Source of life eternal<br/>jesus Author of our breath<br/>victor o'er the hosts infernal<br/>by defeat and shame and death<br/>thou thru deepest tribulation<br/>deigned to pass<br/>for our salvation</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>thousand thousand praises be<br/>lord of glory unto Thee<br/>thousand thousand praises be<br/>lord of glory unto Thee</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>thou O Son of god wert bearing<br/>cruel mockings hatred scorn<br/>thou the King of glory wearing<br/>for our sake<br/>the crown of thorn<br/>dying thou didst us deliver<br/>from chains of sin forever</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>thousand thousand praises be<br/>precious savior unto Thee<br/>thousand thousand praises be<br/>precious savior unto Thee</lines>
+    </verse>
+    <verse name="v3">
+      <lines>all the shame men heaped upon Thee<br/>thou didst patiently endure<br/>not the pains of death too bitter<br/>our redemption to procure<br/>to accomplish our salvation</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>heart-felt praise and adoration<br/>savior thus to Thee we give<br/>for Thy life's humiliation<br/>for Thy death whereby we live<br/>all the grief thou wert enduring<br/>all the bliss thou wert securing</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>evermore the theme shall be<br/>of thanksgiving lord to Thee<br/>evermore the theme shall be<br/>of thanksgiving lord to Thee</lines>
+    </verse>
+  </lyrics>
+</song>

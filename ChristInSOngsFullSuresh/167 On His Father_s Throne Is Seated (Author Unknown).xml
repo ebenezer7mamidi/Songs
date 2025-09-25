@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:38">
+  <properties>
+    <titles>
+      <title>167 On His Father's Throne Is Seated</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>On His Father's throne is seated<br/>Christ the Lord the living One<br/>All His toil on earth completed<br/>All His work for sinners done<br/>In the glory - In the glory<br/>See Him - God's eternal Son</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Every knee shall bow before Him<br/>Every tongue confess His name<br/>Ransomed myriads shall adore Him<br/>Who endured the sinner's shame<br/>From the glory - From the glory<br/>God doth now His worth proclaim</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Man the cross to Him awarded<br/>Man the Savior crucified<br/>This world's judgment stands recorded<br/>God's own justice satisfied<br/>By the glory - By the glory<br/>Christ was claimed on earth who died</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Son of Man His incarnation<br/>Opened first the tale of grace<br/>Son of Man in new creation<br/>Leader of a chose race<br/>Well May glory - Well may glory<br/>Crown Him in the highest place</lines>
+    </verse>
+  </lyrics>
+</song>

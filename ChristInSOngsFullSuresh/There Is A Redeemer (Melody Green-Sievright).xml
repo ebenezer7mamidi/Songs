@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T15:06:36">
+  <properties>
+    <titles>
+      <title>There Is A Redeemer</title>
+    </titles>
+    <copyright>1982 Birdwing Music | / BMG Songs, Inc. | / Ears To Hear |, Administered by EMI Christian Music Publishing | BMG Music Publish</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>11483</ccliNo>
+    <authors>
+      <author>Melody Green-Sievright</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/><br/>There is a Redeemer<br/>Jesus God's own Son<br/>Precious Lamb of God Messiah<br/>Holy One</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Thank You O my Father<br/>For giving us Your Son<br/>And leaving Your Spirit 'til<br/>The work on earth is done</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus my Redeemer<br/>Name above all names<br/>Precious Lamb of God Messiah<br/>Hope for sinners slain</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When I stand in glory<br/>I will see His face<br/>There I'll serve my King forever<br/>In that holy place</lines>
+    </verse>
+  </lyrics>
+</song>

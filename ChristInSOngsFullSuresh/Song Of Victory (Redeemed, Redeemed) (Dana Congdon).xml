@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:51">
+  <properties>
+    <titles>
+      <title>Song Of Victory (Redeemed, Redeemed)</title>
+    </titles>
+    <authors>
+      <author>Dana Congdon</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You ask me how I can walk this way<br/>When things are lookin' down.<br/>You ask me how I can talk this way<br/>With problems all around.<br/>You ask me how I can sing<br/>when everything is goin' wrong.<br/>Well, ever since Jesus came into me<br/>I've been singin' a brand new song.</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>I'm singin' a song of victory<br/>Redeemed, redeemed<br/>(my Saviour died on Calvary)</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>I'm singin' a song of victory<br/>Redeemed, redeemed<br/>(His precious blood has set me free)</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>He touched my heart and He captured me,<br/>I live 'cause Jesus lives in me,<br/>And now I can't help singin' of victory</lines>
+    </verse>
+    <verse name="o1">
+      <lines>(BA BA BA BOOM, BA BA BA BOOM)</lines>
+    </verse>
+  </lyrics>
+</song>

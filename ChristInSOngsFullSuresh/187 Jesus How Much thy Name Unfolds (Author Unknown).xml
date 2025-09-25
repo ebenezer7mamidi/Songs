@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:38">
+  <properties>
+    <titles>
+      <title>187 Jesus How Much thy Name Unfolds</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus how much Thy name unfolds<br/>To ev'ry opened ear<br/>The pardoned sinner's mem'ry holds<br/>None other half so dear</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thy name encircles every grace<br/>That God as man could show<br/>There only could He fully trace<br/>A life divine below</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus - it speak a life of love<br/>Of sorrows meekly borne<br/>It tells of sympathy above<br/>Whatever makes us mourn</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus the One who knew no sin<br/>Made sin to make us just<br/>Thou gav'st Thyself our love to win<br/>Our full confiding trust</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The mention of Thy name shall bow<br/>Our hearts to worship Thee<br/>The chiefest of ten thousand Thou<br/>Whose love has set us free</lines>
+    </verse>
+  </lyrics>
+</song>

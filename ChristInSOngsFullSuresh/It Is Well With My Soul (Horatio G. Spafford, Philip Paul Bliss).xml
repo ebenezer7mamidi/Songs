@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-11T15:57:41">
+  <properties>
+    <titles>
+      <title>It Is Well With My Soul</title>
+    </titles>
+    <copyright>Public Domain, Administered by CCLI Administration Account</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <ccliNo>25376</ccliNo>
+    <authors>
+      <author>Horatio G. Spafford</author>
+      <author>Philip Paul Bliss</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/>When peace like a river<br/>Attendeth my way,<br/>When sorrows<br/>Like sea billows roll,<br/>Whatever my lot,<br/>Thou hast taught me to say<br/>It is well,<br/>It is well with my soul.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>It is well (it is well)<br/>with my soul (with my soul),<br/>It is well,<br/>It is well with my soul.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Though Satan should buffet,<br/>Though trials should come,<br/>Let this blest assurance control:<br/>That Christ has regarded<br/>My helpless estate<br/>And hath shed His own blood<br/>For my soul.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My sin, O the bliss<br/>Of this glorious tho't,<br/>My sin, not in part<br/>But the whole,<br/>Is nailed to the cross<br/>And I bear it no more.<br/>Praise the Lord,<br/>Praise the Lord, O my soul.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For me, be it Christ,<br/>Be it Christ hence to live<br/>If Jordan above me shall roll<br/>No pang shall be mine,<br/>For in death as in life<br/>Thou wilt whisper Thy peace to my soul</lines>
+    </verse>
+    <verse name="v5">
+      <lines>But, Lord, tis for Thee,<br/>For Thy coming we wait<br/>The sky, not the grave, is our goal<br/>Oh, trump of the Angel<br/>Oh, voice of the Lord<br/>Blessed hope Blessed rest of my soul</lines>
+    </verse>
+    <verse name="v6">
+      <lines>And Lord, haste the day<br/>When my faith shall be sight,<br/>The clouds be rolled back<br/>As a scroll,<br/>The trump shall resound,<br/>And the Lord shall descend,<br/>Even so, it is well<br/>With my soul.</lines>
+    </verse>
+  </lyrics>
+</song>

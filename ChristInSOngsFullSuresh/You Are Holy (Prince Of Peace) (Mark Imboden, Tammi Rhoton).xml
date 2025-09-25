@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-08-27T14:58:18">
+  <properties>
+    <titles>
+      <title>You Are Holy (Prince Of Peace)</title>
+    </titles>
+    <copyright>1994 Imboden Music / Martha Jo Publishing, Administered by Music Services</copyright>
+    <verseOrder>v1 v2 c1 c2 c3 c4 c5 v1 v2 c1 c2 c3 c4 c5</verseOrder>
+    <ccliNo>2332149</ccliNo>
+    <authors>
+      <author>Mark Imboden</author>
+      <author>Tammi Rhoton</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>E<br/><br/>(Sisters echo)<br/>You are Holy<br/>You are Mighty<br/>You are Worthy<br/>Worthy of praise</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will follow<br/>I will listen<br/>I will love You<br/>All of my days</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Brothers:<br/>I will sing to and<br/>worship the king<br/>who is Holy<br/>Sisters:<br/>He's the Lord of lords<br/>He's the King of kings<br/>He's the mighty God<br/>Lord of everything</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Brothers:<br/>I will love and adore Him<br/>I will bow down before Him<br/>Sisters:<br/>He's Emmanuel<br/>He's the Great I AM<br/>He's my Prince of Peace<br/>Who is the Lamb</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Brothers:<br/>I will sing to and<br/>worship the<br/>King who is Holy<br/>Sisters:<br/>He's the Living God<br/>He's the Saving Grace<br/>He will reign forever<br/>He's the Ancient of Days</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Brothers:<br/>I will love and adore Him<br/>I will bow down before Him<br/>Sisters:<br/>He's the Alpha Omega<br/>Beginning and End<br/>He's my Savior Messiah<br/>Redeemer and Friend</lines>
+    </verse>
+    <verse name="c5">
+      <lines>(together)<br/><br/>He's my Prince of Peace<br/>And I will live my life for Him<br/>He's my Prince of Peace<br/>And I will live my life for Him</lines>
+    </verse>
+  </lyrics>
+</song>

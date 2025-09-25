@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T02:53:11">
+  <properties>
+    <titles>
+      <title>Deepest Ministry</title>
+    </titles>
+    <comments>
+      <comment>chorus (maybe)
+
+[above are Song Tags with notes imported from EasyWorship]</comment>
+    </comments>
+    <verseOrder>v1 v2 c1 v2 c1 v2</verseOrder>
+    <authors>
+      <author>Dana Congdan</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/><br/>Moving past the brazen altar<br/>Passing through the holy place<br/>Enter in before His presence<br/>See the glory of His face</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Precious servants of the temple<br/>Cease your busy-ness and toil<br/>Come fulfill your deepest ministry<br/>Come and satisfy Your Lord</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Stand in awe (Stand in awe)<br/>Worship Him (Worship Him)<br/>Open up your hearts exclusively to Him</lines>
+    </verse>
+  </lyrics>
+</song>

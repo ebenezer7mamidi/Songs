@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:38">
+  <properties>
+    <titles>
+      <title>198 Lord Jesus How our souls adore (familiar tune)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord Jesus how our souls adore<br/>That perfect love of Thine<br/>We'd sing its sweetness o'er and o'er<br/>Immeasurable divine</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We think of Thee God's blessed Son<br/>Whom heav'nly hosts obeyed<br/>Girding Thyself to serve Thine own<br/>and like a bondman made</lines>
+    </verse>
+    <verse name="v3">
+      <lines>What deep affections moved Thee here<br/>As Thou didst seek Thy bride<br/>Joy of Thine heart<br/>to Thee how dear<br/>Love could not be denied</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Thou gavest all that love could give<br/>The goodly pearl to gain<br/>Thou gav'st Thy life that we might live<br/>and Thou Thy bride obtain</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Fruit of that wondrous love of Thine<br/>We praise we worship Thee<br/>Thy love unsearchable divine<br/>our endless song shall be</lines>
+    </verse>
+  </lyrics>
+</song>

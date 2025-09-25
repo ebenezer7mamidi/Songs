@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:49">
+  <properties>
+    <titles>
+      <title>My Jesus As Thou Wilt**</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>My Jesus as Thou wilt<br/>Oh may Thy will be mine<br/>Into Thy hand of love I would my all resign</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Through sorrow or through joy<br/>Conduct me as Thine own<br/>And help me still to say<br/>My Lord Th will be done</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>My Jesus as Thou wilt<br/>Though seen through many a tear<br/>Let not my star of hope<br/>Grow dim or disapper</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Since Thou on earth hast wept<br/>And sorrowed oft alone<br/>If I must weep with Thee<br/>My Lord Thy will be done</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>My Jesus as Thou wilt<br/>All shall be well for me<br/>Each changing future scene<br/>I gladly trust with Thee</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Straight to my home above<br/>I travel calmly on<br/>And sinf in life or death<br/>My Lord Thy will be done</lines>
+    </verse>
+  </lyrics>
+</song>

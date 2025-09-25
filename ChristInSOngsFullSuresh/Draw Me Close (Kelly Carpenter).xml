@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T02:58:24">
+  <properties>
+    <titles>
+      <title>Draw Me Close</title>
+    </titles>
+    <copyright>1994 Mercy / Vineyard Publishing, Administered by Vineyard Music USA</copyright>
+    <ccliNo>1459484</ccliNo>
+    <authors>
+      <author>Kelly Carpenter</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A<br/><br/>Draw me close to You<br/>Never let me go<br/>I lay it all down again<br/>To hear You say<br/>That I'm Your friend</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are my desire<br/>No one else will do<br/>'Cause nothing else<br/>Could take Your place<br/>To feel the warmth<br/>Of Your embrace<br/>Help me find the way<br/>Lord, Bring me back to You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You're all I want<br/>You're all I've ever needed<br/>You're all I want<br/>Help me know You are near</lines>
+    </verse>
+  </lyrics>
+</song>

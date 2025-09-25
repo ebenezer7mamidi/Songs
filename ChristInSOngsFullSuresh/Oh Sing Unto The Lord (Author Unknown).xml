@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:50">
+  <properties>
+    <titles>
+      <title>Oh Sing Unto The Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O sing unto the Lord a new song<br/>For He has done marvelous things<br/>His right hand and His holy arm<br/>Have gotten Him the victory</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The Lord has made known His salvation<br/>His righteousness has He openly showed<br/>In the sight of the heathen<br/>O sing unto the Lord a new song</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He has remembered His mercy<br/>And His truth toward the house of Israel<br/>All the ends of the earth<br/>Have seen the salvation of our God</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>819 Tho' Your Sins Be As Scarlet (easy nice)</title>
+    </titles>
+    <copyright>© Words: Public Domain &#13;
+Music: Public Domain</copyright>
+    <ccliNo>186583</ccliNo>
+    <authors>
+      <author>Fanny Jane Crosby | William Howard Doane</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tho' your sins be as scarlet<br/>They shall be as white as snow<br/>Tho' your sins be as scarlet<br/>They shall be white as snow<br/>Tho' they be red like crimson<br/>They shall be as wool<br/>Tho' your sins be as scarlet<br/>Tho' your sins be as scarlet<br/>They shall be as white as snow<br/>They shall be as white as snow</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hear the voice that entreats you<br/>O return ye unto God<br/>Hear the voice that entreats you<br/>O return ye unto God<br/>He is of great compassion<br/>And of wondrous love<br/>Hear the voice that entreats you<br/>Hear the voice that entreats you<br/>O return ye unto God<br/>O return ye unto God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He'll forgive your transgressions<br/>And remember them no more<br/>He'll forgive your transgressions<br/>And remember them no more<br/>Look unto me ye people<br/>Saith the Lord your God<br/>He'll forgive your transgressions<br/>He'll forgive your transgressions<br/>And remember them no more<br/>And remember them no more</lines>
+    </verse>
+  </lyrics>
+</song>

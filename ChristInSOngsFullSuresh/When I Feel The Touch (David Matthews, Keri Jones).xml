@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T15:51:08">
+  <properties>
+    <titles>
+      <title>When I Feel The Touch</title>
+    </titles>
+    <copyright>1978 Authentic Publishing, Administered by The Copyright Company</copyright>
+    <ccliNo>40760</ccliNo>
+    <authors>
+      <author>David Matthews</author>
+      <author>Keri Jones</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Bb<br/>When I feel the touch<br/>Of His hand upon my life,<br/>It causes me to sing this song<br/>That I love You Lord.<br/>So from deep within<br/>My spirit singeth unto Thee,<br/>You are my King, You are my God,<br/>And I love You Lord.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Lord, I love You!<br/>Lord, I love You!<br/>Lord, I love You!<br/>I love You, Lord!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, we praise You!<br/>Lord, we praise You!<br/>Lord, we praise You!<br/>We praise You, Lord!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord, we love You!<br/>Lord, we love You!<br/>Lord, we love You!<br/>We love You, Lord!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-19T19:51:19">
+  <properties>
+    <titles>
+      <title>032 O God and Father We Our Praises Bring</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/><br/>O God and Father we Our praises bring<br/>For who more worthy of Our praise could be<br/>Than Thou who seekest Worshipers who sing<br/>In spirit and in truth adoringly</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All worlds Thou hast Created by the Son<br/>All things are held by His Unmeasured power<br/>Yet we approach Thee In that glorious One<br/>What cause for worship In this holy hour</lines>
+    </verse>
+    <verse name="v3">
+      <lines>'Tis He who leads us in This blessed sphere<br/>In the assembly singing Praise to Thee<br/>What joy to Him that we Should thus be near<br/>As suited and in perfect liberty</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Here we unite our Song of joy is one<br/>And Thou O God art fully satisfied<br/>Amidst the praises led By Christ Thy Son<br/>Thou hast a dwelling ever to abide</lines>
+    </verse>
+  </lyrics>
+</song>

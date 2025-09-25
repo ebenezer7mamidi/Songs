@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:50">
+  <properties>
+    <titles>
+      <title>Precious Lord</title>
+    </titles>
+    <copyright>2000 Ardent/Koala Music; Xebec Music, Administered by Ardent Music LLC</copyright>
+    <ccliNo>4173461</ccliNo>
+    <authors>
+      <author>Tim Suttle</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Precious Lord take my hand<br/>Lead me on help me stand<br/>Linger on linger near<br/>Precious Lord take my hand</lines>
+    </verse>
+    <verse name="v1">
+      <lines>You are closer than the air I breathe<br/>And You teach me who I am<br/>And I want You to be my everything<br/>Lord I need a place to stand</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the morning when I come to You<br/>You are there to take my hand<br/>And Your promises they all come true<br/>And Your grace is where I am</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:41">
+  <properties>
+    <titles>
+      <title>566 Oh How I Love This Blessed Book</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh how I love this blessed book<br/>The story of redeeming grace<br/>Love letter of my Bridegroom's heart<br/>And mirror of my Savior's face</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh how I love this blessed Book<br/>My check book on the bank above<br/>Deed of my heav'nly heritage<br/>And dying will of Him I love</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh how I love this blessed Book<br/>Bright telescope through which I view<br/>The wonders of the world to come<br/>And gaze on glories ever new</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh how I love this blessed Book<br/>My Guide Book all my earthly way<br/>The lamp that cheers my darkest night<br/>The sunshine of my brightest day</lines>
+    </verse>
+  </lyrics>
+</song>

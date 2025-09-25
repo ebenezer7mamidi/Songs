@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-04-13T01:06:47">
+  <properties>
+    <titles>
+      <title>He That Is In Us</title>
+    </titles>
+    <copyright>1986 Thankyou Music, Administered by EMI Christian Music Publishing</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>21497</ccliNo>
+    <authors>
+      <author>Graham Kendrick</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/><br/>He that is in us is greater<br/>Than he that is in the world<br/>He that is in us is greater<br/>Than he that is in the world</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Therefore I will sing<br/>And I will rejoice<br/>For His Spirit lives in me<br/>Christ the Living One has overcome<br/>And we share in His victory</lines>
+    </verse>
+    <verse name="v4">
+      <lines>All the powers of death and hell and sin<br/>Lie crushed beneath His feet<br/>Jesus owns the Name above all names<br/>Crowned with honour and majesty</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He that is in us is greater<br/>Than he that is in the world<br/>He that is in us is greater<br/>Than he that is in the world</lines>
+    </verse>
+  </lyrics>
+</song>

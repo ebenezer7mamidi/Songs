@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:51">
+  <properties>
+    <titles>
+      <title>Something Beautiful</title>
+    </titles>
+    <copyright>© 1971 William J. Gaither, Inc. ARR UBP of Gaither Copyright Management</copyright>
+    <ccliNo>18060</ccliNo>
+    <authors>
+      <author>Gloria Gaither | William J. Gaither</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Something beautiful something good<br/>All my confusion He understood<br/>All I had to offer Him<br/>Was brokenness and strife<br/>But He made something beautiful of my life</lines>
+    </verse>
+  </lyrics>
+</song>

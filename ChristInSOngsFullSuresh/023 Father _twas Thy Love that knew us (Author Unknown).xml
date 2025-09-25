@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-19T18:59:40">
+  <properties>
+    <titles>
+      <title>023 Father 'twas Thy Love that knew us</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>D<br/><br/>Father 'twas Thy love That knew us<br/>Earth's foundation long before<br/>That same love to Jesus drew us<br/>By it's sweet constraining power</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>And will keep us And Will keep us<br/>Safely now and evermore<br/>Safely now and evermore</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Now that changeless Love enfolds us<br/>All its wealth on us bestows<br/>While its pow'r unchanging Holds us<br/>In a holy calm repose</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>God and Father<br/>God and Father<br/>Unto Thee our worship flows<br/>Unto Thee our worship flows</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>God of love our souls Adore Thee<br/>We would still Thy Grace proclaim<br/>Till we cast our crowns Before Thee<br/>And in glory Praise Thy Name</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Praise and worship<br/>Praise and worship<br/>Be to God and to the Lamb<br/>Be to God and to the Lamb</lines>
+    </verse>
+  </lyrics>
+</song>

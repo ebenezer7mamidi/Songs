@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-19T20:40:05">
+  <properties>
+    <titles>
+      <title>117 Lord We Treasure With Affection</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord we treasure with affection<br/>all Thy path of sorrow here<br/>and those closing scenes of anguish<br/>to our hearts Thyself endear</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We will praise Thee<br/>we will praise Thee<br/>praise Thee lord for sinners slain<br/>give Thee glory<br/>give Thee glory<br/>give Thee glory for the life we gain</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Deep Thy sorrow then Lord Jesus<br/>deeper far than thought can reach<br/>grief intense and suff'rings holy<br/>far beyond all tongues to teach</lines>
+    </verse>
+    <verse name="v3">
+      <lines>None could follow there blest Savior<br/>when thou didst for sin atone<br/>for those suff'rings deep unfathomed<br/>were Lord Jesus Thine alone</lines>
+    </verse>
+    <verse name="v4">
+      <lines>thou didst measure then sin's distance<br/>darkness wrath and curse were Thine<br/>man-betrayed by God forsaken<br/>thus we learn Thy love divine</lines>
+    </verse>
+  </lyrics>
+</song>

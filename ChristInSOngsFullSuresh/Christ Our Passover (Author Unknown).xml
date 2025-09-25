@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:45">
+  <properties>
+    <titles>
+      <title>Christ Our Passover</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A<br/>Christ our Passover,<br/>Christ our Passover<br/>Slain e'en from the<br/>foundation of the world,<br/> born to set us free.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lamb, pure,<br/>undefiled,<br/>(repeat 2x)<br/>Slain e'en from the<br/>foundation of the world<br/> born to set us free.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:42">
+  <properties>
+    <titles>
+      <title>659 Oh To Be Nothing (easy )</title>
+    </titles>
+    <verseOrder>v1 c1 v2 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh to be nothing nothing<br/>Only to lie at His feet<br/>A broken and emptied vessel<br/>For the Master's use made meet<br/>Emptied that He might fill me<br/>As forth to His service I go<br/>Broken that so unhinder'd<br/>His life through me might flow</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Oh to be nothing nothing</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Only to lie at His feet<br/>A broken and emptied vessel<br/>For the Master's use made meet</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh to be nothing nothing<br/>Only as led by His hand<br/>A messenger at His gateway<br/>Only waiting for His command<br/>Only an instrument ready<br/>His praises to sound at His will<br/>Willing should He not require me<br/>In silence to wait on Him still</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Oh to be nothing nothing<br/>Only to lie at His feet<br/>A broken and emptied vessel<br/>For the Master's use made meet</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh to be nothing nothing<br/>Painful the humbling may be<br/>Yet low in the dust I'd lay me<br/>That the world might my Savior see<br/>Rather be nothing nothing<br/>To Him let their voices be raised<br/>He is the fountain of blessing<br/>He only is meet to be praised</lines>
+    </verse>
+  </lyrics>
+</song>

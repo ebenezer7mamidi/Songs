@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:47">
+  <properties>
+    <titles>
+      <title>If That Isn't Love</title>
+    </titles>
+    <copyright>© 1969 New Spring, Administered by Brentwood-Benson Music Publishing, Inc.</copyright>
+    <ccliNo>13979</ccliNo>
+    <authors>
+      <author>Dottie Rambo</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He left the splendor of heaven<br/>Knowing His destiny<br/>Was the lonely hill of Golgotha<br/>There to lay down His life for me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>If that isn't love<br/>The ocean is dry<br/>There's no star in the sky<br/>And the sparrow can't fly<br/>If that isn't love<br/>Then heaven's a myth<br/>There's no feeling like this<br/>If that isn't love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Even in death He remembered<br/>The thief hanging by His side<br/>He spoke with love and compassion<br/>Then He took him to paradise</lines>
+    </verse>
+  </lyrics>
+</song>

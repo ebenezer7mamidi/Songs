@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T14:57:19">
+  <properties>
+    <titles>
+      <title>The Price is Paid</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/>The price is paid,<br/>Come let us enter in<br/>To all that Jesus died<br/>To make our own,<br/>For every sin<br/>More than enough He gave,<br/>And bought our freedom<br/>From each guilty stain.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>The price is paid, Alleluia,<br/>Amazing grace,<br/>So strong and sure;<br/>And so with all my heart,<br/>My life in every part,<br/>I live to thank You for The price You paid.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The price is paid,<br/>See Satan flee away;<br/>For Jesus crucified<br/>Destroys his power.<br/>No more to pay,<br/>Let accusation cease,<br/>In Christ there is no<br/>Condemnation now.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The price is paid,<br/>And by that scourging cruel<br/>He took our sinfulness<br/>As if His own.<br/>And by His wounds<br/>His body broken there,<br/>His healing touch may now<br/>By faith be known.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The price is paid,<br/>"Worthy The Lamb," we cry,<br/>Eternity shall never<br/>Cease to praise.<br/>The Church of Christ<br/>Shall rule upon the earth,<br/>In Jesus' name<br/>We have authority.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:47">
+  <properties>
+    <titles>
+      <title>I Exalt Thee</title>
+    </titles>
+    <copyright>1977 Pete Sanchez, Jr., Administered by Gabriel Music, Inc.</copyright>
+    <ccliNo>17803</ccliNo>
+    <authors>
+      <author>Pete</author>
+      <author>Jr. Sanchez</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>I exalt Thee<br/>I exalt Thee<br/>I exalt Thee oh Lord<br/>I exalt Thee<br/>I exalt Thee<br/>I exalt Thee oh Lord</lines>
+    </verse>
+    <verse name="v1">
+      <lines>For Thou oh Lord art high above all the earth<br/>Thou art exalted far above all gods<br/>For Thou oh Lord art high above all the earth<br/>Thou art exalted far above all gods</lines>
+    </verse>
+  </lyrics>
+</song>

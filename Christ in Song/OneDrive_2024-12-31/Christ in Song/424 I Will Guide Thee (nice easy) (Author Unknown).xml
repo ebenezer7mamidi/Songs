@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>424 I Will Guide Thee (nice easy)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Precious promise God hath given<br/>To the weary passerby<br/>On the way from earth to heaven<br/>I will guide thee with mine eye</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I will guide thee - I will guide thee<br/>I will guide thee with Mine eye<br/>On the way from earth to heaven<br/>I will guide thee with Mine eye</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When temptations fierce assail thee<br/>When thy trusted helpers fly<br/>Let this promise ring within thee<br/>I will guide thee with Mine eye</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When thy secret hopes have perished<br/>In the grave of years gone by<br/>Let this promise still be cherished<br/>I will guide thee with Mine eye</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When the shades of life are falling<br/>And the hour has come to die<br/>Hear thy faithful Pilot calling<br/>I will guide thee with Mine eye</lines>
+    </verse>
+  </lyrics>
+</song>

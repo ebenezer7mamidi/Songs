@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T02:49:46">
+  <properties>
+    <titles>
+      <title>Crown Him With Many Crowns</title>
+    </titles>
+    <copyright>1986 Word Music, LLC, Administered by Word Music Group, Inc.</copyright>
+    <ccliNo>647950</ccliNo>
+    <authors>
+      <author>Mark Hayes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>D<br/><br/>Crown Him with many crowns<br/>The Lamb upon His throne<br/>Hark how the heav'nly anthem drowns<br/>All music but its own</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Awake my soul and sing<br/>Of Him who died for thee<br/>And hail Him as thy matchless King<br/>Through all eternity</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Crown Him the Lord of love<br/>Behold His hands and side<br/>Rich wounds yet visible above<br/>In beauty glorified</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>No angel in the sky<br/>Can fully bear that sight<br/>But downward bends his wond'ring eye<br/>At mysteries so bright</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Crown Him the Lord of life<br/>Who triumphed o'er the grave<br/>Who rose victorious to the strife<br/>For those He came to save</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>His glories now we sing<br/>Who died and rose on high<br/>Who died eternal life to bring<br/>And lives that death may die</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Crown Him the Lord of years<br/>The Potentate of time<br/>Creator of the rolling spheres<br/>Ineffably sublime</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>All hail, Redeemer, hail<br/>For Thou hast died for me<br/>Thy praise shall never, never fail<br/>Throughout eternity</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Crown Him the Lord of heav'n<br/>One with the Father known<br/>One with the Spirit thru Him giv'n<br/>From yonder glorious throne</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>To Thee be endless praise<br/>For Thou for us hast died<br/>Be Thou O Lord thru endless days<br/>Adored and magnified</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T16:26:16">
+  <properties>
+    <titles>
+      <title>I Love To Tell The Story</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>G<br/>I love to tell the story<br/>Of unseen things above<br/>Of Jesus and His glory<br/>Of Jesus and His love<br/>I love to tell the story<br/>Because I know 'tis true<br/>It satisfies my longings<br/>As nothing else can do</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I love to tell the story<br/>'Twill be my theme in glory<br/>To tell the old old story<br/>Of Jesus and His love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I love to tell the story<br/>More wonderful it seems<br/>Than all the golden fancies<br/>Of all our golden dreams<br/>I love to tell the story<br/>It did so much for me<br/>And that is just the reason<br/>I tell it now to thee</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I love to tell the story<br/>'Tis pleasant to repeat<br/>What seems each time I tell it<br/>More wonderfully sweet<br/>I love to tell the story<br/>For some have never heard<br/>The message of salvation<br/>From God's own holy Word</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I love to tell the story<br/>For those who know it best<br/>Seem hungering and thirsting<br/>To hear it like the rest<br/>And when in scenes of glory<br/>I sing the new new song<br/>'Twill be the old old story<br/>That I have loved so long</lines>
+    </verse>
+  </lyrics>
+</song>

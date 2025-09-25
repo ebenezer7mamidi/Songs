@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:49">
+  <properties>
+    <titles>
+      <title>My God And I</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>My God and I go in the field together<br/>We walk and talk as good friends should and do<br/>We clasp our hands our voices ring with laughter</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>My God and I walk thru the meadow's hue<br/>We clasp our hands our voices ring with laughter<br/>My God and I walk thru the meadow's hue</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>He tells me of the years that went before me<br/>When heav'nly plans were made for me to be<br/>When all was but a dream of dim conception</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>To come to life earth's verdant glory see<br/>When all was but a dream of dim conception<br/>To come to life earth's verdant glory see</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>My God and I will go for aye together<br/>We'll walk and talk and jest as good friends do<br/>This earth will pass and with it common trifles</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>But God and I will go unendingly<br/>This earth will pass and with it common trifles<br/>But God and I will go unendingly</lines>
+    </verse>
+  </lyrics>
+</song>

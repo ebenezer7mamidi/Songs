@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>267 Twas Jesus My Savior (wow nice easy)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>'Twas Jesus my Savior<br/>Who died on the tree<br/>To open a flountain<br/>For sinners like me<br/>His blood is the fountain<br/>Which pardon bestows<br/>And cleanses the foulest<br/>Wherever it flows</lines>
+    </verse>
+    <verse name="c1">
+      <lines>For the Lion of Judah<br/>Shall break ev'ry chain<br/>And give us the vict'ry<br/>Again and again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And when I was willing<br/>With all things to part<br/>He gave me His blessing<br/>His love in my heart<br/>So now I am join'd with<br/>The conquering band<br/>Who are marching<br/>To glory<br/>At Jesus' command</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Though round me the storms<br/>Of adversity roll<br/>And the waves of destruction<br/>Encompass my soul<br/>In vain ths frail vessel<br/>The tempest shall toss<br/>My hope is secure<br/>Through<br/>The blood of the cross</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And when with the ransomed<br/>By Jesus my Head<br/>From fountain to fountain<br/>I then shall be led<br/>I'll fall at His feet<br/>And His mercy adore<br/>And sing Hallelujah<br/>To God evermore</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-11T15:43:56">
+  <properties>
+    <titles>
+      <title>In Moments Like These</title>
+    </titles>
+    <comments>
+      <comment>verse 2(optional)
+
+[above are Song Tags with notes imported from EasyWorship]</comment>
+    </comments>
+    <copyright>1980 C.A. Music, Administered by Music Services</copyright>
+    <ccliNo>10082</ccliNo>
+    <authors>
+      <author>David Graham</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/><br/>In moments like these<br/>I sing out a song<br/>I sing out a love song to Jesus<br/>In moments like these<br/>I lift up my hands<br/>I lift up my hands to the Lord</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Singing I love You Lord<br/>Singing I love You Lord<br/>Singing I love You Lord<br/>I love You</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>In moments like these<br/>We sing out a song<br/>We sing out a love song to Jesus<br/>In moments like these<br/>We lift up our hands<br/>We lift up our hands to the Lord</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Singing we love You Lord<br/>Singing we love You Lord<br/>Singing we love You Lord<br/>We love You</lines>
+    </verse>
+  </lyrics>
+</song>

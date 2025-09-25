@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>449 The Comforter Has Come (easy)</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <ccliNo>31810</ccliNo>
+    <authors>
+      <author>Frank Francis Bottome | William James Kirkpatrick</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>The Comforter has come<br/>The Comforter has come<br/>The Holy Ghost from heav'n<br/>The Father's promise giv'n<br/>Oh spread the tidings 'round<br/>Wherever man is found<br/>The Comforter has come</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Oh spread the tidings 'round<br/>Wherever man is found<br/>Wherever human hearts<br/>And human woes abound<br/>Let every Christian tongue<br/>Proclaim the joyful sound<br/>The Comforter has come</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The long long night is past<br/>The morning breaks at last<br/>And hushed the dreadful wail<br/>And fury of the blast<br/>As o'er the golden hills<br/>The day advances fast<br/>The Comforter has come</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lo the great King of kings<br/>With healing in His wings<br/>To every captive soul<br/>A full deliv'rance brings<br/>And through the vacant cells<br/>The song of triumph rings<br/>The Comforter has come</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh boundless love divine<br/>How shall this tongue of mine<br/>To wond'ring mortals tell<br/>The matchless grace divine<br/>That I a child of hell<br/>Should in His image shine<br/>The Comforter has come</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Of lords He is the Lord<br/>Divine the living Word<br/>His name the sweetest heard<br/>His will redemption brings<br/>O spread the tidings 'round<br/>Wherever man is found<br/>The Lord is King of kings</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-09T00:43:32">
+  <properties>
+    <titles>
+      <title>Spirit of the living God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/>Spirit of the living God<br/>Fall afresh on me<br/>Spirit of the living God<br/>Fall afresh on me<br/>Make me<br/>Mold me<br/>Fill me<br/>Use me<br/>Spirit of the living God<br/>Fall afresh on me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Spirit of the living God<br/>Fall afresh on us<br/>Spirit of the living God<br/>Fall afresh on us<br/>Make us<br/>Mold us<br/>Fill us<br/>Use us<br/>Spirit of the living God<br/>Fall afresh on us</lines>
+    </verse>
+  </lyrics>
+</song>

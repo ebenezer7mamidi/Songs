@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:47">
+  <properties>
+    <titles>
+      <title>I have decided to follow Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/>I have decided to follow Jesus<br/>I have decided to follow Jesus<br/>I have decided to follow Jesus<br/>No turning back no turning back</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The world behind me the cross before me<br/>The world behind me the cross before me<br/>The world behind me the cross before me<br/>No turning back no turning back</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tho' none go with me still I will follow<br/>Tho' none go with me still I will follow<br/>Tho' none go with me still I will follow<br/>No turning back no turning back</lines>
+    </verse>
+  </lyrics>
+</song>

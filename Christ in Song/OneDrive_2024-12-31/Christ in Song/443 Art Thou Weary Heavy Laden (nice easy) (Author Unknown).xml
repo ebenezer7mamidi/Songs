@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>443 Art Thou Weary Heavy Laden (nice easy)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Art thou weary heavy laden<br/>Arth thou sore distrest<br/>Come to me - saith one<br/>And coming - Be at rest</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hath He marks<br/>To lead me to Him<br/>If He be my guide<br/>In His feet and hands<br/>Are wound-prints<br/>And His side</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Is there diadem as Monarch<br/>That His brow adorns<br/>Yes a crown in very surety<br/>But of thorns</lines>
+    </verse>
+    <verse name="v4">
+      <lines>If I find Him - if I follow<br/>What His guerdon* here<br/>Many a sorrow many a labour<br/>Many a tear<br/> (*Meaning "reward")</lines>
+    </verse>
+    <verse name="v5">
+      <lines>If I still hold closely to Him<br/>What hath He at last<br/>Sorrow vanquished labour ended<br/>Jordan passed</lines>
+    </verse>
+    <verse name="v6">
+      <lines>If I ask Him to receive me<br/>Will He say me nay<br/>Not till earth and not till heaven<br/>Pass away</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Finding following keeping struggling<br/>Is He sure to bless<br/>Saints apostles prophets martyrs<br/>Answer - Yes</lines>
+    </verse>
+  </lyrics>
+</song>

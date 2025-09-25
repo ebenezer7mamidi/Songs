@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:48">
+  <properties>
+    <titles>
+      <title>Lift your voices</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lift your voices unto the Lord<br/>Glad hosannas ringing<br/>Come and praise Him Christ our King<br/>Forever and forever<br/>Lift your voices loudly sing<br/>Thank Him now for everything<br/>Come and praise Him Christ our King<br/>Forever and forever</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lift your hands unto the Lord<br/>Praises never ceasing<br/>We shall praise Him Christ our King<br/>Forever and forever<br/>Lift your hands and now proclaim<br/>He is Lord over everything<br/>We shall praise Him Christ our King<br/>Forever and forever</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lift your heart unto the Lord<br/>Lives that match your praising<br/>Represent Him Christ our King<br/>Forever and forever<br/>Lift your hearts, your treasure bring<br/>Give to Him your everything<br/>Live to serve Him Christ our King<br/>Forever and forever</lines>
+    </verse>
+  </lyrics>
+</song>

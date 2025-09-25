@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:52">
+  <properties>
+    <titles>
+      <title>Unfailing Love</title>
+    </titles>
+    <copyright>2004 worshiptogether.com songs; Alletrop Music; sixsteps Music; Popular Purple Publishing; Bridge Bu, Administered by EMI Christian Music Publishing; Brentwood-Benson M</copyright>
+    <ccliNo>4403227</ccliNo>
+    <authors>
+      <author>Cary Pierce</author>
+      <author>Chris Tomlin</author>
+      <author>Ed Cash</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You have my heart<br/>And I am Yours forever<br/>You are my strength<br/>God of grace and power<br/>And ev'rything<br/>You hold in Your hand<br/>Still You make time for me<br/>I can't understand</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Praise You God of earth and sky<br/>How beautiful is Your unfailing love<br/>Unfailing love<br/>And You never change God<br/>You remain The Holy One<br/>And my unfailing love<br/>Unfailing love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are my rock<br/>The One I hold on to<br/>You are my song<br/>And I sing for You<br/>And ev'rything<br/>You hold in Your hand<br/>Still You make time for me<br/>I can't understand</lines>
+    </verse>
+  </lyrics>
+</song>

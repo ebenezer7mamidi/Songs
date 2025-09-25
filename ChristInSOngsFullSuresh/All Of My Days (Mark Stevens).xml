@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T01:36:38">
+  <properties>
+    <titles>
+      <title>All Of My Days</title>
+    </titles>
+    <copyright>2000 Hillsong Publishing, Administered by Integrity Music, Inc.</copyright>
+    <ccliNo>3258208</ccliNo>
+    <authors>
+      <author>Mark Stevens</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>E<br/>Proclaim Your awesome power<br/>Tell of mighty deeds<br/>Declare Your future kingdom<br/>Of everlasting peace</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And my eyes they look unto You always<br/>And I am captured by Your majesty<br/>All of my days I will sing of Your greatness<br/>All of my days I will speak of Your grace</lines>
+    </verse>
+    <verse name="c2">
+      <lines>All of my days I will tell of Your wondrous love<br/>Your love in my life<br/>Your love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All Your works will praise You<br/>Your children bless Your name<br/>We speak of all Your goodness<br/>We walk in fields of grace</lines>
+    </verse>
+  </lyrics>
+</song>

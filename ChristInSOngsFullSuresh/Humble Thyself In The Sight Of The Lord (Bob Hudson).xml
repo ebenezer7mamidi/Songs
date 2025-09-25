@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T04:08:42">
+  <properties>
+    <titles>
+      <title>Humble Thyself In The Sight Of The Lord</title>
+    </titles>
+    <copyright>1978 Maranatha! Music / CCCM Music, Administered by Maranatha! Music</copyright>
+    <ccliNo>26564</ccliNo>
+    <authors>
+      <author>Bob Hudson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cm<br/><br/>Humble thyself<br/>In the sight of the Lord<br/>Humble thyself<br/>In the sight of the Lord<br/>And He shall lift you up<br/>Higher and higher<br/>And He shall lift you up</lines>
+    </verse>
+  </lyrics>
+</song>

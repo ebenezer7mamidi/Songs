@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>396 I know That My Redeemer Lives (familiar nice)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I know that my<br/>Redeemer lives<br/>And ever prays for me<br/>A token of His love<br/>He gives<br/>A pledge of liberty</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I know that my<br/>Redeemer lives<br/>A quick'ning Spirit He<br/>I know eternal life He gives<br/>Amazing grace - to me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I find Him lifting<br/>up my head<br/>He brings salvation near<br/>His presence makes<br/>me free indeed<br/>And He will soon appear</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He wills that I should holy be<br/>What can withstand His will<br/>The counsel of his grace in me<br/>He surely shall fulfill</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus I hang upon Thy word<br/>I stead..fast..ly believe<br/>Thou wilt return and claim me Lord<br/>And to Thyself receive</lines>
+    </verse>
+  </lyrics>
+</song>

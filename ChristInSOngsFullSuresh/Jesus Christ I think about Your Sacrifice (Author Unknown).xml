@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-12T15:45:04">
+  <properties>
+    <titles>
+      <title>Jesus Christ I think about Your Sacrifice</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 b1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/><br/>Jesus Christ<br/>I think upon Your sacrifice<br/>You became nothing<br/>Poured out to death</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Many times I've wondered<br/>At Your gift of life<br/>And I'm in that place once again<br/>I'm in that place once again</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Once again<br/>I look upon the cross<br/>Where You died<br/>I'm humbled by Your mercy<br/>And I'm broken inside<br/>Once again I thank You<br/>Once again I pour out my life</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Now You are exalted<br/>To the highest place<br/>King of the heavens<br/>Where one day I'll bow</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>But for now<br/>I marvel at Your saving grace<br/>And I'm full of praise once again<br/>I'm full of praise once again</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Thank You for the cross<br/>Thank You for the cross<br/>Thank You for the cross my Friend<br/>(2x)</lines>
+    </verse>
+  </lyrics>
+</song>

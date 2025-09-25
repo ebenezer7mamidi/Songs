@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:52">
+  <properties>
+    <titles>
+      <title>We Will Come And Bow Down</title>
+    </titles>
+    <copyright>1984 Integrity's Hosanna! Music, Administered by Integrity Music, Inc.</copyright>
+    <ccliNo>12327</ccliNo>
+    <authors>
+      <author>Martin Nystrom</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>I will come and bow down<br/>at Your feet, Lord Jesus,<br/>In Your presence<br/>is fullness of joy.<br/>There is nothing,<br/>There is no one<br/>who compares with You.<br/>I take pleasure<br/>in worshiping You, Lord.</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>We will come and bow down<br/>at Your feet, Lord Jesus,<br/>In Your presence is fullness of joy.<br/>There is nothing,<br/>There is no one<br/>who compares with You.<br/>We take pleasure<br/>in worshiping You, Lord.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Heaven is Your throne<br/>And the earth is Your footstool.<br/>Jesus, we come to<br/>bow down at Your feet.<br/>O how we love just<br/>to worship before You.<br/>In Your presence<br/>our joy is complete so</lines>
+    </verse>
+  </lyrics>
+</song>

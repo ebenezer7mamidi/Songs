@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:44">
+  <properties>
+    <titles>
+      <title>Adam Where Are You</title>
+    </titles>
+    <copyright>1988 William J. Gaither, Inc. ARR UBP of Gaither Copyright Management; Shepherd's Fold Music, Administered by Gaither Copyright Management; EMI Christian Music</copyright>
+    <ccliNo>77269</ccliNo>
+    <authors>
+      <author>Gloria Gaither</author>
+      <author>J. D. Miller</author>
+      <author>William J. Gaither</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Adam where are you<br/>I came to walk with you<br/>And found an empty place<br/>Where face to face<br/>We used to talk<br/>Adam I love you<br/>And I will find a way<br/>Wo bring you back someday<br/>To where we first began<br/>Adam where are you<br/>Adam where are you</lines>
+    </verse>
+    <verse name="v1">
+      <lines>I gave you sight and breath<br/>The choice of life or death<br/>And put within your heart<br/>The yearning to belong<br/>But all along I knew<br/>The choice was up to you<br/>To give me all your heart<br/>Or lose your song</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I came when ev'ning fell<br/>To where we knew so well<br/>To hear your laughter echo down<br/>The well worn lane<br/>But there was no one there<br/>Just silence ev'rywhere<br/>The forests seemed to sense<br/>A Father's pain</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Adam where are you<br/>Adam where are you<br/>Adam where are you<br/>My child where are you</lines>
+    </verse>
+  </lyrics>
+</song>

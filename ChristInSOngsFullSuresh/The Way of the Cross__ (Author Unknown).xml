@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T15:02:34">
+  <properties>
+    <titles>
+      <title>The Way of the Cross**</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The way of the Cross means sacrifice<br/>as to God you yield your all<br/>To be laid on the altar the place of death<br/>Where fire will surely fall</lines>
+    </verse>
+    <verse name="c1">
+      <lines>'Tis the way of the Cross are you willing for this<br/>what does bearing the Cross mean to you<br/>You who've given yourself<br/>Your all to God<br/>To God are you wholly true</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As the voice of song and prayer we raise<br/>How easy to say we give all<br/>Till some rougher cross lies just before<br/>and sterner is duty's call</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Do you falter then or true to death<br/>just die on the cross in the Way<br/>Til the fullness of life<br/>From the Living One<br/>Is filling you day by day</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tis the plan of life for you to die to live<br/>One with Jesus crucified<br/>With the life alone to be lived through you<br/>Of the Risen the Glorified</lines>
+    </verse>
+  </lyrics>
+</song>

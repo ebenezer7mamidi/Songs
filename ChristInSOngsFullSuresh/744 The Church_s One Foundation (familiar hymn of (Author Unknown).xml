@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:42">
+  <properties>
+    <titles>
+      <title>744 The Church's One Foundation (familiar hymn of</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>C<br/>The Church's one foundation<br/>Is Jesus Christ her Lord<br/>She is His new creation<br/>By water and the word</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>From heav'n He came and sought her<br/>To be His holy bride<br/>With His own blood He bought her<br/>And for her life He died</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Elect from ev'ry nation<br/>Yet one o'er all the earth<br/>Her charter of salvation<br/>One Lord one faith one birth</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>One holy name she blesses<br/>Partakes one holy food<br/>And to one hope she presses<br/>With ev'ry grace endued</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Though with a scornful wonder<br/>Men see her sore oppressed<br/>By schisms rent asunder<br/>By heresies distressed</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Yet saints their watch are keeping<br/>Their cry goes up how long<br/>And soon the night of weeping<br/>Shall be the morn of song</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>'Mid toil and tribulation<br/>And tumult of her war<br/>She waits the consummation<br/>Of peace forevermore</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Till with the vision glorious<br/>Her longing eyes are blest<br/>And the great Church victorious<br/>Shall be the Church at rest</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Yet she on earth hath union<br/>With God the Three in One<br/>And mystic sweet communion<br/>With those whose rest is won</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>O happy ones and holy<br/>Lord give us grace that we<br/>Like them the meek and lowly<br/>On high may dwell with Thee</lines>
+    </verse>
+  </lyrics>
+</song>

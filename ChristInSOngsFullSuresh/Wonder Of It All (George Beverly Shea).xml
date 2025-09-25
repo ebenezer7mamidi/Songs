@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-06T00:06:24">
+  <properties>
+    <titles>
+      <title>Wonder Of It All</title>
+    </titles>
+    <copyright>©1956, 1957, 1985</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>CCLI Song</ccliNo>
+    <authors>
+      <author>George Beverly Shea</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>G<br/><br/>There's the wonder of sunset at evening,<br/>The wonder as sunrise I see;<br/>But the wonder of wonders that thrills my soul<br/>Is the wonder that God loves me.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, the wonder of it all! The wonder of it all!<br/>Just to think that God loves me.<br/>O, the wonder of it all! The wonder of it all!<br/>Just to think that God loves me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There's the wonder of springtime and harvest,<br/>The sky, the stars, the sun;<br/>But the wonder of wonders that thrills my soul<br/>Is a wonder that has only begun.</lines>
+    </verse>
+  </lyrics>
+</song>

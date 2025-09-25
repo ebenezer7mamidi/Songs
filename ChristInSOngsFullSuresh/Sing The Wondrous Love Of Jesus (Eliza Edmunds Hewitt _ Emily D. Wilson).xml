@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T13:58:32">
+  <properties>
+    <titles>
+      <title>Sing The Wondrous Love Of Jesus</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>24597</ccliNo>
+    <authors>
+      <author>Eliza Edmunds Hewitt | Emily D. Wilson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A<br/><br/>Sing the wondrous<br/>Love of Jesus<br/>Sing His mercy<br/>And His grace<br/>In the mansions<br/>Bright and blessed<br/>He'll prepare for us a place</lines>
+    </verse>
+    <verse name="c1">
+      <lines>When we all<br/> (echo: when we all)<br/>Get to heaven<br/>What a day of rejoicing that will be<br/> (echo: that will be)<br/>When we all<br/>(echo: when we all)<br/>See Jesus<br/>We'll sing and shout the victory</lines>
+    </verse>
+    <verse name="v2">
+      <lines>While we walk<br/>The pilgrim pathway<br/>Clouds will overspread<br/>The sky<br/>But when trav'ling<br/>Days are over<br/>Not a shadow not a sigh</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let us then be<br/>True and faithful<br/>Trusting serving ev'ry day<br/>Just one glimpse<br/>Of Him in glory<br/>Will the toils<br/>Of life repay</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Onward to the<br/>Prize before us<br/>Soon His beauty<br/>We'll behold<br/>Soon the pearly gates<br/>will open<br/>We shall tread<br/>the streets of gold</lines>
+    </verse>
+  </lyrics>
+</song>

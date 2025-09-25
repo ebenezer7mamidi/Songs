@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:52">
+  <properties>
+    <titles>
+      <title>This Kingdom</title>
+    </titles>
+    <copyright>1995 Word Music, LLC / Maranatha! Music, Administered by Word Music Group, Inc. / Maranatha! Music</copyright>
+    <verseOrder>v1 c1 v2 c1 c1</verseOrder>
+    <ccliNo>1650898</ccliNo>
+    <authors>
+      <author>Geoff Bullock</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus God's righteousness Revealed<br/>The Son of Man, The Son of God<br/>His kingdom comes<br/>Jesus redemption's sacrifice<br/>Now glorified now justified<br/>His kingdom comes</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>And this kingdom Will know no end<br/>And its glory shall Know no bounds<br/>For the majesty and power<br/>Of this kingdom's King has come</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>And this kingdom's reign<br/>And this kingdom's rule<br/>And this kingdom's power And authority<br/>Jesus God's righteousness Revealed</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus the expression Of God's love<br/>The grace of God The Word of God<br/>Revealed to us<br/>Jesus God's holiness displayed<br/>Now glorified now justified<br/>His kingdom comes</lines>
+    </verse>
+  </lyrics>
+</song>

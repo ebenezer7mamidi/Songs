@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:52">
+  <properties>
+    <titles>
+      <title>They That Trust In The Lord / I'm Like A Tree Like</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>They that trust in the Lord<br/>Shall be as mount Zion<br/>Which shall not be removed<br/>From henceforth even forever</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm like a tree - like a tree<br/>I'm like a green olive tree<br/>In the house -<br/>in the house of the Lord<br/>And I will trust in the mercies<br/>Of God forever<br/>I will trust in the mercies of God</lines>
+    </verse>
+  </lyrics>
+</song>

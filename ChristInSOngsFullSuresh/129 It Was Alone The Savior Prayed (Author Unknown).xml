@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-19T20:46:06">
+  <properties>
+    <titles>
+      <title>129 It Was Alone The Savior Prayed</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It was alone the Savior prayed<br/>In dark Gethsemane<br/>Alone He drained the bitter cup<br/>And suffered there for me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Alone - Alone<br/>He bore it all alone<br/>He gave Himself to save His own<br/>He suffered bled and died<br/>Alone - Alone</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It was alone the Savior stood<br/>In Pilate's judgment hall<br/>Alone the crown of thorns He wore<br/>Forsaken thus by all</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alone upon the cross He hung<br/>That others He might save<br/>Forsaken then by God and man<br/>Alone his life He gave</lines>
+    </verse>
+  </lyrics>
+</song>

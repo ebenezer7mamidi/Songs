@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:44">
+  <properties>
+    <titles>
+      <title>All glory be to Christ</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>(tune of Auld Lang Syne)<br/>Should nothing of our efforts stand<br/>No legacy survive<br/>Unless the Lord does raise the house<br/>In vain its builders strive<br/>To you who boast tomorrow's gain<br/>Tell me what is your life<br/>A mist that vanishes at dawn<br/>All glory be to Christ</lines>
+    </verse>
+    <verse name="c1">
+      <lines>All glory be to Christ our king<br/>All glory be to Christ<br/>His rule and reign we'll ever sing<br/>All glory be to Christ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>His will be done His kingdom come<br/>On earth as is above<br/>Who is Himself our daily bread<br/>Praise Him the Lord of love<br/>Let living water satisfy<br/>The thirsty without price<br/>We'll take a cup of kindness yet<br/>All glory be to Christ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When on the day the great I Am<br/>The faithful and the true<br/>The Lamb who was for sinners slain<br/>Is making all things new<br/>Behold our God shall live with us<br/>And be our steadfast light<br/>And we shall e'er his people be<br/>All glory be to Christ</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:50">
+  <properties>
+    <titles>
+      <title>Rise Up Oh Men Of God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rise up O men of God<br/>Have done with lesser things<br/>Give heart and soul<br/>And mind and strength<br/>To serve the King of kings</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rise up O men of God<br/>His kingdom tarries long<br/>Bring in the day of brotherhood<br/>And end the night of wrong</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rise up O men of God<br/>The church for you doth wait<br/>Her strength unequal to her task<br/>Rise up and make her great</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lift high the cross of Christ<br/>Tread where His feet have trod<br/>As brothers of the Son of Man<br/>Rise up O men of God</lines>
+    </verse>
+  </lyrics>
+</song>

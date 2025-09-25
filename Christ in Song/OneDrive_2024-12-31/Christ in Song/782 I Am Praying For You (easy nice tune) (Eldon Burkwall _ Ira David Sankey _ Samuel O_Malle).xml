@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>782 I Am Praying For You (easy nice tune)</title>
+    </titles>
+    <copyright>© Words: Public Domain &#13;
+Music: 1968 New Spring, Administered by Brentwood-Benson Music Publishing, Inc.</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>2923448</ccliNo>
+    <authors>
+      <author>Eldon Burkwall | Ira David Sankey | Samuel O'Malle</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have a Saviour<br/>He's pleading in glory<br/>A dear loving Saviour<br/>Though earth friends be few<br/>And now He is watching<br/>In tenderness o'er me<br/>But oh that my Saviour<br/>Were your Saviour too</lines>
+    </verse>
+    <verse name="c1">
+      <lines>For you I am praying<br/>For you I am praying<br/>For you I am praying<br/>I'm praying for you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I have a Father<br/>To me He has given<br/>A hope for eternity<br/>Blessed and true<br/>And soon will He call me<br/>To meet Him in heaven<br/>But oh that He'd let me<br/>Bring you with me too</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I have a peace<br/>It is calm as a river<br/>A peace that the friends<br/>Of this world never knew<br/>My Saviour alone is<br/>It's Author and Giver<br/>And oh could I know<br/>It was given to you</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When Jesus has found you<br/>Tell others the story<br/>That my loving Savior<br/>Is your Savior too<br/>Then pray that your Savior<br/>May bring them to glory<br/>And prayer will be answered<br/>'twas answered for you</lines>
+    </verse>
+  </lyrics>
+</song>

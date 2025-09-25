@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>280 He Lifted Me (nice &amp; easy)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In loving kindness Jesus came<br/>My soul in mercy to reclaim<br/>And from the depths of sin and shame<br/>Thru grace He lifted me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>From sinking sand He lifted me<br/>With tender hand He lifted me<br/>From shades of night to plains of light<br/>Oh praise His name He lifted me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He called me long before I heard<br/>Before my sinful heart was stirred<br/>But when I took Him at His word<br/>Forgiv'n He lifted me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>His brow was pierced with many a thorn<br/>His hands by cruel nails were torn<br/>When from my guilt and grief forlorn<br/>In love He lifted me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Now on a higher plane I dwell<br/>And with my soul I know 'tis well<br/>Yet how or why I cannot tell<br/>He should have lifted me</lines>
+    </verse>
+  </lyrics>
+</song>

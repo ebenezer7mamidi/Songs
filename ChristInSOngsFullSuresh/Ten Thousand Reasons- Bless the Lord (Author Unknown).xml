@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T14:23:18">
+  <properties>
+    <titles>
+      <title>Ten Thousand Reasons- Bless the Lord</title>
+    </titles>
+    <verseOrder>p1 v1 c1 v2 c1 v3 c1 e1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="p1">
+      <lines>D<br/><br/>Bless the Lord O my soul<br/>O my soul<br/>Worship His holy name<br/>Sing like never before<br/>O my soul<br/>I'll worship Your holy name</lines>
+    </verse>
+    <verse name="v1">
+      <lines>The sun comes up it's a new day dawning<br/>It's time to sing Your song again<br/>Whatever may pass and whatever lies before me<br/>Let me be singing when the evening comes</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Bless the Lord O my soul<br/>O my soul<br/>Worship His holy name<br/>Sing like never before<br/>O my soul<br/>I'll worship Your holy name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You're rich in love and You're slow to anger<br/>Your name is great and Your heart is kind<br/>For all Your goodness I will keep on singing<br/>Ten thousand reasons for my heart to find</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And on that day when my strength is failing<br/>The end draws near and my time has come<br/>Still my soul will sing Your praise unending<br/>Ten thousand years and then forevermore</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Bless the Lord O my soul<br/>O my soul<br/>Worship His holy name<br/>Sing like never before<br/>O my soul<br/>I'll worship Your holy name<br/>Worship Your holy name<br/>Lord I'll worship Your holy name</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:45">
+  <properties>
+    <titles>
+      <title>Create In Me A Clean Heart</title>
+    </titles>
+    <copyright>1982 Bases Loaded Music, Administered by BMG Music Publishing</copyright>
+    <ccliNo>96927</ccliNo>
+    <authors>
+      <author>Brown Bannister</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>E<br/>Create in me a clean heart<br/>O God<br/>And renew a right spirit within me<br/>Create in me a clean heart<br/>O God<br/>And renew a right spirit within me</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Cast me not away from Thy presence O Lord<br/>Take not Thy Holy Spirit from me<br/>Restore unto me the joy of Thy salvation<br/>And renew a right spirit within me</lines>
+    </verse>
+  </lyrics>
+</song>

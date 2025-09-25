@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:47">
+  <properties>
+    <titles>
+      <title>If I Have Found Favor in Your Eyes</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If I have found favor in your eyes<br/>Teach me your ways,<br/>teach me your ways<br/>That I may be pleasing in your sight<br/>Teach me your ways, teach me your ways</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And if you have called me by my name<br/>Teach me your ways., teach me your ways<br/>And O let your presence ever remain<br/>Teach me your ways, teach me your ways</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I want to know you Lord<br/>I want to see your glory and grace<br/>And may your presence<br/>Go with us<br/>All of our days<br/>O Lord, teach me your ways<br/>O Lord, teach me your ways</lines>
+    </verse>
+  </lyrics>
+</song>

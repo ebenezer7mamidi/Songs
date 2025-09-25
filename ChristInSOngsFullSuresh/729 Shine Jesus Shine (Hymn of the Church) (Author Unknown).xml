@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-04-09T14:41:53">
+  <properties>
+    <titles>
+      <title>729 Shine Jesus Shine (Hymn of the Church)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A<br/>Lord the light of Your love is shining<br/>In the midst of the darkness shining<br/>Jesus Light of the world shine upon us<br/>Set us free by the truth You now bring us<br/>Shine on me shine on me</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Shine Jesus shine<br/>Fill this land<br/>With the Father's glory<br/>Blaze Spirit blaze<br/>Set our hearts on fire</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Flow river flow<br/>Flood the nations<br/>With grace and mercy<br/>Send forth Your Word Lord<br/>And let there be light</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord I come to Your awesome presence<br/>From the shadows into Your radiance<br/>By the blood I may enter<br/>Your brightness<br/>Search me try me<br/>consume all my darkness<br/>Shine on me shine on me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As we gaze on Your kingly brightness<br/>So our faces display Your likeness<br/>Ever changing from glory to glory<br/>Mirrored here may our lives tell Your story<br/>Shine on me shine on me</lines>
+    </verse>
+  </lyrics>
+</song>

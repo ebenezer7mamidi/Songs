@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T03:47:38">
+  <properties>
+    <titles>
+      <title>He Is Lord</title>
+    </titles>
+    <comments>
+      <comment>verse 2 (optional)
+verse 2 (optional)
+verse 3 (optional)
+verse 4 (optional)
+
+[above are Song Tags with notes imported from EasyWorship]</comment>
+    </comments>
+    <copyright>2002 Fred Bock Music Company, Administered by Fred Bock Music Company, Inc.</copyright>
+    <ccliNo>4066028</ccliNo>
+    <authors>
+      <author>Lois Bock</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/><br/>He is Lord He is Lord<br/>He is risen from the dead<br/>And He is Lord<br/>Ev'ry knee shall bow<br/>Ev'ry tongue confess<br/>That Jesus Christ is Lord</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>King of Kings<br/>Lord of Lords<br/>you are rinsen from the dead<br/>and You are Lord<br/>Ev'ry knee shall bow<br/>Ev'ry tounge confess<br/>that Jesus Christ is Lord</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>He is Love He is Love<br/>He is Comforter and Friend<br/>And He is Love<br/>Ev'ry knee shall bow<br/>Ev'ry tongue confess<br/>That Jesus Christ is Love</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He is Grace He is Grace<br/>He has sacrificed His life<br/>And He is Grace<br/>Ev'ry knee shall bow<br/>Ev'ry tongue confess<br/>That Jesus Christ is Grace</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He is Hope He is Hope<br/>He has opened up His arms<br/>And He is Hope<br/>Ev'ry knee shall bow<br/>Ev'ry tongue confess<br/>That Jesus Christ is Hope</lines>
+    </verse>
+    <verse name="v5">
+      <lines>He is Peace He is Peace<br/>He's the calm amid the storm<br/>And He is Peace<br/>Ev'ry knee shall bow<br/>Ev'ry tongue confess<br/>That Jesus Christ is Peace</lines>
+    </verse>
+    <verse name="v6">
+      <lines>you are Lord<br/>you are Lord<br/>you are risen from the dead<br/>and you are Lord<br/>every knee shall bow<br/>every tongue confess<br/>that Jesus Christ is Lord</lines>
+    </verse>
+  </lyrics>
+</song>

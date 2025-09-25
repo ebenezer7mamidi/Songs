@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:48">
+  <properties>
+    <titles>
+      <title>Just A Closer Walk With Thee</title>
+    </titles>
+    <copyright>1964 Hope Publishing Company, Administered by Hope Publishing Company</copyright>
+    <ccliNo>3062425</ccliNo>
+    <authors>
+      <author>William J. Floyd</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Just a closer walk with Thee<br/>Grant it Jesus is my plea<br/>Daily walking close to Thee<br/>Let it be dear Lord let it be</lines>
+    </verse>
+    <verse name="v1">
+      <lines>I am weak but Thou art strong<br/>Jesus keep me from all wrong<br/>I'll be satisfied as long<br/>As I walk let me walk close to Thee</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thro' this world of toil and snares<br/>If I falter Lord who cares<br/>Who with me my burden shares<br/>None but Thee dear Lord none but Thee</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When my feeble life is o'er<br/>Time for me will be no more<br/>Guide me gently safely o'er<br/>To Thy kingdom shore to Thy shore</lines>
+    </verse>
+  </lyrics>
+</song>

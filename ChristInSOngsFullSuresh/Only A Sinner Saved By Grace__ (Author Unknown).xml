@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T13:23:37">
+  <properties>
+    <titles>
+      <title>Only A Sinner Saved By Grace**</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A<br/>Naught have I gotten<br/>but what I received<br/>Grace hath bestowed<br/>it since I have believed<br/>Boasting excluded<br/>pride I abase<br/>I'm only a sinner<br/>saved by grace</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Only a sinner<br/>saved by grace<br/>Only a sinner<br/>saved by grace<br/>This is my story<br/>to God be the glory<br/>I'm only a sinner<br/>saved by grace</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Once I was foolish<br/>and sin ruled my heart<br/>Causing my footsteps<br/>from God to depart<br/>Jesus hath found me<br/>happy my case<br/>I now am a sinner<br/>saved by grace</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tears unvailing<br/>no merit had I<br/>Mercy had saved me<br/>or else I must die<br/>sin had alarmed me<br/>fearing God's face<br/>But now I'm a sinner<br/>saved by grace</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Suffer a sinner<br/>whose heart overflows<br/>Loving his Savior<br/>to tell what he knows<br/>Once more to tell it<br/>would I embrace<br/>I'm only a sinner<br/>saved by grace</lines>
+    </verse>
+  </lyrics>
+</song>

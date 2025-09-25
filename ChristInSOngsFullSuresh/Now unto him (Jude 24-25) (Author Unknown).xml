@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:49">
+  <properties>
+    <titles>
+      <title>Now unto him (Jude 24-25)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Now unto Him<br/>Who is able to keep<br/>able to keep you from falling<br/>And present you faultless<br/>before the presence<br/>of His glory with exceeding joy</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>To the only wise God our Savior<br/>Be glory and majesty<br/>Dominion and power<br/>Both now and forever<br/>Amen</lines>
+    </verse>
+  </lyrics>
+</song>

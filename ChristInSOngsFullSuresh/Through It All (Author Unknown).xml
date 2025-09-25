@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T15:24:27">
+  <properties>
+    <titles>
+      <title>Through It All</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>E<br/><br/>Through it all through it all<br/>Oh I've learned to trust in Jesus<br/>I've learned to trust in God<br/>Through it all through it all<br/>I've learned to depend upon His word</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I've had many tears and sorrows<br/>I've had questions for tomorrow<br/>There've been times<br/>I didn't know right from wrong<br/>But in ev'ry situation<br/>God gave blessed consolation<br/>That my trials come<br/>To only make me strong</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I've been to lots of places<br/>And I've seen a lot of faces<br/>There've been times I felt so all alone<br/>But in my lonely hours yes<br/>Those precious lonely hours<br/>Jesus let me know that I was His own</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I thank God for the mountains<br/>And I thank Him for the valleys<br/>I thank Him for the storms He brought me through<br/>For if I'd never had a problem<br/>I wouldn't know that He could solve them<br/>I'd never know what faith in God could do</lines>
+    </verse>
+  </lyrics>
+</song>

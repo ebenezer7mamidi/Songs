@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:41">
+  <properties>
+    <titles>
+      <title>604 Sweet Will Of God (jumps around a bit nice)</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <ccliNo>92495</ccliNo>
+    <authors>
+      <author>Lelia Naylor Morris</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Sweet will of God still fold me closer<br/>Till I am wholly lost in Thee<br/>Sweet will of God still fold me closer<br/>Till I am wholly lost in Thee</lines>
+    </verse>
+    <verse name="v1">
+      <lines>My stubborn will at last hath yielded<br/>I would be Thine and Thine alone<br/>And this the prayer my lips are bringing<br/>Lord let in me Thy will be done</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm tired of sin footsore and weary<br/>The darksome path hath dreary grown<br/>But not a light has ris'n to cheer me<br/>I find in Thee my Star my Sun</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thy precious will O conquering Savior<br/>Doth now embrace and compass me<br/>All discords hushed my peace a river<br/>My soul a prisoned bird set free</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Shut in with Thee O Lord forever<br/>My wayward feet no more to roam<br/>What pow'r from Thee my soul can sever<br/>The center of God's will my home</lines>
+    </verse>
+  </lyrics>
+</song>

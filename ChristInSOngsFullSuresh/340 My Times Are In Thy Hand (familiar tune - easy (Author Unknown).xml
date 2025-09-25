@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>340 My Times Are In Thy Hand (familiar tune - easy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My times are in Thy hand<br/>My God I wish them there<br/>My life my friends<br/>My soul I leave<br/>Entirely to Thy care</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My times are in Thy hand<br/>Whatever they may be<br/>Pleasing or painful dark or bright<br/>As best may seem to Thee</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My times are in Thy hand<br/>Why should I doubt or fear<br/>My Father's hand will never cause<br/>His child a needless tear</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My times are in Thy hand<br/>Jesus the crucified<br/>Those hands my many sins had pierced<br/>Are now my guard and guide</lines>
+    </verse>
+    <verse name="v5">
+      <lines>My times are in Thy hand<br/>I'll always trust to Thee<br/>Till I possess<br/>The promised crown<br/>And all Thy glory see</lines>
+    </verse>
+  </lyrics>
+</song>

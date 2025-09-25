@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T16:27:56">
+  <properties>
+    <titles>
+      <title>I take, He undertakes</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>AB Simpson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/><br/>I clasp the hand of love divine,<br/>I claim the gracious promise mine,<br/>And this eternal countersign,<br/>"I take"-"He undertakes."</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I take Thee, blessèd Lord,<br/>I give myself to Thee;<br/>And Thou, according to Thy word,<br/>Dost undertake for me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I take salvation full and free,<br/>Thro' Him who gave His life for me,<br/>He undertakes my all to be,<br/>"I take"-"He undertakes."</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I take Him as my holiness,<br/>My spirit's spotless, heavenly dress,<br/>I take the Lord, my righteousness,<br/>"I take"-"He undertakes."</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I take the promised Holy Ghost,<br/>I take the power of Pentecost,<br/>To fill me to the uttermost,<br/>"I take"-"He undertakes."</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I take Him for this mortal frame,<br/>I take my healing thro' His name,<br/>And all His risen life I claim,<br/>"I take"-"He undertakes."</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I simply take Him at His word,<br/>I praise Him that my prayer is heard,<br/>And claim my answer from the Lord,<br/>"I take"-"He undertakes."</lines>
+    </verse>
+  </lyrics>
+</song>

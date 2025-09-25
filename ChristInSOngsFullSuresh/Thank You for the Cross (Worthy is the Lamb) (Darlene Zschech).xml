@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-06T00:16:56">
+  <properties>
+    <titles>
+      <title>Thank You for the Cross (Worthy is the Lamb)</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v1 v2 c1 e1</verseOrder>
+    <authors>
+      <author>Darlene Zschech</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>G<br/><br/>Thank You for the cross Lord<br/>Thank You for the price You paid<br/>Bearing all my sin and shame<br/>In love You came<br/>And gave amazing grace</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thank you for this love Lord<br/>Thank you for your nail pierced hands<br/>You washed me in Your cleansing flow<br/>Now all I know is Your forgiveness and embrace</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Worthy is the Lamb<br/>Seated on the throne<br/>We crown You now with many crowns<br/>You reign victorious</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>High and lifted up<br/>Jesus Son of God<br/>The treasure of heaven crucified<br/>Worthy is the Lamb<br/>Worthy is the Lamb</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Worthy is the Lamb<br/>Worthy is the Lamb<br/>Worthy is the Lamb</lines>
+    </verse>
+  </lyrics>
+</song>

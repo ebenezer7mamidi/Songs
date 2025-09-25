@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:37">
+  <properties>
+    <titles>
+      <title>120 O Head Once Full Of Bruises</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Head once full of buises<br/>so full of pain and scorn<br/>mid other sore abuses<br/>mocked with a crown of thorn<br/>o Head e'en now surrounded<br/>with brightest majesty<br/>in dead once bowed and wounded<br/>on the acursed tree</lines>
+    </verse>
+    <verse name="v2">
+      <lines>thou Countenance transcendent<br/>thou life-creating Sun<br/>to worlds on Thee dependant<br/>yet bruised and spit upon<br/>o lord what Thee tormented<br/>was our sin's heavy load<br/>we had the debt augumented<br/>which thou didst pay in blood</lines>
+    </verse>
+    <verse name="v3">
+      <lines>we give Thee thanks unfeigned<br/>o savior Friend in need<br/>when thou for us didst bleed<br/>grant us to lean unshaken<br/>upon Thy faithfulness<br/>until to glory taken<br/>we see Thee face to face</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:41">
+  <properties>
+    <titles>
+      <title>575 Lord Thy Word Abideth (easy nice)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord Thy Word abideth<br/>And our footsteps guideth<br/>Who its truth believeth<br/>Light and joy receiveth</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When our foes are near us<br/>Then Thy Word doth cheer us<br/>Word of consolation<br/>Message of salvation</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When the storms are o'er us<br/>And dark clouds before us<br/>Then its light directeth<br/>And our way protecteth</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Who can tell the pleasure<br/>Who recount the treasure<br/>By Thy Word imparted<br/>To the simple-hearted</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Word of mercy giving<br/>Succour to the living<br/>Word of life supplying<br/>Comfort to the dying</lines>
+    </verse>
+    <verse name="v6">
+      <lines>O that we discerning<br/>Its most holy learning<br/>Lord may love and fear Thee<br/>Evermore be near Thee</lines>
+    </verse>
+  </lyrics>
+</song>

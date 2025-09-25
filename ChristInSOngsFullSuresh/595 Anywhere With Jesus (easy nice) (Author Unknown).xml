@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:41">
+  <properties>
+    <titles>
+      <title>595 Anywhere With Jesus (easy nice)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Anywhere with Jesus<br/>I can safely go<br/>Anywhere He leads me<br/>In this world below<br/>Anywhere without Him<br/>Dearest joys would fade<br/>Anywhere with Jesus<br/>I am not afraid</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Anywhere - Anywhere<br/>Fear I cannot know<br/>Anywhere with Jesus<br/>I can safely go</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Anywhere with Jesus<br/>I am not alone<br/>Other friends may fail me<br/>He is still my own<br/>Though His hand may lead me<br/>Over dreary ways<br/>Anwhere with Jesus<br/>Is a house of praise</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Anywhere with Jesus<br/>I can go to sleep<br/>When the darkling shadows<br/>Round about me creep<br/>Knowing I shall waken<br/>Never more to roam<br/>Anywhere with Jesus<br/>Will be home sweet home</lines>
+    </verse>
+  </lyrics>
+</song>

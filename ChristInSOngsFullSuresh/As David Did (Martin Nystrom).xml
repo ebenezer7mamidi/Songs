@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:44">
+  <properties>
+    <titles>
+      <title>As David Did</title>
+    </titles>
+    <copyright>1984 Integrity's Hosanna! Music, Administered by Integrity Music, Inc.</copyright>
+    <ccliNo>17236</ccliNo>
+    <authors>
+      <author>Martin Nystrom</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As David did in Jehovah's sight<br/>I will dance with all my might<br/>Before the King of kings<br/>As Miriam did with the tambourine<br/>I will clap my hands and sing<br/>Before the King of kings</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We can come before Him<br/>And worship Him today<br/>We can now adore Him<br/>Jesus made a way</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As Judah did on the battle ground<br/>We will make a joyful sound<br/>Before the King of kings<br/>As Joshua did at Jericho<br/>We will shout to defeat the foe<br/>Before the King of kings</lines>
+    </verse>
+  </lyrics>
+</song>

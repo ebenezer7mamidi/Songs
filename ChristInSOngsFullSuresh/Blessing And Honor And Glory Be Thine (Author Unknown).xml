@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:22:58">
+  <properties>
+    <titles>
+      <title>Blessing And Honor And Glory Be Thine</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>C<br/>Blessing and honor and glory be Thine<br/>And glory be Thine<br/>And glory be Thine<br/>Blessing and honor and glory be Thine<br/>Both now and evermore</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Praise Him! Praise Him!<br/>Let all the saints adore Him<br/>Praise Him! Praise Him!<br/>Both now and evermore, Hallelujah!</lines>
+    </verse>
+  </lyrics>
+</song>

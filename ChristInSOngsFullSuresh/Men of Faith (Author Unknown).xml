@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-20T01:25:22">
+  <properties>
+    <titles>
+      <title>Men of Faith</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 b1 c1 e1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>E<br/><br/>Men of faith rise up and sing<br/>Of the great and glorious King<br/>You are strong when you feel weak<br/>In your brokenness complete</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Shout to the north and the south<br/>Sing to the east and the west<br/>Jesus is Savior to all<br/>Lord of heaven and earth</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rise up women of the truth<br/>Stand and sing to broken hearts<br/>Who can know the healing pow'r<br/>Of our awesome King of love</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rise up church with broken wings<br/>Fill this place with songs again<br/>Of our God who reigns on high<br/>By His grace again we'll fly</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>We've been through fire<br/>We've been through rain<br/>We've been refined<br/>By the pow'r of His name</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>We've fallen deeper<br/>In love with You<br/>You've burned<br/>The truth on our lips</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Yes You're Lord of heaven and earth<br/>Yes You're Lord of heaven and earth!</lines>
+    </verse>
+  </lyrics>
+</song>

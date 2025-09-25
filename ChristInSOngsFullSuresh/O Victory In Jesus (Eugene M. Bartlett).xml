@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-21T23:44:36">
+  <properties>
+    <titles>
+      <title>O Victory In Jesus</title>
+    </titles>
+    <copyright>1939 Mrs. E.M. Bartlett. Renewed 1967. Assigned Albert E. Brumley And Sons, Administered by Integrated Copyright Group, Inc.</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>1259</ccliNo>
+    <authors>
+      <author>Eugene M. Bartlett</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>O, victory in Jesus,<br/>My Savior forever,<br/>He sought me and bought me<br/>With His redeeming blood.<br/>He loved me ere I knew Him<br/>And all my love is due Him.<br/>He plunged me to victory<br/>Beneath the cleansing flood.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>I heard an old, old story<br/>How a Savior came from glory,<br/>How He gave His life on Calvary<br/>To save a wretch like me.<br/>I heard about His groaning,<br/>Of His precious blood's atoning,<br/>Then I repented of my sins<br/>And won the victory.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I heard about His healing,<br/>Of His cleansing pow'r revealing,<br/>How He made the lame to walk again<br/>And caused the blind to see.<br/>And then I cried dear Jesus,<br/>Come and heal my broken spirit,<br/>And somehow Jesus came and brought<br/>To me the victory.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I heard about a mansion<br/>He has built for me in glory,<br/>And I heard about the streets of gold<br/>Beyond the crystal sea,<br/>About the angels singing<br/>And the old redemption story<br/>And some sweet day I'll sing up there<br/>The song of victory.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:41">
+  <properties>
+    <titles>
+      <title>509 Am I A Soldier Of The Cross (easy nice)</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <ccliNo>115145</ccliNo>
+    <authors>
+      <author>Isaac Watts | Thomas Augustine Arne</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Am I a soldier of the cross<br/>A follow'r of the Lamb<br/>And shall I fear to own His cause<br/>Or blush to speak His name</lines>
+    </verse>
+    <verse name="c1">
+      <lines>In the name<br/>(In the name)<br/>The precious name<br/>(The precious name)<br/>Of Him who died for Me<br/>Through grace I'll win<br/>The promised crown<br/>Whate'er my cross may be</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Must I be carried to the skies<br/>On flow'ry beds of ease<br/>While others fought to win the prize<br/>And sailed thro' bloody seas</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Are there no foes for me to face<br/>Must I not stem the flood<br/>Is this vile world a friend to grace<br/>To help me on to God</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Since I must fight if I would reign<br/>Increase my courage Lord<br/>I'll bear the toil endure the pain<br/>Supported by Thy word</lines>
+    </verse>
+  </lyrics>
+</song>

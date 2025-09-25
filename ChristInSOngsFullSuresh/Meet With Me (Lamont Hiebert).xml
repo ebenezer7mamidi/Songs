@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:49">
+  <properties>
+    <titles>
+      <title>Meet With Me</title>
+    </titles>
+    <copyright>1999 Maranatha! Music, Administered by Maranatha! Music</copyright>
+    <ccliNo>2753553</ccliNo>
+    <authors>
+      <author>Lamont Hiebert</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>I'm here to meet with You<br/>Come and meet with me<br/>I'm here to find You<br/>Reveal Yourself to me</lines>
+    </verse>
+    <verse name="v1">
+      <lines>As I wait<br/>You make me strong<br/>As I long<br/>You draw me to Your arms<br/>As I stand<br/>And sing Your praise<br/>You come You come<br/>And You fill this place<br/>Won't You come<br/>Won't You come<br/>And fill this place</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Won't You come<br/>Won't You come<br/>And fill this place<br/>Lord come<br/>Lord come<br/>And fill this place</lines>
+    </verse>
+  </lyrics>
+</song>

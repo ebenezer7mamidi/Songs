@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T01:54:44">
+  <properties>
+    <titles>
+      <title>Amazing Love O what sacrifice</title>
+    </titles>
+    <copyright>1989 Make Way Music, Administered by Music Services</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>192553</ccliNo>
+    <authors>
+      <author>Graham Kendrick</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/>My Lord what love is this<br/>That pays so dearly<br/>That I the guilty one<br/>May go free</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Amazing love<br/>O what sacrifice<br/>The Son of God given for me<br/>My debt He pays<br/>And my death He dies<br/>That I might live<br/>That I might live</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And so they watched Him die<br/>Despised rejected<br/>But oh the blood He shed<br/>Flowed for me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And now this love of Christ<br/>Shall flow like rivers<br/>Come wash your guilt away<br/>Live again</lines>
+    </verse>
+  </lyrics>
+</song>

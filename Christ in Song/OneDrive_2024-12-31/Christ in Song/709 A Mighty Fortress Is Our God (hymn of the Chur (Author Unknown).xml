@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:42">
+  <properties>
+    <titles>
+      <title>709 A Mighty Fortress Is Our God (hymn of the Chur</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/>Verse 1<br/>A mighty fortress is our God<br/>A Bulwark never failing<br/>Our Helper He amid the flood<br/>Of mortal ills prevailing<br/>For still our ancient foe<br/>Doth seek to work us woe<br/>His craft and pow'r are great<br/>And armed with cruel hate<br/>On earth is not his equal</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Did we in our own strength confide<br/>Our striving would be losing<br/>Were not the right Man on our side<br/>The Man of God's own choosing<br/>Dost ask who that may be<br/>Christ Jesus it is He<br/>Lord Sabaoth His name<br/>From age to age the same<br/>And He must win the battle</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And though this world with devils filled<br/>Should threaten to undo us<br/>We will not fear for God hath willed<br/>His truth to triumph through us<br/>The Prince of Darkness grim<br/>We tremble not for him<br/>His rage we can endure<br/>For lo his doom is sure<br/>One little word shall fell him</lines>
+    </verse>
+    <verse name="v4">
+      <lines>That word above all earthly pow'rs<br/>No thanks to them abideth<br/>The Spirit and the gifts are ours<br/>Through Him who with us sideth<br/>Let goods and kindred go<br/>This mortal life also<br/>The body they may kill<br/>God's truth abideth still<br/>His kingdom is forever</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>308 Savior Lead Me Lest I Stray</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <ccliNo>2526199</ccliNo>
+    <authors>
+      <author>Frank M. Davis</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Saviour lead me lest I stray<br/>(lest I stray)<br/>Gently lead me all the way<br/>(all the way)<br/>I am safe when by Thy side<br/>(by Thy side)<br/>I would in Thy love abide</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lead me - lead me<br/>Saviour lead me lest I stray<br/>Gently down<br/>The stream of time<br/>Lead me Saviour<br/>All the way</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thou the refuge of my soul<br/>(of my soul)<br/>When life's<br/>Stormy billows roll<br/>(billows roll)<br/>I am safe when Thou art nigh<br/>(Thou art nigh)<br/>On Thy mercy I rely</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Saviour lead me till at last<br/>(till at last)<br/>When the storm of life is past<br/>(life is past)<br/>I shall reach the land of day<br/>(land of day)<br/>Where all tears<br/>Are wiped away</lines>
+    </verse>
+  </lyrics>
+</song>

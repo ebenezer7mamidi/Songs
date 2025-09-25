@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:41">
+  <properties>
+    <titles>
+      <title>520 The Single Grain Of Corn (little work)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How can that single grain of corn<br/>So desolate and so forlorn<br/>Lie buried down beneath the ground<br/>Where not a sight and not a sound<br/>Can even for one moment brief<br/>Bring it a vestige of relief</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And not a single ray of light<br/>Is shed upon its sorry plight<br/>The darkness is so very dense<br/>The lonliness is so intense<br/>And there's no other to explain<br/>Its strange estate to that lone grain</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Concealed in such a somber spot<br/>Can it consent to lie and rot<br/>Can it submit to slow decay<br/>Can it let life ebb all away<br/>Can it lie still and simply wait<br/>Till it shall quite disintegrate</lines>
+    </verse>
+    <verse name="v4">
+      <lines>It can! Hid in its heart there lies<br/>A life that utterly defies<br/>The grave and low beneath the soil<br/>Can wrest from death the richest spoil<br/>Do you behold those many grains<br/>They're fruit of one seed's grievous pains</lines>
+    </verse>
+  </lyrics>
+</song>

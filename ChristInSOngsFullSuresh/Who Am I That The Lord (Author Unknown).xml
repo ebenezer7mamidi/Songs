@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-02-05T16:03:51">
+  <properties>
+    <titles>
+      <title>Who Am I That The Lord</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>G<br/><br/>Who am I that the Lord of all the earth<br/>Would care to know my name<br/>Would care to feel my hurt<br/>Who am I that the Bright and Morning Star<br/>Would choose to light the way<br/>For my ever wand'ring heart</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Not because of who I am<br/>But because of what You've done<br/>Not because of what I've done<br/>But because of who You are</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>I am a flower quickly fading<br/>Here today and gone tomorrow<br/>A wave tossed in the ocean<br/>A vapor in the wind</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Still You hear me when I'm calling<br/>Lord You catch me when I'm falling<br/>And You've told me who I am<br/>I am Yours (I am Yours)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Who am I that the eyes that see my sin<br/>Would look on me with love and watch me rise again<br/>Who am I that the voice that calmed the sea<br/>Would call out through the rain<br/>And calm the storm in me</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>401 No, Not One (nice easy fit)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 v3 c1 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's not a Friend<br/>Like the lowly Jesus<br/>No not one<br/>No not one<br/>None else could heal<br/>All our souls diseases<br/>No not one<br/>No not one</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus knows<br/>All about our struggles<br/>He will guide till the<br/>Day is done<br/>There's not a Friend like<br/>The lowly Jesus<br/>No not one<br/>No not one</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No friend like Him<br/>Is so high and holy<br/>No not one<br/>No not one<br/>And yet no friend<br/>Is so meek and lowly<br/>No not one<br/>No not one</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There's not an hour<br/>That He is not near us<br/>No not one<br/>No not one<br/>No night so dark<br/>But His love can cheer us<br/>No not one<br/>No not one</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Did ever saint find<br/>This Friend forsake him<br/>No not one<br/>No not one<br/>Or sinner find that<br/>He would not take him<br/>No not one<br/>No not one</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Was e'er a gift like<br/>The Savior given<br/>No not one<br/>No not one<br/>Will He refuse us<br/>A home in heaven<br/>No not one<br/>No not one</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:41">
+  <properties>
+    <titles>
+      <title>600 My Jesus I Love Thee (familiar easy song of th</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>E<br/>Verse 1<br/>My Jesus, I love Thee<br/>I know Thou art mine<br/>For Thee, all the follies Of sin I resign<br/>My gracious Redeemer, My Savior art Thou<br/>If ever I loved Thee, My Jesus, 'tis now</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I love Thee because<br/>Thou hast first loved me<br/>And purchased my pardon On Calvary's tree<br/>I love Thee for wearing<br/>The thorns on Thy brow<br/>If ever I loved Thee, My Jesus, 'tis now</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'll love Thee in life,<br/>I will love Thee in death<br/>And praise Thee as long as Thou lendest me breath<br/>And say when the death-dew Lies cold on my brow<br/>If ever I loved Thee, My Jesus, 'tis now</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In mansions of glory And endless delight<br/>I'll ever adore Thee<br/>In heaven so bright<br/>I'll sing with the glittering Crown on my brow<br/>If ever I loved Thee, My Jesus, 'tis now</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:49">
+  <properties>
+    <titles>
+      <title>Oh For A Faith That Will Not Sink (familiar tune e</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O for a faith that will not shrink<br/>Tho' pressed by every foe<br/>That will not tremble<br/>On the brink<br/>Of any earthly woe</lines>
+    </verse>
+    <verse name="v2">
+      <lines>That will not murmur<br/>Or complain<br/>Beneath the chastening rod<br/>But in the hour<br/>Of grief or pain<br/>Will lean upon its God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A Faith that shines<br/>More bright and clear<br/>When tempests<br/>Rage without<br/>That when in danger<br/>Knows no fear<br/>In darkness feels<br/>No doubt</lines>
+    </verse>
+    <verse name="v4">
+      <lines>That bears unmoved<br/>The world's dread frown<br/>Nor heeds<br/>Its scornful smile<br/>That seas of trouble<br/>Cannot drown<br/>Nor Satan's arts beguile</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lord give us such<br/>A faith as this<br/>And then whate'er<br/>May come<br/>We'll taste e'en here<br/>The hallowed bliss<br/>Of an eternal home</lines>
+    </verse>
+  </lyrics>
+</song>

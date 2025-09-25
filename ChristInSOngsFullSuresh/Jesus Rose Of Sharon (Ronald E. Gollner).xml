@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:48">
+  <properties>
+    <titles>
+      <title>Jesus Rose Of Sharon</title>
+    </titles>
+    <copyright>© 1989 MCA Music Publ., A.D.O. Universal Studio, Administered by Universal Music Corp.</copyright>
+    <ccliNo>351260</ccliNo>
+    <authors>
+      <author>Ronald E. Gollner</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Jesus sweet Rose of Sharon<br/>How dear You are to me<br/>There is no other<br/>No other but Thee</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>I lift my hands to You<br/>With joy I now proclaim<br/>Jesus sweet Rose of Sharon<br/>I love that blessed name</lines>
+    </verse>
+  </lyrics>
+</song>

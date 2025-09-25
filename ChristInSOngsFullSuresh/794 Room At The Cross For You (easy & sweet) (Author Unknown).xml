@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>794 Room At The Cross For You (easy &amp; sweet)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The cross upon which Jesus died<br/>Is a shelter in which we can hide<br/>And its grace so free is sufficient for me<br/>And deep is its fountain as wide as the sea</lines>
+    </verse>
+    <verse name="c1">
+      <lines>There's room at the cross for you<br/>There's room at the cross for you<br/>Though millions have come<br/>There's still room for one<br/>Yes there's room at the cross for you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Though millions have found Him a friend<br/>And have turned from the sins they have sinned<br/>The Savior still waits to open the gates<br/>And welcome a sinner before it's too late</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The hand of my Savior is strong<br/>And the love of my Savior is long<br/>Through sunshine or rain through loss or in gain<br/>The blood flows from Calvary to cleanse every stain</lines>
+    </verse>
+  </lyrics>
+</song>

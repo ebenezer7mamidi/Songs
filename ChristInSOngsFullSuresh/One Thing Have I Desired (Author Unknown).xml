@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:50">
+  <properties>
+    <titles>
+      <title>One Thing Have I Desired</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>One thing have I<br/>desired of the Lord,<br/>That will I seek after,<br/>That I may dwell<br/>in the house of the Lord,<br/>All the days of my life.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>To behold the beauty, of the Lord,<br/>To inquire in His temple. (repeat)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For in the time of trouble<br/>He shall hide me in his pavilion<br/>In the secret of His tabernacle<br/>shall He hide me.<br/>He shall set me up upon a rock.</lines>
+    </verse>
+  </lyrics>
+</song>

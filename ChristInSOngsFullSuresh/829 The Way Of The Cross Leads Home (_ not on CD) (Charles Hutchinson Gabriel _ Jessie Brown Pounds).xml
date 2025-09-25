@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>829 The Way Of The Cross Leads Home (? not on CD)</title>
+    </titles>
+    <copyright>© Words: Public Domain &#13;
+Music: Public Domain</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>36028</ccliNo>
+    <authors>
+      <author>Charles Hutchinson Gabriel | Jessie Brown Pounds</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I must needs go home<br/>By the way of the cross<br/>There's no other way but this<br/>I shall ne'er get sight<br/>Of the Gates of Light<br/>If the way of the cross I miss</lines>
+    </verse>
+    <verse name="c1">
+      <lines>The way of the cross leads home<br/>The way of the cross leads home<br/>It is sweet to know as I onward go<br/>The way of the cross leads home</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I must needs go on<br/>In the blood sprinkled way<br/>The path that the Saviour trod<br/>If I ever climb<br/>To the heights sublime<br/>Where the soul<br/>Is at home with God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Then I bid farewell<br/>To the way of the world<br/>To walk in it never more<br/>For my Lord says "Come"<br/>And I seek my home<br/>Where He waits at the open door</lines>
+    </verse>
+  </lyrics>
+</song>

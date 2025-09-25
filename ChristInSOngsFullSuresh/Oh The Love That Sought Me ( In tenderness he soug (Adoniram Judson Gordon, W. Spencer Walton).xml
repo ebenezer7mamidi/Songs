@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-21T23:59:03">
+  <properties>
+    <titles>
+      <title>Oh The Love That Sought Me ( In tenderness he soug</title>
+    </titles>
+    <copyright>Public Domain, Administered by CCLI Administration Account</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <ccliNo>228238</ccliNo>
+    <authors>
+      <author>Adoniram Judson Gordon</author>
+      <author>W. Spencer Walton</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>E<br/><br/>In tenderness He sought me<br/>Weary and sick with sin<br/>And on His shoulders brought me<br/>Back to His fold again<br/>While angels in His presence sang<br/>Until the courts of heaven rang</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh the love that sought me<br/>Oh the blood that bought me<br/>Oh the grace that brought me to the fold<br/>Wondrous grace that brought me to the fold</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He found me bruised and dying<br/>And poured in oil and wine<br/>He whispered to assure me<br/>I've found thee thou art Mine<br/>I never heard a sweeter voice<br/>It made my aching heart rejoice</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He pointed to the nailprints<br/>For me His blood was shed<br/>A mocking crown so thorny<br/>Was placed upon His head<br/>I wondered what He saw in me<br/>To suffer such deep agony</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I'm sitting in His presence<br/>The sunshine of His face<br/>While with adoring wonder<br/>His blessing I retrace<br/>It seems as if eternal days<br/>Are far too short to sound His praise</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So while the hours are passing<br/>All now is perfect rest<br/>I'm waiting for the morning<br/>The brightest and the best<br/>When He will call us to His side<br/>To be with Him His spotless bride</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:41">
+  <properties>
+    <titles>
+      <title>586 I Do Not Ask O Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I do not ask<br/>O Lord that life may be<br/>A pleasant road<br/>I do not ask<br/>That thou wouldst take from me<br/>Aught of its load</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I do not ask<br/>That flowers should always spring<br/>Beneath my feet<br/>I know too well<br/>The poison and the sting<br/>Of things too sweet</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For one thing only<br/>Lord dear Lord I plead<br/>Lead me aright<br/>Though strength should falter<br/>And though heart should bleed<br/>Through peace to light</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I do not ask O Lord<br/>That Thou shouldst shed<br/>Full radiance here<br/>Give but a ray of peace<br/>That I may tread<br/>Without a fear</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I do not ask my<br/>Cross to understand<br/>My way to see<br/>Better in darkness<br/>Just to feel Thy hand<br/>And follow Thee</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Joy is like restless day<br/>But peace divine<br/>Like quiet night<br/>Lead me O Lord<br/>Till perfect day shall shine<br/>Through peace to light</lines>
+    </verse>
+  </lyrics>
+</song>

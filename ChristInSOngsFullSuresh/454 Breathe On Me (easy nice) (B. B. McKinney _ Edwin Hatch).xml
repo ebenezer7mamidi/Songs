@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>454 Breathe On Me (easy nice)</title>
+    </titles>
+    <copyright>© 1937. Renewed 1965 Broadman Press, Administered by Music Services, Inc.</copyright>
+    <ccliNo>53087</ccliNo>
+    <authors>
+      <author>B. B. McKinney | Edwin Hatch</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy Spirit breathe on me<br/>Until my heart is clean<br/>Let sunshine fill its inmost part<br/>With not a cloud between</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Breathe on me breathe on me<br/>Holy Spirit breathe on me<br/>Take Thou my heart cleanse ev'ry part<br/>Holy Spirit breathe on me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Holy Spirit breathe on me<br/>My stubborn will subdue<br/>Teach me in words of living flame<br/>What Christ would have me do</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Holy Spirit breathe on me<br/>Fill me with pow'r divine<br/>Kindle a flame of love and zeal<br/>Within this heart of mine</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Holy Spirit breathe on me<br/>Till I am all Thine own<br/>Until my will is lost in Thine<br/>To live for Thee alone</lines>
+    </verse>
+  </lyrics>
+</song>

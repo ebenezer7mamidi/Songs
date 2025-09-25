@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T03:38:54">
+  <properties>
+    <titles>
+      <title>Hark! Ten Thousand Voices Crying</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>John Darby</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>G<br/><br/>Hark! ten thousand voices crying,<br/>"Lamb of God!" with one accord;<br/>Thousand thousand saints replying,<br/>Wake at once the echoing chord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>"Praise the Lamb," the chorus waking,<br/>All in heaven together throng;<br/>Loud and far each tongue partaking<br/>Rolls around the endless song.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Grateful incense this, ascending<br/>Ever to the Father's throne:<br/>Every knee to Jesus bending,<br/>All in mind in heaven is one.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>All the Father's counsels claiming<br/>Equal honors to the Son,<br/>All the Son's effulgence beaming,<br/>Makes the Father's glory known.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>By the Spirit all pervading,<br/>Hosts unnumbered round the Lamb,<br/>Crowned with light and joy unfading,<br/>Hail Him as the great "I AM."</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Joyful now the new creation<br/>Rests in undisturbed repose,<br/>Blest in Jesus' full salvation,<br/>Sorrow now nor thralldom knows.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Hark! the heavenly notes again!<br/>Loudly swells the song of praise;<br/>Through creation's vault, Amen!<br/>Amen! responsive joy doth raise.</lines>
+    </verse>
+  </lyrics>
+</song>

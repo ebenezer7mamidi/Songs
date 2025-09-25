@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:53">
+  <properties>
+    <titles>
+      <title>You said</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You said, "Ask and you will recieve<br/>Whatever you need"<br/>You said, "Pray and I'll hear from heaven<br/>and I'll hear your land"</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You said Your glory will fill the earth<br/>Like water the sea<br/>You said, "Lift up your eyes<br/>the harvest is here, the kingdom is near"</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You said, "Ask and I'll give the nations to you<br/>Oh Lord, that's the cry of my heart<br/>Distant shores and the islands will see<br/>Your light as it rises on us</lines>
+    </verse>
+  </lyrics>
+</song>

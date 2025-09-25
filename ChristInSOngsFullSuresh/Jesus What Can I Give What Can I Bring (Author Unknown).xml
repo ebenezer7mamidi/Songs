@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-20T00:21:09">
+  <properties>
+    <titles>
+      <title>Jesus What Can I Give What Can I Bring</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will offer up my life<br/>In spirit and truth<br/>Pouring out the oil of love,<br/>as my worship to You<br/>in surrender I must give<br/>my every part<br/>lord, receive the sacrifice<br/>of a broken heart</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus, what can I give, what can I bring<br/>to so faithful a Friend,<br/>to so loving a King?<br/>Savior, what can be said,<br/>what can be sung?<br/>as a praise of Your name,<br/>for the things You have done?<br/>oh my words could not tell, not even in part,<br/>of the debt of love that is owed by this thankful heart</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You deserve my every breath<br/>for You've paid the great cost<br/>Giving up your life to death, even death on a cross<br/>You took all my shame away,<br/>There defeated my sin<br/>Opened up the gates of heav'n,<br/>and have beckoned me in</lines>
+    </verse>
+  </lyrics>
+</song>

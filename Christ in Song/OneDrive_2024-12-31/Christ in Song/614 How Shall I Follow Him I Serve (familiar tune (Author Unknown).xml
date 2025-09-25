@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:41">
+  <properties>
+    <titles>
+      <title>614 How Shall I Follow Him I Serve (familiar tune</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How shall I follow Him I serve<br/>How shall I copy Him I love<br/>Nor from those blessed<br/>Footsteps swerve<br/>Which lead me to His seat above</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Privations sorrows bitter scorn<br/>The life of toil the mean abode<br/>The faithless kiss the crown of thorn<br/>Are these the consecrated road</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord should my path<br/>Through suff'ring lie<br/>Forbid it I should e'er repine<br/>Still let me turn to Calvary<br/>Nor heed my griefs<br/>Remembering Thine</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O let me think how Thou didst leave<br/>Untasted every pure delight<br/>To fast - to faint - to watch - to grieve<br/>The toilsome day - the homeless night</lines>
+    </verse>
+    <verse name="v5">
+      <lines>To faint - to grieve - to die for me<br/>Thou camest not Thyself to please<br/>And dear as earthly comforts be<br/>Shall I not love Thee more than these</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Yes I would count them all but loss<br/>To gain the notice of Thine eye<br/>Flesh shrinks and trembles at the cross<br/>But Thou canst give the victory</lines>
+    </verse>
+  </lyrics>
+</song>

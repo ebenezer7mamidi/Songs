@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-19T23:41:18">
+  <properties>
+    <titles>
+      <title>152 Hail Thou Once Despised Jesus (familiar tune -</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>F<br/>Hail Thou once despised Jesus<br/>Hail, thou Galilean King!<br/>Who didst suffer to release us;<br/>Who didst free salvation bring!<br/>Hail Thou universal Savior,<br/>Who hast bourne our sin and shame<br/>By whose merits we find favour<br/>Life is given through Thy name!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pascal Lamb, by God appointed<br/>All our sins were on Thee laid;<br/>By Almighty love anointed,<br/>Thou hast full atonment made.<br/>Every sin may be forgiven<br/>Through the virtue of Thy blood;<br/>Opened is the gate of heaven,<br/>Peace is made 'twixt man and God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, hail! enthroned in glory,<br/>There forever to abide;<br/>All the heavenly hosts adore Thee,<br/>Seated at Thy Father's side.<br/>There for sinners Thou art pleading:<br/>"Spare them yet another year!"<br/>Thou for saints are interceding<br/>Till in glory they appear</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Worship, honor, power, and blessing<br/>Christ is worthy to recieve<br/>Loudest praises, without ceasing,<br/>Meet it is for us to give.<br/>Help ye, bright angelic spirits,<br/>Bring your sweetest, noblest lays;<br/>Help to sing of Jesus' merits<br/>Help to chant Emmanuel's praise.</lines>
+    </verse>
+  </lyrics>
+</song>

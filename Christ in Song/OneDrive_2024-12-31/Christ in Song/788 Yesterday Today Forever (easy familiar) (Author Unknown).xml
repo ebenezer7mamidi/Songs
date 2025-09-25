@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>788 Yesterday Today Forever (easy familiar)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>O how sweet the glorious message<br/>Simple faith may claim<br/>Yesterday, today , forever<br/>Jesus is the same</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Still He loves to save the sinful<br/>Heal the sick and lame<br/>Cheer the mourner still the tempest<br/>Glory to His name</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Yesterday, today, forever<br/>Jesus is the same<br/>All may change but Jesus never<br/>Glory to His name<br/>Glory to His name<br/>Glory to His name<br/>All may change but Jesus never<br/>Glory to His name</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>He who was the friend of sinners<br/>Seeks thee lost one now<br/>Sinner come and at His footstool<br/>Penitently bow</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>He who said,<br/>"I'll not condemn thee Go and sin no more"<br/>Speaks to thee that word of pardon<br/>As in days of yore</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Oft on earth He healed the suff'rer<br/>By His mighty hand<br/>Still our sicknesses and sorrows<br/>Go at His command</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>He who gave His healing virtue<br/>To a woman's touch<br/>To the faith that claims His fullness<br/>Still will give as much</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>As of old He walked to Emmaus<br/>With them to abide<br/>So through all life's way He walketh<br/>Ever near our side</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Soon again we shall behold Him<br/>Hasten Lord the day<br/>But twill still be "this same Jesus"<br/>As He went away</lines>
+    </verse>
+  </lyrics>
+</song>

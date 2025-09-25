@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>787 Wonderful Words Of Life (easy sweet song)</title>
+    </titles>
+    <copyright>© Words: Public Domain &#13;
+Music: Public Domain</copyright>
+    <ccliNo>47392</ccliNo>
+    <authors>
+      <author>Philip Paul Bliss</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sing them over again to me<br/>Wonderful words of life<br/>Let me more of their beauty see<br/>Wonderful words of life<br/>Words of life and beauty<br/>Teach me faith and duty</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Beautiful words wonderful words<br/>Wonderful words of life<br/>Beautiful words wonderful words<br/>Wonderful words of life</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Christ the blessed One gives to all<br/>Wonderful words of life<br/>Sinner list to the loving call<br/>Wonderful words of life<br/>All so freely given<br/>Wooing us to Heaven</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sweetly echo the gospel call<br/>Wonderful words of life<br/>Offer pardon and peace to all<br/>Wonderful words of life<br/>Jesus only Savior<br/>Sanctify forever</lines>
+    </verse>
+  </lyrics>
+</song>

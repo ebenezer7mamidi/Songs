@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:45">
+  <properties>
+    <titles>
+      <title>Change My Heart Oh God</title>
+    </titles>
+    <copyright>1982 Mercy / Vineyard Publishing, Administered by Vineyard Music USA</copyright>
+    <ccliNo>1565</ccliNo>
+    <authors>
+      <author>Eddie Espinosa</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Change my heart oh God<br/>Make it ever true<br/>Change my heart oh God<br/>May I be like You</lines>
+    </verse>
+    <verse name="v1">
+      <lines>You are the potter<br/>I am the clay<br/>Mold me and make me<br/>This is what I pray</lines>
+    </verse>
+  </lyrics>
+</song>

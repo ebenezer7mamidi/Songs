@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T14:33:17">
+  <properties>
+    <titles>
+      <title>That I May Know Him</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C-D<br/>That I may know Him, wonderful Lord<br/> (repeat)<br/>To know the power of His great<br/> Resurrection<br/>And join in fellowship with that<br/> Of His sufferings<br/>And in that being made conformable<br/> To His death<br/>That I may know Him, wonderful Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>That I may know You, wonderful Lord<br/> (repeat)<br/>To know the power of Your great<br/> Resurrection<br/>And join in fellowship with that<br/> Of Your sufferings<br/>And in that being made conformable<br/> To Your death<br/>That I may know You, wonderful Lord</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>That we may know You, wonderful Lord<br/> (repeat)<br/>To know the power of Your great<br/> Resurrection<br/>And join in fellowship with that<br/> Of Your sufferings<br/>And in that being made conformable<br/> To Your death<br/>That we may know You, wonderful Lord</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Philippians 3:10</lines>
+    </verse>
+  </lyrics>
+</song>

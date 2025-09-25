@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:53">
+  <properties>
+    <titles>
+      <title>Worthy Worthy worthy is the Lamb</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Worthy Worthy is the Lamb<br/>Worthy Worthy is the Lamb<br/>That was slain</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus Jesus is the Lamb<br/>Jesus Jesus is the Lamb<br/>That was slain</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Glory Hallelujah<br/>Glory Hallelujah<br/>Glory Hallelujah<br/>To The Lamb</lines>
+    </verse>
+  </lyrics>
+</song>

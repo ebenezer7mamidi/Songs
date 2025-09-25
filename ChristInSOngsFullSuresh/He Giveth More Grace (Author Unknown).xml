@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:46">
+  <properties>
+    <titles>
+      <title>He Giveth More Grace</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He giveth more grace<br/>when the burdens grow greater<br/>He sendth more strength<br/>when the labors increase,<br/>To added affliction<br/>He addeth His mercy,<br/>To multiplied trials<br/>His multiplied peace</lines>
+    </verse>
+    <verse name="c1">
+      <lines>His love has no limit,<br/>His grace has no measure,<br/>His pow'r has no boundary<br/>known unto men;<br/>For out of His infinite riches in Jesus,<br/>He giveth and giveth and giveth again!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When we have exhausted<br/>our store of endurance,<br/>When our strength has failed<br/>ere the day is half done,<br/>When we reach the end<br/>of our hoarded resources,<br/>Our Father's full giving is only begun.</lines>
+    </verse>
+  </lyrics>
+</song>

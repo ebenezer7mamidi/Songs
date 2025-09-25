@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:41">
+  <properties>
+    <titles>
+      <title>585 Some Time We'll Understand (easy word fit diff</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Not now<br/>But in the coming years<br/>It may be in the better land<br/>We'll read<br/>The meaning of our tears<br/>And there - sometime<br/>We'll understand</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Then trust in God<br/>Through all thy days<br/>Fear not for He<br/>Doth hold thy hand<br/>Though dark thy way<br/>Still sing and praise<br/>Sometime - Sometime<br/>We'll understand</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We'll catch<br/>The broken thread again<br/>And finish<br/>What we here began<br/>Heav'n will the<br/>Mysteries explain<br/>And then - Ah then<br/>We'll understand</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We'll know<br/>Why clouds instead of sun<br/>Were over<br/>Many a cherished plan<br/>Why song has ceased<br/>When scarce begun<br/>'Tis there sometime<br/>We'll understand</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Why what<br/>We long for most of all<br/>Eludes so oft our eager hand<br/>Why hopes are crushed<br/>And castles fall<br/>Up there - sometime<br/>We'll understand</lines>
+    </verse>
+    <verse name="v5">
+      <lines>God knows the way<br/>He hold the key<br/>He guides us with<br/>Unerring hand<br/>Sometime with tearless<br/>Eyes we'll see<br/>Yes there - up there<br/>We'll understand</lines>
+    </verse>
+  </lyrics>
+</song>

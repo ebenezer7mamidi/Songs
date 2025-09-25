@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:52">
+  <properties>
+    <titles>
+      <title>Whoso Offereth Praise O Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Whoso offereth praise,<br/>O Lord, glorifieth Thee<br/>Whoso offereth praise,<br/>O Lord, glorifies Thee in Zion.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Praise waiteth for Thee, O Lord,<br/>Praise waiteth for Thee<br/>Praise waiteth for Thee, O Lord,<br/>Waiteth for Thee in Zion.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thou art worthy of praise, O Lord;<br/>Thou art worthy of praise.<br/>Thou art worthy of praise, O Lord;<br/>Worthy of praise in Zion.<br/>Psalms 50:23, 65:1</lines>
+    </verse>
+  </lyrics>
+</song>

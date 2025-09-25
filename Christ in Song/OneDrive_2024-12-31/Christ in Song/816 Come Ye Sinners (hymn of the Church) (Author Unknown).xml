@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>816 Come Ye Sinners (hymn of the Church)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>F<br/>verse 1<br/>Come ye sinners poor and needy<br/>Weak and wounded sick and sore<br/>Jesus ready waits to save you<br/>Full of pity love and pow'r<br/>He is able He is able<br/>He is willing doubt no more<br/>He is able He is able<br/>He is willing doubt no more</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now ye needy come and welcome<br/>God's free bounty glorify<br/>True belief and true repentance<br/>Every grace that brings us nigh<br/>Without money without money<br/>Come to Jesus Christ and buy<br/>Without money without money<br/>Come to Jesus Christ and buy</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let not conscience make you linger<br/>Nor of fitness fondly dream<br/>All the fitness He requireth<br/>Is to feel your need of Him<br/>This He gives you this He gives you<br/>'Tis the Spirit's rising beam<br/>This He gives you this He gives you<br/>'Tis the Spirit's rising beam</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Come ye weary heavy laden<br/>Bruised and ruined by the Fall<br/>If you tarry till you're better<br/>You will never come at all<br/>Not the righteous not the righteous<br/>Sinners Jesus came to call<br/>Not the righteous not the righteous<br/>Sinners Jesus came to call</lines>
+    </verse>
+    <verse name="v5">
+      <lines>View Him prostrate in the garden<br/>On the ground your Maker lies<br/>On the bloody tree behold Him<br/>Hear Him cry before He dies<br/>"It is finished!" "It is finished!"<br/>Sinner will not this suffice<br/>"It is finished!" "It is finished!"<br/>Sinner will not this suffice</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Lo th'incarnate God ascended<br/>Pleads the merit of His blood<br/>Venture on Him venture wholly<br/>Let no other trust intrude<br/>None but Jesus none but Jesus<br/>Can do helpless sinners good<br/>None but Jesus none but Jesus<br/>Can do helpless sinners good</lines>
+    </verse>
+  </lyrics>
+</song>

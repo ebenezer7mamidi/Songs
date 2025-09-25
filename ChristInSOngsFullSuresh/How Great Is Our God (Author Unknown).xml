@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:46">
+  <properties>
+    <titles>
+      <title>How Great Is Our God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/>How great is our God,<br/>how great is His name;<br/>How great is His love,<br/>forever the same.<br/>He rolled back the waters<br/>of the mighty Red Sea,<br/>and He said, "I"ll never leave you,<br/>put your trust in Me."</lines>
+    </verse>
+  </lyrics>
+</song>

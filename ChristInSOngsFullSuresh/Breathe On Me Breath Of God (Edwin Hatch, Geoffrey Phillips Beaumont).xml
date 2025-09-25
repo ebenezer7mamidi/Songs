@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:44">
+  <properties>
+    <titles>
+      <title>Breathe On Me Breath Of God</title>
+    </titles>
+    <copyright>1970 Josef Weinberger Ltd, Administered by Josef Weinberger Ltd</copyright>
+    <ccliNo>1036027</ccliNo>
+    <authors>
+      <author>Edwin Hatch</author>
+      <author>Geoffrey Phillips Beaumont</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Breathe on me breath of God<br/>Fill me with life anew<br/>That I may love the things You love<br/>And do what You would do</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Breathe on me breath of God<br/>Until my heart is pure<br/>Until with You I will one will<br/>To do and to endure</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Breathe on me breath of God<br/>Till I am one with You<br/>Your fire of love shall glow in me<br/>My earthbound soul renew</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Breathe on me breath of God<br/>So shall I never die<br/>But live with You the perfect life<br/>For all eternity</lines>
+    </verse>
+  </lyrics>
+</song>

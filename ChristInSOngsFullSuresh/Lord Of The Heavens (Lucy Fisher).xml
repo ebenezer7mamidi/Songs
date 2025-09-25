@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:49">
+  <properties>
+    <titles>
+      <title>Lord Of The Heavens</title>
+    </titles>
+    <copyright>1996 Hillsong Publishing, Administered by Integrity Music, Inc.</copyright>
+    <ccliNo>1959736</ccliNo>
+    <authors>
+      <author>Lucy Fisher</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Holy holy You are worthy<br/>Praises to the Son of God<br/>Jesus You alone are worthy<br/>Crowned in righteousness and peace<br/>Glory glory hallelujah<br/>Praises to the Great I Am<br/>Hosanna join with angels singing<br/>Worthy is the Lamb of God</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Lord of the heavens and the earth<br/>My Saviour Redeemer Risen Lord<br/>All honour and glory power and strength<br/>To Him upon the throne</lines>
+    </verse>
+  </lyrics>
+</song>

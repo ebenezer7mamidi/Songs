@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>430 What God Hath Promised (nice a little work)</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <ccliNo>99089</ccliNo>
+    <authors>
+      <author>Annie Flint | William Marion Runyan</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God hath not promised<br/>Skies always blue<br/>Flower strewn pathways<br/>All our lives through<br/>God hath not promised<br/>Sun without rain<br/>Joy without sorrow<br/>Peace without pain</lines>
+    </verse>
+    <verse name="c1">
+      <lines>But God hath promised<br/>Strength for the day<br/>Rest for the labor<br/>Light for the way<br/>Grace for the trials<br/>Help from above<br/>Unfailing sympathy<br/>Undying love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God hath not promised<br/>We shall not know<br/>Toil and temptation<br/>Trouble and woe<br/>He hath not told us<br/>We shall not bear<br/>Many a burden<br/>Many a care</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God hath not promised<br/>Smooth roads and wide<br/>Swift easy travel<br/>Needing no guide<br/>Never a mountain<br/>Rocky and steep<br/>Never a river<br/>Turbid and deep</lines>
+    </verse>
+  </lyrics>
+</song>

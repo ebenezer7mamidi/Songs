@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:45">
+  <properties>
+    <titles>
+      <title>Glory to God I'm Redeemed</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Glory to God I'm redeemed<br/>By the blood of the lamb<br/>Glory to God I'm redeemed<br/>And I'm so glad I am</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus has taken my sin<br/>And set me free<br/>Glory to God I'm redeemed<br/>For eternity<br/>Glory to God I'm redeemed<br/>For eternity</lines>
+    </verse>
+  </lyrics>
+</song>

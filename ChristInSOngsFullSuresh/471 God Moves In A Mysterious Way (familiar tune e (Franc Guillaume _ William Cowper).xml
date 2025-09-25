@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>471 God Moves In A Mysterious Way (familiar tune e</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <ccliNo>2084909</ccliNo>
+    <authors>
+      <author>Franc Guillaume | William Cowper</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God moves in a mysterious way<br/>His wonders to perform<br/>He plants His footsteps in the sea<br/>And rides upon the storm</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Deep in unfathomable mines<br/>Of never failing skill<br/>He treasures up His bright designs<br/>And works His sovereign will</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ye fearful saints fresh courage take<br/>The clouds ye so much dread<br/>Are big with mercy and shall break<br/>In blessings on your head</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Blind unbelief is sure to err<br/>And scan His work in vain<br/>God is His own interpreter<br/>And He will make it plain</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Judge not the Lord by feeble sense<br/>But trust Him for His grace<br/>Behind a frowning providence<br/>He hides a smiling face</lines>
+    </verse>
+    <verse name="v6">
+      <lines>His purposes will ripen fast<br/>Unfolding ev'ry hour<br/>The bud may have a bitter taste<br/>But sweet will be the flow'r<br/>Amen</lines>
+    </verse>
+  </lyrics>
+</song>

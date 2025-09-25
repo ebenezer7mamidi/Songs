@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:45">
+  <properties>
+    <titles>
+      <title>Depth of Mercy</title>
+    </titles>
+    <copyright>© 1997 Sovereign Grace Praise</copyright>
+    <authors>
+      <author>Bob Kauflin</author>
+      <author>Charles Wesley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Depth of mercy can there be<br/>Mercy reaching even me<br/>God the Just His wrath forbears<br/>Me the chief of sinners spares<br/>So many times my heart has strayed<br/>From His kind and perfect ways<br/>Making clear my desperate need<br/>For His blood poured out for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Give me grace Lord let me own<br/>All the wrongs that I have done<br/>Let me now my sins deplore<br/>Look to You and sin no more<br/>There for me the Savior stands<br/>Holding forth His wounded hands<br/>Scars which ever cry for me<br/>Once condemned but now set free</lines>
+    </verse>
+  </lyrics>
+</song>

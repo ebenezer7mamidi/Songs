@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:46">
+  <properties>
+    <titles>
+      <title>He is Jealous for me</title>
+    </titles>
+    <verseOrder>v1 p1 v1 p1 c1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>He is jealous for me<br/>Loves like a hurricane<br/>I am a tree bending beneath<br/>The weight of His wind and mercy</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>When all of a sudden<br/>I am unaware of<br/>These afflictions<br/>Eclipsed by glory<br/>I realize just how<br/>Beautiful You are<br/>And how great Your affections are for me</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Oh how He loves us so<br/>Oh how He loves us<br/>How He loves us so</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>When all of a sudden<br/>I am unaware of<br/>These afflictions<br/>Eclipsed by glory<br/>I realize just how beautiful You are<br/>And how great Your affections are for me</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>(Yeah) He loves us<br/>Oh how He loves us<br/>Oh how He loves us<br/>Oh how He loves</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>We are His portion<br/>And He is our prize<br/>Drawn to redemption<br/>By the grace in His eyes<br/>If grace is an ocean we're all sinking</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>So Heaven meets earth like an unforeseen kiss<br/>And my heart turns violently inside of my chest<br/>I don't have time to maintain these regrets<br/>When I think about the way that</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>(Yeah) He loves us<br/>Oh how He loves us<br/>Oh how He loves us<br/>Oh how He loves<br/>(Repeat)</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>470 Thy Holy Spirit Lord Alone (easy)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thy Holy Spirit Lord alone<br/>Can turn our hearts from sin<br/>His pow'r alone can sanctify<br/>And keep us pure within</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>O Spirit of Faith and Love<br/>Come in our midst we pray<br/>And purify each waiting heart<br/>Baptize us with pow'r today</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thy Holy Spirit Lord alone<br/>Can deeper love inspire<br/>His pow'r alone within our souls<br/>Can light the sacred fire</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thy Holy Spirit Lord can bring<br/>The gifts we seek in prayer<br/>His voice can words of comfort speak<br/>And still each wave of care</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Thy Holy Spirit Lord can give<br/>The grace we need this hour<br/>And while we wait O Spirit come<br/>In sanctifying pow'r</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>O Spirit of Love descend<br/>Come in our midst we pray<br/>And like a rushing mighty wind<br/>Sweep over our souls today</lines>
+    </verse>
+  </lyrics>
+</song>

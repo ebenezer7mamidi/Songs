@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>857 He Looked for A City (word to music tough matc</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He looked for a city and lived in a tent<br/>A pilgrim to glory right onward he went<br/>God's promise his solace so royal his birth<br/>No wonder he sought not the glories of earth</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Home! Home! Home sweet home<br/>A welcome from Jesus<br/>Awaits us at Home</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He looked for a city his God should prepare<br/>No mansion on earth could he covet or share<br/>For had not God told him that royal abode<br/>Awaited His pilgrims who kept to the road</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He looked for a city if sometimes he sighed<br/>To be trudging the road all earth's glory denied<br/>The thought of that city changed sighing to song<br/>For the road might be rough but it could not be long</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He looked for a city his hope Lord we share<br/>And know that bright city which Thou dost prepare<br/>We'll dwell in forever since willing to be<br/>Just pilgrims with Jesus our roof a tent tree</lines>
+    </verse>
+  </lyrics>
+</song>

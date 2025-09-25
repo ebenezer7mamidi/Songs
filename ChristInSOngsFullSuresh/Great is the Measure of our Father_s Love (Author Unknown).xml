@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T03:34:01">
+  <properties>
+    <titles>
+      <title>Great is the Measure of our Father's Love</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>D<br/><br/>Think about His love,<br/>Think about His mercy,<br/>Think about His grace,<br/>That's brought us through.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>For as high as the heavens above,<br/>So great is the measure<br/>Of our Father's love.<br/>Great is the measure<br/>Of our Father's love.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>How could I forget His love,<br/>How could I forget His mercy,<br/>He satisfies, He satisfies,<br/>He satisfies my desires,<br/>Great is the measure of our Father's love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Even when I've strayed away,<br/>His tender love has sought me out<br/>And found me,<br/>he found me,<br/>and carried me back home<br/>Great is the measure of our Father's love</lines>
+    </verse>
+  </lyrics>
+</song>

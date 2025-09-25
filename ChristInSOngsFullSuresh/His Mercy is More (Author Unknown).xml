@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-09-03T13:59:25">
+  <properties>
+    <titles>
+      <title>His Mercy is More</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 c1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>E<br/><br/>What love could remember<br/>no wrongs we have done<br/>Omniscient all-knowing<br/>He counts not their sum</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Thrown into a sea<br/>without bottom or shore<br/>Our sins they are many<br/>His mercy is more</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Praise the Lord<br/>His mercy is more<br/>Stronger than darkness<br/>new every morn<br/>Our sins they are many<br/>His mercy is more</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>What patience would wait<br/>as we constantly roam<br/>What Father so tender<br/>is calling us home</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>He welcomes the weakest<br/>the vilest the poor<br/>Our sins they are many<br/>His mercy is more</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>What riches of kindness<br/>He lavished on us<br/>His blood was the payment<br/>His life was the cost</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>We stood 'neath a debt<br/>we could never afford<br/>Our sins they are many<br/>His mercy is more</lines>
+    </verse>
+  </lyrics>
+</song>

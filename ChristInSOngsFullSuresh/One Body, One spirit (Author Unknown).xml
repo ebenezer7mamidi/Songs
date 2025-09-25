@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:50">
+  <properties>
+    <titles>
+      <title>One Body, One spirit</title>
+    </titles>
+    <comments>
+      <comment>bridge (optional)
+
+[above are Song Tags with notes imported from EasyWorship]</comment>
+    </comments>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>D<br/>One Body One Spirit<br/>One Faith One Lord<br/>One People One Nation<br/>Praise Ye the Lord</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Great is the Lord<br/>And greatly to be praised<br/>In the city of our God<br/>In the mountain of His holiness</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Beautiful for situation<br/>The joy of the whole earth<br/>Is mount Zion<br/>on the sides of the north<br/>The city of the great King</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Is mount Zion<br/>on the sides of the north<br/>The city of the great King</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>Let's go up to Zion<br/>Let's go up to Zion<br/>Let's go up to Zion<br/>the city of our God</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>There's oil and wine in Zion<br/>There's oil and wine in Zion<br/>There's oil and wine in Zion<br/>the city of our God</lines>
+    </verse>
+    <verse name="b1a">
+      <lines/>
+    </verse>
+    <verse name="b1b">
+      <lines>One Body One Spirit<br/>One Faith One Lord<br/>One People One Nation<br/>Praise Ye the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

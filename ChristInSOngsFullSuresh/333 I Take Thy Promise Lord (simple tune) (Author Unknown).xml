@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>333 I Take Thy Promise Lord (simple tune)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I take Thy promise<br/>Lord in all its length<br/>And breadth and fullness<br/>As my daily strength<br/>Into life's future<br/>Fearless I may gaze<br/>For Savior Thou<br/>Art with me all the day</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Days may be coming<br/>Fraught with<br/>Loss and change<br/>New scenes surround my<br/>Life and fancies strange<br/>I thank Thee that<br/>No day can ever break<br/>Savior when Thou<br/>Wilt leave me or forsake</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There may be days of<br/>Darkness and distress<br/>When sin has power to<br/>Tempt and care to press<br/>Yet in the darkest day<br/>I will not fear<br/>For mid the shadows<br/>Thou wilt still be near</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Days there may be of<br/>Joy and deep delight<br/>When earth seems fairest<br/>And her skies most bright<br/>Then draw me closer<br/>To Thee lest I rest<br/>Elsewhere my Savior<br/>Than upon Thy breast</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And all the other<br/>Days that make my life<br/>Marked by no special<br/>Joy or grief or strife<br/>Days filled with quiet<br/>Duties trivial care<br/>Burdens too small<br/>For other hearts to share</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Spend Thou these days<br/>With me - all shall be Thine<br/>So shall the darkest hour<br/>With glory shine<br/>Then when these earthly<br/>Years have passed away<br/>Let me be with Thee<br/>In the prefect day</lines>
+    </verse>
+  </lyrics>
+</song>

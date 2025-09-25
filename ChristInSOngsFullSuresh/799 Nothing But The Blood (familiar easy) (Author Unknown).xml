@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>799 Nothing But The Blood (familiar easy)</title>
+    </titles>
+    <comments>
+      <comment>ending (optional)
+
+[above are Song Tags with notes imported from EasyWorship]</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 e1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/>Verse 1<br/>What can wash away my sin<br/>Nothing but the blood of Jesus<br/>What can make me whole again<br/>Nothing but the blood of Jesus</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh precious is the flow<br/>That makes me white as snow<br/>No other fount I know<br/>Nothing but the blood of Jesus</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For my cleansing this my plea<br/>Nothing but the blood of Jesus<br/>For my pardon this I see<br/>Nothing but the blood of Jesus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nothing can for sin atone<br/>Nothing but the blood of Jesus<br/>Naught of good that I have done<br/>Nothing but the blood of Jesus</lines>
+    </verse>
+    <verse name="v4">
+      <lines>This is all my hope and peace<br/>Nothing but the blood of Jesus<br/>This is all my righteousness<br/>Nothing but the blood of Jesus</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Nothing but the blood of Jesus (3X)</lines>
+    </verse>
+  </lyrics>
+</song>

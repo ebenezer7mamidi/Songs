@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>354 Jesus I Will Trust Thee (simple easy nice )</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus I will trust Thee<br/>Trust Thee with my soul<br/>Guilty lost and helpless<br/>Thou canst make me whole<br/>There is none in heaven<br/>Or on earth like Thee<br/>Thou has died for sinners<br/>Therefore Lord for me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus I will trust Thee<br/>Trust Thee with my soul<br/>Guilty lost and helpless<br/>Thou canst make me whole</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus I must trust Thee<br/>Pondering Thy ways<br/>Full of love and mercy<br/>All Thine earthly days<br/>Sinners gathered round Thee<br/>Leper's sought Thy face<br/>None too vile or loathsome<br/>For a Savior's grace</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus I can trust Thee<br/>Trust Thy written Word<br/>Though Thy voice of pity<br/>I have never heard<br/>When Thy Spirit teacheth<br/>To my taste how sweet<br/>Only may I harken<br/>Sitting at Thy feet</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus I do trust Thee<br/>Trust without a doubt<br/>Whosoever cometh<br/>Thou wilt not cast out<br/>Faithful is Thy promise<br/>Precious is Thy blood<br/>These my soul's salvation<br/>Thou my Savior God</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T13:25:35">
+  <properties>
+    <titles>
+      <title>705 Onward Christian Soldiers (hymn of the Church)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5</verseOrder>
+    <authors>
+      <author type="words">Sabine Baring-Gould</author>
+      <author type="music">Arthur Seymour Sullivan</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/>Verse 1<br/>Onward Christian soldiers<br/>Marching as to war<br/>With the cross of Jesus<br/>Going on before<br/>Christ the royal Master<br/>Leads against the foe<br/>Forward into battle<br/>See His Banner go</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Onward Christian soldiers<br/>Marching as to war<br/>With the cross of Jesus<br/>Going on before</lines>
+    </verse>
+    <verse name="v2">
+      <lines>At the name of Jesus<br/>Satan's host doth flee<br/>On then Christian soldiers<br/>On to victory<br/>Hell's foundations quiver<br/>At the shout of praise<br/>Brothers lift your voices<br/>Loud your anthems raise</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Like a mighty army<br/>Moves the church of God<br/>Brothers we are treading<br/>Where the saints have trod<br/>We are not divided<br/>All one body we<br/>One in faith and Spirit<br/>One in charity</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Crowns and thrones may perish<br/>Kingdoms rise and wane<br/>But the Church of Jesus<br/>Constant will remain<br/>Gates of hell can never<br/>'Gainst the Church prevail<br/>We have Christ's own promise<br/>Which can never fail</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Onward then ye people<br/>Join our happy throng<br/>Blend with ours your voices<br/>In the triumph song<br/>Glory laud and honor<br/>Unto Christ the King<br/>This thru countless ages<br/>Men and angels sing</lines>
+    </verse>
+  </lyrics>
+</song>

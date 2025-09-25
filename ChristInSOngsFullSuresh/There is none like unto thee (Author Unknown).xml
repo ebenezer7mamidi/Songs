@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:51">
+  <properties>
+    <titles>
+      <title>There is none like unto thee</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/>Who is like unto Thee<br/>O Lord among the gods<br/>Who is like unto Thee<br/>Glorious in holiness<br/>Fearful in praises<br/>Doing wondrous things<br/>Who is like unto Thee<br/>(Psalms 86:8)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is none like unto Thee<br/>O Lord among the gods<br/>There is none like unto Thee<br/>Glorious in holiness<br/>Fearful in praises<br/>Doing wondrous things<br/>Who is like unto Thee</lines>
+    </verse>
+  </lyrics>
+</song>

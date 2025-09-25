@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-02-26T16:00:33">
+  <properties>
+    <titles>
+      <title>157 Gazing On The Lord In Glory</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/><br/>Gazing on the Lord in glory,<br/>While our hearts in worship bow,<br/>There we read the wondrous story<br/>of the cross, its shame and woe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ev'ry mark of dark dishonor<br/>heaped upon the thorn-crowned brow,<br/>All the depths of Thy heart's sorrow,<br/>told in answ'ring glory now!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>On that cross, alone, forsaken,<br/>where no pitying eye was found,<br/>Now, to God's right hand exalted,<br/>with Thy praise the heav'ns resound!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Did Thy God e'en then forsake Thee,<br/>Hide His face from Thy deep need?<br/>In Thy face, once marred and smitten,<br/>all His glory now we read.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gazing on it we adore Thee,<br/>blessed, precious, holy Lord!<br/>Thou, the Lamb, alone art worthy-<br/>This be earth's and heav'n's accord.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Rise our hearts, and bless the Father,<br/>Ceaseless song e'en here begun;<br/>Endless praise and adoration<br/>to the Father and the Son!</lines>
+    </verse>
+  </lyrics>
+</song>

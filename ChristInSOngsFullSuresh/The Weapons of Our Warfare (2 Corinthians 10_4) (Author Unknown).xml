@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:51">
+  <properties>
+    <titles>
+      <title>The Weapons of Our Warfare (2 Corinthians 10:4)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/>The weapons of our warfare<br/>Are not carnal,<br/>But they are mighty,<br/>But they are mighty.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The weapons of our warfare<br/>Are not carnal,<br/>But they are mighty<br/>Through the Holy Ghost.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And they are strong<br/>To the tearing down of strongholds,<br/>And they are mighty,<br/>And they are mighty.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And they are strong<br/>To the tearing down of strongholds,<br/>And they are mighty<br/>Through the Holy Ghost.</lines>
+    </verse>
+  </lyrics>
+</song>

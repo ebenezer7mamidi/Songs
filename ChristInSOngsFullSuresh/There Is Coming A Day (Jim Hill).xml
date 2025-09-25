@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:51">
+  <properties>
+    <titles>
+      <title>There Is Coming A Day</title>
+    </titles>
+    <copyright>1955. Renewed 1983 Ben Speer Music, Administered by Integrated Copyright Group, Inc.</copyright>
+    <ccliNo>32046</ccliNo>
+    <authors>
+      <author>Jim Hill</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>What a day that will be<br/>When my Jesus I shall see<br/>When I look upon His face<br/>The One who saved me by His grace<br/>When He takes me by the hand<br/>And leads me through the Promised Land<br/>What a day glorious day that will be</lines>
+    </verse>
+    <verse name="v1">
+      <lines>There is coming a day<br/>When no heartaches shall come<br/>No more clouds in the sky<br/>No more tears to dim the eye<br/>All is peace forevermore<br/>On that happy golden shore<br/>What a day glorious day that will be</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There'll be no sorrow there<br/>No more burdens to bear<br/>No more sickness no pain<br/>No more parting over there<br/>And forever I will be<br/>With the One who died for me<br/>What a day glorious day that will be</lines>
+    </verse>
+  </lyrics>
+</song>

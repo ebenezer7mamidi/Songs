@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>824 What Will You Do With Jesus (?)</title>
+    </titles>
+    <copyright>© 1995 The Wilds Christian Association, Inc.</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5</verseOrder>
+    <ccliNo>2652283</ccliNo>
+    <authors>
+      <author>Albert Benjamin Simpson | Mac Lynch | Mary L. Stoc</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus is standing in Pilate's hall<br/>Friendless forsaken betrayed by all<br/>Harken what meaneth the sudden call<br/>What will you do with Jesus</lines>
+    </verse>
+    <verse name="c1">
+      <lines>What will you do with Jesus<br/>Neutral you cannot be<br/>Someday your heart will be asking<br/>What will He do with me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus is standing on trial still<br/>You can be false to Him if you will<br/>You can be faithful through good or ill<br/>What will you do with Jesus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Will you evade Him as Pilate tried<br/>Or will you choose Him whate'er betide<br/>Vainly you struggle from Him to hide<br/>What will you do with Jesus</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Will you like Peter your Lord deny<br/>Or will you scorn from His foes to fly<br/>Daring for Jesus to live or die<br/>What will you do with Jesus</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus I give Thee my heart today<br/>Jesus I'll follow Thee all the way<br/>Gladly obeying Thee will you say<br/>This will I do with Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

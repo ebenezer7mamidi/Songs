@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:45">
+  <properties>
+    <titles>
+      <title>Come Let Us Worship And Bow Down</title>
+    </titles>
+    <copyright>1980 Maranatha Praise, Inc., Administered by Music Services</copyright>
+    <ccliNo>27329</ccliNo>
+    <authors>
+      <author>Dave Doherty</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Come let us worship and bow down<br/>Let us kneel before the Lord<br/>Our God our maker<br/>Come let us worship and bow down<br/>Let us kneel before the Lord<br/>Our God our Maker</lines>
+    </verse>
+    <verse name="c2">
+      <lines>For He is our God<br/>And we are the people of His pasture<br/>And the sheep of His hand<br/>Just the sheep of His hand</lines>
+    </verse>
+  </lyrics>
+</song>

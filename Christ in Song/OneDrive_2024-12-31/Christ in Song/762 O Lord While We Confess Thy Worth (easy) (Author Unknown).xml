@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>762 O Lord While We Confess Thy Worth (easy)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Lord while we confess the worth<br/>Of This the outward seal<br/>Do Thou the truths herein set forth<br/>To ev'ry heart revealed</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Death to the world we here avow<br/>Death to each fleshly lust<br/>Newness of life our calling now<br/>A risen Lord our trust</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And we O Lord who now partake<br/>Of resurrection life<br/>With ev'ry sin for Thy dear sake<br/>Would be at constant strife</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Baptized into the Father's name<br/>We'd walk as sons of God<br/>Baptized in Thine we own Thy claim<br/>As ransomed by Thy blood</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Baptized into the Holy Ghost<br/>We'd keep His temple pure<br/>And make Thy grace our only boast<br/>And by Thy strength endure</lines>
+    </verse>
+  </lyrics>
+</song>

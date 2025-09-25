@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:46">
+  <properties>
+    <titles>
+      <title>Ho Every One Who Is Thirsty</title>
+    </titles>
+    <copyright>Public Domain, Administered by CCLI Administration Account</copyright>
+    <ccliNo>47581</ccliNo>
+    <authors>
+      <author>Lucy Jane  Rider</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ho ev'ry one who is thirsty in spirit<br/>Ho ev'ry one who is weary and sad<br/>Come to the fountain there's fullness in Jesus<br/>All that you're longing for come and be glad</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I will pour water on him that is thirsty<br/>I will pour floods upon the dry ground<br/>Open your heart for the gift I am bringing<br/>While you are seeking Me I will be found</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Child of the world are you tired of your bondage<br/>Weary of earth joys so false so untrue<br/>Thirsting for God and His fullness of blessing<br/>List to the promise a message for you</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Child of the kingdom be filled with the Spirit<br/>Nothing but fullness thy longing can meet<br/>'Tis the endowment for life and for service<br/>This is the promise so certain so sweet</lines>
+    </verse>
+  </lyrics>
+</song>

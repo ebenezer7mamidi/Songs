@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>817 Come Just As You Are (easy sweet singable)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ye who are toubled and burdened by sin<br/>Come just as you are<br/>Come to the Savior a new life begin<br/>Oh come just as you are</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Come just as you are<br/>Oh come just as you are<br/>Give up your sin<br/>Let the Savior come in<br/>And come just as you are</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Deep in your heart sin has written its scar<br/>Come just as you are<br/>Tho' from the father you've wandered afar<br/>Oh come just as you are</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sinful and guilty heart broken and lost<br/>Come just as you are<br/>Think what your ransom on Calvary cost<br/>Oh come just as you are</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Naught of your goodness for sin can atone<br/>Come just as you are<br/>Trust in the merit of Jesus alone<br/>And come just as you are</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Come with your heartache your sorrow and pain<br/>Come just as you are<br/>No one has come to the Savior in vain<br/>Oh come just as you are</lines>
+    </verse>
+  </lyrics>
+</song>

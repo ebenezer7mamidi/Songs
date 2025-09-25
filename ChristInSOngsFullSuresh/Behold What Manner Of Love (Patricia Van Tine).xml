@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T02:17:56">
+  <properties>
+    <titles>
+      <title>Behold What Manner Of Love</title>
+    </titles>
+    <copyright>1978 Maranatha! Music / CCCM Music, Administered by Maranatha! Music</copyright>
+    <ccliNo>1596</ccliNo>
+    <authors>
+      <author>Patricia Van Tine</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/><br/>Behold what manner of love<br/>The Father has given unto us<br/>Behold what manner of love<br/>The Father has given unto us</lines>
+    </verse>
+    <verse name="v2">
+      <lines>That we should be called<br/>The sons of God<br/>That we should be called<br/>The sons of God</lines>
+    </verse>
+  </lyrics>
+</song>

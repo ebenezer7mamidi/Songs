@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>289 I Will Sing The Wondrous Story</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will sing<br/>The wondrous<br/>Story of the Christ<br/>Who died for me<br/>How he left<br/>His home in glory<br/>For the cross<br/>Of calvary</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sing oh sing<br/>The wondrous story<br/>Of the Christ<br/>Who died for me<br/>Sing it with<br/>The saints in glory<br/>Gathered by<br/>The crystal sea</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I was lost<br/>But Jesus found me<br/>Found the sheep<br/>That went astray<br/>Threw his loving<br/>Arms around me<br/>Drew me back<br/>Into his way</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I was bruised<br/>But Jesus healed me<br/>Faint I was<br/>From many a fall<br/>Sight was gone<br/>And fears possessed me<br/>But he freed<br/>Me from them all</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Days of darkness<br/>Still come o'er me<br/>Sorrow's paths<br/>I often tread<br/>But the savior<br/>Still is with me<br/>By his hand<br/>I'm safely led</lines>
+    </verse>
+  </lyrics>
+</song>

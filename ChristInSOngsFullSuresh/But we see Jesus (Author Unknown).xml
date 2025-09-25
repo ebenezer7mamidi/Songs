@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:44">
+  <properties>
+    <titles>
+      <title>But we see Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A<br/>But we see Jesus,<br/>Made a little lower<br/>Made a little lower than the angels<br/>For the suffering of death</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But we see Jesus,<br/>Crowned with glory and honor<br/>That He by the grace of God<br/>Should taste death for every man <br/>Hebrews 2:9</lines>
+    </verse>
+  </lyrics>
+</song>

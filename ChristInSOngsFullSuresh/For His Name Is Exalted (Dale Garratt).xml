@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T03:10:50">
+  <properties>
+    <titles>
+      <title>For His Name Is Exalted</title>
+    </titles>
+    <copyright>1972 Scripture In Song, Administered by Integrity Music, Inc.</copyright>
+    <ccliNo>26210</ccliNo>
+    <authors>
+      <author>Dale Garratt</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/><br/>For His name is exalted<br/>His glory above heaven and earth<br/>Holy is the Lord God Almighty<br/>Who was and who is and who is to come</lines>
+    </verse>
+    <verse name="c2">
+      <lines>For His name is exalted<br/>His glory above heaven and earth<br/>Holy is the Lord God Almighty<br/>Who sits on the throne<br/>And who lives forevermore</lines>
+    </verse>
+  </lyrics>
+</song>

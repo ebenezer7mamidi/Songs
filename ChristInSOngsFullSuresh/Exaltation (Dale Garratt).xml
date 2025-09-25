@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T03:01:08">
+  <properties>
+    <titles>
+      <title>Exaltation</title>
+    </titles>
+    <copyright>1978 Scripture In Song, Administered by Integrity Music, Inc.</copyright>
+    <ccliNo>102316</ccliNo>
+    <authors>
+      <author>Dale Garratt</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/><br/>Worthy is the Lamb<br/>To receive power and riches<br/>And wisdom and might and honour<br/>Blessing and honour and glory<br/>And dominion forever<br/>Worthy is the Lamb</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Power riches wisdom and might<br/>And power riches wisdom and might<br/>And blessing and honour<br/>And dominion forevermore</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Power riches wisdom and might<br/>And power riches wisdom and might<br/>And blessing and honour<br/>Worthy is the Lamb</lines>
+    </verse>
+  </lyrics>
+</song>

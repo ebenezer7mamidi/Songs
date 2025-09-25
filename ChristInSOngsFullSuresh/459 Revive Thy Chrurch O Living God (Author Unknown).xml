@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>459 Revive Thy Chrurch O Living God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Revive Thy Church O Living Lord<br/>And may Thy Spirit be outpoured<br/>Upon all those who long to see<br/>Revival blessing come from Thee<br/>Oh hear us Lord In this dark hour<br/>And fill us with Thy Spirit's power</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Revive Thy Church O Lamb divine<br/>And cause Thy face on us to shine<br/>Hast Thou not died our love to win<br/>And free us from the power of sin<br/>O break our hearts that we may see<br/>Revival spread abundantly</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Revive Thy Church O coming King<br/>The eastern skies are reddening<br/>And all creation groans and waits<br/>To meet Thee at redemption's gates<br/>Oh may Thy bride awake and sing<br/>Adorned to meet her Bridegroom King</lines>
+    </verse>
+  </lyrics>
+</song>

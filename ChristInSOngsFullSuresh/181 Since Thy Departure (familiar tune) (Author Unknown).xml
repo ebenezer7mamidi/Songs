@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-20T00:03:53">
+  <properties>
+    <titles>
+      <title>181 Since Thy Departure (familiar tune)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Since thy departure from Olivet's mountain<br/>Why is Thy coming again so delayed?<br/>Thru the long years we have longed for Thy coming<br/>Hast thou not heard all the prayers<br/>That we've prayed?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Come Thou - Come now<br/>Lord for Thy coming we yearn<br/>All our desire is Thy promised returning<br/>Oh may Thou quickly return</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Beloved Lord since the year Thou ascended<br/>Everything here has been tastless and dry<br/>Often in praying and often in watching<br/>In every movement for Thee Lord we sigh</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Scenes although lovely yet<br/>when will we meet Thee?<br/>Birds and the flowers fair beauty embrace<br/>All are delightsome but none satisfy me<br/>For I am longing for Thy loving face</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord we're impatient awaiting Thy coming<br/>We do not know how much longer 'twill be<br/>From every sunrise to every bright sunset<br/>Hope we each moment Thy coming to see</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Where'er 'tis raining or strong winds are blowing<br/>Where'er the moon shines or rises the sea<br/>We ever hope to discover Thy coming<br/>How disappointed when no sign of Thee</lines>
+    </verse>
+    <verse name="v6">
+      <lines>If it were not for the bidding Thou gav'st us<br/>We'd be discouraged Thy service we'd shirk<br/>But thou dost want us while waiting Thy coming<br/>For Thee to live and in diligence work</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Oh Lord remember the days<br/>have been lengthened<br/>Since thou hast promised ere going away<br/>We hope and hope and<br/>are endlessly hoping<br/>That thou wilt come<br/>Canst Thou come e'en today?</lines>
+    </verse>
+  </lyrics>
+</song>

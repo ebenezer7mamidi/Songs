@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:46">
+  <properties>
+    <titles>
+      <title>Highest Praises</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/>Highest praises - Highest praises,<br/>Highest praises with great<br/>Joy we bring to Thee.<br/>On the cross in agony<br/>Thou didst give Thy life for me.<br/>Highest praises with great joy we bring to Thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Highest praises - Highest praises<br/>Highest praises<br/>With great joy I bring to Thee<br/>From a place of lowly birth<br/>Thou dost reign o'er heav'n and earth<br/>Highest praises<br/>With great joy I bring to Thee</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thou art worthy - Thou art worthy<br/>Thou art worthy<br/>To receive our deepest love<br/>On the cross of Calvary<br/>Thou hast won the victory<br/>Thou art worthy<br/>To receive our deepest love</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Halleluja - Hallelujah<br/>Glory now and evermore be unto Thee<br/>On the throne of majesty<br/>Thou art Lord eternally<br/>Glory now and evermore be unto Thee</lines>
+    </verse>
+  </lyrics>
+</song>

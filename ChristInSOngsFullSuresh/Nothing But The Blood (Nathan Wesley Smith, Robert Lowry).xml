@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-21T23:38:08">
+  <properties>
+    <titles>
+      <title>Nothing But The Blood</title>
+    </titles>
+    <copyright>2003 Small Person Music, LLC, Administered by Small Person Music, LLC</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 e1</verseOrder>
+    <ccliNo>4538491</ccliNo>
+    <authors>
+      <author>Nathan Wesley Smith</author>
+      <author>Robert Lowry</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/><br/>What can wash away my sin<br/>Nothing but the Blood of Jesus<br/>What can make me Whole again<br/>Nothing but the Blood of Jesus</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh precious is the flow<br/>That makes me White as snow<br/>No other fount I know<br/>Nothing but the Blood of Jesus</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For my cleansing This my plea<br/>Nothing but the Blood of Jesus<br/>For my pardon this I see<br/>Nothing but the Blood of Jesus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nothing can for sin atone<br/>Nothing but the Blood of Jesus<br/>Naught of good that I have done<br/>Nothing but the Blood of Jesus</lines>
+    </verse>
+    <verse name="v4">
+      <lines>This is all my hope And peace<br/>Nothing but the Blood of Jesus<br/>This is all my righteousness<br/>Nothing but the Blood of Jesus</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Nothing but the blood Of Jesus (3X)</lines>
+    </verse>
+  </lyrics>
+</song>

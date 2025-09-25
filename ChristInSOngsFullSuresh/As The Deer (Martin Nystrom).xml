@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T02:02:45">
+  <properties>
+    <titles>
+      <title>As The Deer</title>
+    </titles>
+    <copyright>1984 Maranatha Praise, Inc., Administered by Music Services</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>1431</ccliNo>
+    <authors>
+      <author>Martin Nystrom</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bb<br/>As the deer panteth for the water<br/>So my soul longeth after Thee<br/>You alone are my heart's desire<br/>And I long to worship Thee</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You alone are my strength my shield<br/>To You alone will my spirit yield<br/>You alone are my heart's desire<br/>And I long to worship Thee</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You're my friend<br/>And You call me brother<br/>Even though You are a King<br/>I love You more than any other<br/>So much more than anything</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I want You more than gold<br/>Or silver<br/>Only You can satisfy<br/>You alone are the real joygiver<br/>And the apple of my eye</lines>
+    </verse>
+  </lyrics>
+</song>

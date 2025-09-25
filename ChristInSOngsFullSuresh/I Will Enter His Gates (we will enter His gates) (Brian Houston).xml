@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-11T15:15:52">
+  <properties>
+    <titles>
+      <title>I Will Enter His Gates (we will enter His gates)</title>
+    </titles>
+    <comments>
+      <comment>verse 3 (optional)
+chorus 3 (optional)
+
+[above are Song Tags with notes imported from EasyWorship]</comment>
+    </comments>
+    <copyright>1999 Thankyou Music, Administered by EMI Christian Music Publishing</copyright>
+    <ccliNo>4312576</ccliNo>
+    <authors>
+      <author>Brian Houston</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/><br/>I will enter His gates with<br/>Thanksgiving in my heart<br/>I will enter His courts With praise<br/>I will say this is the day<br/>That the LORD has made<br/>I will rejoice for He Has made me glad</lines>
+    </verse>
+    <verse name="c1">
+      <lines>He has made me glad<br/>He has made me glad<br/>I will rejoice for He Has made me glad<br/>(Repeat)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We will enter His gates with<br/>Thanksgiving in our hearts<br/>We will enter His courts With praise<br/>We will say this is the day<br/>That the LORD has made<br/>We will rejoice for He Has made us glad</lines>
+    </verse>
+    <verse name="c2">
+      <lines>He has made us glad<br/>He has made us glad<br/>We will rejoice for He Has made us glad<br/>(Repeat)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We will enter Your gates with<br/>Thanksgiving in our hearts<br/>We will enter Your Courts With praise<br/>We will say this is the day<br/>That the LORD has made<br/>We will rejoice for You Have made us glad</lines>
+    </verse>
+    <verse name="c3">
+      <lines>You have made us glad<br/>You have made us glad<br/>We will rejoice for You<br/>Have made us glad<br/>(Repeat)</lines>
+    </verse>
+  </lyrics>
+</song>

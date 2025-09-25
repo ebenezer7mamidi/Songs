@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T15:23:09">
+  <properties>
+    <titles>
+      <title>Thou Art Worthy</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>G<br/><br/>Thou art worthy, Thou Art worthy,<br/>Thou art worthy, O Lord<br/>Thou art worthy, To receive glory,<br/>Glory and honor and power,</lines>
+    </verse>
+    <verse name="c1">
+      <lines>For Thou hast created,<br/>Hast all things created<br/>For Thou hast created All things,<br/>And for Thy pleasure<br/>They are created<br/>Thou art worthy, O Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thou art worthy, Thou art worthy<br/>Thou art worthy, O Lord.<br/>Thou art worthy, To receive glory,<br/>Glory and honor and power.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Because Thou wast slain<br/>And Thy blood has Redeemed us<br/>From every nation and tongue,<br/>And Thou hast made us,<br/>Both kings and priests,<br/>Thou art worthy, O Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

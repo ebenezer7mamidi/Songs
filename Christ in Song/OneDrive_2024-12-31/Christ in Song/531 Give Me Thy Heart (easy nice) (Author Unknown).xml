@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:41">
+  <properties>
+    <titles>
+      <title>531 Give Me Thy Heart (easy nice)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Give Me thy heart<br/>Says the Father above<br/>No gift so precious<br/>To Him as our love<br/>Softly He whispers<br/>Wherever thou art<br/>Gratefully trust Me<br/>And give Me thy heart</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Give Me thy heart<br/>Give Me thy heart<br/>Hear the soft whisper<br/>Wherever thou art<br/>From this dark world<br/>He would draw thee apart<br/>Speaking so tenderly<br/>Give Me thy heart</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Give Me Thy heart<br/>Says the Savior of men<br/>Calling in mercy again and again<br/>Turn now from sin<br/>And from evil depart<br/>Have I not died for thee<br/>Give Me thy heart</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Give Me thy heart<br/>Says the Spirit divine<br/>All that thou hast<br/>To My keeping resign<br/>Grace more abounding<br/>Is Mine to impart<br/>Make full surrender<br/>And give Me thy heart</lines>
+    </verse>
+  </lyrics>
+</song>

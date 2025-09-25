@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>274 My Heart Was Ever Like A Stone (not easy)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My heart was ever like a stone<br/>My tongue still as the grave<br/>But from another world there shone<br/>A light my soul to save</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now I am singing all day long<br/>The praises of His blood<br/>No other theme awakes my song<br/>Like Calvary's crimson flood</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I feel the presence of His hand<br/>Bending my sinful heart<br/>Henceforth no power can command<br/>My soul from Him to part</lines>
+    </verse>
+  </lyrics>
+</song>

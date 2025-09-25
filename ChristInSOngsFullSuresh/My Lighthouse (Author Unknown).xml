@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:49">
+  <properties>
+    <titles>
+      <title>My Lighthouse</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In my wrestling and in my doubts<br/>In my failures You won't walk out<br/>Your great love will lead me through<br/>You are the peace in my troubled sea<br/>You are the peace in my troubled sea</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the silence you won't let go<br/>In my questions your truth will hold<br/>Your great love will lead me through<br/>You are the peace in my troubled sea<br/>You are the peace in my troubled sea</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My lighthouse My lighthouse<br/>Shining in the darkness<br/>I will follow You<br/>My lighthouse My lighthouse<br/>I will trust the promise<br/>You will carry me<br/>Safe to shore-woah-woah<br/>Safe to shore-woah-woah<br/>Safe to shore-woah-woah<br/>Safe to shore</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I won't fear what tomorrow brings<br/>With each morning I'll rise and sing<br/>My God's love will lead me through<br/>You are the peace in my troubled sea<br/>You are the peace in my troubled sea</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Fire before us<br/>You're the brightest<br/>You will lead us through the storms</lines>
+    </verse>
+  </lyrics>
+</song>

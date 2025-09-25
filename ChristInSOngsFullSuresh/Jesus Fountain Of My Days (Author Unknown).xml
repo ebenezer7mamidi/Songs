@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:48">
+  <properties>
+    <titles>
+      <title>Jesus Fountain Of My Days</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus fountain of my days<br/>Wellspring of my heart's delight<br/>Brightness of my morning rays<br/>Solace of my hours of night<br/>When I see Thee I arise<br/>To the hope of cloudless skies</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh how weary were the years<br/>Ere Thy form to me was known<br/>Oh how gloomy were the fears<br/>When I seemed to be alone<br/>I despaired the storm to brave<br/>Till thy footprints touched the wave</lines>
+    </verse>
+    <verse name="v3">
+      <lines>But Thy presence on the deep<br/>Calmed the pulses of the sea<br/>And the waters sank to sleep<br/>In the rest of seeing Thee<br/>And my once rebellious will<br/>Heard the mandate - peace be still</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Now Thy will and mine are one<br/>Heart in heart and hand in hand<br/>All the clouds have touched the sun<br/>And the ships have reached the land<br/>For Thy love has said to me<br/>No more night and no more sea!</lines>
+    </verse>
+  </lyrics>
+</song>

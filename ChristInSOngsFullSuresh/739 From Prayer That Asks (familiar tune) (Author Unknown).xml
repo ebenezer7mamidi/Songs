@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:42">
+  <properties>
+    <titles>
+      <title>739 From Prayer That Asks (familiar tune)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>From pray'r that asks that I may be<br/>Sheltered from winds that beat on Thee<br/>From fearing when I should aspire<br/>From falt'ring when I should climb high'r<br/>From silken self O Captain free<br/>Thy soldier who would follow Thee</lines>
+    </verse>
+    <verse name="v2">
+      <lines>From subtle love of softening things<br/>From easy choices weakenings<br/>Not thus are spirits fortified<br/>Not this way went the Crucified<br/>From all that dims Thy Calvary<br/>O Lamb of God deliver me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Give me the love that leads the way<br/>The faith that nothing can dismay<br/>The hope no disappointments tire<br/>The passion that will burn like fire<br/>Let me not sink to be a clod<br/>Make me Thy fuel O flame of God</lines>
+    </verse>
+  </lyrics>
+</song>

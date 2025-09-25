@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:50">
+  <properties>
+    <titles>
+      <title>Oh Let Thy Glory Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Let Thy glory, Lord, be my passion<br/>Let me bring joy to Thy Father Heart<br/>Be all that Thou dost want<br/>In sons and daughters<br/>And love Thee only for who Thou Art</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As Christ Thy Son didst ever<br/>Live to please Thee<br/>So let my life by obedience be marked</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Help me be all You ask of sons and daughters<br/>And love Thee Father for who Thou art.</lines>
+    </verse>
+  </lyrics>
+</song>

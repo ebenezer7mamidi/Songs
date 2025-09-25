@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:44">
+  <properties>
+    <titles>
+      <title>Beloved Let Us Love One Another</title>
+    </titles>
+    <copyright>1973 Scripture In Song, Administered by Integrity Music, Inc.</copyright>
+    <ccliNo>96862</ccliNo>
+    <authors>
+      <author>Dale Garratt</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Beloved let us love one another<br/>For love is of God<br/>And everyone who loveth<br/>Is born of God and knoweth God</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>He who loveth not<br/>Knoweth not God<br/>For God is love<br/>Beloved let us love one another<br/>First John Four Seven and Eight</lines>
+    </verse>
+  </lyrics>
+</song>

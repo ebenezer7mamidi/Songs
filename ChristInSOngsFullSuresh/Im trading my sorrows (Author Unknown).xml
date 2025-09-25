@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:47">
+  <properties>
+    <titles>
+      <title>Im trading my sorrows</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>I'm trading my sorrows<br/>I'm trading my shame<br/>I'm laying them down<br/>For the joy of the Lord</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I'm trading my sickness<br/>I'm trading my pain<br/>I'm laying them down<br/>For the joy of the Lord</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Yes Lord yes Lord yes yes Lord<br/>Yes Lord yes Lord yes yes Lord<br/>Yes Lord yes Lord yes yes Lord Amen</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>I am pressed but not crushed<br/>Persecuted not abandoned<br/>Struck down but not destroyed</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>I am blessed beyond the curse<br/>For His promise will endure<br/>That His joy's gonna be my strength</lines>
+    </verse>
+    <verse name="b1c">
+      <lines>Though the sorrow may last for the night<br/>His joy comes with the morning</lines>
+    </verse>
+  </lyrics>
+</song>

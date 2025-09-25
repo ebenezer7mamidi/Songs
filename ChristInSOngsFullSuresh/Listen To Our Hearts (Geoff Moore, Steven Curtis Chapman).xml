@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:48">
+  <properties>
+    <titles>
+      <title>Listen To Our Hearts</title>
+    </titles>
+    <copyright>1992 Starstruck Music; Sparrow Song; Primary Wave Brian, Administered by EMI Christian Music Publishing; Wixen Music Publis</copyright>
+    <ccliNo>903151</ccliNo>
+    <authors>
+      <author>Geoff Moore</author>
+      <author>Steven Curtis Chapman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>So listen to our hearts<br/>Hear our spirits sing<br/>A song of praise that flows<br/>From those You have redeemed<br/>We will use the words we know<br/>To tell You what an awesome God You are<br/>But words are not enough<br/>To tell You of our love<br/>So listen to our hearts</lines>
+    </verse>
+    <verse name="v1">
+      <lines>How do you explain<br/>How do you describe<br/>A love that goes from east to west<br/>And runs as deep as it is wide<br/>You know all our hopes<br/>Lord You know all our fears<br/>And words cannot express<br/>The love we feel<br/>But we long for You to hear</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If words could fall like rain<br/>From these lips of mine<br/>And if I had a thousand years<br/>Lord I would still run out of time<br/>If You listen to my heart<br/>Every beat will say<br/>Thank You for the life<br/>Thank You for the truth<br/>Thank You for the way</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-11T15:18:01">
+  <properties>
+    <titles>
+      <title>I will praise Thee (Him)</title>
+    </titles>
+    <comments>
+      <comment>verse 3 (optional, we version)
+
+[above are Song Tags with notes imported from EasyWorship]</comment>
+    </comments>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>E<br/>I will praise Thee; I will praise Thee<br/>In the midst of the congregation.<br/>I will declare Thy name Unto my brethren<br/>For the kingdom is the Lord's:<br/>He is the governor among The nations.<br/>In the midst of the congregation<br/>Will I praise Thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Glorify Him; Glorify Him<br/>All ye the seed of Jacob.<br/>And fear Him and fear Him,<br/>All ye the seed of Israel.<br/>For the kingdom is the Lord's:<br/>He is the governor among the nations.<br/>All ye the seed of Jacob<br/>Now glorify Him.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We will praise Thee; We will praise Thee<br/>In the midst of the congregation.<br/>We will declare Thy name Unto our brethren<br/>For the kingdom is the Lord's:<br/>He is the governor among The nations.<br/>In the midst of the congregation<br/>Will We praise Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

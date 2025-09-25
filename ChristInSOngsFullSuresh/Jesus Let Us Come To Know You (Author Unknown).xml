@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-12T15:51:25">
+  <properties>
+    <titles>
+      <title>Jesus Let Us Come To Know You</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>F<br/><br/>Jesus let us come to know You<br/>Let us see You face to face<br/>Touch us hold us use us mold us<br/>Only let us live in You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus draw us ever nearer<br/>Hold us in Your loving arms<br/>Wrap us in Your gentle presence<br/>And when the end comes bring us home</lines>
+    </verse>
+  </lyrics>
+</song>

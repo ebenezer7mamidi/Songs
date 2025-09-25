@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T04:07:39">
+  <properties>
+    <titles>
+      <title>How I Love You</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>G<br/><br/>How I love You<br/>You are the One<br/>You are the One<br/>How I love You<br/>You are the One for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I was so lost<br/>But You showed the way<br/>'Cause You are the way<br/>I was so lost<br/>But You showed the way to me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I was lied to<br/>But You told the truth<br/>'Cause You are the truth<br/>I was lied to<br/>But You showed the truth to me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I was dying<br/>But You gave me life<br/>'Cause You are the life<br/>I was dying<br/>And You gave Your life for me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hallelujah<br/>You are the One<br/>You are the One<br/>Hallelujah<br/>You are the One for me</lines>
+    </verse>
+  </lyrics>
+</song>

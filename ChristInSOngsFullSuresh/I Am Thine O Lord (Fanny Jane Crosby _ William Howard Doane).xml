@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:47">
+  <properties>
+    <titles>
+      <title>I Am Thine O Lord</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <ccliNo>25424</ccliNo>
+    <authors>
+      <author>Fanny Jane Crosby | William Howard Doane</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am Thine O Lord I have heard Thy voice<br/>And it told Thy love to me<br/>But I long to rise in the arms of faith<br/>And be closer drawn to Thee</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Draw me nearer nearer blessed Lord<br/>To the cross where Thou hast died<br/>Draw me nearer nearer nearer blessed Lord<br/>To Thy precious bleeding side</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Consecrate me now to Thy service Lord<br/>By the pow'r of grace divine<br/>Let my soul look up with a steadfast hope<br/>And my will be lost in Thine</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh the pure delight of a single hour<br/>That before Thy throne I spend<br/>When I kneel in prayer and with Thee my God<br/>I commune as friend with friend</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There are depths of love that I cannot know<br/>Till I cross the narrow sea<br/>There are heights of joy that I may not reach<br/>Till I rest in peace with Thee</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:41">
+  <properties>
+    <titles>
+      <title>562 Sun Of My Soul (familiar tune nice)</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <ccliNo>44388</ccliNo>
+    <authors>
+      <author>John Keble | Peter Ritter</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sun of my soul Thou Savior dear<br/>It is not night if Thou be near<br/>O may no earth-born cloud arise<br/>To hide Thee from Thy servants eyes</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When the soft dews of kindly sleep<br/>My wearied eyelids gently steep<br/>Be my last thought how sweet to rest<br/>Forever on my Savior's breast</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Abide with me from morn till eve<br/>For without Thee I cannot live<br/>Abide with me when night is nigh<br/>For without Thee I dare not die</lines>
+    </verse>
+    <verse name="v4">
+      <lines>If some poor wandering child of Thine<br/>Has spurned today the voice divine<br/>Now Lord the gracious work begin<br/>Let Him no more lie down in sin</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Watch by the sick enrich the poor<br/>With blessings from Thy boundless store<br/>Be every mourner's sleep tonight<br/>Like infant's slumbers pure and light</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Come near and bless us when we wake<br/>Ere through the world our way we take<br/>Till in the ocean of Thy love<br/>We lose ourselves in Thee above</lines>
+    </verse>
+  </lyrics>
+</song>

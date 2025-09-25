@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:47">
+  <properties>
+    <titles>
+      <title>I'm forever grateful</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>You did not wait for me to draw near to You<br/>But You clothed Yourself in frail humanity</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>You did not wait for me to cry out to You<br/>But You let me hear Your voice calling me</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>And I'm forever grateful to You<br/>I'm forever grateful for the cross</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I'm forever grateful to You<br/>That You came to seek and save the lost</lines>
+    </verse>
+  </lyrics>
+</song>

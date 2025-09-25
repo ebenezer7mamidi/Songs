@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:38">
+  <properties>
+    <titles>
+      <title>142 The Curse is Rolled Away (familiar)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The curse is rolled away<br/>The grave has lost her prey<br/>Dost see that noble throng<br/>Singing a triumph song<br/>Dost hear the words they sing<br/>'O death where is thy sting'<br/>Where grave thy victory<br/>Where grave thy victory'</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The saints in glad array<br/>Are praising God always<br/>For death has been destroyeed<br/>'Tis rendered null and void<br/>With joyful voice they sing<br/>'O death where is thy sting<br/>Where grave thy victory<br/>Where grave thy victory'</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O marvellous display<br/>Of Life's reality<br/>That it could swallow up<br/>Death's dark and bitter cup<br/>Dost hear the whole Church sing<br/>'O death where is thy sting<br/>Where grave thy victory<br/>Where grave thy victory'</lines>
+    </verse>
+  </lyrics>
+</song>

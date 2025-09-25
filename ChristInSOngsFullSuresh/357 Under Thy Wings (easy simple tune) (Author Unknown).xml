@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>357 Under Thy Wings (easy simple tune)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Under Thy wings my God I rest<br/>Under Thy shadow safely lie<br/>By Thy own strength and peace possessed<br/>While dreaded evils pass me by</lines>
+    </verse>
+    <verse name="v2">
+      <lines>With strong desire I here can stay<br/>To see Thy love its work complete<br/>Here I can wait a long delay<br/>Reposing at my Savior's feet</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My place of lowly service too<br/>Beneath Thy sheltering wings I see<br/>For all the work I have to do<br/>Is done through strenthening rest in Thee</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I would not rise this rest above<br/>I do not mourn my low estate<br/>Sure of my riches in Thy love<br/>I feel it good to trust and wait</lines>
+    </verse>
+    <verse name="v5">
+      <lines>In faith and patience is repose<br/>In faith and rest my strength shall be<br/>And when Thy joy the church o'erflows<br/>I know that it will visit me</lines>
+    </verse>
+  </lyrics>
+</song>

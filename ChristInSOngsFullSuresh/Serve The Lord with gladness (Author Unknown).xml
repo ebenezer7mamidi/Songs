@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T13:51:16">
+  <properties>
+    <titles>
+      <title>Serve The Lord with gladness</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Serve Him with gladness<br/>Enter His courts with song<br/>To our Creator true praises belong<br/>Great is His mercy<br/>Wonderful is His name<br/>We gladly serve Him<br/>His great love proclaim</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Serve the Lord with gladness<br/>In our works and ways<br/>Come before His presence<br/>With our songs of praise<br/>Unto Him our Maker<br/>We would pledge anew<br/>Life's supreme devotion<br/>To service true</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Serve the Lord with gladness<br/>Thankful all the while<br/>For His tender mercies<br/>For His loving smile<br/>Blessed truth enduring<br/>Always just the same<br/>We will serve with gladness<br/>And praise His name</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Serve the Lord with gladness<br/>This shall be our theme<br/>As we walk together<br/>In His love supreme<br/>Listening ever listening<br/>For the still small voice<br/>His sweet will so precious<br/>Will be our choice</lines>
+    </verse>
+  </lyrics>
+</song>

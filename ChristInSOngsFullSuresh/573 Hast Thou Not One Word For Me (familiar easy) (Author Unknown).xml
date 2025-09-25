@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:41">
+  <properties>
+    <titles>
+      <title>573 Hast Thou Not One Word For Me (familiar easy)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord hast Thou not one word for me<br/>To bind my soul more close to Thee<br/>That ev'ry evil I may flee<br/>One word O Lord<br/>One word from Thee</lines>
+    </verse>
+    <verse name="v2">
+      <lines>One word to show how weak am I<br/>When in my strength alone I try<br/>In vain I toil in vain I sigh<br/>One word O Lord<br/>One word from Thee</lines>
+    </verse>
+    <verse name="v3">
+      <lines>One word to show how near Thou art<br/>For Thou dost dwell within my heart<br/>And of Thy life I share a part<br/>One word O Lord<br/>One word from Thee</lines>
+    </verse>
+    <verse name="v4">
+      <lines>One word of power oh let me hear<br/>Above the heart's most anxious fear<br/>Thy still small voice yet deep and clear<br/>One word O Lord<br/>One word from Thee</lines>
+    </verse>
+    <verse name="v5">
+      <lines>One word of final triumph Lord<br/>Sweet hope Thy promises afford<br/>To dwell with Thee in sweet accord<br/>One word O Lord<br/>One word from Thee</lines>
+    </verse>
+  </lyrics>
+</song>

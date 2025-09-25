@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T14:55:32">
+  <properties>
+    <titles>
+      <title>The Potter's Hand</title>
+    </titles>
+    <copyright>1997 Hillsong Publishing, Administered by Integrity Music, Inc.</copyright>
+    <ccliNo>2449771</ccliNo>
+    <authors>
+      <author>Darlene Zschech</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Take me mould me<br/>Use me fill me<br/>I give my life<br/>To the Potter's hand<br/>Call me guide me<br/>Lead me walk beside me<br/>I give my life<br/>To the Potter's hand</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Beautiful Lord<br/>Wonderful Saviour<br/>I know for sure<br/>All of my days<br/>Are held in Your hand<br/>Crafted into Your perfect plan</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>You gently call me<br/>Into Your presence<br/>Guiding me by<br/>Your Holy Spirit<br/>Teach me dear Lord<br/>To live all of my life<br/>Through Your eyes</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>I'm captured by Your Holy calling<br/>Set me apart I know You're drawing<br/>Me to Yourself<br/>Lead me Lord I pray</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>Ooo ooo ooo</lines>
+    </verse>
+  </lyrics>
+</song>

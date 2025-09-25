@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:50">
+  <properties>
+    <titles>
+      <title>Out Of My Bondage</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Out of my bondage sorrow and night<br/>Jesus I come Jesus I come<br/>Into Thy freedom gladness and light<br/>Jesus I come to Thee</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Out of my sickness into Thy health<br/>Out of my want and into Thy wealth<br/>Out of my sin and into thyself<br/>Jesus I come to Thee</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Out of my shameful failure and loss<br/>Jesus I come Jesus I come<br/>Into the glorious gain of Thy cross<br/>Jesus I come to Thee</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Out of earth's sorrows into Thy balm<br/>Out of life's storms and into Thy calm<br/>Out of distress to jubilant Psalm<br/>Jesus I come to Thee</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Out of unrest and arrogant pride<br/>Jesus I come Jesus I come<br/>Into Thy blessed will to abide<br/>Jesus I come to Thee</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Out of myself to dwell in Thy love<br/>Out of despair into raptures above<br/>Upward for aye on wings like a dove<br/>Jesus I come to Thee</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Out of the fear and dread of the tomb<br/>Jesus I come Jesus I come<br/>Into the joy and light of Thy home<br/>Jesus I come to Thee</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Out of the depths of ruin untold<br/>Into the peace of Thy sheltering fold<br/>Ever Thy glorious face to behold<br/>Jesus I come to Thee</lines>
+    </verse>
+  </lyrics>
+</song>

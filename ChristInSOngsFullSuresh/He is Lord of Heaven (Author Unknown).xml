@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:46">
+  <properties>
+    <titles>
+      <title>He is Lord of Heaven</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He is Lord of heaven<br/>Lord of earth<br/>Our Prophet - Priest &amp; King<br/>He has triumphed o'er sins<br/>Fatal curse<br/>Oh death where is thy sting</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>There is no other name<br/>There is no other name<br/>Under heaven whereby<br/>We are saved<br/>There is no other name</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Jesus the name<br/>Jehovah saves<br/>Oh seed of Abraham<br/>By the blood of his cross<br/>He has laid<br/>Salvation's perfect plan</lines>
+    </verse>
+  </lyrics>
+</song>

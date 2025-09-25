@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:48">
+  <properties>
+    <titles>
+      <title>Joy to the World</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Joy to the world<br/>The Lord is come<br/>Let earth receive Her King<br/>Let ev'ry heart<br/>Prepare Him room</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>And heav'n and Nature sing<br/>And heav'n and Nature sing<br/>And heav'n and heav'n And nature sing</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Joy to the world<br/>The savior reigns<br/>Let men their songs Employ<br/>While fields and floods<br/>Rocks hills and plains</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Repeat the sounding Joy<br/>Repeat the sounding Joy<br/>Repeat repeat the Sounding joy</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>No more let sins and Sorrows grow<br/>Nor thorns infest The ground<br/>He comes to make His blessing flow</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Far as the curse Is found<br/>Far as the curse Is found<br/>Far as far as the Curse is found</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>He rules the world With truth and grace<br/>And makes the Nations prove<br/>The glories of His Righteousness</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>And wonders Of His love<br/>And wonders Of His love<br/>And wonders wonders Of His love</lines>
+    </verse>
+  </lyrics>
+</song>

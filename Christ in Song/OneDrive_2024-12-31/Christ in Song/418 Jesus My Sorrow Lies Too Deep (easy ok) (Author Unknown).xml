@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>418 Jesus My Sorrow Lies Too Deep (easy ok)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus my sorrow<br/>Lies too deep<br/>For human ministry<br/>It knows not how<br/>To tell itself<br/>To any but to Thee</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thou dost remember<br/>Still amid<br/>The glories of<br/>God's Throne<br/>The sorrows of<br/>Mortality<br/>For they were once<br/>Thine own</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus my fainting<br/>Spirit brings<br/>Its fearfulness to Thee<br/>Thine eye at least<br/>Can penetrate<br/>The clouded mystery</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And is it not enough<br/>Enough<br/>This holy sympathy<br/>There is no sorrow<br/>e'er so deep<br/>But I may bring to Thee</lines>
+    </verse>
+  </lyrics>
+</song>

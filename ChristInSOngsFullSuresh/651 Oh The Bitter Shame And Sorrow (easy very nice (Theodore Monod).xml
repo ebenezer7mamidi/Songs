@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:42">
+  <properties>
+    <titles>
+      <title>651 Oh The Bitter Shame And Sorrow (easy very nice</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <ccliNo>3244030</ccliNo>
+    <authors>
+      <author>Theodore Monod</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh the bitter shame and sorrow<br/>That a time could ever be<br/>When I let the Saviour's pity<br/>Plead in vain and proudly answered<br/>'All of self and none of Thee<br/>All of self and none of Thee'</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yet He found me I beheld Him<br/>Bleeding on the cursed tree<br/>Heard Him pray 'Forgive them Father'<br/>And my wistful heart said faintly<br/>'Some of self and some of Thee<br/>Some of self and some of Thee'</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Day by day His tender mercy<br/>Healing helping full and free<br/>Sweet and strong and ah so patient<br/>Brought me lower while I whispered<br/>'Less of self and more of Thee<br/>Less of self and more of Thee'</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Higher than the highest heavens<br/>Deeper than the deepest sea<br/>Lord Thy love at last hath conquered<br/>Grant me now my souls petition<br/>'None of self and all of Thee<br/>None of self and all of Thee'</lines>
+    </verse>
+  </lyrics>
+</song>

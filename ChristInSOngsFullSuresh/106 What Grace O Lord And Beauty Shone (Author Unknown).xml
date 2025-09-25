@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:37">
+  <properties>
+    <titles>
+      <title>106 What Grace O Lord And Beauty Shone</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>what grace O Lord and beauty shone<br/>around Thy steps below<br/>what patient love was seen<br/>in all Thy life and death of woe</lines>
+    </verse>
+    <verse name="v2">
+      <lines>forever on Thy burdened heart<br/>a weight of sorrow hung<br/>yet no ungentle murmuring word<br/>escaped Thy silent tongue</lines>
+    </verse>
+    <verse name="v3">
+      <lines>thy foes might hate despise revile<br/>thy friends unfaithful prove<br/>unwearied in forgiveness still<br/>thy heart could only love</lines>
+    </verse>
+    <verse name="v4">
+      <lines>oh give us hearts to love like Thee<br/>like Thee O lord to grieve<br/>far more for other's sins than all<br/>the wrongs that we receive</lines>
+    </verse>
+    <verse name="v5">
+      <lines>one with Thyself may every eye<br/>in us Thy brethren see<br/>the gentleness and grace that spring<br/>from union Lord with Thee</lines>
+    </verse>
+  </lyrics>
+</song>

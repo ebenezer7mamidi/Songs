@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T03:28:00">
+  <properties>
+    <titles>
+      <title>God Of Wonders</title>
+    </titles>
+    <copyright>2000 New Spring / Storm Boy Music / Meaux Mercy, Administered by Brentwood-Benson Music Publishing, Inc. / EMI Chri</copyright>
+    <verseOrder>v1 c1 v2 c1 e1 c1</verseOrder>
+    <ccliNo>3118757</ccliNo>
+    <authors>
+      <author>Marc Byrd</author>
+      <author>Steve Hindalong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>G<br/><br/>Lord of all creation<br/>Of water earth and sky<br/>The heavens are Your tabernacle<br/>Glory to the Lord on high</lines>
+    </verse>
+    <verse name="c1">
+      <lines>God of wonders beyond Our galaxy<br/>You are holy holy<br/>The universe declares Your majesty<br/>You are holy holy<br/>Lord of heaven And earth (X2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Early in the morning<br/>I will celebrate the light<br/>And as I stumble In the darkness<br/>I will call Your name By night</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Hallelujah to the Lord Of heaven and earth<br/>Hallelujah to the Lord Of heaven and earth<br/>Hallelujah to the Lord Of heaven and earth</lines>
+    </verse>
+  </lyrics>
+</song>

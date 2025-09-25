@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T02:10:22">
+  <properties>
+    <titles>
+      <title>Be Still</title>
+    </titles>
+    <copyright>1986 Thankyou Music, Administered by EMI Christian Music Publishing</copyright>
+    <ccliNo>120824</ccliNo>
+    <authors>
+      <author>David J. Evans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/>Be still for the presence of the Lord<br/>The Holy One is here<br/>Come bow before Him now<br/>With reverence and fear</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>In Him no sin is found<br/>We stand on holy ground<br/>Be still for the presence of the Lord<br/>The Holy One is here</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Be still for the glory of the Lord<br/>Is shining all around<br/>He burns with holy fire<br/>With splendor He is crowned</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>How awesome is the sight<br/>Our radiant King of light<br/>Be still for the glory of the Lord<br/>Is shining all around</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Be still for the power of the Lord<br/>Is moving in this place<br/>He comes to cleanse and heal<br/>To minister His grace</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>No work too hard for Him<br/>In faith receive from Him<br/>Be still for the power of the Lord<br/>Is moving in this place</lines>
+    </verse>
+  </lyrics>
+</song>

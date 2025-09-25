@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>420 Safe In The Arms Of Jesus (easy - very nice)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Safe in the arms of Jesus<br/>Safe on His gentle breast<br/>There by His love o'er shaded<br/>Sweetly my soul doth rest<br/>Hark - 'tis a song of heaven<br/>Borne in a song to me<br/>Over the fields of glory<br/>Over the crystal sea</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Safe in the arms of Jesus<br/>Safe on his gentle breast<br/>There by His love o'er shaded<br/>Sweetly my soul doth rest</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Safe in the arms of Jesus<br/>Safe from corroding care<br/>Safe from the world's temptations<br/>Sin cannot harm me there<br/>Free from the blight of sorrow<br/>Free from my doubts and fears<br/>Only a few more trials<br/>Only a few more tears</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus my heart's dear Refuge<br/>Jesus has died for me<br/>Firm on the Rock of Ages<br/>Ever my trust shall be<br/>Here let me wait with patience<br/>Wait till the night is o'er<br/>Wait till I see the morning<br/>Break on the golden shore</lines>
+    </verse>
+  </lyrics>
+</song>

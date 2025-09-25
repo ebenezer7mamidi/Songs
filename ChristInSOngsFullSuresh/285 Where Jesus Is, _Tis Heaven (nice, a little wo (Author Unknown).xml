@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>285 Where Jesus Is, 'Tis Heaven (nice, a little wo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Since Christ my soul<br/>From sin set free<br/>This world has been<br/>A heav'n to me<br/>And mid earth's sorrows<br/>And its woe<br/>'Tis heav'n my Jesus<br/>Here to know</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh hallellujah<br/>Yes 'tis heaven<br/>'Tis heaven to know<br/>My sins forgiv'n<br/>On land or sea<br/>What matters where<br/>Where Jesus is<br/>'Tis heaven there</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Once heaven seemed<br/>A far off place<br/>Till Jesus showed<br/>His smiling face<br/>Now it's begun<br/>Within my soul<br/>'Twill last while endless<br/>Ages roll</lines>
+    </verse>
+    <verse name="v3">
+      <lines>What matters where<br/>On earth we dwell<br/>On mountaintop<br/>Or in the dell<br/>In cottage or<br/>A mansion fair<br/>Where Jesus is<br/>'Tis heaven there</lines>
+    </verse>
+  </lyrics>
+</song>

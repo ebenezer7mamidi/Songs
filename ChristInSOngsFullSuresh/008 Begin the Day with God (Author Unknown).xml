@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:37">
+  <properties>
+    <titles>
+      <title>008 Begin the Day with God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Begin the day with God<br/>He is Thy Sun and Day<br/>His is the radiance Of thy dawn<br/>To Him commit thy way</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sing a new song at morn<br/>Join the glad woods and hills<br/>Join the fresh winds And seas and plains<br/>Join the bright flowers And the rills</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sing thy first song to God<br/>Not to thy fellow men<br/>Not to the creatures Of His hand<br/>But to the glorious One</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Take thy first walk with God<br/>Let Him go forth with thee<br/>By stream or sea or Mountain path<br/>Seek still His company</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Thy first transaction be<br/>With God Himself above<br/>So shall thy business Prosper well<br/>And all the day be love</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-12-24T14:53:27">
+  <properties>
+    <titles>
+      <title>O Holy Night</title>
+    </titles>
+    <authors>
+      <author>(unknown)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>O Holy night, the stars are brightly shining<br/>It is the night of our dear Savior's birth<br/>Long lay the world in sin and error, pining<br/>'Til He appeared, and the soul felt its worth<br/>A thrill of hope, the weary world rejoices<br/>For yonder breaks a new and glorious morn<br/></lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Fall on your knees<br/>O hear the angel voices<br/>O night divine<br/>O night when Christ was born<br/>O night divine<br/>O night, O night divine<br/></lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Chains shall He break, for the slave is our brother<br/>And in His name all oppression shall cease<br/>Sweet hymns of joy in grateful chorus raise we<br/>Let all within us praise His holy name<br/></lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Christ is the Lord<br/>Let ever, ever praise Thee<br/>Noel, Noel<br/>O night, O night divine<br/>Noel, Noel<br/>O night, O night divine<br/>Noel, Noel<br/>O night, O night divine</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:47">
+  <properties>
+    <titles>
+      <title>I See The Lord</title>
+    </titles>
+    <copyright>1992 Maranatha Praise, Inc., Administered by Music Services</copyright>
+    <ccliNo>1406176</ccliNo>
+    <authors>
+      <author>Chris Falson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>I see the Lord<br/>Seated on the throne exalted<br/>And the train of His robe<br/>Fills the temple with glory<br/>And the whole earth is filled<br/>And the whole earth is filled<br/>And the whole earth is filled<br/>With His glory</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Holy holy holy holy<br/>Holy is the Lord<br/>Holy holy holy holy<br/>Holy is the Lord of lords</lines>
+    </verse>
+  </lyrics>
+</song>

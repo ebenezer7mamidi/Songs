@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-20T01:35:04">
+  <properties>
+    <titles>
+      <title>My Eyes Are Fixed On You</title>
+    </titles>
+    <comments>
+      <comment>verse 2 (optional - corporate)
+
+[above are Song Tags with notes imported from EasyWorship]</comment>
+    </comments>
+    <copyright>1997 Integrity's Hosanna! Music, Administered by Integrity Music, Inc.</copyright>
+    <ccliNo>2221717</ccliNo>
+    <authors>
+      <author>Bob Fitts</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>D<br/><br/>My eyes are fixed on You<br/>O Lord, Your loving face I seek<br/>I set my heart hard after You<br/>I'll follow faithfully</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Each weight I lay aside<br/>By grace I will abide<br/>Your rod and staff<br/>They comfort me<br/>And open up my eyes<br/>You've opened up my eyes</lines>
+    </verse>
+    <verse name="c1">
+      <lines>To see Your holiness<br/>To be Your righteousness<br/>O how I need You Lord<br/>To see Your majesty<br/>To be Your family<br/>O Lord I praise Your name</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Our eyes are fixed on You<br/>O Lord, Your loving face we seek<br/>We set our hearts hard after you<br/>We follow faithfully</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Each weight we lay aside<br/>By grace we will abide<br/>Your rod and staff<br/>They comfort us<br/>And open up our eyes<br/>You've opened up our eyes</lines>
+    </verse>
+    <verse name="c2">
+      <lines>To see Your holiness<br/>To be Your righteousness<br/>O how We need You Lord<br/>To see Your majesty<br/>To be Your family<br/>O Lord We praise Your name</lines>
+    </verse>
+  </lyrics>
+</song>

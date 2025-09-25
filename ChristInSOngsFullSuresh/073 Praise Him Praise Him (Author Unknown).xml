@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-19T20:15:57">
+  <properties>
+    <titles>
+      <title>073 Praise Him Praise Him</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>E<br/><br/>Praise Him praise Him<br/>Jesus our blessed Redeemer<br/>Sing O earth<br/>His wonderful Love proclaim</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Hail Him hail Him<br/>Highest arch-angels In glory<br/>Strength and honor<br/>Give to His holy name</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Like a shepherd<br/>Jesus will guard His children<br/>In His arms<br/>He carries them All day long</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Praise Him praise Him<br/>Tell of His excellent Greatness<br/>Praise Him praise Him<br/>Ever in joyful song</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Praise Him praise Him<br/>Jesus our blessed Redeemer<br/>For our sins<br/>He suffered and Bled and died</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>He our Rock<br/>Our Hope of eternal Salvation<br/>Hail Him hail Him<br/>Jesus the Crucified</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>Sound His praises<br/>Jesus who bore Our sorrows<br/>Love unbounded<br/>Wonderful deep And strong</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Praise Him praise Him<br/>Jesus our blessed Redeemer<br/>Heavenly portals<br/>Loud with hosannahs Ring</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Jesus Savior<br/>Reigneth for ever And ever<br/>Crown Him crown Him<br/>Prophet and Priest And King</lines>
+    </verse>
+    <verse name="v3c">
+      <lines>Christ is coming<br/>Over the world victorious<br/>Power and glory<br/>Unto the Lord belong</lines>
+    </verse>
+  </lyrics>
+</song>

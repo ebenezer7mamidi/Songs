@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-12T15:46:04">
+  <properties>
+    <titles>
+      <title>Jesus Gods righteousness</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/><br/>Jesus God's righteousness revealed<br/>The Son of Man, the Son of God<br/>His Kingdom comes<br/>Jesus redemption's sacrifice<br/>Now glorified now justified<br/>His Kingdom comes</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>And this kingdom will know no end<br/>And its glory shall know no bounds<br/>For the majesty and power<br/>Of this kingdom's King has come</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>And this kingdom's reign<br/>And this kingdom's rule<br/>And this kingdom's power and authority<br/>Jesus God's righteousness revealed</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus the expression of God's love<br/>The grace of God the Word of God<br/>Revealed to us<br/>Jesus God's holiness displayed<br/>Now glorified now justified<br/>His Kingdom comes</lines>
+    </verse>
+  </lyrics>
+</song>

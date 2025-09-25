@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:41">
+  <properties>
+    <titles>
+      <title>528 From Every Stormy Wind That Blows (easy nice t</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>From ev'ry stormy wind that blows<br/>From ev'ry swelling tide of woes<br/>There is a calm a sure retreat<br/>'Tis found beneath the mercy seat</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is a place where Jesus sheds<br/>The oil of gladness on our heads<br/>A place than all besides more sweet<br/>It is the blood-bought mercy seat</lines>
+    </verse>
+    <verse name="v3">
+      <lines>there is a scene where spirits blend<br/>Where friend holds fellowship with friend<br/>Though parted far by faith they meet<br/>Around one common mercy seat</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There there on eagle's wings we soar<br/>And time and sense seem all no more<br/>And heaven comes down our souls to greet<br/>And glory crowns the mercy seat</lines>
+    </verse>
+  </lyrics>
+</song>

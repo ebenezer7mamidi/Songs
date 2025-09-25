@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>330 I Know Whom I Have Believed</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/>I know not why<br/>God's wondrous grace<br/>To me He hath made known<br/>Nor why unworthy Christ in love<br/>Redeemed me for His own</lines>
+    </verse>
+    <verse name="c1">
+      <lines>But I know Whom I have believed<br/>And am persuaded that He is able<br/>To keep that which I've committed<br/>Unto Him against that day</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I know not how<br/>This saving faith<br/>To me He did impart<br/>Nor how believing in His Word<br/>Wrought peace within my heart</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I know not how<br/>The Spirit moves<br/>Convincing us of sin<br/>Revealing Jesus<br/>Through the Word<br/>Creating faith in Him</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I know not what<br/>Of good or ill<br/>May be reserved for me<br/>Of weary ways or golden days<br/>Before His face I see</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I know not when<br/>My Lord may come<br/>At night or noonday fair<br/>Nor if I walk<br/>The vale with Him<br/>Or meet Him in the air</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:51">
+  <properties>
+    <titles>
+      <title>Therefore Will I Give Thanks</title>
+    </titles>
+    <copyright>Public Domain, Administered by CCLI Administration Account</copyright>
+    <ccliNo>29406</ccliNo>
+    <authors>
+      <author>Jerry Cook</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>The Lord liveth<br/>And blessed be my rock<br/>And let the God<br/>Of my salvation be exalted<br/>The Lord liveth<br/>And blessed be my Rock<br/>And let the God<br/>Of my salvation be exalted</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Therefore will I give thanks<br/>Unto Thee oh Lord<br/>Among the nations<br/>And sing praises to Thy name<br/>The Lord liveth<br/>And blessed be my Rock<br/>And let the God<br/>Of my salvation be exalted</lines>
+    </verse>
+  </lyrics>
+</song>

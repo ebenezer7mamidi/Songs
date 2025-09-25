@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:52">
+  <properties>
+    <titles>
+      <title>We Remember You</title>
+    </titles>
+    <authors>
+      <author>Kirk Dearman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As we drink this cup, we worship You;<br/>As we eat this bread, we honor You;<br/>And we offer You our lives as You have<br/>Offered Yours for us.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We remember all You've done for us,<br/>We remember Your covenant with us,<br/>We remember, and worship You, O Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-22T00:03:02">
+  <properties>
+    <titles>
+      <title>Oh Worship The Lord</title>
+    </titles>
+    <verseOrder>c1 v1 b1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>O worship the Lord<br/>In the beauty of holiness<br/>O worship the Lord<br/>In the beauty of His holiness</lines>
+    </verse>
+    <verse name="v1">
+      <lines>And fear before Him all the earth<br/>And fear before Him all the earth</lines>
+    </verse>
+    <verse name="b1">
+      <lines>BRIDGE<br/>Sing unto the Lord a new song<br/>Sing unto the Lord all the earth<br/>Sing unto the Lord bless His name<br/>Show forth His salvation from day to day</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:42">
+  <properties>
+    <titles>
+      <title>660 Though Christ A Thousand Times (easy realy nic</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Though Christ a thousand times<br/>In Bethlehem be born<br/>If He's not born in thee<br/>Thy soul is still forlorn<br/>The cross on Golgotha<br/>Will never save thy soul<br/>The Cross in thine own heart<br/>Alone can make thee whole</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O Cross of Christ I take thee<br/>Into this heart of mine<br/>That I to my own self may die<br/>And rise to Thy life divine</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What e'er thou lovest man<br/>That too reflect thou must<br/>God if thou lovest God<br/>Dust if thou lovest dust<br/>Let go God will come in<br/>Die thou and let Him live<br/>Be not and He will be<br/>Wait and He'll all things give</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To bring thee to thy God<br/>Love takes the shortest route<br/>The way which knowledge leads<br/>Is but a roundabout<br/>Drive out from thee the world<br/>And then thy heart shall be<br/>Filled with the love of God<br/>And holy like as He</lines>
+    </verse>
+  </lyrics>
+</song>

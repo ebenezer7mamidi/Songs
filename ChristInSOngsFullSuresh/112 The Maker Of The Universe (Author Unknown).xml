@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:37">
+  <properties>
+    <titles>
+      <title>112 The Maker Of The Universe</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The maker of the universe<br/>As Man, for man was made a curse<br/>The claims of law which He had made<br/>Unto the uttermost He paid</lines>
+    </verse>
+    <verse name="v2">
+      <lines>His holy fingers made the bough<br/>Which grew the thorns<br/>that crowned His brow<br/>The nails that pierced<br/>His hands were mined<br/>In secret places He designed</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He made the forest<br/>whence there sprung<br/>The tree on which His body hung<br/>He died upon a cross of wood<br/>Yet made the hill on which it stood</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The sky that darkened o'er His head<br/>By Him above the earth was spread<br/>The sun that hid from Him its face<br/>By His decree was poised in space</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The spear which spilled<br/>His precious blood<br/>Was tempered in the fires of God <br/>The grave in which<br/>His form was laid<br/>Was hewn in rocks<br/>His hands had made</lines>
+    </verse>
+    <verse name="v6">
+      <lines>The throne on which He now appears<br/>Was His from everlasting years<br/>But a new glory crowns His brow<br/>And every knee to Him shall bow</lines>
+    </verse>
+  </lyrics>
+</song>

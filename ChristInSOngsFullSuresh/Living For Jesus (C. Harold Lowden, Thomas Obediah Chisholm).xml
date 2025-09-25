@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-20T00:43:43">
+  <properties>
+    <titles>
+      <title>Living For Jesus</title>
+    </titles>
+    <copyright>Public Domain, Administered by CCLI Administration Account</copyright>
+    <ccliNo>20687</ccliNo>
+    <authors>
+      <author>C. Harold Lowden</author>
+      <author>Thomas Obediah Chisholm</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>E<br/>O Jesus Lord and Savior<br/>I give myself to Thee<br/>For Thou in Thy atonement<br/>Didst give Thyself for me<br/>I own no other master<br/>My heart shall be Thy throne<br/>My life I give henceforth to live<br/>O Christ for Thee alone</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Living for Jesus a life that is true<br/>Striving to please Him in all that I do<br/>Yielding allegiance glad-hearted and free<br/>This is the pathway of blessing for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Living for Jesus who died in my place<br/>Bearing on Calvary my sin and disgrace<br/>Such love constrains me to answer His call<br/>Follow His leading and give Him my all</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Living for Jesus wherever I am<br/>Doing each duty in His holy name<br/>Willing to suffer affliction or loss<br/>Deeming each trial a part of my cross</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Living for Jesus through earth's little while<br/>My dearest treasure the light of His smile<br/>Seeking the lost ones He died to redeem<br/>Bringing the weary to find rest in Him</lines>
+    </verse>
+  </lyrics>
+</song>

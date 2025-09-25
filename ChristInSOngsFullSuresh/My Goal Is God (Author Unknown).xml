@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:49">
+  <properties>
+    <titles>
+      <title>My Goal Is God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My goal is God Himself, not joy, nor peace<br/>Nor even blessing, but Himself my God<br/>Tis His to lead me there - nor mine - but His<br/>At any cost, dear Lord, by any road</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So faith bounds forward to its goal in God<br/>And love can trust her Lord to lead her there<br/>Upheld by Him, my soul is following hard<br/>Till God hath full fulfilled my deepest prayer</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No matter if the way be sometimes dark<br/>No matter if the cost be oft-times great<br/>He knoweth how I best shall reach the mark<br/>The way that leads to Him must needs be straight</lines>
+    </verse>
+    <verse name="v4">
+      <lines>One thing I know, I cannot say Him nay<br/>One thing I do, I press towards my Lord<br/>My God, my glory here, from day to day<br/>And in the glory there my great reward</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-20T00:47:24">
+  <properties>
+    <titles>
+      <title>Lord I am fondly earnestly longing</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Lord, I am fondly, earnestly longing<br/> Into thy Holy likeness to grow;<br/> Thirsting for more and deeper communion,<br/> Yearning Thy love more fully to know.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Open the wells of grace and salvation,<br/> Pour the rich streams deep into my heart;<br/> Cleanse and refine my thought and affection,<br/> Seal me and make me pure as thou art.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Dead to the world would I be, O Father!<br/> Dead unto sin, alive unto Thee;<br/> Crucify all the earthly within me,<br/> Emptied of sin and self may I be.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. I would be Thine, and serve Thee forever,<br/> Filled with Thy spirit, lost in Thy love;<br/> Come to my heart, Lord; come with anointing,<br/> Showers of grace send down from above.</lines>
+    </verse>
+  </lyrics>
+</song>

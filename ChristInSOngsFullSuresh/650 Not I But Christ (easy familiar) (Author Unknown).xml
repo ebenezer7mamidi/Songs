@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:42">
+  <properties>
+    <titles>
+      <title>650 Not I But Christ (easy familiar)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Not I but Christ<br/>Be honored loved exalted<br/>Not I but Christ<br/>Be seen be known be heard<br/>Not I but Christ<br/>In ev'ry look and action<br/>Not I but Christ<br/>In ev'ry thought and word</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh to be saved from myself dear Lord<br/>Oh to be lost in Thee<br/>Oh that it may be no more I<br/>But Christ that lives in me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Not I, but Christ<br/>My every need supplying<br/>Not I but Christ<br/>My strength and health to be<br/>Christ only Christ<br/>For body soul and spirit<br/>Christ only Christ<br/>Live then Thy life in me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Christ only Christ<br/>No idle word e'er falling<br/>Christ only Christ<br/>No needless bustling sound<br/>Christ only Christ<br/>No self-important bearing<br/>Christ only Christ<br/>No trace of "I" be found</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Not I but Christ<br/>To gently soothe in sorrow<br/>Not I but Christ<br/>to wipe the falling tear<br/>Not I but Christ<br/>To lift the weary burden<br/>Not I but Christ<br/>To hush away all fear</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Christ only Christ<br/>Ere long will fill my vision<br/>Glory excelling soon full soon I'll see<br/>Christ only Christ<br/>My every wish fulfilling<br/>Christ only Christ<br/>My all in all to be</lines>
+    </verse>
+  </lyrics>
+</song>

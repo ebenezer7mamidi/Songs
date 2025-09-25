@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T15:24:55">
+  <properties>
+    <titles>
+      <title>Tis So sweet To trust in Jesus**</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>F<br/><br/>Tis so sweet to trust in Jesus<br/>Just to take Him at His word<br/>Just to rest upon His promise<br/>Just to know<br/>Thus saith the Lord</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus Jesus how I trust Him<br/>How I've proved Him o'er and o'er<br/>Jesus Jesus Precious Jesus<br/>O for grace to trust Him more</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O how sweet to trust in Jesus<br/>Just to trust His cleansing blood<br/>Just in simple faith to plunge me<br/>'Neath the healing<br/>cleansing flood</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yes 'tis sweet to trust in Jesus<br/>Just from sin and self to cease<br/>Just from Jesus simply taking<br/>Life and rest and joy and peace</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I'm so glad I learned to trust Thee<br/>Precious Jesus, Savior, Friend<br/>And I know that Thou art with me<br/>Wilt be with me to the end</lines>
+    </verse>
+  </lyrics>
+</song>

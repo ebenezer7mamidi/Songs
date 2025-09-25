@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:49">
+  <properties>
+    <titles>
+      <title>My Redeemer Lives</title>
+    </titles>
+    <copyright>1993 Mercy / Vineyard Publishing, Administered by Vineyard Music USA</copyright>
+    <ccliNo>1229298</ccliNo>
+    <authors>
+      <author>John Willison</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>For I know that my Redeemer lives<br/>And I will stand with Him on that day</lines>
+    </verse>
+    <verse name="v1">
+      <lines>For I know my Redeemer lives<br/>And in the end He will stand on the earth<br/>For I know my Redeemer lives<br/>And in the end He will reign on the earth<br/>Though my flesh it be destroyed<br/>Yet with my eyes I will see God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh my heart it yearns within me<br/>For the day when Jesus returns<br/>Oh my heart it yearns within me<br/>For the day when Jesus shall reign<br/>Though my flesh it be destroyed<br/>Yet with my eyes I will see God</lines>
+    </verse>
+  </lyrics>
+</song>

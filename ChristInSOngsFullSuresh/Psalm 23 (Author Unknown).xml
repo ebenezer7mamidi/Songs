@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T13:44:30">
+  <properties>
+    <titles>
+      <title>Psalm 23</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Lord's my Shepherd I'll not want<br/>He makes me lie in pastures green<br/>He leads me by the still, still waters<br/>His goodness restores my soul</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>And I will trust in You alone<br/>And I will tust in You alone<br/>For Your endless mercy follows me<br/>Your goodness will lead me home</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Descant<br/>I will trust I will trust in You<br/>I will trust I will trust in You<br/>Endless mercy follows me<br/>Goodness will lead me home</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>I will trust in You alone<br/>And I will trust in You alone<br/>For Your endless mercy follows me,<br/>Your goodness will lead me home</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He guides my ways in righteousness<br/>And He anoints my head with oil<br/>And my cup it overflows with joy<br/>I feast on His pure delights</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And though I walk the darkest path<br/>I will not fear the evil one<br/>For You are with me and Your rod and staff<br/>Are the comfort I need to know</lines>
+    </verse>
+  </lyrics>
+</song>

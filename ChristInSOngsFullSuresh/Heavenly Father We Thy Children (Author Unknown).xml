@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:46">
+  <properties>
+    <titles>
+      <title>Heavenly Father We Thy Children</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Heavenly Father, we Thy children<br/>Gathered round our risen Lord<br/>lift our hearts in earnest pleading<br/>Oh, revive us by Thy word</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Send refreshing, send refreshing<br/>From Thy presence, gracious Lord<br/>Send refreshing, send refreshing<br/>And revive us by Thy word!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gracious gales of heavenly blessing<br/>In Thy love to us afford<br/>Let us feel Thy Spirit's presence<br/>Oh, revive us by Thy word</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Weak and weary in the conflict<br/>Wrestling, "not with flesh and blood"<br/>Help us, Lord, as faith we falter<br/>Oh, revive us by Thy word</lines>
+    </verse>
+    <verse name="v5">
+      <lines>With Thy strength, O Master, gird us<br/>Be our guide and be our guard<br/>Fill us with Thy Holy Spirit<br/>Oh, revive us by Thy word!</lines>
+    </verse>
+  </lyrics>
+</song>

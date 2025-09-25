@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T15:52:05">
+  <properties>
+    <titles>
+      <title>When I Look Into Your Holiness</title>
+    </titles>
+    <copyright>1981 Integrity's Hosanna! Music, Administered by Integrity Music, Inc.</copyright>
+    <verseOrder>v1 c1 v2 c2</verseOrder>
+    <ccliNo>16347</ccliNo>
+    <authors>
+      <author>Cathy Perrin</author>
+      <author>Wayne Perrin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Bb<br/><br/>When I look into Your holiness,<br/>When I gaze into Your lovely Face<br/>When all things that surround<br/>Become shadows in the light of You,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>When I've found the joy<br/>Of reaching Your heart,<br/>When my will becomes<br/>Enthralled in Your love,<br/>When all things that surround<br/>Become shadows in the light of You,</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I worship You, I worship You.<br/>The reason I live is to worship You.<br/>I worship You, I worship You.<br/>The reason I live is to worship You.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>When I look into Your holiness,<br/>When I gaze into Your lovely Face<br/>When all things that surround<br/>Become shadows in the light of You</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>When I've found the joy<br/>Of reaching Your heart,<br/>When my will becomes<br/>Enthralled in Your love,<br/>When all things that surround<br/>Become shadows in the light of You</lines>
+    </verse>
+    <verse name="c2">
+      <lines>We worship You, We worship You.<br/>The reason We live is to worship You.<br/>We worship You, We worship You.<br/>The reason We live is to worship You.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>814 Have You Any Room For Jesus (easy)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Have you any room for Jesus<br/>He who bore your load of sin<br/>As He knocks and asks admission<br/>Sinner will you let Him in</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Room for Jesus King of glory<br/>Hasten now His word obey<br/>Swing the heart's door widely open<br/>Bid Him enter while you may</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Room for pleasure room for business<br/>But for Christ the crucified<br/>Not a place that He can enter<br/>In the heart for which He died</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Have you any room for Jesus<br/>As in grace He calls again<br/>O today is time accepted<br/>Tomorrow you may call in vain</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Room and time now give to Jesus<br/>Soon will pass God's day of grace<br/>Soon thy heart left cold and silent<br/>And thy Savior's pleading cease</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>CCLI Song # 33928</lines>
+    </verse>
+  </lyrics>
+</song>

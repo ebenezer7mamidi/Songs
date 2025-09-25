@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-11T15:58:41">
+  <properties>
+    <titles>
+      <title>I've Found A Friend O Such A Friend</title>
+    </titles>
+    <copyright>Public Domain, Administered by CCLI Administration Account</copyright>
+    <ccliNo>85220</ccliNo>
+    <authors>
+      <author>George Coles Stebbins</author>
+      <author>James Grindlay Small</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>F<br/><br/>I've found a Friend<br/>Oh such a Friend<br/>He loved me ere I knew Him<br/>He drew me with<br/>The cords of love</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>And thus He bound me to Him<br/>And round my heart<br/>Still closely twine<br/>Those ties which<br/>Naught can sever<br/>For I am His and He is mine<br/>Forever and forever</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>I've found a Friend<br/>Oh such a Friend<br/>He bled He died to save me<br/>And not alone<br/>The gift of life</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>But His own self He gave me<br/>Naught that I have<br/>My own I call<br/>I hold it for the Giver<br/>My heart my strength<br/>My life my all<br/>Are His and His forever</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>I've found a Friend oh such a Friend<br/>All pow'r to Him is given<br/>To guard me on my onward course<br/>And bring me safe to heaven</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Th' eternal glories gleam afar<br/>To nerve my faint endeavor<br/>So now to watch to work to war<br/>And then to rest for ever</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>I've found a Friend<br/>Oh such a Friend<br/>So kind and true and tender<br/>So wise a Counselor and Guide<br/>So mighty a Defender</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>From Him who loves me<br/>Now so well<br/>What power my soul can sever<br/>Shall life or death<br/>Or earth or hell<br/>No I am His forever</lines>
+    </verse>
+  </lyrics>
+</song>

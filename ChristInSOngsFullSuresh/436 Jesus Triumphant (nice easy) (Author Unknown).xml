@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>436 Jesus Triumphant (nice easy)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus triumphant<br/>When the stormclouds break<br/>And the loud thunder<br/>Bids the soul awake<br/>When biting blasts<br/>lay earthly projects low<br/>And one by one<br/>The fondest treasures go</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus triumphant<br/>Through the fleeting years<br/>Jesus triumphant<br/>Spite of blinding tears<br/>High over all<br/>To hear Thy loving voice<br/>Which bids the heart<br/>Look upward and rejoice</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus triumphant<br/>When in work for Thee<br/>Sad and disheartened<br/>No results we see<br/>When gathered force<br/>Of evil seems to win<br/>And work for Christ<br/>Seems lost in work of sin</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus triumphant<br/>All along the line<br/>Triumphant Savior<br/>All Thy triumph mine<br/>For since I am<br/>A partner in Thy love<br/>My life on earth is<br/>Lived through Thee above</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus triumphant<br/>When the spirit wings<br/>Upward and heav'nward<br/>To the King of kings<br/>And through the last<br/>Great triumph of Thy grace<br/>Triumphant saints shall see<br/>Thee face to face</lines>
+    </verse>
+  </lyrics>
+</song>

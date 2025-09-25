@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-11T15:42:02">
+  <properties>
+    <titles>
+      <title>In Christ Alone</title>
+    </titles>
+    <copyright>2001 Thankyou Music, Administered by EMI Christian Music Publishing</copyright>
+    <ccliNo>3350395</ccliNo>
+    <authors>
+      <author>Keith Getty</author>
+      <author>Stuart Townend</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>D<br/><br/>In Christ alone my hope is found<br/>He is my light my strength my song<br/>This Cornerstone this solid ground<br/>Firm through the fiercest drought and storm</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>What heights of love what depths of peace<br/>When fears are stilled when strivings cease<br/>My comforter my all in all<br/>Here in the love of Christ I stand</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>In Christ alone who took on flesh<br/>Fullness of God in helpless Babe<br/>This gift of love and righteousness<br/>Scorned by the ones He came to save</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>'Til on that cross as Jesus died<br/>The wrath of God was satisfied<br/>For ev'ry sin on Him was laid<br/>Here in the death of Christ I live</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>There in the ground His body lay<br/>Light of the world by darkness slain<br/>Then bursting forth in glorious day<br/>Up from the grave He rose again</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>And as He stands in victory<br/>Sin's curse has lost its grip on me<br/>For I am His and He is mine<br/>Bought with the precious blood of Christ</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>No guilt in life no fear in death<br/>This is the pow'r of Christ in me<br/>From life's first cry to final breath<br/>Jesus commands my destiny</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>No pow'r of hell no scheme of man<br/>Can ever pluck me from His hand<br/>'Til He returns or calls me home<br/>Here in the pow'r of Christ I'll stand</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-11T15:17:33">
+  <properties>
+    <titles>
+      <title>I Will Give Thanks to Thee</title>
+    </titles>
+    <comments>
+      <comment>chorus 1 (played after 1st time)
+chorus 2 (played after 2nd time)
+
+[above are Song Tags with notes imported from EasyWorship]</comment>
+    </comments>
+    <copyright>1977 Scripture In Song, Administered by Integrity Music, Inc.</copyright>
+    <verseOrder>v1 c1 v1 c2</verseOrder>
+    <ccliNo>21112</ccliNo>
+    <authors>
+      <author>Brent Chambers</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>A<br/><br/>I will give thanks to Thee<br/>O Lord among the people<br/>I will sing praises to Thee<br/>Among the nations</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>For Thy steadfast love is great<br/>Is great to the heavens<br/>And Thy faithfulness<br/>Thy faithfulness to the clouds</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Be exalted O God above the heavens<br/>Let Thy glory be over all the earth<br/>(Repeat)</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>Be exalted O God above the heavens<br/>Let Thy glory be over all the earth</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>Be exalted O God above the heavens<br/>Let Thy glory<br/>Let Thy glory<br/>Let Thy glory be over<br/>All the earth</lines>
+    </verse>
+  </lyrics>
+</song>

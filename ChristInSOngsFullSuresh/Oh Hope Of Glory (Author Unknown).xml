@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-21T23:47:00">
+  <properties>
+    <titles>
+      <title>Oh Hope Of Glory</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>G<br/>O hope of glory<br/>our Christ will return<br/>We will be raptured<br/>with glory transformed<br/>Glorified with Him<br/>Himself to enjoy<br/>In His full likeness<br/>we then will be formed</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Glorious hope! Christ will return!<br/>Glorious hope! Christ will return!<br/>We will be raptured<br/>with glory transformed<br/>O hope of glory<br/>our Christ will return!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O hope of glory<br/>our Christ will return!<br/>The old creation will vanish away<br/>No more we'll groan but have full liberty<br/>Enjoy salvation<br/>in its utmost way</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O hope of glory<br/>our Christ will return!<br/>Over the nations<br/>with Him we will reign<br/>Priests we will be in His presence to serve<br/>Thus His salvation<br/>in fullness we'll gain</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O hope of glory<br/>our Christ will return!<br/>Waiting and watching<br/>we faithfully serve<br/>Running the race<br/>pressing on toward the goal<br/>That we the Kingdom's<br/>reward might deserve</lines>
+    </verse>
+  </lyrics>
+</song>

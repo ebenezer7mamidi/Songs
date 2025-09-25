@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>867 Sweeping Through the Gates</title>
+    </titles>
+    <verseOrder>v1 c1 v2 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who, who are these beside the chilly wave,<br/>Just on the borders of the silent grave,<br/>shouting Jesus' pow'r to save,<br/>"Washed in the blood of the Lamb"?</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Sweeping thru the gates of the New Jerusalem,<br/>"Washed in the blood of the Lamb;"<br/>Sweeping thru the gates of the New Jerusalem,<br/>"Washed in the blood of the Lamb."</lines>
+    </verse>
+    <verse name="v2">
+      <lines>These, these are they who, in their youthful days,<br/>found Jesus early, and in wisdom's ways,<br/>Proved the fullness of His grace,<br/>"Washed in the blood of the Lamb."</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Sweeping thru the gates of the New Jerusalem,<br/>"Washed in the blood of the Lamb;"<br/>Sweeping thru the gates of the New Jerusalem,<br/>"Washed in the blood of the Lamb."</lines>
+    </verse>
+    <verse name="v3">
+      <lines>These, these are they who, in affliction's woes,<br/>ever have found in Jesus calm repose,<br/>Such as from a pure heart flows,<br/>"Washed in the blood of the Lamb."</lines>
+    </verse>
+    <verse name="v4">
+      <lines>These, these are they who, in the conflict dire,<br/>Boldly have stood amid the hottest fire;<br/>Jesus now says, "Come up higher!"<br/>"Washed in the blood of the Lamb."</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Safe, safe upon the ever-shining shore,<br/>Sin, pain, and death, and sorrow, all are o'er,<br/>Happy now and evermore,<br/>"Washed in the blood of the Lamb."</lines>
+    </verse>
+  </lyrics>
+</song>

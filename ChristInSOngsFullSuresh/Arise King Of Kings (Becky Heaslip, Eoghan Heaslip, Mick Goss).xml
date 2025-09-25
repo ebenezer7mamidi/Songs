@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:44">
+  <properties>
+    <titles>
+      <title>Arise King Of Kings</title>
+    </titles>
+    <copyright>2000 Daybreak Music, Ltd., Administered by Integrity Music, Inc.</copyright>
+    <verseOrder>v1 c1 v2 v1 c2 e1</verseOrder>
+    <ccliNo>3154182</ccliNo>
+    <authors>
+      <author>Becky Heaslip</author>
+      <author>Eoghan Heaslip</author>
+      <author>Mick Goss</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>We call upon Your name O Lord<br/>The name that is holy<br/>We call upon Your name O Lord<br/>The name that is holy (repeat)</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>We call upon Your name O Lord<br/>We come to bring our praise to the One<br/>Who was Who is and is to come</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Arise King of kings<br/>God of all creation<br/>O Lord we cry we cry</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Arise King of kings<br/>The Father to the nations<br/>The Rock of our salvation<br/>O God arise</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We call upon Your name O Lord<br/>The name that is holy<br/>We call upon Your name O Lord<br/>The name that is holy</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>Arise King of kings<br/>God of all creation<br/>O Lord we cry - we cry - we cry</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>Arise King of kings<br/>The Father to the nations<br/>The Rock of our salvation<br/>We cry we cry<br/>Arise King of kings<br/>God of all creation<br/>O Lord we cry<br/>Arise King of kings<br/>The Father to the nations<br/>The Rock of our salvation</lines>
+    </verse>
+    <verse name="e1">
+      <lines>O God arise O God arise<br/>O God arise O God arise<br/>O God arise O God arise<br/>O God arise O God arise</lines>
+    </verse>
+  </lyrics>
+</song>

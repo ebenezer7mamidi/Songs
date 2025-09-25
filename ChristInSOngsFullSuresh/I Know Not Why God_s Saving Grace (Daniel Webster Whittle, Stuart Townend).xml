@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:47">
+  <properties>
+    <titles>
+      <title>I Know Not Why God's Saving Grace</title>
+    </titles>
+    <copyright>1999 Thankyou Music, Administered by EMI Christian Music Publishing</copyright>
+    <ccliNo>2737713</ccliNo>
+    <authors>
+      <author>Daniel Webster Whittle</author>
+      <author>Stuart Townend</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I know not why God's wondrous grace<br/>To me He hath made known<br/>Nor why unworthy as I am<br/>He claimed me for His own</lines>
+    </verse>
+    <verse name="c1">
+      <lines>But I know whom I've believed<br/>He's able now to save<br/>What I've committed unto Him<br/>Until that final day</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I know not how this saving faith<br/>To me He did impart<br/>Nor how believing in His word<br/>Wrought peace within my heart</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I know not how the Spirit moves<br/>Convincing men of sin<br/>Revealing Jesus through the Word<br/>Creating faith in Him</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I know not what of good or ill<br/>May be reserved for me<br/>Of weary ways or golden days<br/>Before His face I see</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I know not when my Lord may come<br/>I know not when or where<br/>If I shall pass the vale of death<br/>Or meet Him in the air</lines>
+    </verse>
+  </lyrics>
+</song>

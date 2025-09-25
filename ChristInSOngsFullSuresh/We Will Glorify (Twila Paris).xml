@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:52">
+  <properties>
+    <titles>
+      <title>We Will Glorify</title>
+    </titles>
+    <copyright>1982 New Spring, Administered by Brentwood-Benson Music Publishing, Inc.</copyright>
+    <ccliNo>19038</ccliNo>
+    <authors>
+      <author>Twila Paris</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We will glorify the King of kings<br/>We will glorify the Lamb<br/>We will glorify the Lord of lords<br/>Who is the great I Am</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord Jehovah reigns in majesty<br/>We will bow before His throne<br/>We will worship Him in righteousness<br/>We will worship Him alone</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He is Lord of heaven Lord of earth<br/>He is Lord of all who live<br/>He is Lord above the universe<br/>All praise to Him we give</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hallelujah to the King of kings<br/>Hallelujah to the Lamb<br/>Hallelujah to the Lord of lords<br/>Who is the great I Am</lines>
+    </verse>
+  </lyrics>
+</song>

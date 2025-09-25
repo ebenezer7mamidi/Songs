@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:51">
+  <properties>
+    <titles>
+      <title>The Spirit of the Lord is upon Me</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v1 v4 v5 v6 v7 v6 v7</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Spirit of the Lord is upon Me<br/>He has anointed Me<br/>To preach the gospel to the poor</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He has sent me to bind up the brokenhearted<br/>And to the captives and prisoners<br/>Proclaim their liberty</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And to the blind, recovery of sight<br/>And those who are oppressed<br/>To set them free<br/>This is the year of the favor of the Lord</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He has sent me to bind up the brokenhearted<br/>And to the captives and prisoners<br/>Proclaim their liberty</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And to the blind, recovery of sight<br/>And those who are oppressed<br/>To set them free<br/>This is the year of the favor of the Lord<br/>This is the year of the favor of the Lord</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Come to Me all who are weary<br/>Come you heavy laden<br/>Come and I will give you rest</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Take My yoke upon you<br/>Learn from Me<br/>For I am gentle and humble<br/>And you shall find rest for your souls</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T15:33:58">
+  <properties>
+    <titles>
+      <title>Unto Him Who Hath Lov'd Us</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>With praise<br/>and thanksgiving<br/>there stands a great throng<br/>In the presence of Jesus<br/>and sing this new song</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Unto Him<br/>who hath lov'd us<br/>And wash'd us from sin<br/>Unto Him<br/>be the glory forever Amen</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All these once were sinners defiled in His sight<br/>Now arrayed in pure garments<br/>in praise they unite</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He maketh the rebel a priest and a king<br/>He hath bought us and taught us<br/>this new song to sing</lines>
+    </verse>
+    <verse name="v4">
+      <lines>How helpless and hopless we sinners had been<br/>If He never had loved us<br/>till cleansed from our sin</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Aloud in His praises<br/>our voices shall ring<br/>So that others believing<br/>this new song shall sing</lines>
+    </verse>
+  </lyrics>
+</song>

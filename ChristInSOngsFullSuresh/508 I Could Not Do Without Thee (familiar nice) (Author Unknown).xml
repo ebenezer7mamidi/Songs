@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:41">
+  <properties>
+    <titles>
+      <title>508 I Could Not Do Without Thee (familiar nice)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>I could not do without Thee<br/>I cannot stand alone<br/>I have no strength or goodness<br/>No wisdom of my own</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>But Thou beloved Savior<br/>Art all in all to me<br/>And weakness will be power<br/>If leaning hard on Thee</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>I could not do without Thee<br/>For oh the way is long<br/>And I am often weary<br/>And sigh replaces song</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>How could I do without Thee<br/>I do not know the way<br/>Thou knowest and Thou leadest<br/>And wilt not let me stray</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>I could not do without Thee<br/>O Jesus Savior dear<br/>E'en when my eyes are holden<br/>I know that Thou art near</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>How dreary and how lonely<br/>This changeful life would be<br/>Without the sweet communion<br/>The secret rest with Thee</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>I could not do without Thee<br/>No other friend can read<br/>The spirit's strange deep longings<br/>Interpreting its need</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>No human heart could enter<br/>Each dim recess of mine<br/>And soothe and hush and calm it<br/>O blessed Lord but Thine</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>I could not do without Thee<br/>For years are fleeting fast<br/>And soon in solemn lonliness<br/>The river must be passed</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>But thou wilt never leave me<br/>And though the waves roll high<br/>I know Thou wilt be near me<br/>And whisper "It is I"</lines>
+    </verse>
+  </lyrics>
+</song>

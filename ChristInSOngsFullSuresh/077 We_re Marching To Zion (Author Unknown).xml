@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-19T20:24:06">
+  <properties>
+    <titles>
+      <title>077 We're Marching To Zion</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come ye that love the Lord<br/>and let your joys be known<br/>join in a song with sweet accord<br/>join in a song with sweet accord<br/>and thus surround the throne<br/>and thus surround the throne</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We're marching to Zion<br/>beautiful beautiful Zion<br/>we're marching upward to Zion<br/>the beautiful city of God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let those who refuse to sing<br/>who never knew our God<br/>but children of the heavenly King<br/>but children of the heavenly King<br/>must speak their joys abroad<br/>must speak their joys abroad</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The hill of Zion yields<br/>a thousand sacred sweets<br/>before we reach the heavenly fields<br/>before we reach the heavenly fields<br/>or walk the golden streets<br/>or walk the golden streets</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let our songs abound<br/>and every tear be dry<br/>we're marching through Immanuel's ground<br/>we're marching through Immanuel's ground<br/>to fairer worlds on high<br/>to fairer worlds on high</lines>
+    </verse>
+  </lyrics>
+</song>

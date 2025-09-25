@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-19T23:45:28">
+  <properties>
+    <titles>
+      <title>164 Lord Thou Art Worthy</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bb<br/>Jesus our Lord with what joy<br/>we adore Thee<br/>Chanting our praise to<br/>Thyself on the throne<br/>Blest in Thy presence<br/>we worship before Thee<br/>Own Thou art worthy<br/>and worthy alone</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lord Thou art worthy<br/>Lord thou art worthy<br/>Lord Thou art worthy<br/>and worthy alone<br/>Blest in Thy presence<br/>we worship before Thee<br/>Own Thou art Worthy<br/>and worthy alone</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verily God<br/>yet become truly human<br/>Lower than angels<br/>to die in our stead<br/>How has that long<br/>promised 'Seed of the woman'<br/>Trod on the serpent<br/>and bruised his head</lines>
+    </verse>
+    <verse name="v3">
+      <lines>How didst Thou humble<br/>Thyself to be taken<br/>Led by Thy creatures<br/>and nailed to the cross<br/>Hated of men<br/>and of God too forsaken<br/>Shunning not darkness<br/>the curse and the loss</lines>
+    </verse>
+    <verse name="v4">
+      <lines>How hast Thou triumphed<br/>and triumphed with glory<br/>Battled death's forces<br/>rolled back every wave<br/>Can we refrain<br/>then from telling the story<br/>Lord Thou art Victor<br/>o'er death and the grave.</lines>
+    </verse>
+  </lyrics>
+</song>

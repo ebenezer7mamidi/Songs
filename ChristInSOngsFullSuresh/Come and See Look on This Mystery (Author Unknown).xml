@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T02:40:57">
+  <properties>
+    <titles>
+      <title>Come and See Look on This Mystery</title>
+    </titles>
+    <comments>
+      <comment>ending(maybe)
+
+[above are Song Tags with notes imported from EasyWorship]</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c2 c2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Em<br/><br/>Come and see look on this mystery<br/>The Lord of the universe nailed to a tree<br/>Christ our God spilling His holy blood<br/>Bowing in anguish His sacred head</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sing to Jesus - Lord of our shame<br/>Lord of our sinful hearts<br/>He is our great redeemer<br/>Sing to Jesus - Honor His name<br/>Sing of His faithfulness<br/>Pouring His life out unto death</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come - you will - and He will give you rest<br/>Come you who mourn - lay on His breast<br/>Christ who died risen in paradise<br/>Giver of mercy<br/>Giver of life</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Sing to Jesus - His is the throne<br/>Now and forever - He is the King of Heaven<br/>Sing to Jesus - we are His own<br/>Now and forever<br/>Sing for the love our God has shown</lines>
+    </verse>
+  </lyrics>
+</song>

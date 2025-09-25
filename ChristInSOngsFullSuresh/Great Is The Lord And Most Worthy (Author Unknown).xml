@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:46">
+  <properties>
+    <titles>
+      <title>Great Is The Lord And Most Worthy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>GREAT IS THE LORD, AND MOST WORTHY<br/>OF PRAISE,<br/>THE CITY OF OUR GOD,<br/>THE HOLY PLACE,<br/>THE JOY OF THE WHOLE EARTH.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>GREAT IS THE LORD WITH WHOM<br/>WE HAVE THE VICTORY.<br/>HE AIDS US AGAINST THE ENEMY<br/>WE BOW DOWN ON OUR KNEES.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>AND LORD, WE WANT TO<br/>LIFT YOUR NAME UP HIGH.<br/>AND LORD, WE WANT TO THANK YOU<br/>FOR THE WORK YOU'VE<br/>DONE IN OUR LIVES.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>AND LORD, WE TRUST<br/>IN YOUR UNFAILING LOVE,<br/>FOR YOU ALONE ARE GOD ETERNAL<br/>THROUGHOUT EARTH<br/>AND HEAVEN ABOVE.</lines>
+    </verse>
+  </lyrics>
+</song>

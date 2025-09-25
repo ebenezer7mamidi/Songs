@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T03:25:27">
+  <properties>
+    <titles>
+      <title>Glory Be To Him Who Loved Us</title>
+    </titles>
+    <comments>
+      <comment>verse 4(optional 4th verse)
+
+[above are Song Tags with notes imported from EasyWorship]</comment>
+    </comments>
+    <authors>
+      <author>Horatius Bonar</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A<br/><br/>Glory be to Him who loved us,<br/>Washed us from each sinful stain;<br/>Glory be to Him Who made us<br/>Priests and kings with Him to reign;<br/>Glory, worship, laud and blessing<br/>To the Lamb Who once was slain.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>"Glory, worship, laud and blessing,"<br/>Thus the choir triumphant sings;<br/>"Honor, riches, pow'r, dominion,"<br/>Thus its praise creation brings;<br/>Thou art worthy, Thou art worthy,<br/>Lord of Lords, and King of kings.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Glory to the King of angels,<br/>Glory to the Church's King,<br/>Glory to the King of nations,<br/>Heav'n and earth His praises sing:<br/>Glory ever and for ever<br/>To the King of Glory bring.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Glory be to Thee, O Father,<br/>Glory be to Thee, O Son,<br/>Glory be to Thee, O Spirit,<br/>Glory be to God alone,<br/>As it was, is now, and shall be<br/>While the endless ages run.</lines>
+    </verse>
+  </lyrics>
+</song>

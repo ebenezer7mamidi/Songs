@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:49">
+  <properties>
+    <titles>
+      <title>Nonny Nonny</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Summer warm and hazy<br/>lemon sun and lazy<br/>remember<br/>posicle red on my chin<br/>bikes and plastic army men<br/>no sign of September<br/>something in my seven years was calling me<br/>to love the Author of my own biography</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nonny nonny oli<br/>river washes over me<br/>up form there and carries me away<br/>nonny nonnie oli<br/>run the earth and watch the sky<br/>praying hard and waiting for the day<br/>nonny nonny oli</lines>
+    </verse>
+    <verse name="v3">
+      <lines>my adolesent seventies<br/>reads just like the Pevensies<br/>adventure<br/>cause ever perfect now and then<br/>i caught a glimpse of Aslan's mane<br/>And i'd long for his treasure<br/>something in his mystery was drawing me<br/>to love author of my own biography</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Now I'm grown up and living fine<br/>Biographies are intertwined<br/>with billions<br/>soon he turns the final page<br/>we'll look the author in the face<br/>and book really begins<br/>Something tells me all these years of memories<br/>are only the first sente</lines>
+    </verse>
+  </lyrics>
+</song>

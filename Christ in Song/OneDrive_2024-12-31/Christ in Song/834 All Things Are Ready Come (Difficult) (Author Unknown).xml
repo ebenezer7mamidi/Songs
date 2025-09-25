@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>834 All Things Are Ready Come (Difficult)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All things are ready<br/>Come to the feast<br/>Come for the table<br/>Now is spread<br/>Ye famishing ye weary<br/>Come and thou shalt<br/>Be richly fed</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hear the invitation<br/>Come whosoever will<br/>Praise God<br/>For full salvation<br/>For whosoever will</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All things are ready<br/>Come to the feast<br/>Come for the door<br/>Is open wide<br/>A place of honor<br/>Is reserved for you<br/>At the Master's side</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All things are ready<br/>Come to the feast<br/>Come while He waits<br/>To welcome thee<br/>Delay not while<br/>This day is thine<br/>Tomorrow may never be</lines>
+    </verse>
+    <verse name="v4">
+      <lines>All things are ready<br/>Come to the feast<br/>Leave every care<br/>And worldly strife<br/>Come feast upon<br/>The love of God<br/>And drink everlasting life</lines>
+    </verse>
+  </lyrics>
+</song>

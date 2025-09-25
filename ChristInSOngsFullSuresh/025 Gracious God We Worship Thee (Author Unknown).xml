@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:37">
+  <properties>
+    <titles>
+      <title>025 Gracious God We Worship Thee</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gracious God we Worship Thee<br/>Rev'rently we bow the knee<br/>Jesus Christ our only plea<br/>Father we adore Thee</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vast Thy love how Deep how wide<br/>In the gift of Him who died<br/>Righteous claims All satisfied<br/>Father we adore Thee</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Low we bow before Thy face<br/>Sons of God O wondrous Place<br/>Great the riches Of Thy grace<br/>Father we adore Thee</lines>
+    </verse>
+    <verse name="v4">
+      <lines>By Thy Spirit grant that we<br/>Worshipers in truth may be<br/>Praise as incense Sweet to Thee<br/>Father we adore Thee</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Yet again our song we raise<br/>Note of deep adoring praise<br/>Now and soon though Endless days<br/>Father we adore Thee</lines>
+    </verse>
+  </lyrics>
+</song>

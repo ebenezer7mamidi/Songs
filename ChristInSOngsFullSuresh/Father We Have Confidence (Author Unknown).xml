@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:45">
+  <properties>
+    <titles>
+      <title>Father We Have Confidence</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/>Father, we have confidence<br/>By the blood of Jesus<br/>To come into the place where You are<br/>To come into the place where You are</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So by the new and living way<br/>We enter into the Holy Place<br/>We come to worship You<br/>With our hearts<br/>We come to worship You<br/>With all our hearts</lines>
+    </verse>
+  </lyrics>
+</song>

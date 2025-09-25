@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T04:09:06">
+  <properties>
+    <titles>
+      <title>Hungry</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bb<br/><br/>Hungry I come to You<br/>For I know You satisfy<br/>I am empty<br/>But I know Your love<br/>Does not run dry<br/>And so I wait for You<br/>So I wait for You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I'm falling on my knees<br/>Offering all of me<br/>Jesus You're all<br/>This heart is living for</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Broken I run to You<br/>For Your arms are open wide<br/>I am weary<br/>But I know Your touch<br/>Restores my life<br/>And so I wait for You<br/>So I wait for You</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:42">
+  <properties>
+    <titles>
+      <title>740 Savior Thy Dying Love (Nice easy)</title>
+    </titles>
+    <copyright>© Words: Public Domain &#13;
+Music: 1955 Broadman Press, Administered by Music Services, Inc.</copyright>
+    <ccliNo>128651</ccliNo>
+    <authors>
+      <author>Alta C. Faircloth | Robert Lowry | Sylvanus Dryden</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Savior Thy dying love<br/>Thou gavest me<br/>Nor should I aught withold<br/>Dear Lord from Thee<br/>In love my soul would bow<br/>My heart fulfil it's vow<br/>Some off'ring bring Thee now<br/>Something for Thee</lines>
+    </verse>
+    <verse name="v2">
+      <lines>At the blest mercy seat<br/>Pleading for me<br/>My feeble faith looks up<br/>Jesus to Thee<br/>Help me the cross to bear<br/>Thy wondrous love declare<br/>Some song to raise or prayer<br/>Something for Thee</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Give me a faithful heart<br/>Likeness to Thee<br/>That each departing day<br/>Hence forth may see<br/>Some work of love begun<br/>Some deed of kindness done<br/>Some wand'rer sought and won<br/>Something for Thee</lines>
+    </verse>
+    <verse name="v4">
+      <lines>All that I am and have<br/>Thy gifts so free<br/>In joy in grief through life<br/>Dear Lord for Thee<br/>And when Thy face I see<br/>My ransomed soul shall be<br/>Through all eternity<br/>Something for Thee</lines>
+    </verse>
+  </lyrics>
+</song>

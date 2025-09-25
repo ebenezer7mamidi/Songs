@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:41">
+  <properties>
+    <titles>
+      <title>598 Lovest Thou Me (familiar tune easy)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>"Lovest thou me"<br/>Thou askest Lord of me<br/>Would that my heart had<br/>Power to answer Thee<br/>"Thou know'st all things yea<br/>Lord in heav'n above<br/>And earth beneath<br/>Thou knowest Thee I love"</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But 'tis not so<br/>In words in deed in thought<br/>I do not - cannot love Thee<br/>As I ought<br/>Ah Lord Thy love must<br/>Reach my aching heart<br/>For all I need in love<br/>Thyself Thou art</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thy love must give that power<br/>Thy love alone<br/>There's nothing worthy<br/>Of Thee but Thine own<br/>Lord with the love<br/>Wherewith Thou lovest me<br/>Reflected on Thyself<br/>Would I love Thee</lines>
+    </verse>
+  </lyrics>
+</song>

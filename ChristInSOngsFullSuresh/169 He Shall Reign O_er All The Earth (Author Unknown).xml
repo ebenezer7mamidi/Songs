@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:38">
+  <properties>
+    <titles>
+      <title>169 He Shall Reign O'er All The Earth</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He shall reign o'er all the earth<br/>He who wore the crown of thorn<br/>Whom they deemed of lirttle worth<br/>Whom they met with hate and scorn<br/>Send the tidings forth that all<br/>Humbly at His feet may fall</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Long His heritage hath lain<br/>'Neath the false usurper's sway<br/>He will claim it back again<br/>Rout the foes and win the day<br/>Send the tidings forth that all<br/>Humbly at His feet may fall</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Then beneath His rule of peace<br/>Heaven shall smile and earth shall sing<br/>Ever yielding rich increase<br/>To the honor of her King<br/>Send the tididngs forth that all<br/>Humbly at His feet may fall</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hasten Lord the wondrous hour<br/>Bid it strike from shore to shore<br/>Thine the kingdom and the power<br/>Thiner the glory evermore<br/>Bow each rebel heart that all<br/>At Thy feet adoring fall</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:37">
+  <properties>
+    <titles>
+      <title>080 We Sing The Praise Of Him Who Died</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>we sing the praise of Him who died<br/>of Him who died upon the cross<br/>the sinner's Hope tho' men deride<br/>for Him we count<br/>the world but loss</lines>
+    </verse>
+    <verse name="v2">
+      <lines>inscribed upon the cross<br/>we see<br/>in shining letters<br/>god is love<br/>the Lamb who died upon the tree<br/>has brought us mercy from above</lines>
+    </verse>
+    <verse name="v3">
+      <lines>the cross<br/>it takes our guilt away<br/>it holds the fainting spirit up<br/>it cheers with hope the gloomy day<br/>and sweetens every bitter cup</lines>
+    </verse>
+    <verse name="v4">
+      <lines>it makes the coward spirit brave<br/>and nerves the feeble arm for fight<br/>it takes its terror from the grave<br/>and gilds the bed of death with light</lines>
+    </verse>
+    <verse name="v5">
+      <lines>the balm of life<br/>the curse of woe<br/>the measure<br/>and the pledge of love<br/>the sinner's refuge here below<br/>the theme of praise in heav'n above</lines>
+    </verse>
+  </lyrics>
+</song>

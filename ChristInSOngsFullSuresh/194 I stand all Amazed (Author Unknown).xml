@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-20T00:14:44">
+  <properties>
+    <titles>
+      <title>194 I stand all Amazed</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I stand all amazed<br/>at the love Jesus offers me<br/>Confused at the grace<br/>that so fully He proffers me<br/>I tremble to know<br/>that for me He was crucified<br/>That for me a sinner<br/>He suffered He bled and died</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O it is wonderful<br/>That He should care for me<br/>Enough to die for me<br/>O it is wonderful<br/>Wonderful to me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I marvel that He would<br/>descend from His throne divine<br/>To rescue a soul<br/>so rebellious and proud as mine<br/>That he should extend<br/>His great love unto such as I<br/>Sufficient to own<br/>to redeem and to justify</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I think of His side<br/>pierced and bleeding to pay the debt<br/>Such mercy such love<br/>and devotion can I forget<br/>No no I will praise<br/>and adore at the mercy seat<br/>Until at the glorified throne<br/>I kneel at His feet</lines>
+    </verse>
+  </lyrics>
+</song>

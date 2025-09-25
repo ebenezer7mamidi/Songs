@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>781 Must I Go And Empty-Handed (easy nice tune)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Must I go and empty-handed<br/>Thus my dear Redeemer meet<br/>Not one day of service give Him<br/>Lay no trophy at his feet</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Must I go and empty-handed<br/>Must I meet my Savior so<br/>Not one soul with which to greet Him<br/>Must I empty-handed go</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Not at death I shrink nor falter<br/>For my Savior saves me now<br/>But to meet Him empty-handed<br/>Thought of that now clouds my brow</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O the years in sinning wasted<br/>Could I but recall them now<br/>I would give them to my Savior<br/>To His will I'd gladly bow</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O ye saints arouse be earnest<br/>Up and work while yet 'tis day'<br/>Ere the night of death o'ertake thee<br/>Strive for souls while still you may</lines>
+    </verse>
+  </lyrics>
+</song>

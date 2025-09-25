@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>410 God Leads Us Along (takes a little work)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In shady green pastures<br/>So rich and so sweet<br/>God leads<br/>His dear children along<br/>Where the water's cool flow<br/>Bathes the weary one's feet<br/>God leads<br/>His dear children along</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Some thru the waters<br/>Some thru the flood<br/>Some thru the fire<br/>But all thru the blood<br/>Some thru great sorrow<br/>But God gives a song<br/>In the night season<br/>And all the day long</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sometimes on the mount<br/>Where the sun shines so bright<br/>God leads<br/>His dear children along<br/>Sometimes in the valley<br/>In darkest of night<br/>God leads<br/>His dear children along</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tho sorrows befall us<br/>And Satan oppose<br/>God leads<br/>His dear children along<br/>Through grace we can conquer<br/>Defeat all our foes<br/>God leads<br/>His dear children along</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Away from the mire<br/>And away from the clay<br/>God leads<br/>His dear children along<br/>Away up in glory<br/>Eternity's day<br/>God leads<br/>His dear children along</lines>
+    </verse>
+  </lyrics>
+</song>

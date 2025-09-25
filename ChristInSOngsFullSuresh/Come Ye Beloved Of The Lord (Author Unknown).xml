@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T02:47:57">
+  <properties>
+    <titles>
+      <title>Come Ye Beloved Of The Lord</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/><br/>Come, ye beloved of the Lord,<br/>And consider all the love<br/>That the Father has Poured out on you<br/>With joyful hearts in one accord,<br/>Come and look upon the love<br/>Of the One who gave His all for you</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Our God withheld not His own Son<br/>The treasure of His heart<br/>Poured out for you<br/>Since He already gave His Son<br/>What now will He withhold<br/>From you His own</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My friend consider then the price<br/>That so willingly He paid<br/>To redeem and win You back to Him<br/>Consider how then you will live<br/>And just how to spend the days<br/>And the freedom He Has won for you.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>With all the treasures Of the throne,<br/>Of the earth and of the sky<br/>And of the universe beyond<br/>Our Father gave instead His Son,<br/>Counting His worth far beyond<br/>All the treasures of His Kingdom home</lines>
+    </verse>
+  </lyrics>
+</song>

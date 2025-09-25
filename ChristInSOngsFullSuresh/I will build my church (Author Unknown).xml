@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:47">
+  <properties>
+    <titles>
+      <title>I will build my church</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A<br/>I will build my Church<br/>I will build my Church<br/>And the gates of hell<br/>And the gates of hell<br/>Shall not prevail against it</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tis a glorious Church<br/>Without spot or wrinkle<br/>Washed in the blood of the Lamb<br/>Tis a glorious Church<br/>Without spot or wrinkle<br/>Washed in the blood of the Lamb</lines>
+    </verse>
+  </lyrics>
+</song>

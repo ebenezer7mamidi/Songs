@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-08-04T14:43:16">
+  <properties>
+    <titles>
+      <title>Oh Lord You're Beautiful</title>
+    </titles>
+    <copyright>1980 Birdwing Music | / BMG Songs, Inc. |, Administered by EMI Christian Music Publishing | BMG Music Publish</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>14514</ccliNo>
+    <authors>
+      <author>Keith Green</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh Lord You're beautiful<br/>Your face is all I seek<br/>And when Your eyes are on this child<br/>Your grace abounds to me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh Lord please light the fire<br/>That once burned bright and clear<br/>Replace the lamp of my first love<br/>That burns with holy fear</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I want to take Your Word<br/>And shine it all around<br/>First help me just to live it Lord<br/>And when I'm doing well<br/>Help me to never seek a crown<br/>For my reward is giving glory to You</lines>
+    </verse>
+  </lyrics>
+</song>

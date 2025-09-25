@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T03:59:57">
+  <properties>
+    <titles>
+      <title>His Name Is Wonderful</title>
+    </titles>
+    <copyright>1959 Audrey Mieir. Renewed 1987 Manna Music, Inc. ARR UBP of Manna Music, Inc., Administered by Manna Music, Inc.</copyright>
+    <ccliNo>1122230</ccliNo>
+    <authors>
+      <author>Audrey Mieir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/><br/>His name is Wonderful<br/>His name is Wonderful<br/>His name is Wonderful<br/>Jesus my Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He is the mighty King<br/>Master of ev'rything<br/>His name is Wonderful<br/>Jesus my Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He's the Great Shepherd<br/>The rock of all ages<br/>The Almighty God is He<br/>Bow down before Him<br/>Love and adore Him<br/>His name is Wonderful<br/>Jesus my Lord</lines>
+    </verse>
+  </lyrics>
+</song>

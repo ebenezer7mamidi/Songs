@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T15:55:30">
+  <properties>
+    <titles>
+      <title>Who Is He</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/><br/>Who is He - Who's the mightiest of all<br/>Who is He - Creation trembles at His call<br/>Who is He - The lowly sacrifice<br/>Who paid a victim's price<br/>His name is Jesus</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus - from the Father's own right hand<br/>Jesus - Son of God and Son of Man<br/>Jesus - who died and rose again<br/>Jesus - He's the lion and the lamb</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Who is He - With the power none can tame<br/>Who is He - When every foe would fear His name<br/>Who is He - Who was humbly led away<br/>To suffer that dark day<br/>His name is Jesus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Who is He - With eyes that burn like fire<br/>Who is He - Oh the wonder He inspires<br/>Who is He - He bore the guilt and shame<br/>For the ones who'd gone astray<br/>His name is Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

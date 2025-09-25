@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>441 Thou Thinkest Lord Of Me (nice easy)</title>
+    </titles>
+    <copyright>© 1918 Lorenz Publishing Company (a div. of the Lorenz Corporation)</copyright>
+    <ccliNo>603255</ccliNo>
+    <authors>
+      <author>E. D. Mund | Edmund S. Lorenz</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amid the trials which I meet<br/>Amid the thorns that pierce my feet<br/>One thought remains supremely sweet<br/>Thou thinkest Lord of me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Thou thinkest Lord of me<br/>Thou thinkest Lord of me<br/>What need I fear since Thou art near<br/>And thinkest Lord of me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The cares of life come thronging fast<br/>Upon my soul their shadow cast<br/>Their gloom reminds my heart at last<br/>Thou thinkest<br/>Lord of me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let shadows come let shadows go<br/>Let life be bright or dark with woe<br/>I am content for this I know<br/>Thou thinkest Lord or me</lines>
+    </verse>
+  </lyrics>
+</song>

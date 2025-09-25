@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-05-07T16:29:16">
+  <properties>
+    <titles>
+      <title>Sing alleluia to the Lord</title>
+    </titles>
+    <authors>
+      <author>Linda Stassen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>B minor<br/>Sing alleluia to the Lord,<br/>     (sisters echo)<br/>Sing alleluia to the Lord, (echo)<br/>Sing alleluia, sing alleluia,<br/>     (Alleluia)<br/>Sing alleluia to the Lord!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus is risen from the dead,<br/>     (sisters echo)<br/>Jesus is risen from the dead, (echo)<br/>Jesus is risen, Jesus is risen,<br/>     (Alleluia)<br/>Jesus is risen from the dead!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus is Lord of heaven and earth,<br/>     (sisters echo)<br/>Jesus is Lord of heaven and earth, (echo)<br/>Jesus is Lord, Jesus is Lord,<br/>     (Alleluia)<br/>Jesus is Lord of heaven and earth!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus is reigning in His Church,<br/>     (sisters echo)<br/>Jesus is reigning in His Church, (echo)<br/>Jesus is reigning, Jesus is reigning,<br/>     (Alleluia)<br/>Jesus is reigning in His Church!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus is coming for his own,<br/>     (sisters echo)<br/>Jesus is coming for his own, (echo)<br/>Jesus is coming, Jesus is coming,<br/>     (Alleluia)<br/>Jesus is coming for his own.</lines>
+    </verse>
+  </lyrics>
+</song>

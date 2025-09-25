@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-04-30T14:36:49">
+  <properties>
+    <titles>
+      <title>249 There's A Wideness In God's Mercy</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>F (tune of Here is Love)<br/>There's a wideness in God's mercy<br/>Like the wideness of the sea<br/>there's a kindness in His justice<br/>Which is more than liberty</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is welcome for the sinner<br/>And more graces for the good<br/>There is mercy with the Savior<br/>There is healing in His blood</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There is plentiful redemption<br/>In the blood that has been shed<br/>There is joy for all the members<br/>In the sorrows of the Head</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For the love of God is broader<br/>Than the measure of man's mind<br/>And the heart of the Eternal<br/>Is most wonderfully kind</lines>
+    </verse>
+    <verse name="v5">
+      <lines>If our love were but more simple<br/>We should take Him at His word<br/>And our lives would be all sunshine<br/>In the sweetness of our Lord</lines>
+    </verse>
+  </lyrics>
+</song>

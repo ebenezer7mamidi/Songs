@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-12-10T15:59:55">
+  <properties>
+    <titles>
+      <title>Complete complete</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A<br/><br/>The fullness of the Godhead bodily<br/>Dwelleth in the Lord (x3)<br/>And we are complete in Him</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Complete complete<br/>complete in Him<br/>We are complete in Him<br/> (sisters: glory allelu)<br/>Complete complete<br/>complete in Him<br/>We are complete in Him</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There's nothing more that I can do<br/>Cause Jesus paid it all (x3)<br/>And we are complete in Him</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It's not by works of righteousness<br/>But by His grace alone (x3)<br/>That we are complete in Him</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It's by His death and burial<br/>And resurrection life (x3)<br/>That we are complete in Him.</lines>
+    </verse>
+  </lyrics>
+</song>

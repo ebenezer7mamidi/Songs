@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:46">
+  <properties>
+    <titles>
+      <title>Hear O Lord</title>
+    </titles>
+    <copyright>© 1982 Maranatha! Music, Administered by Maranatha! Music</copyright>
+    <ccliNo>38129</ccliNo>
+    <authors>
+      <author>Dori Howard | Tom Howard</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hear O Lord and answer<br/>I am poor and needy<br/>Guard my life<br/>For I am devoted to You<br/>Hear my prayer O Lord<br/>And my cry for mercy<br/>In this day of trouble<br/>I will call to You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Teach me O Lord<br/>I will walk in Your truth<br/>Give me an undivided heart<br/>Nations You've made<br/>Will worship You<br/>For You alone<br/>Are the living God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will praise You<br/>I will praise You<br/>Glorify Your name O Lord<br/>I will praise You<br/>I will praise You<br/>Glorify Your name O Lord</lines>
+    </verse>
+  </lyrics>
+</song>

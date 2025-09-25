@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>381 Close To Thee (easy)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thou my<br/>Everlasting Portion<br/>More than friend or life to me<br/>All along<br/>My pilgrim journey<br/>Savior let me<br/>Walk with Thee</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Close to Thee<br/>Close to Thee<br/>Close to Thee<br/>Close to Thee<br/>All along<br/>My pilgrim journey<br/>Savior let me<br/>Walk with Thee</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Not for ease<br/>Or worldly pleasure<br/>Not for fame<br/>My prayer shall be<br/>Gladly will I toil and suffer<br/>Only let me<br/>Walk with Thee</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Close to Thee<br/>Close to Thee<br/>Close to Thee<br/>Close to Thee<br/>Gladly will I toil and suffer<br/>Only let me<br/>Walk with Thee</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lead me through<br/>The vale of shadows<br/>Bear me o'er<br/>Life's fitful sea<br/>Then the gate<br/>Of life eternal<br/>May I enter<br/>Lord with Thee</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Close to Thee<br/>Close to Thee<br/>Close to Thee<br/>Close to Thee<br/>Then the gate<br/>Of life eternal<br/>May I enter<br/>Lord with Thee</lines>
+    </verse>
+  </lyrics>
+</song>

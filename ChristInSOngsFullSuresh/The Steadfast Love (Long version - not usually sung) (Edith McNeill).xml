@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T15:00:37">
+  <properties>
+    <titles>
+      <title>The Steadfast Love (Long version - not usually sung)</title>
+    </titles>
+    <copyright>1974, 1975 Celebration, Administered by Celebration</copyright>
+    <ccliNo>21590</ccliNo>
+    <authors>
+      <author>Edith McNeill</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>D<br/>The steadfast love<br/>Of the Lord never ceases<br/>His mercies never come to an end<br/>They are new every morning<br/>New every morning<br/>Great is Thy faithfulness O Lord<br/>Great is Thy faithfulness</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>The Lord is my portion<br/>Says my soul<br/>Therefore will I hope in Him</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The Lord is good<br/>To those who wait for Him<br/>To the soul that seeks Him<br/>It is good that we should wait quietly<br/>For the salvation of the Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The Lord will not cast off forever<br/>But will have compassion<br/>For He does not willingly afflict<br/>Or grieve the sons of men</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So let us examine all our ways<br/>And return to the Lord<br/>Let us lift up our hearts and hands<br/>To God in heav'n</lines>
+    </verse>
+  </lyrics>
+</song>

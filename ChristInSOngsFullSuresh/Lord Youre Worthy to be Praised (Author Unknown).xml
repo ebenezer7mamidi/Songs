@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-20T00:55:23">
+  <properties>
+    <titles>
+      <title>Lord Youre Worthy to be Praised</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bb<br/>Lord You're worthy to be praised<br/>And I praise You<br/>Lord You're worthy to bow down to<br/>And I bow down to You<br/>Lord You're worthy to be worshipped<br/>And I worship You<br/>I praise You I bow down to You<br/>I worship You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord You're worthy to be honored<br/>And I honor You<br/>Lord You're worthy to believe in<br/>And I believe You<br/>Lord You're worthy to be trusted<br/>And I put my trust in You<br/>I honor You I believe in You<br/>I put my trust in You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord You're worthy to be loved<br/>And I love You<br/>Lord You're worthy of my life<br/>I give my life to You<br/>Lord You're worthy oh so worthy<br/>I give my all for You<br/>I love You I live for You<br/>I give my all for You</lines>
+    </verse>
+  </lyrics>
+</song>

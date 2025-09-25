@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-21T23:47:39">
+  <properties>
+    <titles>
+      <title>Oh How I Love Jesus</title>
+    </titles>
+    <copyright>Public Domain, Administered by CCLI Administration Account</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>28696</ccliNo>
+    <authors>
+      <author>Frederick Whitfield</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>O how I love Jesus<br/>O how I love Jesus<br/>O how I love Jesus<br/>Because He first loved me</lines>
+    </verse>
+    <verse name="v1">
+      <lines>There is a name I love to hear<br/>I love to sing its worth<br/>It sounds like music in my ear<br/>The sweetest name on earth</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It tells me of a Savior's love<br/>Who died to set me free<br/>It tells me of His precious blood<br/>The sinner's perfect plea</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It tells me what my Father hath<br/>In store for every day<br/>And tho' I tread a darksome path<br/>Yields sunshine all the way</lines>
+    </verse>
+    <verse name="v4">
+      <lines>It tells of One whose loving heart<br/>Can feel my deepest woe<br/>Who in each sorrow bears a part<br/>That none can bear below</lines>
+    </verse>
+  </lyrics>
+</song>

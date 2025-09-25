@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:49">
+  <properties>
+    <titles>
+      <title>Micah 6:8</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He has shown thee (echo)<br/>O man (echo)<br/>What is good and what the Lord requires of thee<br/>(2x)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But to do justly (echo)<br/>And to love mercy (echo)<br/>And to walk humbly with your God</lines>
+    </verse>
+  </lyrics>
+</song>

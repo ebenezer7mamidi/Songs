@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:46">
+  <properties>
+    <titles>
+      <title>He'll take care of the rest</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You know it ain't no use<br/>bangin' your head<br/>up against that cold stone wall<br/>cause nobody's perfect<br/>except for the lord<br/>and even the best's bound to fall</lines>
+    </verse>
+    <verse name="v2">
+      <lines>now remeber, He is the vine<br/>and you are the branch<br/>He'd love to get you through it<br/>if you give Him a chance<br/>just be doing your best<br/>and pray that it's blest<br/>He'll take care of the rest</lines>
+    </verse>
+  </lyrics>
+</song>

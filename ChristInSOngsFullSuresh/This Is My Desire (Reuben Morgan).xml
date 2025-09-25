@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:52">
+  <properties>
+    <titles>
+      <title>This Is My Desire</title>
+    </titles>
+    <copyright>© 1995 Hillsong Music Publishing, Administered by EMI Christian Music Publishing</copyright>
+    <ccliNo>1866132</ccliNo>
+    <authors>
+      <author>Reuben Morgan</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>E<br/>This is my desire<br/>To honor You<br/>Lord with all my heart<br/>I worship You<br/>All I have within me<br/>I give You praise<br/>All that I adore is in You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lord I give You my heart<br/>I give You my soul<br/>I live for You alone<br/>Ev'ry breath that I take<br/>Ev'ry moment I'm awake<br/>Lord have Your way in me</lines>
+    </verse>
+  </lyrics>
+</song>

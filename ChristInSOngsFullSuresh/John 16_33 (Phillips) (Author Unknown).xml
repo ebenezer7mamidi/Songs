@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:48">
+  <properties>
+    <titles>
+      <title>John 16:33 (Phillips)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have told you all this so<br/>that you may find your peace.<br/>You will find trouble in the world, <br/>but never lose heart;<br/>I have conquered the world.<br/>John 16:33</lines>
+    </verse>
+  </lyrics>
+</song>

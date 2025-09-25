@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:38">
+  <properties>
+    <titles>
+      <title>201 Fairest Lord Jesus</title>
+    </titles>
+    <copyright>Public Domain, Administered by CCLI Administration Account</copyright>
+    <ccliNo>27800</ccliNo>
+    <authors>
+      <author>H. A. Hoffman von Fallersleben</author>
+      <author>Joseph August Sei</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/>Verse 1<br/>Fairest Lord Jesus<br/>Ruler of all nature<br/>O Thou of God and man the Son<br/>Thee will I cherish<br/>Thee will I honor<br/>Thou my soul's glory<br/>Joy and crown</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fair are the meadows<br/>Fairer still the woodlands<br/>Robed in the blooming<br/>Garb of spring<br/>Jesus is fairer<br/>Jesus is purer<br/>Who makes the woeful heart to sing</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fair is the sunshine<br/>Fairer still the moonlight<br/>And all the twinkling starry host<br/>Jesus shines brighter<br/>Jesus shines purer<br/>Than all the angels<br/>Heav'n can boast</lines>
+    </verse>
+    <verse name="v4">
+      <lines>All fairest beauty<br/>Heavenly and earthly<br/>Wondrously Jesus is found in Thee<br/>None can be nearer<br/>Fairer or dearer<br/>Than Thou my Savior art to me</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>378 Unsearchable Riches (nice, bright)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh the unsearchable riches of Christ<br/>Wealth that can never be told<br/>Riches exhaustless of mercy and grace<br/>Precious - more precious than gold</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Precious - more precious<br/>Wealth that can never be told<br/>Oh the unsearchable riches of Christ<br/>Precious more precious than Gold</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh the unsearchable riches of Christ<br/>Who shall their greatness declare<br/>Jewels whose luster our lives may adorn<br/>Pearls that the poorest may wear</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh the unsearchable riches of Christ<br/>Freely how freely they flow<br/>Making the souls of the faithful and true<br/>Happy wherever they go</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh the unsearchable riches of Christ<br/>Who would not gladly endure<br/>Trials afflictions and crosses on earth<br/>Riches like these to secure</lines>
+    </verse>
+  </lyrics>
+</song>

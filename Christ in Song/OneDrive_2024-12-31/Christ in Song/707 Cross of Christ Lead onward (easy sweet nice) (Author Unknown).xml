@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:42">
+  <properties>
+    <titles>
+      <title>707 Cross of Christ Lead onward (easy sweet nice)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cross of Christ lead onward<br/>Through the Holy War<br/>In this sign we conquer<br/>Now and evermore<br/>Not of man the power<br/>Not to man the fame<br/>We are victors only<br/>In our Leader's name</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Cross of Christ lead onward<br/>Through the Holy War<br/>In this sign we conquer<br/>Now and evermore</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Not with pomp and pageant<br/>Not in earthly pride<br/>We must fight our battles<br/>Like the crucified<br/>Overcome by suffering<br/>Conquer through defeat<br/>Tried and tested daily<br/>In the furnace heat</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Panoplied in graces<br/>Bold yet humbly meek<br/>Resting while we're working<br/>Strong but ever weak<br/>Timid though couragous<br/>Gaining as we give<br/>Crucified with Jesus<br/>Yet in Him we live</lines>
+    </verse>
+    <verse name="v4">
+      <lines>By a cloud encompassed<br/>Witnesses above<br/>Saints Apostles Prophets<br/>Precious ones we love<br/>While 'advance' is sounding<br/>Mounts the battle thrill<br/>Cross of Christ lead onward<br/>Where the Captain will</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Marching in the pathway<br/>That the Master trod<br/>Walks One daily with us<br/>Like the Son of God<br/>To the end enduring<br/>Armor ne'er laid down<br/>Til the cross leads upward<br/>To the blood-bought Crown</lines>
+    </verse>
+  </lyrics>
+</song>

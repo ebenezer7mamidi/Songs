@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-20T00:23:09">
+  <properties>
+    <titles>
+      <title>King of Kings (Hillsong)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>D<br/><br/>In the darkness we were waiting<br/>Without hope without light<br/>Till from Heaven You came running<br/>There was mercy in your eyes</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>To fulfil the law and prophets<br/>To a virgin came the Word<br/>From a throne of endless glory<br/>To a cradle in the dirt</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Praise the Father praise the Son<br/>Praise the Spirit three in one<br/>God of Glory majesty<br/>Praise forever to the King of Kings</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>To reveal the kingdom coming<br/>And to reconcile the lost<br/>To redeem the whole creation<br/>You did not despise the cross</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>For even in Your suffering<br/>You saw to the other side<br/>Knowing this was our salvation<br/>Jesus for our sake You died</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>And the morning that You rose<br/>All of Heaven held its breath<br/>Till that stone was moved for good<br/>For the Lamb had conquered death</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>And the dead rose from their tombs<br/>And the angels stood in awe<br/>For the souls of all who'd come<br/>To the Father are restored</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>And the Church of Christ was born<br/>Then the Spirit lit the flame<br/>Now this Gospel truth of old<br/>Shall not kneel shall not faint</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>By His blood and in His Name<br/>In His freedom I am free<br/>For the love of Jesus Christ<br/>Who has resurrected me</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Praise the Father praise the Son<br/>Praise the Spirit three in one<br/>God of Glory majesty<br/>Praise forever to the King of Kings<br/>Praise forever to the King of Kings</lines>
+    </verse>
+  </lyrics>
+</song>

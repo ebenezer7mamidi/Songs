@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>868 Beyond the Sunset</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Beyond the sunset, O blissful morning,<br/>When with our Savior heav'n is begun;<br/>Earth's toiling ended, O glorious dawning,<br/>Beyond the sunset, when day is done.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Beyond the sunset no clouds will gather,<br/>No storms will threaten, no fears annoy;<br/>O day of gladness, O day unending,<br/>Beyond the sunset, eternal joy!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Beyond the sunset a hand will guide me<br/>To God the Father, whom I adore;<br/>His glorious presence, His words of welcome,<br/>Will be my portion on that fair shore.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Beyond the sunset, O glad reunion,<br/>With our dear loved ones who've gone before;<br/>In that fair homeland we'll know no parting,<br/>Beyond that sunset, forevermore!</lines>
+    </verse>
+  </lyrics>
+</song>

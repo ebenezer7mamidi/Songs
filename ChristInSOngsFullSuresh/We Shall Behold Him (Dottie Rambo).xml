@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:52">
+  <properties>
+    <titles>
+      <title>We Shall Behold Him</title>
+    </titles>
+    <copyright>© 1980 New Spring, Administered by Brentwood-Benson Music Publishing, Inc.</copyright>
+    <ccliNo>17009</ccliNo>
+    <authors>
+      <author>Dottie Rambo</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The sky shall unfold<br/>Preparing His entrance<br/>The stars shall applaud Him<br/>With thunders of praise<br/>The sweet light in His eyes<br/>Shall enhance those awaiting<br/>And we shall behold Him<br/>Then face to face</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And we shall behold Him<br/>We shall behold Him<br/>Face to face<br/>In all of His glory<br/>We shall behold Him<br/>We shall behold Him<br/>Face to face<br/>Our Savior and Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The angel shall sound<br/>The shout of His coming<br/>The sleeping shall rise<br/>From their slumbering place<br/>And those who remain<br/>Shall be changed in a moment<br/>And we shall behold Him<br/>Then face to face</lines>
+    </verse>
+  </lyrics>
+</song>

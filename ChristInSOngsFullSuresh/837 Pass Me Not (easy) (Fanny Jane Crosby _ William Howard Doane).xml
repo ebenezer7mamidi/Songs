@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>837 Pass Me Not (easy)</title>
+    </titles>
+    <copyright>© Words: Public Domain &#13;
+Music: Public Domain</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>41594</ccliNo>
+    <authors>
+      <author>Fanny Jane Crosby | William Howard Doane</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pass me not<br/>O gentle Savior<br/>Hear my humble cry<br/>While on others<br/>Thou art calling<br/>Do not pass me by</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Savior Savior<br/>Hear my humble cry<br/>While on others<br/>Thou art calling<br/>Do not pass me by</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let me at<br/>Thy throne of mercy<br/>Find a sweet relief<br/>Kneeling there<br/>In deep contrition<br/>Help my unbelief</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Trusting only in Thy merit<br/>Would I seek Thy face<br/>Heal my wounded broken spirit<br/>Save me by Thy grace</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Thou the Spring<br/>Of all my comfort<br/>More than life to me<br/>Whom have I on earth<br/>Beside Thee<br/>Whom in heaven but Thee</lines>
+    </verse>
+  </lyrics>
+</song>

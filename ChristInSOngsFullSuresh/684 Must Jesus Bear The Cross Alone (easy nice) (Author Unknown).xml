@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:42">
+  <properties>
+    <titles>
+      <title>684 Must Jesus Bear The Cross Alone (easy nice)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Must Jesus bear the cross alone<br/>And all the world go free<br/>No there's a cross for ev'ry one<br/>And there's a cross for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>How happy are the saints above<br/>Who once went sorr'wing here<br/>But now they taste unmingled love<br/>And joy without a tear</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The consecrated cross I'll bear<br/>Till death shall set me free<br/>And then go home my crown to wear<br/>For there's a crown for me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Upon the crystal pavement down<br/>At Jesus' pierced feet<br/>Joyful I'll cast my golden crown<br/>And His dear name repeat</lines>
+    </verse>
+  </lyrics>
+</song>

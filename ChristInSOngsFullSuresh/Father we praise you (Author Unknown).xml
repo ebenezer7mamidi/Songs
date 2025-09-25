@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:45">
+  <properties>
+    <titles>
+      <title>Father we praise you</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A<br/>Father we praise you,<br/>We love you,we adore you,<br/>Glorify Thy name in all the earth,<br/>Glorify Thy name,<br/>Glorify Thy name,<br/>Glorify Thy name in all the earth.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus we praise you,<br/>We love you, we adore you,<br/>Glorify Thy name in all the earth,<br/>Glorify Thy name,<br/>Glorify Thy name,<br/>Glorify Thy name in all the earth.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Spirit we praise you,<br/>We love you, we adore you,<br/>Lead us to the Lord and all His ways,<br/>Lead us to the Lord,<br/>Lead us to the Lord.<br/>Lead us to the Lord and all His ways.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:46">
+  <properties>
+    <titles>
+      <title>He is able - He is able</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/>He is able - He is able<br/>I know my Lord is able<br/>I know my Lord is able<br/>to carry me through (repeat)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He healed the broken-hearted<br/>He set the captives free<br/>He made the lame to walk again<br/>And He caused the blind to see<br/> (Alleluia)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He is able - He is able<br/>I know the Lord is able<br/>I know the Lord is able<br/>to carry us through (repeat)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He heals the broken-hearted<br/>He sets the captives free<br/>He makes the lame to walk again<br/>And the blind He makes to see<br/> (Alleluia)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>He is able - He is able<br/>I know the Lord is able<br/>I know the Lord is able<br/>to carry us through!</lines>
+    </verse>
+  </lyrics>
+</song>

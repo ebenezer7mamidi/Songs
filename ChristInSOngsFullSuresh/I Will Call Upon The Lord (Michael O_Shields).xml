@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:47">
+  <properties>
+    <titles>
+      <title>I Will Call Upon The Lord</title>
+    </titles>
+    <copyright>1981 Sound III, Inc. / Universal - MCA Music Publishing, Administered by Universal - MCA Music Publishing / Unaffiliated Ad</copyright>
+    <ccliNo>11263</ccliNo>
+    <authors>
+      <author>Michael O'Shields</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will call upon the Lord<br/>Who is worthy To be praised<br/>So shall I be saved<br/>From my enemies</lines>
+    </verse>
+    <verse name="c1">
+      <lines>The Lord liveth<br/>And blessed be my Rock<br/>Let the God of My salvation<br/>Be exalted<br/>(Repeat)</lines>
+    </verse>
+  </lyrics>
+</song>

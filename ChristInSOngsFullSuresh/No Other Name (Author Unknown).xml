@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:49">
+  <properties>
+    <titles>
+      <title>No Other Name</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>No other name<br/>But the name of Jesus<br/>No other name<br/>But the name of the Lord<br/>No other name<br/>But the name of Jesus<br/>Is worthy of glory<br/>And worthy of honor<br/>And worthy of power<br/>And all praise</lines>
+    </verse>
+    <verse name="v1">
+      <lines>His name is exalted<br/>Far above the earth<br/>His name is high<br/>Above the heavens<br/>His name is exalted<br/>Far above the earth<br/>Give glory and honor<br/>And praise unto His name</lines>
+    </verse>
+  </lyrics>
+</song>

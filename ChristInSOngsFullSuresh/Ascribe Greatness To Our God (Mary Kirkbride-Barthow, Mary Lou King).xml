@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T02:04:41">
+  <properties>
+    <titles>
+      <title>Ascribe Greatness To Our God</title>
+    </titles>
+    <copyright>1979 Integrity's Hosanna! Music, Administered by Integrity Music, Inc.</copyright>
+    <ccliNo>31391</ccliNo>
+    <authors>
+      <author>Mary Kirkbride-Barthow</author>
+      <author>Mary Lou King</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>G<br/>A God of faithfulness<br/>Without injustice<br/>Good and upright is He<br/>A God of faithfulness<br/>Without injustice<br/>Good and upright is He</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ascribe greatness to our God the Rock<br/>His work is perfect<br/>And all His ways are just<br/>Ascribe greatness to our God the Rock<br/>His work is perfect<br/>And all His ways are just</lines>
+    </verse>
+  </lyrics>
+</song>

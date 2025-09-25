@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T02:21:47">
+  <properties>
+    <titles>
+      <title>Bless The Lord O My Soul</title>
+    </titles>
+    <copyright>1973 Bud John Songs, Inc., Administered by EMI Christian Music Publishing</copyright>
+    <ccliNo>17566</ccliNo>
+    <authors>
+      <author>Andrae Crouch</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>D<br/><br/>Bless the Lord O my soul<br/>And all that is within me<br/>Bless His holy name x2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>He has done great things<br/>(sisters "Hallelujah")<br/>He has done great things<br/>(sisters "Hallelujah")<br/>He has done great things<br/>Bless His holy name</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Bless the Lord O my soul<br/>And all that is within me<br/>Bless His holy name</lines>
+    </verse>
+  </lyrics>
+</song>

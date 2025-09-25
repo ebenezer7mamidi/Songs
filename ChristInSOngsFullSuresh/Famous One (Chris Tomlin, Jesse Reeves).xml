@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:45">
+  <properties>
+    <titles>
+      <title>Famous One</title>
+    </titles>
+    <copyright>2002 worshiptogether.com songs / sixsteps Music, Administered by EMI Christian Music Publishing</copyright>
+    <ccliNo>3599431</ccliNo>
+    <authors>
+      <author>Chris Tomlin</author>
+      <author>Jesse Reeves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>You are the Lord<br/>The famous One famous One<br/>Great is Your name in all the earth<br/>The heavens declare You're glorious glorious<br/>Great is Your fame beyond the earth</lines>
+    </verse>
+    <verse name="v1">
+      <lines>And for all You've done and yet to do<br/>With ev'ry breath I'm praising You<br/>Desire of nations and ev'ry heart<br/>You alone are God<br/>You alone are God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The Morning Star is shining through<br/>And ev'ry eye is watching You<br/>Revealed by nature and miracles<br/>You are beautiful<br/>You alone are God</lines>
+    </verse>
+  </lyrics>
+</song>

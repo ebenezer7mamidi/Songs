@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:50">
+  <properties>
+    <titles>
+      <title>One Thing Is Needful</title>
+    </titles>
+    <copyright>1981 Maranatha! Music / CCCM Music, Administered by Maranatha! Music</copyright>
+    <ccliNo>39135</ccliNo>
+    <authors>
+      <author>Kirk Dearman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>One thing is needful O my Father<br/>One thing is needful O my God<br/>That I sit at Your feet<br/>And pour out my love<br/>This thing is needful O my Lord<br/>(REPEAT)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I sit and worship You my Father<br/>I sit and worship You my God<br/>Lord I sit at Your feet<br/>And pour out my love<br/>I sit and worship You my King<br/>(REPEAT)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I lift my hands to You my Father<br/>I lift my hands to You my God<br/>Lord I sit at Your feet<br/>And pour out my love<br/>I lift my hands to You my Lord<br/>(REPEAT)</lines>
+    </verse>
+  </lyrics>
+</song>

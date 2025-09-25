@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:48">
+  <properties>
+    <titles>
+      <title>Jesus My Savior Thou Art Mine</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Jesus, my Savior! Thou art mine,<br/> The Father's gift of love divine,<br/> All Thou hast done and all Thou art<br/> Are now the portion of my heart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Poor, feeble, wretched, as I am,<br/> I now can glory in Thy name;<br/> Now cleansed in Thy most precious blood<br/> And made the righteousness of God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. All that Thou hast, Thou hast for me,<br/> All my fresh springs are hid in Thee;<br/> In Thee I live, while I confess<br/> I nothing am, yet all possess.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. O Savior, teach me to abide<br/> Close sheltered at Thy wounded side,<br/> Each hour receiving "grace on grace,"<br/> Until I see Thee face to face.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>by James G. Deck</lines>
+    </verse>
+  </lyrics>
+</song>

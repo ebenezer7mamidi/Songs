@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:44">
+  <properties>
+    <titles>
+      <title>Abide in Thee!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Abide in thee! in that deep love of Thine<br/>My Jesus Lord Thou Lamb of God divine<br/>Down, Closely down, as living branch with tree<br/>I would abide, my Lord, my Christ, in Thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Abide in Thee! my Savior God, I know<br/>How love of Thine so vast in me may flow<br/>My empty vesse, running o'er with joy<br/>Must overflow to Thee without alloy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Abide in Thee! nor doubt, nor self, nor sin<br/>Can e're prevail with Thy blest life within<br/>Joined to Thyself, communing deep, my soul<br/>Knows naught besides its motions to control.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Abide in Thee! 'tis thus I only know<br/>The secrets of Thy mind e'en while below<br/>All joy and peace, and knowledge of Thy word<br/>All pow'r and fruit, and service for the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

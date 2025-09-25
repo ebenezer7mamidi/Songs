@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:46">
+  <properties>
+    <titles>
+      <title>I Am Covered Over</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/>I am covered over<br/>With the robe of righteousness<br/>That Jesus gives to me<br/>(gives to me)<br/>I am covered over<br/>With the righteous blood of Jesus<br/>And He lives in me<br/>(lives in me)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What a joy to know<br/>The heavenly Father loves me so<br/>And gives to me - My Jesus.<br/>When He looks at me,<br/>He sees not what I used to be<br/>But He sees Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

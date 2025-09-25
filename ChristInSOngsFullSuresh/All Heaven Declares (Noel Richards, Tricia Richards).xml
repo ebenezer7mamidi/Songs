@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T01:27:28">
+  <properties>
+    <titles>
+      <title>All Heaven Declares</title>
+    </titles>
+    <copyright>1987, 1997 Thankyou Music, Administered by EMI Christian Music Publishing</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <ccliNo>120556</ccliNo>
+    <authors>
+      <author>Noel Richards</author>
+      <author>Tricia Richards</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A<br/>All Heaven declares<br/>The glory of the Risen Lord<br/>Who can compare with<br/>The beauty of the Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Forever You will be<br/>(Forever)<br/>The Lamb upon the throne<br/>(On the throne)<br/>We gladly bow the knee<br/>(We bow)<br/>And worship You alone<br/>(Alone)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We will proclaim<br/>The glory of the risen Lord<br/>Who once was slain<br/>To reconcile man to God</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Forever You will be<br/>(Forever)<br/>The Lamb upon the throne<br/>(On the throne)<br/>We gladly bow the knee<br/>(We bow)<br/>And worship You alone<br/>(Alone)</lines>
+    </verse>
+  </lyrics>
+</song>

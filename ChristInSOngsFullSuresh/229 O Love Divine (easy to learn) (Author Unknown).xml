@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:38">
+  <properties>
+    <titles>
+      <title>229 O Love Divine (easy to learn)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Love divine<br/>By Christ revealed<br/>Incarnate Love<br/>That died for me<br/>To Thee myself<br/>I gladly yield<br/>I consecrate my all to thee</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Light divine<br/>By Christ displayed<br/>Source of all light<br/>Who flesh became<br/>Shed Thy bright beams<br/>Upon my head<br/>Burn in my heart<br/>A constant flame</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Truth divine<br/>By Christ made known<br/>All truth must<br/>Thy reflection be<br/>Within my heart<br/>Set up Thy throne<br/>And in Thy freedom<br/>Make me free</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Cross divine<br/>By Christ endured<br/>Thou cross on which<br/>He groaned and died<br/>And man's redemption<br/>Thus secured<br/>In Thy blest shadow<br/>Let me hide</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O Peace divine<br/>By Christ bestowed<br/>Thy heavenly dove<br/>To earth come down<br/>May He within<br/>Make His abode<br/>My life with His<br/>Dear presence crown</lines>
+    </verse>
+    <verse name="v6">
+      <lines>O Joy divine<br/>By Christ possessed<br/>For which He did<br/>The cross endure<br/>Fill with Thyself<br/>And make me blest<br/>Contented restful<br/>And secure</lines>
+    </verse>
+  </lyrics>
+</song>

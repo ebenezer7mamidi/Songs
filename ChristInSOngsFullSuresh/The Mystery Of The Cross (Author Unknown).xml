@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T14:52:45">
+  <properties>
+    <titles>
+      <title>The Mystery Of The Cross</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 o1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>G<br/><br/>The mystr'y of the cross I cannot comprehend<br/>The agonies of Calvary<br/>You the perfect holy One crushed Your Son<br/>Drank the bitter cup reserved for me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Your blood has washed away my sins<br/>Jesus thank You<br/>The Father's wrath completely satisfied<br/>Jesus thank You<br/>Once Your enemy now seated at Your table<br/>Jesus thank You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>By Your perfect sacrifice I've been brought near<br/>Your enemy You've made Your friend<br/>Pouring out the riches of Your glorious grace<br/>Your mercy and Your kindness know no end</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Lover of my soul I want to live for You<br/>(4x)</lines>
+    </verse>
+  </lyrics>
+</song>

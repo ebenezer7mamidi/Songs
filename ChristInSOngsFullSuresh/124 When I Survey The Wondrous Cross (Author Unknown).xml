@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-19T20:42:18">
+  <properties>
+    <titles>
+      <title>124 When I Survey The Wondrous Cross</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>E<br/><br/>When I survey the wondrous cross<br/>On which the Prince of glory died<br/>My richest gain I count but loss<br/>And pour contempt on all my pride</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Forbid it Lord<br/>That I should boast<br/>Save in the cross of Christ my God<br/>all the vain things that charm me most<br/>I sacrifice them to His blood</lines>
+    </verse>
+    <verse name="v3">
+      <lines>See from His head<br/>His hands His feet<br/>Sorrow and love flow mingled down<br/>Did e'er such love and sorrow meet<br/>Or thorns compose so rich a crown</lines>
+    </verse>
+    <verse name="v4">
+      <lines>His dying crimson like a robe<br/>Spreads o'er His body on the tree<br/>Then am I dead to all the globe<br/>And all the globe is dead to me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Were the whole realm of nature mine<br/>That were an off'ring far too small<br/>Love so amazing so divine<br/>Demands my soul my life my all</lines>
+    </verse>
+  </lyrics>
+</song>

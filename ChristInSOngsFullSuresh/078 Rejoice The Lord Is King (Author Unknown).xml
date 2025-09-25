@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-19T20:24:32">
+  <properties>
+    <titles>
+      <title>078 Rejoice The Lord Is King</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/><br/>Rejoice, the Lord is King<br/>Your Lord and King adore;<br/>Mortals, give thanks And sing<br/>And triumph evermore;</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lift up your heart,<br/>Lift up your voice,<br/>Rejoice, again I say<br/>Rejoice!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>His kingdom cannot fail;<br/>He rules o'er earth And heav'n,<br/>The keys of death And hell<br/>Are to our Jesus giv'n;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, the Savior, reigns,<br/>The God of truth And love;<br/>When He had purged Our stains<br/>He took His seat above:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He sits at God's Right hand<br/>Till all His foes submit,<br/>And bow to His Command,<br/>And fall beneath His feet;</lines>
+    </verse>
+  </lyrics>
+</song>

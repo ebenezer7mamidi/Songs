@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T15:45:02">
+  <properties>
+    <titles>
+      <title>We Will Feast in the House of Zion</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>E<br/><br/>We will feast in the house of Zion<br/>we will sing with our hearts restored<br/>He has done great things, we will say together<br/>We will feast and weep no more</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>We will not be burned by the fire<br/>He is the Lord, our God<br/>We are not consumed by the flood<br/>Upheld, protected, gathered up</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We will feast in the house of Zion<br/>we will sing with our hearts restored<br/>He has done great things, we will say together<br/>We will feast and weep no more</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the dark of night, before the dawn<br/>My soul, be not afraid<br/>For the promised morning, Oh, how long?<br/>Oh, God of Jacob, be my strength</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Every vow we've broken and betrayed<br/>You are the Faithful one<br/>And from the garden to the grave<br/>Bind us together, bring shalom</lines>
+    </verse>
+    <verse name="c2">
+      <lines>We will feast in the house of Zion<br/>we will sing with our hearts restored<br/>He has done great things, we will say together<br/>We will feast and weep no more<br/>x2</lines>
+    </verse>
+  </lyrics>
+</song>

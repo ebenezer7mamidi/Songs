@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-12T15:57:52">
+  <properties>
+    <titles>
+      <title>Jesus Paid It All**</title>
+    </titles>
+    <copyright>Public Domain, Administered by CCLI Administration Account</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>22331</ccliNo>
+    <authors>
+      <author>Elvina Mabel Hall</author>
+      <author>John Thomas Grape</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/><br/>I hear the Savior say<br/>Thy strength indeed Is small<br/>Child of weakness Watch and pray<br/>Find in Me thine all in all</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus paid it all,<br/>All to Him I owe<br/>Sin had left a crimson Stain<br/>He washed it white As snow</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord now indeed I find<br/>Thy power and Thine alone<br/>Can change the Leper's spots<br/>And melt the heart Of stone</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For nothing good have I<br/>Whereby Thy grace To claim<br/>I'll wash my garments White<br/>In the blood of Calvary's Lamb</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And when before The throne<br/>I stand in Him complete<br/>Jesus died my Soul to save<br/>My lips shall still repeat</lines>
+    </verse>
+  </lyrics>
+</song>

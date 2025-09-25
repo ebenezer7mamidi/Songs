@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-20T00:51:42">
+  <properties>
+    <titles>
+      <title>Lord May Thy Blood now cleanse me**</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Lord may Thy blood now cleanse me<br/>wash all my sins away<br/>That with Thy Holy Spirit<br/>Thou may annoint i pray</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>My service I confess Lord is failurefull<br/>and weak<br/>The filling of Thy spirit<br/>To live for Thee I seek</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh from myself deliver<br/>Frm all its misery<br/>I'd henseforth be forever<br/>Completely filled with Thee</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Oh Lord how dry my heart is<br/>It yearns and pants for Thee<br/>The filling of Thy Spirit<br/>Is now my fervent plea</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Within the smitten Rock Lord<br/>I would entirely hide<br/>Pour through Thy living water<br/>Till I am satisfied</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>How cold my heart has been Lord<br/>How slow opening Thee<br/>So fill me with Thy Spirit<br/>I'll ne'er rebellious be</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>I lie upon Thy altar<br/>and dare not move away<br/>Oh may Thy flame descending<br/>Consume my all I pray</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Oh may Thy Cross within me<br/>Deepen its work and burn<br/>In me enlarge Thy measure<br/>and me to ashes turn</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Oh may Thy Spirit fill me<br/>each day more than before<br/>and may Thy living water<br/>On me and through me pour</lines>
+    </verse>
+  </lyrics>
+</song>

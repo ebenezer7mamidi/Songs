@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>776 Go Ye Into All The World (easy nice tune)</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>198636</ccliNo>
+    <authors>
+      <author>James McGranahan</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Far far away<br/>In heathen darkness dwelling<br/>Millions of souls forever may be lost<br/>Who who will go<br/>Salvation's story telling<br/>Looking to Jesus<br/>Counting not the cost</lines>
+    </verse>
+    <verse name="c1">
+      <lines>All pow'r is given unto me<br/>All pow'r is given unto me<br/>Go ye into all the world<br/>And preach the gospel<br/>And lo I am with you alway</lines>
+    </verse>
+    <verse name="v2">
+      <lines>See o'er the world<br/>Wide open doors inviting<br/>Soldiers of Christ<br/>Arise and enter in<br/>Christians awake<br/>Your forces all uniting<br/>Send forth the Gospel<br/>Break the chains of sin</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Why will ye die<br/>The voice of God is calling<br/>Why will ye die<br/>Re-echo in His name<br/>Jesus hath died<br/>To save from death appalling<br/>Life and salvation<br/>Therefore go proclaim</lines>
+    </verse>
+    <verse name="v4">
+      <lines>God speed the day<br/>When those of every nation<br/>Glory to God<br/>Triumphantly shall sing<br/>Ransomed redeemed<br/>Rejoicing in salvation<br/>Shout Hallelujah<br/>For the Lord is King</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>479 Whiter Than Snow (easy nice)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 v3 c1 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord Jesus I long<br/>To be perfectly whole<br/>I want Thee forever<br/>To live in my soul<br/>Break down ev'ry idol<br/>Cast out ev'ry foe<br/>Now wash me and I shall be<br/>Whiter than snow</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Whiter than snow<br/>Yes whiter than snow<br/>Now wash me<br/>And I shall be<br/>Whiter than snow</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord Jesus let nothing<br/>Unholy remain<br/>Apply Thine own blood<br/>And extract every stain<br/>To get this blest cleansing<br/>I all things forego<br/>Now wash me and I shall be<br/>Whiter than snow</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord Jesus look down<br/>From Thy throne in the skies<br/>And help me to make<br/>A complete sacrifice<br/>I give up myself<br/>And whatever I know<br/>Now wash me and I shall be<br/>Whiter than snow</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord Jesus for this<br/>I most humbly entreat<br/>I wait blessed Lord<br/>At Thy crucified feet<br/>By faith for my cleansing<br/>I see Thy blood flow<br/>Now wash me and I shall be<br/>Whiter than snow</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lord Jesus Thou seest<br/>I patiently wait<br/>Come now and within me<br/>A new heart create<br/>To those who have sought Thee<br/>Thou never saidst No<br/>Now wash me and I shall be<br/>Whiter than snow</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:45">
+  <properties>
+    <titles>
+      <title>For Thou Art Great</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>G<br/>For Thou art great<br/>and doest wondrous things.<br/>Thou art God alone,<br/>teach me Thy ways, O Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will walk in Thy truth,<br/>unite my heart to fear Thy Name.<br/>I will praise Thee,<br/>O Lord my God, with all my heart,<br/>And I will glorify Thy Name forevermore.</lines>
+    </verse>
+  </lyrics>
+</song>

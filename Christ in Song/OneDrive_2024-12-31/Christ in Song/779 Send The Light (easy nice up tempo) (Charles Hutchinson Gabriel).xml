@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>779 Send The Light (easy nice up tempo)</title>
+    </titles>
+    <copyright>© Words: Public Domain &#13;
+Music: Public Domain</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>76954</ccliNo>
+    <authors>
+      <author>Charles Hutchinson Gabriel</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a call comes ringing<br/>O'er the restless wave<br/>Send the light send the light<br/>There are souls to rescue<br/>There are souls to save<br/>Send the light send the light</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Send the light<br/>The blessed gospel light<br/>Let it shine<br/>From shore to shore<br/>Send the light<br/>The blessed gospel light<br/>Let it shine<br/>Forever more</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We have heard<br/>The Macedonian call today<br/>Send the light send the light<br/>And a golden off'ring<br/>At the cross we lay<br/>Send the light send the light</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let us pray that grace<br/>May everywhere abound<br/>Send the light send the light<br/>And a Christ-like spirit<br/>Ev'rywhere be found<br/>Send the light send the light</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let us not grow weary<br/>In the work of love<br/>Send the light send the light<br/>Let us gather jewels<br/>For a crown above<br/>Send the light send the light</lines>
+    </verse>
+  </lyrics>
+</song>

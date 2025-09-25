@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:45">
+  <properties>
+    <titles>
+      <title>God Is In The House</title>
+    </titles>
+    <copyright>1996 Hillsong Publishing, Administered by Integrity Music, Inc.</copyright>
+    <ccliNo>1935884</ccliNo>
+    <authors>
+      <author>Darlene Zschech</author>
+      <author>Russell Fragar</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>I've got Jesus Jesus<br/>He calls me for His own<br/>And He lifts me lifts me<br/>Above the world I know</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>God is in the house<br/>There is no doubt<br/>God is in the house<br/>Can't keep Him out<br/>As for you as for me<br/>We're gonna serve the Lord</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>As for me God came and found me<br/>As for me He took me home<br/>As for me He gave me a family<br/>And I'll never walk alone</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>In my life I'm soaked in blessing<br/>And in heaven there's a great reward<br/>As for me and my house<br/>We're gonna serve the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:37">
+  <properties>
+    <titles>
+      <title>047 Amazing Words</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>amazing words-He gave Himself for me<br/>for me-rebellious sinful guilty me<br/>for me the savior bore the cross and shame<br/>rejoice my soul and bless His sacred name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>for me He left His glorious throne above<br/>for me revealed His Father's wondrous love<br/>for me He tabernacled here below<br/>for me He drank the bitter cup of woe</lines>
+    </verse>
+    <verse name="v3">
+      <lines>for me He was reviled despised betrayed<br/>for me was scourged condemned and crucified<br/>for me He suffered on th' accursed tree<br/>for me lost wretched vile unworthy me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>for me in agony He groaned and died<br/>for me God's righteous law He satisfied<br/>for me His precious blood He shed to save<br/>for me He rose triumphant from the grave</lines>
+    </verse>
+  </lyrics>
+</song>

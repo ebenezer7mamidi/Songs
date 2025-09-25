@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:46">
+  <properties>
+    <titles>
+      <title>He Looked for a city</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>He looked for a city<br/>and lived in a tent<br/>A pilgrim to glory<br/>right onward he went</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>God's promise his solace<br/>so royal his birth<br/>no wonder he sought<br/>not the glories of earth</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Home! Home!<br/>Home sweet home<br/>a welcome from Jesus<br/>awaits us at Home</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>He looked for a city<br/>his God should prepare<br/>no mansion on earth<br/>could he covet or share</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>for had not God told him<br/>that royal abode<br/>awaited His pilgrims<br/>who kept to the road</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>He looked for a city<br/>If sometimes he sighed<br/>To be trudging the road<br/>all earth's glory denied</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>The thought of that city<br/>changed sighing to song<br/>For the road might be rough<br/>but it could not be long</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>He looked for a city<br/>his hope Lord we share<br/>And know that bright city<br/>Which Thou dost prepare</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>We'll dwell in forever<br/>since willing to be<br/>Just pilgrims with Jesus<br/>Our roof a tent tree</lines>
+    </verse>
+  </lyrics>
+</song>

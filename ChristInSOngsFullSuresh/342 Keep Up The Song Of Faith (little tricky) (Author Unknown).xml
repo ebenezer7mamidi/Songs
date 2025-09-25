@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>342 Keep Up The Song Of Faith (little tricky)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Keep up the song of faith<br/>However dark the night<br/>And as you praise<br/>The Lord will work<br/>To change your faith to sight<br/>To change your faith to sight</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Keep up the song of faith<br/>And let your heart be strong<br/>For God delights when faith can praise<br/>Though dark the night and long<br/>Though dark the night and long</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Keep up the song of faith<br/>The foe will hear and flee<br/>Oh, let not Satan hush your song<br/>For praise is victory<br/>For praise is victory</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Keep up the song of faith<br/>The dawn will break ere long<br/>And we shall go to meet the Lord<br/>And join the endless song<br/>And join the endless song</lines>
+    </verse>
+  </lyrics>
+</song>

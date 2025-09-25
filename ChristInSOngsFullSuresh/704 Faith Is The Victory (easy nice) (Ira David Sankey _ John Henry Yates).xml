@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:42">
+  <properties>
+    <titles>
+      <title>704 Faith Is The Victory (easy nice)</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>98688</ccliNo>
+    <authors>
+      <author>Ira David Sankey | John Henry Yates</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Encamped along the hills of light<br/>Ye Christian soldiers rise<br/>And press the battle ere the night<br/>Shall veil the glowing skies<br/>Against the foe in vales below<br/>Let all our strength be hurled<br/>Faith is the victory we know<br/>That overcomes the world</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Faith is the victory<br/>Faith is the victory<br/>O glorious victory<br/>That overcomes the world</lines>
+    </verse>
+    <verse name="v2">
+      <lines>His banner over us is love<br/>Our sword the Word of God<br/>We tread the road the saints before<br/>With shouts of triumph trod<br/>By faith they like a whirlwind's breath<br/>Swept on o'er every field<br/>The faith by which they conquered death<br/>Is still our shining shield</lines>
+    </verse>
+    <verse name="v3">
+      <lines>On every hand the foe we find<br/>Drawn up in dread array<br/>Let tents of ease be left behind<br/>And onward to the fray<br/>Salvation's helmet on each head<br/>With truth all girt about<br/>The earth shall tremble 'neath our tread<br/>And echo with our shout</lines>
+    </verse>
+    <verse name="v4">
+      <lines>To him that overcomes the foe<br/>White raiment shall be giv'n<br/>Before the angels he shall know<br/>His name confessed in heav'n<br/>Then onward from the hills of light<br/>Our hearts with love aflame<br/>We'll vanquish all the hosts of night<br/>In Jesus' conqu'ring name</lines>
+    </verse>
+  </lyrics>
+</song>

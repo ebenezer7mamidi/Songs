@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>375 Constantly Abiding (nice, a little work)</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>87345</ccliNo>
+    <authors>
+      <author>Anne S. Murphy</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a peace in my heart<br/>That the world never gave<br/>A peace it cannot take away<br/>Tho' the trials of life may surround like a cloud<br/>I've a peace that has come there to stay</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Constantly abiding Jesus is mine<br/>Constantly abiding rapture divine<br/>He never leaves me lonely<br/>Whispers O so kind<br/>I will never leave thee<br/>Jesus is mine</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All the world seemed to sing<br/>Of a Savior and King<br/>When peace sweetly came to my heart<br/>Troubles all fled away and my night turned to day<br/>Blessed Jesus how glorious Thou art</lines>
+    </verse>
+    <verse name="v3">
+      <lines>This treasure I have<br/>In a temple of clay<br/>While here on His footstool I roam<br/>But He's coming to take me some glorious day<br/>Over there to my heavenly home</lines>
+    </verse>
+  </lyrics>
+</song>

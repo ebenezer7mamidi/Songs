@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:41">
+  <properties>
+    <titles>
+      <title>627 I Know I Love Thee Better Lord (little work ni</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I know I love Thee better Lord<br/>Than any earthly joy<br/>For Thou hast given me the peace<br/>Which nothing can destroy</lines>
+    </verse>
+    <verse name="c1">
+      <lines>The half has never yet been told<br/> (yet been told)<br/>Of love so full and free<br/>The half has never yet been told<br/> (yet been told)<br/>The blood it cleanseth me<br/> (cleanseth me)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I know that Thou art nearer still<br/>Than any earthly throng<br/>And sweeter is the thought of Thee<br/>Than any lovely song</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thou hast put gladness in my heart<br/>Then may I well be glad<br/>Without the secret of Thy love<br/>I could not but be sad</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Savior precious Savior mine<br/>What will Thy presence be<br/>If such a life of joy can crown<br/>Our walk on earth with Thee</lines>
+    </verse>
+  </lyrics>
+</song>

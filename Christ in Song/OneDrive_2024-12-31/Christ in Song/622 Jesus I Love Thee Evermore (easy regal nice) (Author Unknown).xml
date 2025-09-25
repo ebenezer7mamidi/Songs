@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:41">
+  <properties>
+    <titles>
+      <title>622 Jesus I Love Thee Evermore (easy regal nice)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus I love Thee evermore<br/>For Thou hast loved me Lord before<br/>I have no freedom but to be<br/>A willing slave dear Lord to Thee</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let memory then no thought retain<br/>Except the glory of Thy reign<br/>Nor let my mind desire below<br/>Aught but the love of Christ to know</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I cannot have a wish or thought<br/>Except to love Thee as I ought<br/>What by Thy gracious gift is mine<br/>With joy I freely make it Thine</lines>
+    </verse>
+    <verse name="v4">
+      <lines>From Thee I have to Thee I give<br/>In Thy commands oh let me live<br/>My wants will then be all supplied<br/>For all are only dreams beside</lines>
+    </verse>
+  </lyrics>
+</song>

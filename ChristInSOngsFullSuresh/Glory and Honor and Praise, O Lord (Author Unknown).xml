@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:45">
+  <properties>
+    <titles>
+      <title>Glory and Honor and Praise, O Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>F<br/>Glory and honor and praise, O Lord, belong to Thee.<br/>Blessings ten thousand times o'er be Thine eternally.<br/>Perfect are all of Thy works and ways, and e'er shall be,<br/>Glory be unto Thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What condescension that Thou shouldst come,<br/>O Lord, to earth,<br/>clothed in the flesh of Thy only Son of matchless worth.<br/>In Him on Calv'ry didst reconcile us to Thyself,<br/>Glory be unto Thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And by Thy wonderful grace Thy children now are we.<br/>O to become grown up sons of full maturity;<br/>living to take now Thy kingdom in the heavenlies,<br/>and Glory give to Thee!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O for the day of Christ's revelation, full, complete!<br/>Then shall the Christ, Head and Body joined,<br/>stand on His feet.<br/>And in this Christ, earth shall see Thy victory complete,<br/>and Glory give to Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

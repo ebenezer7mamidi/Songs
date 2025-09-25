@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>820 Behold Me Standing At The Door (easy nice)</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>2756512</ccliNo>
+    <authors>
+      <author>Frances Jane Crosby</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Behold Me standing at the door<br/>And hear Me pleading evermore<br/>With gentle voice<br/>Oh heart of sin<br/>May I come in<br/>May I come in</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Behold Me standing at the door<br/>And hear Me pleading evermore<br/>Say weary heart oppressed with sin<br/>May I come in<br/>May I come in</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I bore the cruel thorns for thee<br/>I waited long and patiently<br/>Say weary heart oppressed with sin<br/>May I come in<br/>May I come in</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I would not plead with thee in vain<br/>Remember all My grief and pain<br/>I died to ransom thee from sin<br/>May I come in<br/>May I come in</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I bring thee joy from heaven above<br/>I bring thee pardon peace and love<br/>Say weary heart oppressed with sin<br/>May I come in<br/>May I come in</lines>
+    </verse>
+  </lyrics>
+</song>

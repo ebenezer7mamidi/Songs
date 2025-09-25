@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:47">
+  <properties>
+    <titles>
+      <title>I Then Shall Live</title>
+    </titles>
+    <copyright>© 1981 William J. Gaither, Inc. ARR UBP of Gaither Copyright Management</copyright>
+    <ccliNo>19643</ccliNo>
+    <authors>
+      <author>Gloria Gaither | Jean Sibelius</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I then shall live as one who's been forgiven<br/>I'll walk with joy to know my debts are paid<br/>I know my name is clear before my Father<br/>I am His child and I am not afraid<br/>So greatly pardoned I'll forgive my brother<br/>The law of love I gladly will obey</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I then shall live as one who's learned compassion<br/>I've been so loved that I'll risk loving too<br/>I'll know how fear builds walls instead of bridges<br/>I'll dare to see another's point of view<br/>And when relationships demand commitment<br/>Then I'll be there to care and follow through</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Your Kingdom come around and through and in me<br/>Your pow'r and glory let them shine through me<br/>Your hallowed name oh may I bear with honor<br/>And may Your living Kingdom come in me<br/>The Bread of Life oh may I share with honor<br/>And may You feed a hungry world through me</lines>
+    </verse>
+    <verse name="e1">
+      <lines>And may You feed a hungry world through me<br/>Amen</lines>
+    </verse>
+  </lyrics>
+</song>

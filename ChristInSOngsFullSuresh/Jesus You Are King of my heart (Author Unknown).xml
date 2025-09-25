@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-12T16:02:44">
+  <properties>
+    <titles>
+      <title>Jesus You Are King of my heart</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/><br/>Jesus you are King of my heart<br/>Please make my heart Your home<br/>You rule the world with mercy and truth<br/>I bow before Your throne</lines>
+    </verse>
+    <verse name="c1">
+      <lines>King of my heart<br/>King of my heart<br/>Jesus You'll always be<br/>King of my heart<br/>King of my heart<br/>Jesus You are to me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus You are King of my heart<br/>I give my life to You<br/>I want to bring You gladness and joy<br/>In everything I do</lines>
+    </verse>
+  </lyrics>
+</song>

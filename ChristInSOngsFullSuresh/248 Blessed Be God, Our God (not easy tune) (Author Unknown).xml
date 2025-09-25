@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:38">
+  <properties>
+    <titles>
+      <title>248 Blessed Be God, Our God (not easy tune)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blessed be God our God<br/>Who gave for us<br/>His well-be-loved Son<br/>The gift of gifts<br/>All other gifts in one<br/>Blessed be god our God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What will He not bestow<br/>Who freely gave<br/>This mighty Gift<br/>Unbought unmerited<br/>Unheeded and unsought<br/>What will He not bestow</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He spared not His Son<br/>'Tis this that silences<br/>Each rising fear<br/>'Tis this that bids<br/>The hard tho't disappear<br/>He spared not His Son</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Who shall condemn us now<br/>Since Christ has died<br/>And ris'n and gone above<br/>For us to plead<br/>At the right hand of Love<br/>Who shall condemn us now</lines>
+    </verse>
+    <verse name="v5">
+      <lines>'Tis God that justifies<br/>Who shall recall<br/>His pardon or His grace<br/>Or who the broken<br/>Chain of guilt replace<br/>'Tis God that justifies</lines>
+    </verse>
+    <verse name="v6">
+      <lines>The victory is ours<br/>For us in might came forth<br/>The mighty One<br/>For us He fought<br/>The fight the triumph won<br/>The victory is ours</lines>
+    </verse>
+  </lyrics>
+</song>

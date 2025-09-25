@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>386 Far Far Behind Me (takes a little work)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>I've turned my back upon the world<br/>With all its idle pleasures<br/>And set my heart on better things,<br/>On higher holier treasures</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>No more its glitter and its glare,<br/>And vanity shall blind me<br/>I've crossed the separating line,<br/>And left the world behind me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Far, far behind me!<br/>Far, far behind me!<br/>I've crossed the separating line,<br/>And left the world behind me</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>I've left the old sad life of sin,<br/>Its follies all forsaken<br/>My standing place is now in Christ,<br/>His holy vows I've taken</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Beneath the standard of the cross<br/>The world henceforth shall find me<br/>I've passed in Christ from death to life,<br/>And left the world behind me</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Far, far behind me!<br/>Far, far behind me!<br/>I've passed in Christ from death to life,<br/>And left the world behind me</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>My soul shall ne'er return again<br/>Back to its former station<br/>For here alone is perfect peace,<br/>And rest from condemnation</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>I've made exchange of masters now,<br/>The vows of glory bind me<br/>And once for all I've left the world,<br/>Yes, left the world behind me</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Far, far behind me!<br/>Far, far behind me!<br/>And once for all I've left the world,<br/>I've left the world behind me</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>My choice is made forevermore,<br/>I want no other Saviour<br/>I ask no purer happiness<br/>than His sweet love and favour</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>My heart is fixed on Jesus Christ,<br/>No more the world shall blind me<br/>I've crossed the Red Sea of His death,<br/>And left the world behind me</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Far, far behind me!<br/>Far, far behind me!<br/>I've crossed the Red Sea of His death,<br/>And left the world behind me</lines>
+    </verse>
+  </lyrics>
+</song>

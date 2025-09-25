@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-06T00:33:50">
+  <properties>
+    <titles>
+      <title>You Are Not a god created</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 b1 c1 b1 e1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A<br/>You are not a god created<br/>By human hands<br/>You are not a god dependent<br/>On any mortal man<br/>You are not a god in need of<br/>Anything we can give<br/>By Your plan<br/>That's just the way it is (repeat)</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You are God alone<br/>From before time began<br/>You were on Your throne<br/>You are God alone<br/>And right now<br/>In the good times and bad<br/>You are on Your throne<br/>You are God alone</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You're the only God whose power<br/>None can contend<br/>You're the only God whose name<br/>And praise will never end<br/>You're the only God who's worthy<br/>Of everything we can give<br/>You are God<br/>That's just the way it is</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You're unchangeable<br/>You're unshakable<br/>You're unstoppable<br/>That's what you are x2</lines>
+    </verse>
+    <verse name="e1">
+      <lines>And right now<br/>In the good times and bad<br/>You are on Your throne<br/>You are God alone</lines>
+    </verse>
+  </lyrics>
+</song>

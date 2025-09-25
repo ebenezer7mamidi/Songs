@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:53">
+  <properties>
+    <titles>
+      <title>Wounded For Me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>wounded for me wounded for me<br/>there on the cross He was wounded for me<br/>gone my transgressions and now I am free<br/>all because Jesus was wounded for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>dying for me dying for me<br/>there on the cross He was dying for me<br/>now in His death me redemption i see<br/>all because Jesus was dying for me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>risen for me risen for me<br/>up from the grave He has risen for me<br/>now evermore from death's sting I am free<br/>all because Jesus has risen for me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>living for me living for me<br/>up in the skies He is living for me<br/>daily He's pleading and praying for me<br/>all because Jesus is living for me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>coming for me coming for me<br/>one day to earth He is coming for me<br/>then with what joy His dear face I shall see<br/>oh how I praise Him He's coming for me</lines>
+    </verse>
+  </lyrics>
+</song>

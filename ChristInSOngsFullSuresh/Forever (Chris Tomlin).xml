@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:45">
+  <properties>
+    <titles>
+      <title>Forever</title>
+    </titles>
+    <copyright>2001 worshiptogether.com songs / sixsteps Music, Administered by EMI Christian Music Publishing</copyright>
+    <verseOrder>v1 v2 c1 v3 c1 e1</verseOrder>
+    <ccliNo>3148428</ccliNo>
+    <authors>
+      <author>Chris Tomlin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Give thanks to the Lord<br/>Our God and King<br/>His love endures forever<br/>For He is good He is above all things<br/>His love endures forever<br/>Sing praise sing praise</lines>
+    </verse>
+    <verse name="v2">
+      <lines>With a mighty hand<br/>And an outstretched arm<br/>His love endures forever<br/>For the life that's<br/>been - been reborn<br/>His love endures forever<br/>Sing praise sing praise<br/>Sing praise sing praise</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Forever God is faithful<br/>Forever God is strong<br/>Forever God is with us<br/>Forever forever</lines>
+    </verse>
+    <verse name="v3">
+      <lines>From the rising to the setting sun<br/>His love endures forever<br/>By the grace of God<br/>We will carry on<br/>His love endures forever<br/>Sing praise sing praise<br/>Sing praise sing praise</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Forever God is faithful<br/>Forever God is strong<br/>Forever God is with us<br/>Forever forever<br/>Forever</lines>
+    </verse>
+  </lyrics>
+</song>

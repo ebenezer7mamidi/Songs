@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:37">
+  <properties>
+    <titles>
+      <title>012 My God how wonderful Thou art</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My God how wonderful Thou art<br/>Thy majesty how bright<br/>How beautiful Thy Mercy seat<br/>In depths of burning light</lines>
+    </verse>
+    <verse name="v2">
+      <lines>How dread are Thy Eternal years<br/>O everlasting Lord<br/>By prostrate spirits Day and night<br/>Incessantly adored</lines>
+    </verse>
+    <verse name="v3">
+      <lines>How wonderful How beautiful<br/>The sight of Thee must be<br/>Thy endless wisdom<br/>Boundless power<br/>And glorious purity</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O how I fear Thee Living God<br/>With deep and tender fear<br/>And worship Thee with Trembling hope<br/>And penitential tears</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Yet may I love Thee Too O Lord<br/>Almighty as Thou art<br/>For Thou hast stooped To ask of me<br/>The love of my poor heart</lines>
+    </verse>
+  </lyrics>
+</song>

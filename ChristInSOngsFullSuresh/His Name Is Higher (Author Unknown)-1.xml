@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:46">
+  <properties>
+    <titles>
+      <title>His Name Is Higher</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>F<br/>His Name is higher than mine<br/>His Name is higher than mine<br/>His Name is higher than mine<br/>Much higher</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Higher higher much much higher<br/>Higer higher much higher</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>His Name is greater than mine<br/>His Name is greater than mine<br/>His Name is greater than mine<br/>Much greater</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Greater greater much much greater<br/>Greater greater much greater<br/>Higher higher much much higher<br/>Higher higher much higher</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>His Name is wiser than mine<br/>His Name is wiser than mine<br/>His Name is wiser than mine<br/>Much wiser</lines>
+    </verse>
+    <verse name="c1e">
+      <lines>Wiser wiser much much wiser<br/>Wiser wiser much wiser<br/>Greater greater much much greater<br/>Greater greater much greater<br/>Higher higher much much higher<br/>Higher higher much higher</lines>
+    </verse>
+  </lyrics>
+</song>

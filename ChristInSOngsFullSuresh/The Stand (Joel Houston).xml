@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:51">
+  <properties>
+    <titles>
+      <title>The Stand</title>
+    </titles>
+    <copyright>2005 Hillsong Music Publishing, Administered by EMI Christian Music Publishing</copyright>
+    <ccliNo>4705248</ccliNo>
+    <authors>
+      <author>Joel Houston</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>You stood before creation<br/>Eternity in Your hand<br/>You spoke the earth into motion<br/>My soul now to stand</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>You stood before my failure<br/>And carried the cross for my shame<br/>My sin weighed upon Your shoulders<br/>My soul now to stand</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>So what can I say<br/>And what can I do<br/>But offer this heart O God<br/>Completely to You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So I'll walk upon salvation<br/>Your Spirit alive in me<br/>My life to declare Your promise<br/>My soul now to stand</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>So what can I say<br/>And what can I do<br/>But offer this heart O God<br/>Completely to You<br/>(repeat)</lines>
+    </verse>
+    <verse name="e1">
+      <lines>So I'll stand<br/>With arms high and heart abandoned<br/>In awe of the One who gave it all<br/>I'll stand<br/>My soul Lord to You surrendered<br/>All I am is Yours<br/>(repeat)</lines>
+    </verse>
+  </lyrics>
+</song>

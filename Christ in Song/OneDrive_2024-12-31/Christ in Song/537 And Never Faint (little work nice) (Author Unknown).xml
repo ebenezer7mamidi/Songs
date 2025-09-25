@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:41">
+  <properties>
+    <titles>
+      <title>537 And Never Faint (little work nice)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>And never faint<br/>Oh pray full<br/>on and fast<br/>Rough though<br/>the untrod way<br/>Straight on and last</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>And never faint<br/>Though those may rave<br/>For rest<br/>The goal<br/>not thee is first<br/>Pray on thou blest</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>And never faint<br/>Though strain<br/>May weigh thee down<br/>Pray on<br/>If thou wouldst fain<br/>Have on the crown</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>And never faint<br/>The end thou<br/>mayest not view<br/>When bound<br/>let nought thee bend<br/>Press on anew</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>And never faint<br/>Thy charge to God<br/>Given o'er<br/>Pray on<br/>Thy tent enlarge<br/>Enrich thy store</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>And never faint<br/>Pray on each day<br/>With care<br/>Strive for<br/>Till thou hast won<br/>The answered prayer</lines>
+    </verse>
+  </lyrics>
+</song>

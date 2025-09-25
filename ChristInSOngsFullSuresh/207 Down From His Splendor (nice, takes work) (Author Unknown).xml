@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:38">
+  <properties>
+    <titles>
+      <title>207 Down From His Splendor (nice, takes work)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Down from His splendor in glory He came<br/>Into a world of woe<br/>Took on Himself<br/>All my guilt<br/>And my shame<br/>Why should He love me so</lines>
+    </verse>
+    <verse name="c1">
+      <lines>How can I help but love Him<br/>When He loved me so<br/>How can I help but love Him<br/>When He loved me so</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I am unworthy<br/>To take of His grace<br/>Wonderful grace so free<br/>Yet Jesus suffered<br/>And died in my place<br/>E'en for a soul like me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He is fairest<br/>Of thousands to me<br/>His love is sweet and true<br/>Wonderful beauty in Him now I see<br/>More than I ever knew</lines>
+    </verse>
+  </lyrics>
+</song>

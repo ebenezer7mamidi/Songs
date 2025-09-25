@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:45">
+  <properties>
+    <titles>
+      <title>Come And See</title>
+    </titles>
+    <copyright>1989 Doulos Publishing, Administered by Maranatha! Music</copyright>
+    <ccliNo>121737</ccliNo>
+    <authors>
+      <author>Lenny LeBlanc</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>For He is Lord above the heavens<br/>Lord in all the earth<br/>Lord of all the angels<br/>Worthy to be served<br/>Alleluia<br/>Alleluia Lord</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Come and see the glory of the Lord<br/>Come behold the Lamb<br/>Come and see the mercy of the King<br/>Bowing down before Him</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come and give thanks unto the Lord<br/>Come behold the Lamb<br/>Come and sing the praises of the King<br/>Bowing down before Him</lines>
+    </verse>
+  </lyrics>
+</song>

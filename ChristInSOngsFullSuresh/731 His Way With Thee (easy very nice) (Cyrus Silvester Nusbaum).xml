@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:42">
+  <properties>
+    <titles>
+      <title>731 His Way With Thee (easy very nice)</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>92725</ccliNo>
+    <authors>
+      <author>Cyrus Silvester Nusbaum</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Would you live for Jesus<br/>And be always pure and good<br/>Would you walk with Him<br/>Within the narrow road<br/>Would you have Him bear your burden<br/>Carry all your load<br/>Let Him have His way with thee</lines>
+    </verse>
+    <verse name="c1">
+      <lines>His power can make you<br/>What you ought to be<br/>His blood can cleanse your heart<br/>And make you free<br/>His love can fill your soul<br/>And you will see<br/>'Twas best for Him<br/>To have His way with thee</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Would you have Him make you free<br/>And follow at His call<br/>Would you know the peace<br/>That comes by giving all<br/>Would you have Him save you<br/>So that you need never fall<br/>Let Him have His way with thee</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Would you in His kingdom<br/>Find a place of constant rest<br/>Would you prove Him true<br/>In providential test<br/>Would you in His service labor<br/>Always at your best<br/>Let Him have His way with thee</lines>
+    </verse>
+  </lyrics>
+</song>

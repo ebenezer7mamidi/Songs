@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>474 Come In O Come (familiar easy)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A<br/>Come in O come<br/>The door stands open now<br/>I knew Thy voice<br/>Lord Jesus it was Thou<br/>The sun has set long since<br/>The storms begin<br/>'Tis time for Thee<br/>My Savior O Come in</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alas ill-ordered shows<br/>The dreary room<br/>The household-stuff lies<br/>Heaped amids the gloom<br/>The table empty stands<br/>The couch undressed<br/>Ah what a welcome<br/>for th'Eternal Guest</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yet welcome and<br/>Tonight this doleful scene<br/>Is e'en itself my cause<br/>To hail Thee in<br/>This dark confusion<br/>E'en at once demands<br/>Thine own bright presence<br/>Lord and ord'ring hands</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I seek no more<br/>To alter things or mend<br/>Before the coming<br/>Of so great a Friend<br/>All were at best<br/>Unseemly and 'twere ill<br/>Beyond all else to keep<br/>Thee waiting still</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Come not to find<br/>But make this troubled heart<br/>A dwelling worthy of<br/>Thee as Thou art<br/>To chase the gloom<br/>The terror and the sin<br/>Come all Thyself<br/>Yes come Lord Jesus in</lines>
+    </verse>
+  </lyrics>
+</song>

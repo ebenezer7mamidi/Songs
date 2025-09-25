@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T15:15:38">
+  <properties>
+    <titles>
+      <title>This Is My Fathers World</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eb<br/>This is my Father's world<br/>And to my listening ears<br/>All nature sings and round me rings<br/>The music of the spheres<br/>This is my Father's world<br/>I rest me in the thought<br/>Of rocks and trees of skies and seas<br/>His hand the wonders wrought</lines>
+    </verse>
+    <verse name="v2">
+      <lines>This is my Father's world<br/>The birds their carols raise<br/>The morning light the lily white<br/>Declare their Maker's praise<br/>This is my Father's world<br/>He shines in all that's fair<br/>In the rustling grass I hear Him pass<br/>He speaks to me everywhere</lines>
+    </verse>
+    <verse name="v3">
+      <lines>This is my Father's world<br/>O let me ne'er forget<br/>That though the wrong seems oft so strong<br/>God is the Ruler yet<br/>This is my Father's world<br/>The battle is not done<br/>Jesus who died will be satisfied<br/>And earth and heaven be one</lines>
+    </verse>
+  </lyrics>
+</song>

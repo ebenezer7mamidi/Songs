@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:50">
+  <properties>
+    <titles>
+      <title>Pierce My Ear</title>
+    </titles>
+    <copyright>1980 Dayspring Music, LLC, Administered by Word Music Group, Inc.</copyright>
+    <ccliNo>68618</ccliNo>
+    <authors>
+      <author>Steve Croft</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pierce my ear O Lord my God<br/>Take me to Your door this day<br/>I will serve no other God<br/>Lord I'm here to stay</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For You have paid the price for me<br/>With Your blood You ransomed me<br/>I will serve You eternally<br/>A free man I'll never be</lines>
+    </verse>
+  </lyrics>
+</song>

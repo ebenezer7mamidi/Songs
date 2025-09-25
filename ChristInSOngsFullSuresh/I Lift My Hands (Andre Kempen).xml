@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-28T15:03:37">
+  <properties>
+    <titles>
+      <title>I Lift My Hands</title>
+    </titles>
+    <copyright>1989 Kempen Music, Administered by Music Services</copyright>
+    <ccliNo>159259</ccliNo>
+    <authors>
+      <author>Andre Kempen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>E<br/><br/>I lift my hands<br/>(I lift my hands)<br/>To the coming King<br/>(To the coming King)<br/>To the Great I AM<br/>(To the Great I AM)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To You I sing<br/>(To You I sing)<br/>For You're the One<br/>(For You're the One)<br/>Who reigns within my heart</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And I will serve no foreign gods<br/>Nor any other treasure.<br/>For You are my heart's desire<br/>The Spirit without measure.<br/>Unto Your name<br/>I will bring my sacrifice</lines>
+    </verse>
+  </lyrics>
+</song>

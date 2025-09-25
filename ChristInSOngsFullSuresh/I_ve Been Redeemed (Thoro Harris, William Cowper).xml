@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:47">
+  <properties>
+    <titles>
+      <title>I've Been Redeemed</title>
+    </titles>
+    <copyright>Public Domain, Administered by CCLI Administration Account</copyright>
+    <ccliNo>533435</ccliNo>
+    <authors>
+      <author>Thoro Harris</author>
+      <author>William Cowper</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've been redeemed by the blood of the Lamb.<br/>I've been redeemed by the blood of the Lamb.<br/>I've been redeemed by the blood of the Lamb.<br/>Filled with the Holy Ghost, I am.<br/>All my sins are washed away.<br/>I've been redeemed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And that's not all<br/>there's more besides. (3x)<br/>I've been to the river and I've been baptized.<br/>All my sins are washed away.<br/>I've been redeemed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No, you can't get to heaven by your good deeds. (3x)<br/>To God they're just like garden weeds.<br/>All my sins are washed away.<br/>I've been redeemed.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There's not much time<br/>left for us here. (3x)<br/>For Jesus' comin' is drawing near.<br/>All my sins are washed away.<br/>I've been redeemed.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I've been redeemed<br/>by the Lord above. (3x)<br/>He paid the price with His precious blood.<br/>All my sins are washed away.<br/>I've been redeemed.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You can talk about me<br/>just as much as you please. (3x)<br/>I'll talk about you down on my knees.<br/>All my sins are washed away.<br/>I've been redeemed.</lines>
+    </verse>
+  </lyrics>
+</song>

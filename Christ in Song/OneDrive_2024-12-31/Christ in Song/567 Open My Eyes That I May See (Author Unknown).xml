@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:41">
+  <properties>
+    <titles>
+      <title>567 Open My Eyes That I May See</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Open my eyes that I may see<br/>Glimpses of truth Thou hast for me<br/>Place in my hands the wonderful key<br/>That shall unclasp and set me free</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Silently now I wait for Thee<br/>Ready my God Thy will<br/>To see<br/>Open my eyes illumine me<br/>Spirit divine</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Open my ears that I may hear<br/>Voices of truth Thou sendest clear<br/>And while the wave notes fall on my ear<br/>Everything false will disappear</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Open my mouth and let me bear<br/>Tidings of mercy everywhere<br/>Open my heart and let me prepare<br/>Love with Thy children<br/>Thus to share</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Open my mind that I may read<br/>More of Thy love in word and deed<br/>What shall I fear while yet Thou dost lead<br/>Only for light from Thee I plead</lines>
+    </verse>
+  </lyrics>
+</song>

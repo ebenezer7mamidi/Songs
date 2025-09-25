@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:38">
+  <properties>
+    <titles>
+      <title>202 Lord Jesus When We Think of Thee</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/>verse 1<br/>Lord Jesus when<br/>We think of Thee<br/>Of all Thy love and grace<br/>Our spirits long<br/>And fain would see<br/>Thy beauty face to face</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And though the wilderness we tread<br/>A barren thirsty ground<br/>With thorns and briars overspread<br/>Where foes and snares abound</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yet in Thy love<br/>Such depths we see<br/>Our hearts<br/>O'erflow with praise<br/>Content ourselves<br/>While Lord to Thee<br/>A joyful song we raise</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Our Lord our Life<br/>Our Rest our Shield<br/>Our Rock our Food our Light<br/>Each thought of Thee doth constant yield<br/>Unchanging fresh delight</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Blest Savior keep<br/>Our spirits stayed<br/>Hard following after Thee<br/>Till we in robes<br/>Of white arrayed<br/>Thy face in glory see</lines>
+    </verse>
+  </lyrics>
+</song>

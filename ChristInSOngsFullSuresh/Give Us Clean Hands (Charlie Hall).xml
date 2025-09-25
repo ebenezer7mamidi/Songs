@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T03:23:35">
+  <properties>
+    <titles>
+      <title>Give Us Clean Hands</title>
+    </titles>
+    <copyright>2000 worshiptogether.com songs / sixsteps Music, Administered by EMI Christian Music Publishing</copyright>
+    <ccliNo>2060208</ccliNo>
+    <authors>
+      <author>Charlie Hall</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>E<br/><br/>We bow our hearts we bend our knees<br/>Oh Spirit come make us humble<br/>We turn our eyes from evil things<br/>Oh Lord we cast down our idols</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Give us clean hands give us pure hearts<br/>Let us not lift our souls to another<br/>Give us clean hands give us pure hearts<br/>Let us not lift our souls to another</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Oh God let us be a generation that seeks<br/>That seeks Your face oh God of Jacob<br/>Oh God let us be a generation that seeks<br/>That seeks Your face oh God of Jacob</lines>
+    </verse>
+  </lyrics>
+</song>

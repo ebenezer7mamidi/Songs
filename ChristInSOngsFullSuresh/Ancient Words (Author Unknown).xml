@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T01:57:02">
+  <properties>
+    <titles>
+      <title>Ancient Words</title>
+    </titles>
+    <comments>
+      <comment>ending (optional)
+
+[above are Song Tags with notes imported from EasyWorship]</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 e1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>E<br/>Holy words long preserved<br/>For our walk in this world<br/>They resound with God's own heart<br/>O let the ancient words impart</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Words of life words of hope<br/>Give us strength help us cope<br/>In this world where're we roam<br/>Ancient words will guide us home</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ancient words ever true<br/>Changing me changing you<br/>We have come with open hearts<br/>O let the ancient words impart</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Holy words of our faith<br/>Handed down to this age<br/>Came to us through sacrifice<br/>O heed the faithful words of Christ</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Holy words long preserved<br/>For our walk in this world<br/>They resound with God's own heart<br/>O let the ancient words impart</lines>
+    </verse>
+    <verse name="e1">
+      <lines>We have come with open hearts<br/>O let the ancient words impart<br/>O let the ancient words impart</lines>
+    </verse>
+  </lyrics>
+</song>

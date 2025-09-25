@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>325 I Take He Undertakes (nice easy tune)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 v3 v4 v5 v6 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I clasp<br/>The hand of Love divine<br/>I claim<br/>The gracious<br/>Promise mine<br/>And add<br/>To His my countersign<br/>I take - He undertakes</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I take Thee<br/>Blessed Lord<br/>I give myself to Thee<br/>And thou according<br/>To Thy word<br/>Dost undertake for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I take salvation<br/>Full and free<br/>Through Him who gave<br/>His life for me<br/>He undertakes<br/>My all to be<br/>I take - He undertakes</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I take Him<br/>As my holiness<br/>My spirit's<br/>Spotless heavenly dress<br/>I take The Lord<br/>My righteousness<br/>I take - He undertakes</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I take<br/>The promised Holy Ghost<br/>I take<br/>The power Of Pentecost<br/>To fill me to<br/>The uttermost<br/>I take - He undertakes</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I take<br/>Him for this mortal frame<br/>I take<br/>My healing<br/>Through His name<br/>And all<br/>His risen life I claim<br/>I take - He undertakes</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I simply<br/>Take Him at his word<br/>I praise Him<br/>That my prayer is heard<br/>And claim my answer<br/>From the Lord<br/>I take - He undertakes</lines>
+    </verse>
+  </lyrics>
+</song>

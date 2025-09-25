@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:38">
+  <properties>
+    <titles>
+      <title>240 Jesus Is All The World To Me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>F<br/>verse 1<br/>Jesus is all<br/>The world to me<br/>My life my joy my all<br/>He is my strength<br/>From day to day<br/>Without Him I would fall</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>When I am sad<br/>To Him I go<br/>No other one<br/>Can cheer me so<br/>When I am sad<br/>He makes me glad<br/>He's my friend</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Jesus is all<br/>The world to me<br/>My Friend in trials sore<br/>I go to Him<br/>For blessings and<br/>He gives them o'er and o'er</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>He sends the sunshine<br/>And the rain<br/>He sends the harvest's<br/>Golden grain<br/>Sunshine and rain<br/>Harvest of grain<br/>He's my Friend</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Jesus is all<br/>The world to me<br/>And true to Him I'll be<br/>Oh how could I<br/>This Friend deny<br/>When He's so true to me</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Following Him<br/>I know I'm right<br/>He watches o'er me<br/>Day and night<br/>Following Him<br/>By day and night<br/>He's my Friend</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Jesus is all<br/>The world to me<br/>I want no better friend<br/>I trust Him now<br/>I'll trust Him when<br/>Life's fleeting days shall end</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Beautiful Life<br/>With such a Friend<br/>Beautiful life<br/>That has no end<br/>Eternal life<br/>Eternal joy<br/>He's my Friend</lines>
+    </verse>
+  </lyrics>
+</song>

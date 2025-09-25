@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-19T19:57:44">
+  <properties>
+    <titles>
+      <title>042 He Hideth My Soul</title>
+    </titles>
+    <copyright>Public Domain, Administered by CCLI Administration Account</copyright>
+    <verseOrder>v1 v2 v3 v4 v3</verseOrder>
+    <ccliNo>44498</ccliNo>
+    <authors>
+      <author>Fanny Jane Crosby</author>
+      <author>William James Kirkpatrick</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Bb<br/><br/>A wonderful Savior Is Jesus my Lord<br/>A wonderful Savior to me<br/>He hideth my soul<br/>In the cleft of the rock<br/>Where rivers of pleasure I see</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>He hideth my soul in The cleft of the rock<br/>That shadows a dry thirsty land<br/>He hideth my life in the depths of His love<br/>And covers me there with His hand<br/>And covers me there with His hand</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>A wonderful Savior Is Jesus my Lord<br/>He taketh my burden away<br/>He holdeth me up<br/>And I shall not be moved<br/>He giveth me strength as my day</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>He hideth my soul in the cleft of the rock<br/>That shadows a dry thirsty land<br/>He hideth my life in the depths of His love<br/>And covers me there with His hand<br/>And covers me there with His hand</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>With numberless blessings<br/>Each moment He crowns<br/>And filled with His fullness divine<br/>I sing in my rapture Oh glory to God<br/>For such a Redeemer as mine</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>He hideth my soul in The cleft of the rock<br/>That shadows a dry thirsty land<br/>He hideth my life in the Depths of His love<br/>And covers me there with His hand<br/>And covers me there with His hand</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When clothed in His brightness<br/>Transported I rise<br/>To meet Him in clouds of the sky<br/>His perfect salvation<br/>His wonderful love<br/>I'll shout with the millions on high</lines>
+    </verse>
+  </lyrics>
+</song>

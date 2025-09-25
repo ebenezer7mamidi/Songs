@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>434 His Eye Is On The Sparrow</title>
+    </titles>
+    <verseOrder>v1 c1 v2 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Why should I feel discouraged<br/>Why should the shadows come<br/>Why should my heart be lonely<br/>And long for heav'n and home</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>When Jesus is my portion<br/>My constant Friend is He<br/>His eye is on the sparrow<br/>And I know He watches me<br/>His eye is on the sparrow<br/>And I know He watches me</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>I sing because I'm happy<br/>I sing because I'm free<br/>For His eye is on the sparrow<br/>And I know He watches me</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Let not your heart be troubled<br/>His tender words I hear<br/>And resting on His goodness<br/>I lose my doubts and fears</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Though by the path He leadeth<br/>But one step I may see<br/>His eye is on the sparrow<br/>And I know He watches me<br/>His eye is on the sparrow<br/>And I know He watches me</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>I sing because I'm happy<br/>I sing because I'm free<br/>For His eye is on the sparrow<br/>And I know He watches me</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Whenever I am tempted<br/>Whenever clouds arise<br/>When songs give place to sighing<br/>When hope within me dies</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>I draw the closer to Him<br/>From care He sets me free<br/>His eye is on the sparrow<br/>And I know He watches me<br/>His eye is on the sparrow<br/>And I know He watches me</lines>
+    </verse>
+  </lyrics>
+</song>

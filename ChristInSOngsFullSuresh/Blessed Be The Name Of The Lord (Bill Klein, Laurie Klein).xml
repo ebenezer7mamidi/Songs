@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T02:26:40">
+  <properties>
+    <titles>
+      <title>Blessed Be The Name Of The Lord</title>
+    </titles>
+    <copyright>1984 House Of Mercy Music, Administered by House Of Mercy Music</copyright>
+    <ccliNo>447143</ccliNo>
+    <authors>
+      <author>Bill Klein</author>
+      <author>Laurie Klein</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/><br/>Blessed be the name of the Lord<br/>Blessed be the name of the Lord<br/>Blessed be the name of the Lord<br/>Most High</lines>
+    </verse>
+    <verse name="c1">
+      <lines>The name of the Lord is a strong tower<br/>The righteous run into it and they are saved<br/>(repeat)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus is the name of the Lord<br/>Jesus is the name of the Lord<br/>Jesus is the name of the Lord<br/>Most High</lines>
+    </verse>
+  </lyrics>
+</song>

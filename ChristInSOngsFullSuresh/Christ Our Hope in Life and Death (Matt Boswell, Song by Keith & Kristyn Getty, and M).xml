@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T02:37:08">
+  <properties>
+    <titles>
+      <title>Christ Our Hope in Life and Death</title>
+    </titles>
+    <copyright>2020</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Song by Keith &amp; Kristyn Getty</author>
+      <author>Matt Boswell</author>
+      <author>and M</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>E<br/><br/>What is our hope in life and death?<br/>Christ alone, Christ alone<br/>What is our only confidence?<br/>That our souls to him belong<br/>Who holds our days within his hand?<br/>What comes, apart from his command?<br/>And what will keep us to the end?<br/>The love of Christ, in which we stand</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>O sing hallelujah!<br/>Our hope springs eternal<br/>O sing hallelujah!<br/>Now and ever we confess<br/>Christ our hope in life and death</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What truth can calm the troubled soul?<br/>God is good, God is good<br/>Where is his grace and goodness known?<br/>In our great Redeemer's blood<br/>Who holds our faith when fears arise?<br/>Who stands above the stormy trial?<br/>Who sends the waves that bring us nigh<br/>Unto the shore, the rock of Christ?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Unto the grave, what will we sing?<br/>"Christ, he lives; Christ, he lives!"<br/>And what reward will heaven bring?<br/>Everlasting life with him<br/>And we will rise to meet the Lord<br/>Then sin and death will be destroyed<br/>And we will feast in endless joy<br/>When Christ is ours forevermore</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>O sing hallelujah!<br/>Our hope springs eternal<br/>O sing hallelujah!<br/>Now and ever we confess<br/>Christ our hope in life and death<br/>Now and ever we confess<br/>Christ our hope in life and death</lines>
+    </verse>
+  </lyrics>
+</song>

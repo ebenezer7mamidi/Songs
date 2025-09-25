@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>278 Grace 'Tis A Charming Sound (nice &amp; easy)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Grace 'tis a charming sound<br/>Harmonious to the ear<br/>Heav'n with the echo shall resound<br/>And all the earth shall hear</lines>
+    </verse>
+    <verse name="c1">
+      <lines>All sufficient grace<br/>Matchless endless grace<br/>It is Christ who lives in me<br/>My heart His dwelling place</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Twas grace that wrote my name<br/>In life's eternal book<br/>'Twas grace that gave me to the Lamb<br/>Who all my sorrows took</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Grace taught my wandering feet<br/>To tread the pilgrim road<br/>And new supplies each hour I meet<br/>While pressing on to God</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Grace taught my heart to pray<br/>And made my eyes o'erflow<br/>'Tis grace which kept me to this day<br/>And will not let me go</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Grace all the work shall crown<br/>Through everlasting days<br/>It lays in heaven the topmost stone<br/>And well deserves the praise</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Oh let that grace inspire<br/>My soul with strength divine<br/>May all my powers to Thee aspire<br/>And all my days be Thine</lines>
+    </verse>
+  </lyrics>
+</song>

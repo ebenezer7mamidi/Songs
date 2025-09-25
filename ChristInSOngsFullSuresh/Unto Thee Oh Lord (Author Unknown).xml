@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:52">
+  <properties>
+    <titles>
+      <title>Unto Thee Oh Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Unto Thee O Lord<br/>Do I lift up my soul<br/>Unto Thee O Lord<br/>Do I lift up my soul</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O my God I trust in Thee<br/>Let me not be ashamed<br/>Let not mine enemies<br/>Triumph over me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yea let none that wait<br/>On Thee be ashamed<br/>Yea let none that wait<br/>On Thee be ashamed</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Show me Thy ways<br/>Thy ways O Lord<br/>Teach me Thy paths<br/>Thy paths O Lord</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Remember not<br/>The sins of my youth<br/>Remember not<br/>The sins of my youth</lines>
+    </verse>
+  </lyrics>
+</song>

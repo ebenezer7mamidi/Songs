@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>332 Trusting Jesus (easy, nice)</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <ccliNo>22537</ccliNo>
+    <authors>
+      <author>Edgar Page Stites | Ira David Sankey</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Simply trusting every day<br/>Trusting through a stormy way<br/>Even when my faith is small<br/>Trusting Jesus that is all</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Trusting as the moments fly<br/>Trusting as the days go by<br/>Trusting Him whate'er befall<br/>Trusting Jesus that is all</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Brightly doth His Spirit shine<br/>Into this poor heart of mine<br/>While He leads I cannot fall<br/>Trusting Jesus that is all</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Singing if my way is clear<br/>Praying if the path be drear<br/>If in danger for Him call<br/>Trusting Jesus that is all</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Trusting Him while life shall last<br/>Trusting Him till earth is past<br/>Till within the jasper wall<br/>Trusting Jesus that is all</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:47">
+  <properties>
+    <titles>
+      <title>It Is A Good Thing</title>
+    </titles>
+    <copyright>1986 Mark A. Conner, Administered by Conner, Mark A.</copyright>
+    <ccliNo>246162</ccliNo>
+    <authors>
+      <author>Mark A. Conner</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It is a good thing to give thanks unto the LORD<br/>It is a good thing to give thanks unto the LORD<br/>And to sing praises unto Your name<br/>O Most High</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To declare Thy lovingkindness in the morning<br/>And Thy faithfulness every night<br/>It is a good thing to give thanks unto the LORD<br/>And to sing praises unto Your name<br/>O Most High</lines>
+    </verse>
+  </lyrics>
+</song>

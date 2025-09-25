@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>804 Precious Precious Blood (easy nice)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 v5 c1 v6 c1 v7 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Precious precious blood of Jesus<br/>Shed on Calvary<br/>Shed for rebels shed for sinners<br/>Shed for thee</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Precious precious blood of Jesus<br/>Ever flowing free<br/>Oh believe it oh receive it<br/>Tis for thee</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Precious precious blood of Jesus<br/>Let it make thee whole<br/>Let it flow in mighty cleansing<br/>O'er thy soul</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Though thy sins are red like crimson<br/>Deep in scarlet glow<br/>Jesus' precious blood shall wash thee<br/>White as snow</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Precious blood that hath redeemed us<br/>All the price is paid<br/>Perfect pardon now is offered<br/>peace is made</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Precious precious blood of Jesus<br/>Ever flowing free<br/>Oh believe it - Oh receive it<br/>Tis for thee</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Now the holiest with boldness<br/>We may enter in<br/>For the open fountain cleanseth<br/>From all sin</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Precious blood by this we conquer<br/>In the fiercest fight<br/>Sin and Satan overcoming<br/>By its might</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Precious blood whose full atonement<br/>Makes us nigh to God<br/>Precious blood our way of glory<br/>Praise and laud</lines>
+    </verse>
+  </lyrics>
+</song>

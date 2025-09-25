@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T14:00:40">
+  <properties>
+    <titles>
+      <title>Sing We The King (familiar tune)</title>
+    </titles>
+    <copyright>Greg Leavers / In this version 1986 Peter Horrobin, Administered by Leavers, Greg P. / Unaffiliated Admin</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <ccliNo>1234207</ccliNo>
+    <authors>
+      <author>Charles Silvester Horne</author>
+      <author>Greg Leavers</author>
+      <author>Peter Hor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sing we the King who is coming to reign<br/>Glory to Jesus the Lamb that was slain<br/>Life and salvation His coming shall bring<br/>Joy to all those who know Jesus as King</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Come let us sing Praise to our King<br/>Jesus our King Jesus our King<br/>This is our song who to Jesus belong<br/>Glory to Jesus to Jesus our King</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All men who dwell in His marvellous light<br/>Races long severed His love shall unite<br/>Justice and truth from His sceptre shall spring<br/>Wrong shall be ended when Jesus is King</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All shall be well in His kingdom of peace<br/>Freedom and wisdom and love shall not cease<br/>Foe shall be friend when His triumph we sing<br/>Sword shall be sickle when Jesus is King</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Souls shall be saved from the burden of sin<br/>Doubt shall not darken His witness within<br/>Hell has no terrors and death has no sting<br/>Love is victorious when Jesus is King</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Knowledge and fear of the Lord then shall be<br/>As the deep waters that cover the sea<br/>All things shall be in the splendor of spring<br/>And all harmonious when Jesus is King</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kingdom of Christ for Your coming we pray<br/>Hasten O Father the dawn of the day<br/>When this new song Your creation shall sing<br/>Satan is conquered and Jesus is King</lines>
+    </verse>
+  </lyrics>
+</song>

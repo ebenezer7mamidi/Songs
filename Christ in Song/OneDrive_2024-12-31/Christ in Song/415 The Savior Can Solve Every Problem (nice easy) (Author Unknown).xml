@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>415 The Savior Can Solve Every Problem (nice easy)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Savior can lift ev'ry burden<br/>The heavy as well as the light<br/>His strength is made perfect in weakness<br/>In Him there is power and might</lines>
+    </verse>
+    <verse name="c1">
+      <lines>The Savior can solve ev'ry problem<br/>The tangles of life can undo<br/>There is nothing to hard for Jesus<br/>There is nothing that He cannot do</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The Savior can bear every sorrow<br/>In Him there is comfort and rest<br/>No matter how great the affliction<br/>He only permits what is best</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The Savior can strengthen the weary<br/>His grace is sufficient for all<br/>He knows every step of the pathway<br/>And listens to hear when we call</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The Savior can break sin's dominion<br/>The vict'ry He won long ago<br/>In Him there is freedom from bondage<br/>He's able to conquer the foe</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The Savior can satisfy fully<br/>The heart that the world cannot fill<br/>His presence will sanctify wholly<br/>The soul that is yielded and still</lines>
+    </verse>
+  </lyrics>
+</song>

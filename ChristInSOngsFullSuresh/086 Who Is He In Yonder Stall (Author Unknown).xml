@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-19T20:27:12">
+  <properties>
+    <titles>
+      <title>086 Who Is He In Yonder Stall</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>F<br/>Who is He in yonder stall<br/>At whose feet<br/>The shepherds fall<br/>Who is He in deep distress<br/>Fasting in the wilderness</lines>
+    </verse>
+    <verse name="c1">
+      <lines>'Tis the lord<br/>O wondrous story<br/>'Tis the Lord<br/>The King of glory<br/>At His feet we humbly fall<br/>Crown Him crown Him<br/>Lord of all</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Who is He the people bless<br/>For His words of gentleness<br/>Who is He<br/>To whom they bring<br/>All the sick and sorrowing</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Who is He that stands and weeps<br/>At the grave where Lazarus sleeps<br/>Who is He<br/>The gathering throng<br/>Greet with loud<br/>Triumphant song</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lo at midnight who is He<br/>Prays in dark Gethsemane<br/>Who is He on yonder tree<br/>Dies in grief and agony</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Who is He that from the grave<br/>Comes to heal<br/>And help and save<br/>Who is He<br/>That from His throne<br/>Rules through<br/>All the world alone</lines>
+    </verse>
+  </lyrics>
+</song>

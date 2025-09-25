@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T02:44:34">
+  <properties>
+    <titles>
+      <title>Come to Jesus</title>
+    </titles>
+    <copyright>2003 Clumsy Fly Music, Administered by Word Music Group, Inc.</copyright>
+    <ccliNo>4261050</ccliNo>
+    <authors>
+      <author>Chris Rice</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/><br/>Weak and wounded sinner<br/>Lost and left to die<br/>O raise your head for<br/>Love is passin' by<br/>Come to Jesus<br/>Come to Jesus<br/>Come to Jesus and live</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now your burden's lifted<br/>And carried far away<br/>And precious blood has<br/>washed away the stain<br/>So sing to Jesus<br/>Sing to Jesus<br/>Sing to Jesus and live</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Like a newborn baby<br/>Don't be afraid to crawl<br/>And remember when you<br/>walk sometimes we fall<br/>So fall on Jesus<br/>Fall on Jesus<br/>Fall on Jesus and live</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sometimes the way is lonely<br/>And steep and filled with pain<br/>So if your sky is dark and pours the rain<br/>Then cry to Jesus<br/>Cry to Jesus<br/>Cry to Jesus and live</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh and when the love spills over<br/>And music fills the night<br/>And when you can't<br/>contain your joy inside<br/>Then dance for Jesus<br/>Dance for Jesus<br/>Dance for Jesus and live</lines>
+    </verse>
+    <verse name="v6a">
+      <lines>And with your final heartbeat<br/>Kiss the world good-bye<br/>Then go in peace and<br/>laugh on glory's side</lines>
+    </verse>
+    <verse name="v6b">
+      <lines>And fly to Jesus<br/>Fly to Jesus<br/>Fly to Jesus and live<br/>Fly to Jesus<br/>Fly to Jesus<br/>Fly to Jesus and live</lines>
+    </verse>
+  </lyrics>
+</song>

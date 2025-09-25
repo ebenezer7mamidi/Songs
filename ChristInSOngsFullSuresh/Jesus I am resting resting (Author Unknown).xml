@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-12T15:47:17">
+  <properties>
+    <titles>
+      <title>Jesus I am resting resting</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>F<br/><br/>Jesus I am resting resting<br/>In the joy of what Thou art<br/>I am finding out the greatness<br/>Of Thy loving heart</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Thou hast bid me gaze upon Thee<br/>And Thy beauty fills my soul<br/>For by Thy transforming power<br/>Thou hast made me whole</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus I am resting resting<br/>In the joy of what Thou art<br/>I am finding out the greatness<br/>Of Thy loving heart</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Oh how great<br/>Thy loving kindness<br/>Vaster broader than the sea<br/>Oh how marvelous Thy goodness<br/>Lavished all on me</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Yes I rest in Thee Beloved<br/>Know what wealth of grace is Thine<br/>Know Thy certainty of promise<br/>And have made it mine</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Simply trusting Thee Lord Jesus<br/>I behold Thee as Thou art<br/>And Thy love so pure so changeless<br/>Satisfies my heart</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Satisfies its deepest longings<br/>Meets supplies its ev'ry need<br/>Compasseth me<br/>'round with blessings<br/>Thine is love indeed</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Ever lift Thy face upon me<br/>As I work and wait for Thee<br/>Resting 'neath<br/>Thy smile Lord Jesus<br/>Earth's dark shadows flee</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Brightness of<br/>My Father's glory<br/>Sunshine of<br/>My Father's face<br/>Keep me ever trusting resting<br/>Fill me with Thy grace</lines>
+    </verse>
+  </lyrics>
+</song>

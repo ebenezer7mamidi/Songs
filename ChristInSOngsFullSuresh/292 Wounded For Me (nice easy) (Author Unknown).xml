@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>292 Wounded For Me (nice easy)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wounded for me wounded for me<br/>There on the cross<br/>He was wounded for me<br/>Gone my transgressions<br/>And now I am free<br/>All because Jesus<br/>Was wounded for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dying for me<br/>Dying for me<br/>There on the cross<br/>He was dying for me<br/>Now in His death<br/>My redemption I see<br/>All because Jesus<br/>Was dying for me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Risen for me<br/>Risen for me<br/>Up from the grave<br/>He has risen for me<br/>Now evermore from<br/>Death's sting I am free<br/>All because Jesus<br/>Has risen for me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Living for me<br/>Living for me<br/>Up in the skies He is living for me<br/>Daily He's pleading<br/>And praying for me<br/>All because Jesus<br/>Is living for me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Coming for me<br/>Coming for me<br/>One day to earth<br/>He is coming for me<br/>Then with what joy<br/>His dear face I shall see<br/>Oh how I praise Him<br/>He's coming for me</lines>
+    </verse>
+  </lyrics>
+</song>

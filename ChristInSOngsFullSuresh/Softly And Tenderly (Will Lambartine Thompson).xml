@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T14:01:16">
+  <properties>
+    <titles>
+      <title>Softly And Tenderly</title>
+    </titles>
+    <copyright>Public Domain, Administered by CCLI Administration Account</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>28380</ccliNo>
+    <authors>
+      <author>Will Lambartine Thompson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Come home come home<br/>Ye who are weary come home<br/>Earnestly tenderly Jesus is calling<br/>Calling O sinner come home</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Softly and tenderly Jesus is calling<br/>Calling for you and for me<br/>See on the portals<br/>He's waiting and watching<br/>Watching for you and for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Why should we tarry<br/>When Jesus is pleading<br/>Pleading for you and for me<br/>Why should we linger<br/>And heed not His mercies<br/>Mercies for you and for me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Time is now fleeting<br/>The moments are passing<br/>Passing from you and from me<br/>Shadows are gathering<br/>Death's night is coming<br/>Coming for you and for me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh for the wonderful<br/>Love He has promised<br/>Promised for you and for me<br/>Though we have sinned<br/>He has mercy and pardon<br/>Pardon for you and for me</lines>
+    </verse>
+  </lyrics>
+</song>

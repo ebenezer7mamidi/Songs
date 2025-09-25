@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-20T00:42:58">
+  <properties>
+    <titles>
+      <title>Lion Of Judah</title>
+    </titles>
+    <copyright>1997 Daybreak Music, Ltd., Administered by Integrity Music, Inc.</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>1079280</ccliNo>
+    <authors>
+      <author>Robin Mark</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>A<br/>You're the Lion of Judah<br/>The Lamb who was slain<br/>You ascended to heaven<br/>And ever more will reign<br/>At the end of the age<br/>When the earth You reclaim<br/>You will gather the nations before You</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>And the eyes of all men<br/>Will be fixed on the Lamb<br/>Who was crucified<br/>With wisdom and mercy and justice<br/>You'll reign at Your Father's side</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And the angels will cry<br/>Hail the Lamb<br/>Who was slain for the world<br/>Rule in pow'r<br/>And the earth will reply<br/>You shall reign<br/>As the King of all kings<br/>And the Lord of all lords</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>There's a shield in our hand<br/>And a sword at our side<br/>There's a fire in our spirits<br/>That cannot be denied<br/>'Cause the Father has told us<br/>For these You have died<br/>For the nations who gather before You</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>And the ears of all men<br/>Need to hear of the Lamb<br/>Who was crucified<br/>Who descended to hell<br/>Yet was raised up to reign<br/>At His Father's side</lines>
+    </verse>
+  </lyrics>
+</song>

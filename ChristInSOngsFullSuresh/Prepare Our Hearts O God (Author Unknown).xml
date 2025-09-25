@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T13:43:29">
+  <properties>
+    <titles>
+      <title>Prepare Our Hearts O God</title>
+    </titles>
+    <comments>
+      <comment>chorus 1 (end of ministry)
+
+[above are Song Tags with notes imported from EasyWorship]</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 b1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A<br/>Prepare our hearts O God<br/>Help us to receive<br/>Break the hard and stony ground<br/>Help our unbelief<br/>Plant Your Word down deep in us<br/>'Cause it to bear fruit<br/>Open up our ears to hear<br/>Lead us in Your truth</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Show us Christ show us Christ<br/>O God reveal Your glory<br/>Through the preaching of Your Word<br/>Until every heart confesses Christ is Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your Word is living light<br/>Upon our darkened eyes<br/>Guards us through temptations<br/>Makes the simple wise<br/>Your Word is food for famished ones<br/>Freedom for the slave<br/>Riches for the needy soul<br/>Come speak to us today</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Where else can we go Lord<br/>Where else can we go<br/>You have the words of eternal life<br/>(REPEAT)</lines>
+    </verse>
+  </lyrics>
+</song>

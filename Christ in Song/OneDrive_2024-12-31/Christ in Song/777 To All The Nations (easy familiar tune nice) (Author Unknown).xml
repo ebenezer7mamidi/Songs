@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>777 To All The Nations (easy familiar tune nice)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To all the nations<br/>This is God's command<br/>Go and preach the gospel<br/>Throughout every land<br/>Christ who died on Calv'ry<br/>Bids us go today<br/>And He lives in heaven<br/>For His church to pray</lines>
+    </verse>
+    <verse name="c1">
+      <lines>To all the nations<br/>This is God's command<br/>Go and preach the gospel<br/>Throughout every land</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To all the nations<br/>Preaching Christ abroad<br/>As the Lord and Savior<br/>Spotless Lamb of God<br/>Let us bear our witness<br/>Confident and clear<br/>With the Spirit's boldness<br/>We need never fear</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To all the nations<br/>In the Spirit's power<br/>For the foes of darkness<br/>Challenge every hour<br/>But the Lord has promised<br/>That His Church shall be<br/>Built in every nation<br/>Glorious and free</lines>
+    </verse>
+    <verse name="v4">
+      <lines>To all the nations<br/>Till our Lord appear<br/>All the signs around us<br/>Signal He is near<br/>Christ will come in power<br/>His great glory show<br/>Then the earth in splendor<br/>Will His freedom know</lines>
+    </verse>
+  </lyrics>
+</song>

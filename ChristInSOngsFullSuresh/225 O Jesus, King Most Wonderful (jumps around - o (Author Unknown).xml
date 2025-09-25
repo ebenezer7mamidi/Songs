@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:38">
+  <properties>
+    <titles>
+      <title>225 O Jesus, King Most Wonderful (jumps around - o</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Jesus King most wonderful<br/>Thou Conqueror renowned<br/>Thou sweetness most ineffable<br/>In Whom all joys are found</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When once Thou visitest the heart<br/>Then truth begins to shine<br/>Then earthly vanities depart<br/>Then kindles love divine</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Jesus light of all below<br/>Thou fount of living fire<br/>Surpassing all the joys we know<br/>All all we can desire</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus may all confess Thy name<br/>Thy wondrous love adore<br/>And seeking Thee themselves inflame<br/>To seek Thee more and more</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Thee Jesus may our voices bless<br/>Thee may we love alone<br/>And ever in our lives express<br/>The image of Thine own</lines>
+    </verse>
+    <verse name="v6">
+      <lines>O Jesus Thou the beauty art<br/>Of angel worlds above<br/>Thy Name is music to the heart<br/>Inflaming it with love</lines>
+    </verse>
+  </lyrics>
+</song>

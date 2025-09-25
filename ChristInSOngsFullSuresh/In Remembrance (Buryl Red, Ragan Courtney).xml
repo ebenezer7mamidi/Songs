@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:47">
+  <properties>
+    <titles>
+      <title>In Remembrance</title>
+    </titles>
+    <copyright>1972. Renewed 2000 Van Ness Press, Inc., Administered by LifeWay Christian Resources</copyright>
+    <ccliNo>25156</ccliNo>
+    <authors>
+      <author>Buryl Red</author>
+      <author>Ragan Courtney</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Take eat and be comforted<br/>Drink and remember too<br/>That this is My body<br/>And precious blood shed for you shed for you</lines>
+    </verse>
+    <verse name="v1">
+      <lines>In remembrance of Me eat this bread<br/>In remembrance of Me drink this wine<br/>In remembrance of Me pray for the time<br/>When God's own will is done</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In remembrance of Me heal the sick<br/>In remembrance of Me feed the poor<br/>In remembrance of Me open the door<br/>And let your brother in let Him in</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In remembrance of Me search for truth<br/>In remembrance of Me always love<br/>In remembrance of Me don't look above<br/>But in your heart<br/>Look in your heart for God<br/>Do this in remembrance of Me</lines>
+    </verse>
+  </lyrics>
+</song>

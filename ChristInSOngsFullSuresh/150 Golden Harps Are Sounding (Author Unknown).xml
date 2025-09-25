@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-19T23:40:41">
+  <properties>
+    <titles>
+      <title>150 Golden Harps Are Sounding</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Golden harps a sounding<br/>Angel voices ring<br/>Pearly gates are opened<br/>Opened for the King<br/>Christ the King of glory<br/>Jesus King of love<br/>Is gone up in triumph<br/>To His throne above</lines>
+    </verse>
+    <verse name="c1">
+      <lines>All His work is ended<br/>Joyfully we sing<br/>Jesus hath ascended<br/>Glory to our King</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He who came to save us<br/>He who bled and died<br/>Now is crowned with glory<br/>At His Father's side<br/>Nevermore to suffer<br/>Nevermore to die<br/>Jesus King of glory<br/>Is gone up on high</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Praying for His children<br/>In that blessed place<br/>Calling them to glory<br/>Sending them His grace<br/>His bright home preparing<br/>Faithful ones for you<br/>Jesus ever liveth<br/>Ever loveth too</lines>
+    </verse>
+  </lyrics>
+</song>

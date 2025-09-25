@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:49">
+  <properties>
+    <titles>
+      <title>Lord, You love me so immensely</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Lord, You love me so immensely<br/>I would love You more intensely<br/>Every day and every moment<br/>Lord capture me</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Let my goal and my life's theme be<br/>Lord to love You most supremely<br/>With all my heart, Lord Jesus<br/>Keep me faithful unto Thee</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Draw me Lord each day (draw me Lord each day)<br/>Take my veils away<br/>(take my veils away)<br/>With a pure heart will I see You<br/>Lord I just love You</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Nothing else I seek (nothing else I seek)<br/>No one else for me<br/>(no one else for me)<br/>I would fully and absolutely<br/>Give my whole being unto Thee</lines>
+    </verse>
+  </lyrics>
+</song>

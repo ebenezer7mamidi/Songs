@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:47">
+  <properties>
+    <titles>
+      <title>I Love You</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I love You<br/> Sisters: I love You<br/>Because You first loved me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I love you<br/> Sisters: I love You<br/>Because You first loved me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And this is love<br/>that You loved us<br/>and sent Your Son<br/>I love you<br/> Sisters: I love You<br/>Because you first loved me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We love Him<br/> Sisters: We love Him<br/>Because He first loved us</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And this is love<br/>that He loved us<br/>and sent His Son<br/>We Love Him<br/> Sisters: We Love Him<br/>Because He first loved us.</lines>
+    </verse>
+  </lyrics>
+</song>

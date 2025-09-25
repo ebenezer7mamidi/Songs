@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-25T15:11:28">
+  <properties>
+    <titles>
+      <title>Think About His Love</title>
+    </titles>
+    <copyright>1987 Integrity's Hosanna! Music, Administered by Integrity Music, Inc.</copyright>
+    <verseOrder>v1 v2 c1 c2</verseOrder>
+    <ccliNo>16299</ccliNo>
+    <authors>
+      <author>Walt Harrah</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/><br/>Think about His love,<br/>Think about His mercy,<br/>Think about His grace,<br/>That's brought us through.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For as high as the heavens above,<br/>So great is the measure<br/>Of our Father's love.<br/>Great is the measure<br/>Of our Father's love.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>How could I forget His love,<br/>How could I forget His mercy,<br/>He satisfies, He satisfies,<br/>He satisfies my desires,<br/>Great is the measure of our Father's love.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Even when I've strayed away,<br/>His tender love has sought me out<br/>And found me,<br/>He found me,<br/>And carried me back home<br/>Great is the measure Of our Father's love.</lines>
+    </verse>
+  </lyrics>
+</song>

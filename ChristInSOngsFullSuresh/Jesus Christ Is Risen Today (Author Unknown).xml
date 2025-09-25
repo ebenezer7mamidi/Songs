@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:48">
+  <properties>
+    <titles>
+      <title>Jesus Christ Is Risen Today</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus Christ is risen today<br/> Al-le-lu-ia!<br/>Our triumphant holy day<br/>Al-le-lu-ia!<br/>Who did once upon the cross<br/>Al-le-lu-ia!<br/>Suffer to redeem our loss<br/>Al-le-lu-ia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hymns of praise then let us sing<br/>Al-le-lu-ia!<br/>Unto Christ our heavenly King<br/>Al-le-lu-ia!<br/>Who endured the cross and grave<br/>Al-le-lu-ia!<br/>Sinners to redeem and save<br/>Al-le-lu-ia!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>But the pains which He endured<br/>Al-le-lu-ia!<br/>Our salvation have procured<br/>Al-le-lu-ia!<br/>Now above the sky He's King<br/>Al-le-lu-ia!<br/>Where the angels ever sing<br/>Al-le-lu-ia!</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Sing we to our God above</lines>
+    </verse>
+  </lyrics>
+</song>

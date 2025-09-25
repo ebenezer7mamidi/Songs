@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:37">
+  <properties>
+    <titles>
+      <title>071 Thanks to God for my Redeemer</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>E<br/>Verse 1<br/>Thanks to God for my Redeemer<br/>Thanks for all Thou dost provide<br/>Thanks for times now but a memory<br/>Thanks for Jesus by my side</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Thanks for pleasant balmy springtime<br/>Thanks for dark and dreary fall<br/>Thanks for tears by now forgotten<br/>Thanks for peace within my soul</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Thanks for prayers that Thou hast answered<br/>Thanks for what Thou dost deny<br/>Thanks for storms that I have weathered<br/>Thanks for all Thou dost supply</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>Thanks for pain and thanks for pleasure<br/>Thanks for comfort in despair<br/>Thanks for grace that none can measure<br/>Thanks for love beyond compare</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Thanks for roses by the wayside<br/>Thanks for thorns their stems contain<br/>Thanks for home and thanks for fireside<br/>Thanks for hope that sweet refrain</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Thanks for joy and thanks for sorrow<br/>Thanks for heav'nly peace with Thee<br/>Thanks for hope in the tomorrow<br/>Thanks through all eternity</lines>
+    </verse>
+  </lyrics>
+</song>

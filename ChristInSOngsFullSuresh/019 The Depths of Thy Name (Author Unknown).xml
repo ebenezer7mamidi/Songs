@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:37">
+  <properties>
+    <titles>
+      <title>019 The Depths of Thy Name</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Deep down into<br/>The depths of this, Thy Name,<br/>My God, I sink and<br/>Dwell in calm delight<br/>Thou art enough<br/>However long the day<br/>Thou art enough<br/>However dark the night</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thou art my God,<br/>The All-Sufficient One<br/>Thou canst create<br/>For me whate'er I lack;<br/>Thy mighty hand has<br/>Strewn the lonely track<br/>With miracles of<br/>Love and tender care</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For me, Thy trusting one,<br/>My God I dare<br/>Once more to fling<br/>Myself upon Thy breast<br/>And there adore Thy ways<br/>In faith's deep rest<br/>And there adore Thy ways<br/>In faith's quiet rest</lines>
+    </verse>
+  </lyrics>
+</song>

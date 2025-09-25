@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:50">
+  <properties>
+    <titles>
+      <title>On The Night You Were Betrayed</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>On the night You were betrayed<br/>You took the bread after giving thanks<br/>You broke it and said<br/>"This is My body, broken for you<br/>And as you eat it, remember Me"<br/>"This is My body, broken for you<br/>And as you eat it, remember Me"</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On the night You were betrayed<br/>You held the cup after giving thanks<br/>You lifted it up<br/>"This is my blood, poured out for you<br/>And as you drink it, remember Me"</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So we thank You for the wine and for the bread<br/>For we see the life You gave<br/>And the blood you shed<br/>And we remember Your wondrous love<br/>You gave your body - You shed your blood<br/>And we remember Your wondrous love<br/>You gave your body - You shed your blood</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yes, we remember Your wondrous love<br/>You gave your body - you shed your blood<br/>Yes, we remember Your wondrous love<br/>You gave your body - you shed your blood</lines>
+    </verse>
+  </lyrics>
+</song>

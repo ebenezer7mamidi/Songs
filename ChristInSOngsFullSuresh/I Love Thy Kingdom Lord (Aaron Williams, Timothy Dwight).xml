@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:47">
+  <properties>
+    <titles>
+      <title>I Love Thy Kingdom Lord</title>
+    </titles>
+    <copyright>Public Domain, Administered by CCLI Administration Account</copyright>
+    <ccliNo>100095</ccliNo>
+    <authors>
+      <author>Aaron Williams</author>
+      <author>Timothy Dwight</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I love Thy kingdom Lord<br/>The house of Thine abode<br/>The church our blest Redeemer saved<br/>With His own precious blood</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I love Thy church O God<br/>Her walls before Thee stand<br/>Dear as the apple of Thine eye<br/>And graven on Thy hand</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For her my tears shall fall<br/>For her my prayers ascend<br/>To her my cares and toils be giv'n<br/>Till toils and cares shall end</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Beyond my highest joy<br/>I prize her heavenly ways<br/>Her sweet communion solemn vows<br/>Her hymns of love and praise</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sure as Thy truth shall last<br/>To Zion shall be given<br/>The brightest glories earth can yield<br/>And brighter bliss of heaven</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jesus Thou Friend divine<br/>To Zion shall be given<br/>Thy hand from every snare and foe<br/>Shall great deliv'rance bring</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I love Your church O God<br/>The people You have called<br/>The church our blest Redeemer<br/>Saved with His own precious blood</lines>
+    </verse>
+  </lyrics>
+</song>

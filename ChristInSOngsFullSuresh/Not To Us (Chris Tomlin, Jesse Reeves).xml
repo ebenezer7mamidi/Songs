@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-21T23:37:17">
+  <properties>
+    <titles>
+      <title>Not To Us</title>
+    </titles>
+    <copyright>2001 worshiptogether.com songs / sixsteps Music, Administered by EMI Christian Music Publishing</copyright>
+    <verseOrder>v1 c1 v2 c1 b1</verseOrder>
+    <ccliNo>4046093</ccliNo>
+    <authors>
+      <author>Chris Tomlin</author>
+      <author>Jesse Reeves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Not to us<br/>But to Your name be the glory<br/>Not to us<br/>But to Your name be the glory</lines>
+    </verse>
+    <verse name="v1">
+      <lines>The cross before me the world behind<br/>No turning back raise the banner high<br/>It's not for me it's all for You<br/>Let the heavens shake and split the sky<br/>Let the people clap their hands and cry<br/>It's not for us it's all for You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Our hearts unfold before Your throne<br/>The only place for those who know<br/>It's not for us it's all for You<br/>Send Your holy fire on this offering<br/>Let our worship burn for the world to see<br/>It's not for us it's all for You</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>The earth is shaking<br/>The mountains shouting<br/>It's all for You<br/>The waves are crashing<br/>The sun is raging<br/>It's all for You<br/>The universe<br/>Spinning and singing<br/>It's all for You<br/>Your children dancing dancing dancing<br/>It's all for You<br/>It's all for You</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>Misc 2<br/>ENDING<br/>All glory and honor and praise<br/>All glory and honor and praise<br/>All glory and honor and praise<br/>All glory and honor and praise</lines>
+    </verse>
+  </lyrics>
+</song>

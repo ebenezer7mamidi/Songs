@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T13:22:25">
+  <properties>
+    <titles>
+      <title>One Day</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>One day when heaven was filled with his praises<br/>one day when sin was as black as could be<br/>Jesus came forth to be born of a virgin<br/>dwelt among men my example is he</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Living, He loved me<br/>dying, He saved me<br/>buried, He carried my sins far away<br/>rising, He justified freely forever<br/>one day He's coming, oh glorious day!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>One day led Him up Calvary's mountain<br/>one day they nailed Him to die on the tree<br/>suffering anguish despised and rejected<br/>bearing our sins my redeemer is He</lines>
+    </verse>
+    <verse name="v3">
+      <lines>One day they left Him alone in the garden<br/>one day He rested from suffering free<br/>angels came down o're His tomb to keep vigil<br/>hope of the hopeless my savior is He</lines>
+    </verse>
+    <verse name="v4">
+      <lines>One day the grave could conceal Him no longer<br/>one day the stone rolled away from the door<br/>then He arose over death He had conquered<br/>now is ascended my Lord evermore</lines>
+    </verse>
+    <verse name="v5">
+      <lines>One day the trumpet will sound for His coming<br/>one day the skies with His glory will shine<br/>wonderful day my beloved one's bringing<br/>glorious savior this Jesus is mine</lines>
+    </verse>
+  </lyrics>
+</song>

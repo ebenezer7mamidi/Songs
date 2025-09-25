@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>840 The Wandering Sheep (? - music missing)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I was a wand'ring sheep<br/>I did not love the fold<br/>I did not love my Shepherds voice<br/>I would not be controlled<br/>I was a wayward child<br/>I did not love my home<br/>I did not love my Father's voice<br/>I loved afar to roam</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The Shepherd sought His sheep<br/>The Father sought His child<br/>He followed me o'er vale and hill<br/>O'er deserts waste and wild<br/>They found me nigh to death<br/>Famished and faint and lone<br/>They bound me with the bands of love<br/>He saved the wand'ring one</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus my Shepherd is<br/>'Twas He that loved my soul<br/>'Twas He that washed me in His blood<br/>'Twas He that made me whole<br/>'Twas He that sought the lost<br/>That found the wand'ring sheep<br/>'Twas He that brought me to the fold<br/>'Tis He that still doth keep</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I was a wand'ring sheep<br/>I would not be controlled<br/>But now I love my Savior's voice<br/>I love I love the fold<br/>I was a wayward child<br/>I once preferred to roam<br/>But now I love my Father's voice<br/>I love I love His home</lines>
+    </verse>
+  </lyrics>
+</song>

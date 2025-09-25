@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:37">
+  <properties>
+    <titles>
+      <title>034 O My Savior Glorified</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O my Savior glorified<br/>Now the heavens opened wide<br/>Show to faith's exultant eye<br/>One in beauteous majesty</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Worthy of the sweetest praise<br/>That my ransomed heart can raise<br/>Is that Man in whom alone<br/>God Himself is fully known</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For those clust'ring Glories prove<br/>That glad gospel God is Love<br/>While those wounds In glory bright<br/>Voice the solemn God is light</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hark my soul Thy Savior sings<br/>Catch the joy that Music brings<br/>And with that sweet Flood of song<br/>Pour thy whisp'ring Praise along</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O my Savior glorified<br/>Turn my eye from all beside<br/>Let me but Thy beauty see<br/>Other light is dark to me</lines>
+    </verse>
+  </lyrics>
+</song>

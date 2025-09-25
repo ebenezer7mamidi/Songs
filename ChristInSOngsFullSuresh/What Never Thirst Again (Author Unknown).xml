@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:52">
+  <properties>
+    <titles>
+      <title>What Never Thirst Again</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We're feeding on the living Bread<br/>We're drinking at the fountain head;<br/>And who-so drinketh, Jesus said<br/>Shall never, never thirst again.</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>What! Never thirst again?<br/>No, never thirst again!<br/>What! never thirst again?<br/>No, never thirst again!</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>And who-so drinketh, Jesus said,<br/>Shall never, never thirst again!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:51">
+  <properties>
+    <titles>
+      <title>Sing Unto the Lord</title>
+    </titles>
+    <comments>
+      <comment>verse 1 (ending)
+
+[above are Song Tags with notes imported from EasyWorship]</comment>
+    </comments>
+    <verseOrder>v1 v2 v3 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O sing unto the Lord A new song<br/>For He has done marvelous Things<br/>His right hand and His holy arm<br/>Have gotten him the victory</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The Lord hath made known His salvation<br/>His righteousness<br/>Hath he openly showed<br/>In the sight of the heathen<br/>O sing unto the Lord A new song</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He hath remembered His mercy<br/>And His truth towards The house of Israel<br/>All the ends of the Earth have seen<br/>The salvation of the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T14:44:30">
+  <properties>
+    <titles>
+      <title>The Heart Of Worship</title>
+    </titles>
+    <copyright>1997 Thankyou Music, Administered by EMI Christian Music Publishing</copyright>
+    <verseOrder>v1 p1 c1 v2 p1 c1</verseOrder>
+    <ccliNo>2296522</ccliNo>
+    <authors>
+      <author>Matt Redman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When the music fades<br/>All is stripped away<br/>And I simply come<br/>Longing just to bring<br/>Something that's of worth<br/>That will bless Your heart</lines>
+    </verse>
+    <verse name="p1">
+      <lines>I'll bring You more than a song<br/>For a song in itself<br/>Is not what You have required<br/>You search much deeper within<br/>Through the way things appear<br/>You're looking into my heart</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I'm coming back<br/>To the heart of worship<br/>And it's all about You<br/>All about You Jesus<br/>I'm sorry Lord<br/>For the thing I've made it<br/>When it's all about You<br/>All about You Jesus</lines>
+    </verse>
+    <verse name="v2">
+      <lines>King of endless worth<br/>No one could express<br/>How much You deserve<br/>Though I'm weak and poor<br/>All I have is Yours<br/>Ev'ry single breath</lines>
+    </verse>
+  </lyrics>
+</song>

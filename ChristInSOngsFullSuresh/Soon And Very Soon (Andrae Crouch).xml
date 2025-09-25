@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:51">
+  <properties>
+    <titles>
+      <title>Soon And Very Soon</title>
+    </titles>
+    <copyright>1971 Bud John Songs, Inc. / Crouch Music Corp., Administered by EMI Christian Music Publishing</copyright>
+    <ccliNo>11249</ccliNo>
+    <authors>
+      <author>Andrae Crouch</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Soon and very soon<br/>We are going to see the King<br/>Soon and very soon<br/>We are going to see the King</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Soon and very soon<br/>We are going to see the King<br/>Hallelujah hallelujah<br/>We're going to see the King</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>No more crying there<br/>We are going to see the King<br/>No more crying there<br/>We are going to see the King</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>No more crying there<br/>We are going to see the King<br/>Hallelujah hallelujah<br/>We're going to see the King</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>No more dying there<br/>We are going to see the King<br/>No more dying there<br/>We are going to see the King</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>No more dying there<br/>We are going to see the King<br/>Hallelujah hallelujah<br/>We're going to see the King</lines>
+    </verse>
+  </lyrics>
+</song>

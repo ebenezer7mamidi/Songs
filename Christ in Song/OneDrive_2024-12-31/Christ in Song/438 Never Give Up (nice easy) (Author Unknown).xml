@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>438 Never Give Up (nice easy)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Never be sad or desponding<br/>If thou hast faith to believe<br/>Grace for the duties before thee<br/>Ask of thy God and recieve</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Never give up - Never give up<br/>Never give up to thy sorrows<br/>Jesus will bid them depart<br/>Trust in the Lord - Trust in the Lord<br/>Sing when your trials are greatest<br/>Trust in the Lord and take heart</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What if thy burdens oppress thee<br/>What though thy life may be drear<br/>Look on the side that is brightest<br/>Pray and thy path will be clear</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Never be sad or desponding<br/>There is a morrow for thee<br/>Soon thou shalt dwell in its brightness<br/>There with the Lord thou shalt be</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Never be sad or desponding<br/>Lean on the arm of thy Lord<br/>Dwell in the depths of His mercy<br/>Thou shalt receive thy reward</lines>
+    </verse>
+  </lyrics>
+</song>

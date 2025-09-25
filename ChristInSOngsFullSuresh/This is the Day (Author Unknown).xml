@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:52">
+  <properties>
+    <titles>
+      <title>This is the Day</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>This is the day<br/>This is the day<br/>that the Lord has made<br/>that the Lord has made</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>We will rejoice<br/>We will rejoice<br/>And be glad in it</lines>
+    </verse>
+    <verse name="c1">
+      <lines>This is the day that the Lord has made<br/>We will rejoice and be glad in it<br/>This is the day<br/>This is the day<br/>That the Lord has made</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Jesus is the way<br/>Jesus is the way<br/>That the Lord has made<br/>That the Lord has made</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>We will rejoice<br/>We will rejoice<br/>And be glad in Him<br/>And be glad in Him</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Jesus is the way that the Lord has made<br/>We will rejoice and be glad in Him<br/>Jesus is the way<br/>Jesus is the way<br/>That the Lord has made</lines>
+    </verse>
+  </lyrics>
+</song>

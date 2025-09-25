@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>269 O Happy Day (easy)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O happy day<br/>That fixed my choice<br/>On Thee my Savior and my God<br/>Well may this glowing heart rejoice<br/>And tell its raptures all abroad</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Happy day - Happy day<br/>When Jesus washed my sins away<br/>He taught me how to watch and pray<br/>And live rejoicing ev'ry day<br/>Happy day - Happy day<br/>When Jesus washed my sins away</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O happy bond<br/>That seals my vows<br/>To Him who merits all my love<br/>Let cheerful anthems fill His house<br/>While to that sacred shrine I move</lines>
+    </verse>
+    <verse name="v3">
+      <lines>'Tis done the great transaction's done<br/>I am my Lord's and He is mine<br/>He drew me and I followed on<br/>Charmed to confess the voice divine</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Now rest my long divided heart<br/>Fixed on this blissful center rest<br/>Nor ever from<br/>Thy Lord depart<br/>With Him of every good possessed</lines>
+    </verse>
+    <verse name="v5">
+      <lines>High Heaven that heard that solemn vow<br/>That vow renewed shall daily hear<br/>Till in life's latest<br/>Hour I bow<br/>And bless in death a bond so dear</lines>
+    </verse>
+  </lyrics>
+</song>

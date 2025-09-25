@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>391 Jesus For Me (easy)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus my Savior is all things to me<br/>Oh what a wonderful Savior is He<br/>Guiding protecting o'er life's rolling sea<br/>Mighty Deliverer Jesus for me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus for me<br/>Jesus for me<br/>All the time ev'rywhere<br/>Jesus for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus in sickness and Jesus in health<br/>Jesus in poverty comfort or wealth<br/>Sunshine or tempest whatever it be<br/>He is my safety<br/>Jesus for me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He is my Refuge,<br/>My Rock and my Tower<br/>He is my Fortress<br/>My Strength and my Power<br/>Life everlasting<br/>My Daysman is He<br/>Blessed Redeemer<br/>Jesus for me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He is my Prophet<br/>My Priest and my King<br/>He is my Bread of Life<br/>Fountain and Spring<br/>Bright Sun of Righteousness<br/>Daystar is He<br/>Horn of Salvation<br/>Jesus for me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus in sorrow<br/>In joy or in pain<br/>Jesus my Treasure<br/>In loss or in gain<br/>Constant Companion<br/>Where'er I may be<br/>Living or dying<br/>Jesus for me</lines>
+    </verse>
+  </lyrics>
+</song>

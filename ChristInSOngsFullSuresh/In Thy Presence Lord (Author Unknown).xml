@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:47">
+  <properties>
+    <titles>
+      <title>In Thy Presence Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bb<br/>In Thy presence Lord<br/>In Thy presence Lord<br/>We desire to be continually<br/>In Thy presence Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As we lift our hands before You<br/>We lay down all our ambitions<br/>We just desire to be continually<br/>In Thy presence Lord</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:38">
+  <properties>
+    <titles>
+      <title>153 Behold The Lamb With Glory Crowned</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Behold the lamb with glory crowned<br/>To Him all pow'r is giv'n<br/>No place to high for Him is found<br/>No place to high in heaven</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He fills the throne - the throne above<br/>Its rights to Him belong<br/>The object of His Father's love<br/>Theme of the ransomed's song</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Though high yet He accepts the praise<br/>His people offer here<br/>The faintest feeblest note they raise<br/>Will reach the Savior's ear</lines>
+    </verse>
+    <verse name="v4">
+      <lines>This song be ours we join in one<br/>To celebrate the Name<br/>Of Him that sits upon the throne<br/>And to exalt the Lamb</lines>
+    </verse>
+  </lyrics>
+</song>

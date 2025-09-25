@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-19T14:37:37">
+  <properties>
+    <titles>
+      <title>Worthy is the Lamb (exaltation)</title>
+    </titles>
+    <comments>
+      <comment>chorus 2 (played at the end)
+
+[above are Song Tags with notes imported from EasyWorship]</comment>
+    </comments>
+    <verseOrder>v1 c1 v1 c2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/><br/>Worthy is the Lamb<br/>To receive power and riches<br/>And wisdom and might And honor<br/>Blessing and honor and glory<br/>And dominion forever<br/>Worthy is the Lamb</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Power (Power)<br/>Riches (Riches)<br/>Wisdom and might<br/>And blessing and honor<br/>And dominion forevermore</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Power (Power)<br/>Riches (Riches)<br/>Wisdom and might<br/>And blessing and honor<br/>Worthy is the Lamb</lines>
+    </verse>
+  </lyrics>
+</song>

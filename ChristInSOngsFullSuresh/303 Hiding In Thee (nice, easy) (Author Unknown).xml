@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>303 Hiding In Thee (nice, easy)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O safe to the Rock that is higher than I<br/>My soul in its conflicts and sorrows would fly<br/>So sinful so weary<br/>Thine Thine would I be<br/>thou blest Rock of Ages<br/>I'm hiding in Thee</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hiding in Thee<br/>Hiding in Thee<br/>Thou blest Rock of Ages<br/>I'm hiding in Thee</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the calm of the noon tide<br/>In sorrow's lone hour<br/>In time when temptation<br/>Casts o'er me its pow'r<br/>In the tempests of life on its wide heaving sea<br/>Thou blest Rock of Ages<br/>I'm hiding in Thee</lines>
+    </verse>
+    <verse name="v3">
+      <lines>How oft in the conflict<br/>When pressed by the foe<br/>I have fled to my Refuge<br/>And breathed out my woe<br/>How often when trials<br/>Like sea billows roll<br/>Have I hidden in Thee<br/>O Thou Rock of my soul</lines>
+    </verse>
+  </lyrics>
+</song>

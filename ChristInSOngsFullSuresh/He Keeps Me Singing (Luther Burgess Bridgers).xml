@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:46">
+  <properties>
+    <titles>
+      <title>He Keeps Me Singing</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <ccliNo>27855</ccliNo>
+    <authors>
+      <author>Luther Burgess Bridgers</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's within my heart a melody<br/>Jesus whispers sweet and low<br/>Fear not I am with thee peace be still<br/>In all of life's ebb and flow</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus Jesus Jesus<br/>Sweetest name I know<br/>Fills my ev'ry longing<br/>Keeps me singing as I go</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All my life was wrecked by sin and strife<br/>Discord filled my life with pain<br/>Jesus swept across the broken strings<br/>Stirred the slumb'ring chords again</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Feasting on the riches of His grace<br/>Resting 'neath His shelt'ring wing<br/>Always looking on His smiling face<br/>That is why I shout and sing</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tho' sometimes He leads thro' waters deep<br/>Trials fall across my way<br/>Tho' sometimes the path seems rough and steep<br/>See His footprints all the way</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Soon He's coming back to welcome me<br/>Far beyond the starry sky<br/>I shall wing my flight to worlds unknown<br/>I shall reign with Him on high</lines>
+    </verse>
+  </lyrics>
+</song>

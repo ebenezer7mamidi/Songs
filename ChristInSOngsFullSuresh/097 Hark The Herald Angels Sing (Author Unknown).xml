@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-19T20:31:18">
+  <properties>
+    <titles>
+      <title>097 Hark The Herald Angels Sing</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>F<br/><br/>Hark! the herald angels sing<br/>Glory to the newborn King<br/>Peace on earth and mercy mild<br/>God and sinners reconciled</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Joyful all ye nations rise<br/>Join the triumph of the skies<br/>With angelic hosts proclaim<br/>Christ is born in Bethlehem</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hark! the herald angels sing<br/>Glory to the newborn King</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Christ by highest heav'n adored<br/>Christ the everlasting lord<br/>Late in time behold Him come<br/>Offspring of a virgin's womb</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Veiled in flesh the Godhead see<br/>Hail th'incarnate Deity<br/>Pleased as man with man to dwell<br/>Jesus our Emmanuel</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Hail the heav'n born Prince of Peace<br/>Hail the Sun of righteousness<br/>Light and life to all He brings<br/>Ris'n with healing in His wings</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Mild He lays His glory by<br/>Born that man no more may die<br/>Born to raise the sons of earth<br/>Born to give them second birth</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Come Desire of nations come<br/>Fix us in Thy humble home<br/>Rise the woman's conqu'ring seed<br/>Bruise in us the serpent's head</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Adam's likeness now efface<br/>Stamp Thine image in its place<br/>Final Adam from above<br/>Reinstate us in Thy love</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:52">
+  <properties>
+    <titles>
+      <title>Unashamed Love</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You're calling me to lay aside<br/>the worries of my day<br/>To quiet down my busy mind<br/>and find a hiding place<br/>Worthy, You are Worthy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I open up my heart<br/>and let my spirit worship Yours<br/>I open up my mouth<br/>and let a song of praise come forth<br/>Worthy, You are Worthy</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And of a childlike faith<br/>And of my honest praise<br/>And of my unashamed love<br/>And of a holy life<br/>And of my sacrifice<br/>And of my unashamed love</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Worthy, You are Worthy<br/>Worthy, You are Worthy</lines>
+    </verse>
+  </lyrics>
+</song>

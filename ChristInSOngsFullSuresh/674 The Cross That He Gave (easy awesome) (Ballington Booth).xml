@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:42">
+  <properties>
+    <titles>
+      <title>674 The Cross That He Gave (easy awesome)</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>108073</ccliNo>
+    <authors>
+      <author>Ballington Booth</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The cross that He gave may be heavy<br/>But it ne'er out weighs His grace<br/>The storm that I feared may surround me<br/>But it ne'er excludes His face</lines>
+    </verse>
+    <verse name="c1">
+      <lines>The cross is not greater than His grace<br/>The storm cannot hide His blessed face<br/>I am satisfied to know<br/>That with Jesus here below<br/>I can conquer ev'ry foe</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The thorns in my path are not sharper<br/>Than composed His crown for me<br/>The cup that I drink not more bitter<br/>Than He drank in Gethsemane</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The light of His love shineth brighter<br/>As it falls on paths of woe<br/>The toil of my work groweth lighter<br/>As I stoop to raise the low</lines>
+    </verse>
+    <verse name="v4">
+      <lines>His will I have joy in fulfilling<br/>As I'm walking in His sight<br/>My all to the blood I am bringing<br/>It alone can keep me right</lines>
+    </verse>
+  </lyrics>
+</song>

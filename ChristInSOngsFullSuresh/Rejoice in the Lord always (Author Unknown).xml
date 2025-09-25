@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:50">
+  <properties>
+    <titles>
+      <title>Rejoice in the Lord always</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rejoice in the Lord always<br/>And again I say rejoice<br/>Rejoice in the Lord always<br/>And again I say rejoice</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rejoice Rejoice<br/>And again I say rejoice<br/>Rejoice Rejoice<br/>And again I say rejoice</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let your moderation be known to men. The Lord is at hand.<br/>Let your moderation be known to men. The Lord is at hand.<br/>At hand, at hand; the Lord is at hand.<br/>At hand, at hand; the Lord is at hand.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Rejoice in the Lord always<br/>And again I say rejoice.</lines>
+    </verse>
+  </lyrics>
+</song>

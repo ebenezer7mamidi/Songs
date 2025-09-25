@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-08-06T14:43:19">
+  <properties>
+    <titles>
+      <title>630 There's A Man In The Glory (familiar hymn of t</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>F<br/><br/>There's a Man in the glory<br/>Whose Life is for me<br/>He's pure and He's holy<br/>Triumphant and free<br/>He's wise and He's loving<br/>How tender is He</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>His Life in the glory<br/>My life must be<br/>His Life in the glory<br/>My life must be</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>There's a Man in the glory<br/>Whose Life is for me<br/>He overcame Satan<br/>From bondage He's free<br/>In Life he is reigning<br/>How kingly is He</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>His life in the glory<br/>My life must be<br/>His life in the glory<br/>My life must be</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>There's a Man in the glory<br/>Whose Life is for me<br/>In Him is no sickness<br/>No weakness has He<br/>He's strong and in vigor<br/>How buoyant is He</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>His life in the glory<br/>My life may be<br/>His life in the glory<br/>My life may be</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>There's a Man in the glory<br/>Whose Life is for me<br/>His peace is abiding<br/>How patient is He<br/>He's joyful and radiant<br/>Expecting to see</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>His life in the glory<br/>Lived out in me<br/>His life in the glory<br/>Lived out in me</lines>
+    </verse>
+  </lyrics>
+</song>

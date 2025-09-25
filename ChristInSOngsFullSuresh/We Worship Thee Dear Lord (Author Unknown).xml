@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T15:45:49">
+  <properties>
+    <titles>
+      <title>We Worship Thee Dear Lord</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>D<br/><br/>We worship thee dear Lord<br/>In the beauty of holiness<br/>Clothed in holy array<br/>We worship Thee dear Lord<br/>In the beauty of holiness<br/>With an offering of praise</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>We only come to you<br/>In the raiment You gave us<br/>When on the cross<br/>You purchased and saved us<br/>Removed our rags<br/>Cleansed us and robed us<br/>In white<br/>Hidden in Thee we share<br/>The beauty of holiness</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>We worship Thee dear Lord<br/>In the beauty of holiness<br/>Set apart unto Thee<br/>We worship Thee dear Lord<br/>In the beauty of holiness<br/>Called to be holy priests</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>We bow before Your throne<br/>And worship Your Holiness<br/>Yielding to Your<br/>Rulership over us<br/>Called and ordered<br/>By Your authority<br/>Hidden in Thee we share<br/>The beauty of holiness</lines>
+    </verse>
+  </lyrics>
+</song>

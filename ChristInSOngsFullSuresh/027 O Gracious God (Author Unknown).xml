@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:37">
+  <properties>
+    <titles>
+      <title>027 O Gracious God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O gracious God Thy pleasure<br/>Is in Thy Christ made known<br/>And tells the boundless measure<br/>Of blessing for Thine alone<br/>He has Thy presence entered<br/>As man in heav'n is known<br/>In Him Thy glory's centered<br/>In Him Thy purpose shown</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And O what love is beaming<br/>Refulgent in that face<br/>What blessed light is streaming<br/>From that most glorious place<br/>Both love and light proclaiming<br/>What Thou, the Father, art<br/>And wonderous grace revealing<br/>With Thine own Son our part</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thou source of every blessing<br/>Thou spring of all delight<br/>Thy name with joy confessing<br/>Let all the saints unite<br/>Each heart its praise outpouring<br/>To Thee all praise above<br/>Each voice in strains adoring<br/>Re-echoes God is love</lines>
+    </verse>
+  </lyrics>
+</song>

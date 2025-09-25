@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:55:16">
+  <properties>
+    <titles>
+      <title>002 Holy Holy Holy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/>Holy holy holy Lord God Almighty<br/>Early in the morning our Song shall rise to Thee<br/>Holy holy holy merciful and mighty<br/>God in three persons Blessed Trinity</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Holy holy holy all the Saints adore Thee<br/>Casting down their golden crowns<br/>Around the glassy sea<br/>Cherubim and seraphim falling Down before Thee<br/>Who wert and art and Evermore shalt be</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Holy holy holy though the Darkness hide Thee<br/>Though the eye of sinful man Thy glory may not see<br/>Only Thou art holy<br/>There is none beside Thee<br/>Perfect in power in love and purity</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Holy holy holy Lord God Almighty<br/>All Thy works shall Praise Thy name<br/>In earth and sky and sea<br/>Holy holy holy merciful and mighty<br/>God in three persons Blessed Trinity</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>761 Baptismal Hymn (easy nice)</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <ccliNo>725755</ccliNo>
+    <authors>
+      <author>James George Deck | Samuel Sebastian Wesley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Around Thy grave Lord Jesus<br/>In spirit here we stand<br/>With hearts all full of praises<br/>To keep Thy blest command<br/>Our souls by faith rejoicing<br/>To trace Thy path of love<br/>Down through death's angry billows<br/>Up to the throne above</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord Jesus we remember<br/>The travail of Thy soul<br/>When through Thy love's deep pity<br/>The waves did o'er Thee roll<br/>Baptized in death's dark waters<br/>For us Thy blood was shed<br/>For us Thou Lord of Glory<br/>Wast numbered with the dead</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Lord Thou now art risen<br/>Thy travail all is o'er<br/>For sin Thou once hast suffered<br/>Thou liv'st to die no more<br/>Sin death and hell are vanquished<br/>By Thee the Church's Head<br/>And lo we share Thy triumphs<br/>Thou First-born from the dead</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Unto Thy death baptized<br/>We one with Thee we died<br/>With Thee our Life we're risen<br/>And shall be glorified<br/>From sin the world and Satan<br/>We're ransomed by Thy blood<br/>And here would walk as strangers<br/>Alive with Thee to God</lines>
+    </verse>
+  </lyrics>
+</song>

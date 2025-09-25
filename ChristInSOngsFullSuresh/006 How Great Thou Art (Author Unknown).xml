@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-19T18:56:27">
+  <properties>
+    <titles>
+      <title>006 How Great Thou Art</title>
+    </titles>
+    <verseOrder>v1 c1 c1 v2 c1 c1 v3 c1 c1 v4 c1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>G<br/><br/>O Lord my God<br/>When I in awesome wonder<br/>Consider all the works<br/>Thy hands have made</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I see the stars<br/>I hear the rolling thunder<br/>Thy power throughout<br/>The universe displayed</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Then sings my soul<br/>My Savior God to Thee<br/>How great Thou art<br/>How great Thou art</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>When through the woods<br/>And forest glades I wander<br/>And hear the birds<br/>Sing sweetly in the trees</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>When I look down<br/>From lofty mountain grandeur<br/>And hear the brook<br/>And feel the gentle breeze</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>And when I think<br/>That God His Son not sparing<br/>Sent Him to die<br/>I scarce can take it in</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>That on the cross<br/>My burden gladly bearing<br/>He bled and died<br/>To take away my sin</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>When Christ shall come<br/>With shout of acclamation<br/>And take me home<br/>What joy shall fill my heart</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Then I shall bow<br/>In humble adoration<br/>And there proclaim<br/>My God how great Thou art</lines>
+    </verse>
+  </lyrics>
+</song>

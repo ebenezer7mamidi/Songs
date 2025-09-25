@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:37">
+  <properties>
+    <titles>
+      <title>076 Jesus Thou Alone Art Worthy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus Thou alone art worthy<br/>Ceaseless praises to receive<br/>For Thy love and grace and goodness<br/>Rise o'er<br/>all our thoughts conceive</lines>
+    </verse>
+    <verse name="v2">
+      <lines>With adoring hearts we render<br/>Honor to Thy precious name<br/>Overflowing with Thy mercies<br/>Far and wide Thy worth proclaim</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Praise Him praise Him<br/>Praise the savior<br/>Saints aloud your voices raise<br/>Praise Him praise Him<br/>till in heaven<br/>Perfected we'll sing His praise</lines>
+    </verse>
+  </lyrics>
+</song>

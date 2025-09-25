@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T03:31:49">
+  <properties>
+    <titles>
+      <title>Great Are You Lord</title>
+    </titles>
+    <copyright>1984 Maranatha Praise, Inc., Administered by Music Services</copyright>
+    <ccliNo>26863</ccliNo>
+    <authors>
+      <author>Steve Cook</author>
+      <author>Vikki Cook</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>G<br/><br/>Holy Lord most holy Lord<br/>You alone are worthy Of my praise<br/>Holy Lord most holy Lord<br/>With all of my Heart I sing</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Great are You Lord<br/>Worthy of praise<br/>Holy and true<br/>Great are You Lord<br/>Most holy Lord</lines>
+    </verse>
+  </lyrics>
+</song>

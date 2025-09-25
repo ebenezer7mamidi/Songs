@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T02:41:26">
+  <properties>
+    <titles>
+      <title>Come Behold the Wondrous Mystery</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>C<br/><br/>Come behold the wondrous mystery<br/>In the dawning of the King<br/>He the theme of heaven's praises<br/>Robed in frail humanity</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>In our longing, in our darkness<br/>Now the light of life has come<br/>Look to Christ, who condescended<br/>Took on flesh to ransom us</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Come behold the wondrous mystery<br/>He the perfect Son of Man<br/>In His living, in His suffering<br/>Never trace nor stain of sin</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>See the true and better Adam<br/>Come to save the hell-bound man<br/>Christ the great and sure fulfillment<br/>Of the law; in Him we stand</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Come behold the wondrous mystery<br/>Christ the Lord upon the tree<br/>In the stead of ruined sinners<br/>Hangs the Lamb in victory</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>See the price of our redemption<br/>See the Father's plan unfold<br/>Bringing many sons to glory<br/>Grace unmeasured, love untold</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Come behold the wondrous mystery<br/>Slain by death the God of life<br/>But no grave could e'er restrain Him<br/>Praise the Lord; He is alive!</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>What a foretaste of deliverance<br/>How unwavering our hope<br/>Christ in power resurrected<br/>As we will be when He comes</lines>
+    </verse>
+  </lyrics>
+</song>

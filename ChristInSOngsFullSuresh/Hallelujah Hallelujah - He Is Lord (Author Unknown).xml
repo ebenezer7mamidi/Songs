@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:46">
+  <properties>
+    <titles>
+      <title>Hallelujah Hallelujah - He Is Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/>Hallelujah (Hallelujah)<br/>Hallelujah (Hallelujah)<br/>He is Lord (He is Lord)<br/>He is Lord (He is Lord)<br/>Hallelujah Jesus is Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hallelujah (Hallelujah)<br/>Hallelujah (Hallelujah)<br/>He is King (He is King)<br/>He is King (He is King)<br/>Hallelujah, Jesus is King.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hallelujah<br/>Jesus Christ is King!</lines>
+    </verse>
+  </lyrics>
+</song>

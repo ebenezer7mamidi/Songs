@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:46">
+  <properties>
+    <titles>
+      <title>His Riches In Glory</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>His riches in glory far beyond measure,<br/>far beyond measure, far beyond measure.<br/>His riches in glory, far beyond measure,<br/>are thine if thou wilt only believe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Then trust in the Lord with all of thy heart,<br/>all of thy heart, all of thy heart.<br/>Then trust in the Lord with all of thy heart,<br/>and faith shall be rewarded abundantly.</lines>
+    </verse>
+  </lyrics>
+</song>

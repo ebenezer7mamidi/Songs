@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T14:15:15">
+  <properties>
+    <titles>
+      <title>Stand In Awe (moving past the brazen altar)</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bb<br/><br/>Moving past the Brazen Altar<br/>Passing through the Holy Place<br/>Enter in before His Presence<br/>See the glory of His Face</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Precious servants of the Temple<br/>Cease your busyness and toil<br/>Now fulfill your deepest ministry<br/>Come and satisfy your Lord</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Stand in awe<br/>(stand in awe)<br/>Worship Him<br/>(worship Him)<br/>Open up your hearts exclusively to Him</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>496 Savior Lead Me Up The Mountain (easy nice)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Savior lead me up the mountain<br/>Where the Lord alone is seen<br/>Where we hear the voice from heaven<br/>Where the air is pure and clean</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lead me higher up the mountain<br/>Give me fellowship with Thee<br/>In Thy light I see the fountain<br/>And the blood it cleanses me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Higher up where light increases<br/>Far above all earthly strife<br/>Where the strain of effort ceases<br/>Where in Christ we reign in Life</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Savior keep me up the mountain<br/>Pressing on toward the goal<br/>Till as one we share Thine image<br/>And Thy love and grace extol</lines>
+    </verse>
+  </lyrics>
+</song>

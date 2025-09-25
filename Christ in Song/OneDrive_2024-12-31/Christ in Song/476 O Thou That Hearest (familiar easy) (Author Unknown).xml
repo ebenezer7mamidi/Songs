@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>476 O Thou That Hearest (familiar easy)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Thou that hear'st when sinners cry<br/>Though all my crimes before Thee lie<br/>Behold them not with angry look<br/>But blot their mem'ry from Thy book</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Create my nature pure within<br/>And form my soul averse to sin<br/>Let Thy good Spirit ne'er depart<br/>Nor hide Thy presence from my heart</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I cannot live without Thy light<br/>Cast out and banished from Thy sight<br/>Thy holy joys my God restore<br/>And guard me that I fall no more</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A broken heart my God my King<br/>Is all the sacrifice I bring<br/>The God of grace will ne'er despise<br/>A broken heart for sacrifice</lines>
+    </verse>
+    <verse name="v5">
+      <lines>My soul lies humbled in the dust<br/>And owns Thy dreadful sentence just<br/>Look down O Lord with pitying eye<br/>And save the soul condemned to die</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Then will I teach the world Thy ways<br/>Sinners shall learn Thy sovereign grace<br/>I'll lead them to my Savior's blood<br/>And they shall praise a pard'ning God</lines>
+    </verse>
+  </lyrics>
+</song>

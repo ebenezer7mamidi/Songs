@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:38">
+  <properties>
+    <titles>
+      <title>139 The Great Redeemer Lives</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He lives the great Redeemer lives<br/>What joy the blest assurance gives<br/>And now before His Father God<br/>Pleads the full merits of His blood</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Repeated crimes awake our fears<br/>And Justice armed with frowns appears<br/>But in the Saviour's lovely face<br/>Sweet Mercy smiles and all is peace</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hence then ye black despairing thought<br/>Abover our fears above our faults<br/>His mighty intercessions rise<br/>And guilt recedes and terror dies</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In every dark distressful hour<br/>When sin and Satan join their power<br/>Let this dear hope repel the dart<br/>That Jesus bears us on His heart</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Great Advocate almighty Friend<br/>On Him our humble hopes depend<br/>Our cause can never never fail<br/>For Jesus pleads and must prevail</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T15:07:10">
+  <properties>
+    <titles>
+      <title>There Is None Like You</title>
+    </titles>
+    <comments>
+      <comment>verse 1 (optional)
+
+[above are Song Tags with notes imported from EasyWorship]</comment>
+    </comments>
+    <copyright>© 1991 Integrity's Hosanna! Music, Administered by EMI Christian Music Publishing</copyright>
+    <ccliNo>674545</ccliNo>
+    <authors>
+      <author>Lenny LeBlanc</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>G<br/><br/>There is none like You<br/>No one else can touch<br/>My heart like You do<br/>I could search<br/>For all eternity long and find<br/>There is none like You</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Your mercy flows like a river wide<br/>And healing comes from Your hands<br/>Suffering children are safe in Your arms<br/>There is none like You</lines>
+    </verse>
+  </lyrics>
+</song>

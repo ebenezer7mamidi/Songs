@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:47">
+  <properties>
+    <titles>
+      <title>It Is You (Youth)</title>
+    </titles>
+    <copyright>2002 Ariose Music, Administered by EMI Christian Music Publishing</copyright>
+    <ccliNo>3472510</ccliNo>
+    <authors>
+      <author>Peter Furler</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>It is You we adore<br/>It is You praises are for<br/>Only You the heavens declare<br/>It is You it is You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And holy holy is our God Almighty<br/>And holy holy is His name alone yeah<br/>And holy holy is our God Almighty<br/>And holy holy is His name alone<br/>It is You we adore<br/>It is You only You</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>As we lift up our hands<br/>Will You meet us here<br/>As we call on Your name<br/>Will You meet us here<br/>We have come to this place<br/>To worship You<br/>God of mercy and grace</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>As we lift up our hands<br/>As we call on Your name<br/>Will you visit this place<br/>By Your mercy and grace</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>As we lift up our hands<br/>As we call on Your name<br/>Will You visit this place<br/>By Your mercy and grace<br/>It is You we adore<br/>It is You it is You</lines>
+    </verse>
+  </lyrics>
+</song>

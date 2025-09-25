@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:51">
+  <properties>
+    <titles>
+      <title>Thank You Lord for saving my soul</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thank you Lord<br/>For saving my soul<br/>Thank you Lord<br/>For making me whole</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thank you Lord<br/>For giving to me<br/>Thy great salvation<br/>So rich and free</lines>
+    </verse>
+  </lyrics>
+</song>

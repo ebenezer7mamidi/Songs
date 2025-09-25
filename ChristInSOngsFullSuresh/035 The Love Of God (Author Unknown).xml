@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-15T15:37:32">
+  <properties>
+    <titles>
+      <title>035 The Love Of God</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>C<br/><br/>The love of God is greater far<br/>Than tongue or pen can ever tell.<br/>It goes beyond the highest star<br/>And reaches to the lowest hell.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>The guilty pair bowed down with care<br/>God gave His Son to win.<br/>His erring child He reconciled<br/>And pardoned from his sin.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O love of God, how rich and pure,<br/>How measureless and strong,<br/>It shall forevermore endure<br/>The saints' and angels' song.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>When hoary time shall pass away<br/>And earthly thrones And kingdoms fall,<br/>When men who here Refuse to pray<br/>On rocks and hills and Mountains call.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>God's love so sure Shall still endure,<br/>All measureless and strong,<br/>Redeeming grace to Adam's race<br/>The saints' and angels' song.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Could we with ink the ocean fill,<br/>And were the skies of Parchment made,<br/>Were every stalk on earth a quill,<br/>And every man a scribe by trade,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>To write the love of God above<br/>Would drain the ocean dry,<br/>Nor could the scroll Contain the whole<br/>Though stretched From sky to sky.</lines>
+    </verse>
+  </lyrics>
+</song>

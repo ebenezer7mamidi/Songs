@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:45">
+  <properties>
+    <titles>
+      <title>Deeper Deeper</title>
+    </titles>
+    <copyright>Public Domain, Administered by CCLI Administration Account</copyright>
+    <ccliNo>47512</ccliNo>
+    <authors>
+      <author>Charles P. Jones</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Oh deeper yet I pray<br/>And higher ev'ry day<br/>And wiser blessed Lord<br/>In Thy precious holy Word</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Deeper deeper in the love of Jesus<br/>Daily let me go<br/>Higher higher in the school of wisdom<br/>More of grace to know</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Deeper deeper blessed Holy Spirit<br/>Take me deeper still<br/>Till my life is wholly lost in Jesus<br/>And His perfect will</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Deeper deeper tho' it cost hard trials<br/>Deeper let me go<br/>Rooted in the holy love of Jesus<br/>Let me fruitful grow</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Deeper deeper ev'ry day in Jesus<br/>Till all conflicts past finds me conqu'ror<br/>And in His own image perfected at last</lines>
+    </verse>
+  </lyrics>
+</song>

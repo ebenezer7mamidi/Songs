@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T02:13:47">
+  <properties>
+    <titles>
+      <title>Beauty of Holiness</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>C<br/><br/>We worship Thee, dear Lord,<br/>in the beauty of holiness<br/>Clothed in holy array.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>We worship Thee, dear Lord,<br/>in the beauty of holiness<br/>With an off'ring of praise.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>We only come to You<br/>in the raiment You gave us<br/>When on the cross<br/>You purchased and saved us</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Removed our rags,<br/>cleansed and robed us in white<br/>Living in You we<br/>share the beauty of holiness.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>We worship Thee, dear Lord,<br/>in the beauty of holiness<br/>Set apart unto Thee.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>We worship Thee, dear Lord,<br/>in the beauty of holiness<br/>Called to be holy priests.</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>We bow before your<br/>throne and worship Your holiness<br/>Yielding to Your rulership over us</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>Called and ordered by<br/>Your authority.<br/>Living in You we share<br/>the beauty of holiness.</lines>
+    </verse>
+  </lyrics>
+</song>

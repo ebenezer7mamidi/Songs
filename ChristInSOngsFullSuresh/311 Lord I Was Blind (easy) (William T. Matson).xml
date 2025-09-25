@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>311 Lord I Was Blind (easy)</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <ccliNo>3101609</ccliNo>
+    <authors>
+      <author>William T. Matson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord I was blind I could not see<br/>In Thy marred visage any grace<br/>But now the beauty of Thy face<br/>In radiant vision dawns on me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord I was deaf I could not hear<br/>The thrilling music of Thy voice<br/>But now I hear Thee and rejoice<br/>And all Thine uttered words are dear</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord I was dumb I could not speak<br/>The grace and glory of Thy name<br/>But now as touched with living flame<br/>My lips Thine eager praises wake</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord I was dead I could not stir<br/>My lifeless soul to come to Thee<br/>But now since Thou hast quickened me<br/>I rise from sin's dark sepulchre</lines>
+    </verse>
+    <verse name="v5">
+      <lines>For Thou hast made the blind to see<br/>The deaf to hear the dumb to speak<br/>The dead to live and lo I break<br/>The chains of my captivity</lines>
+    </verse>
+  </lyrics>
+</song>

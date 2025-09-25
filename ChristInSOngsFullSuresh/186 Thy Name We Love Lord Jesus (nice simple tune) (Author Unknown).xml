@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:38">
+  <properties>
+    <titles>
+      <title>186 Thy Name We Love Lord Jesus (nice simple tune)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thy name we love Lord Jesus<br/>And lowly bow before Thee<br/>And while we live to Thee we give<br/>All blessings worship glory<br/>We sing aloud Thy praises<br/>Our hearts and voices blending<br/>'Tis Thou alone we worthy own<br/>Thy beauty's all transcending</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thy name we love Lord Jesus<br/>It tells God's love unbounded<br/>To ruined man ere time began<br/>Or heav''n and earth were founded<br/>Thine is a love eternal<br/>That found in us its pleasure<br/>That brought Thee low to bear our woe<br/>And make us Thine own treasure</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thy name we love Lord Jesus<br/>It tells Thy birth so lowly<br/>Thy patience grace and gentleness<br/>Thy lonely path so holy<br/>Thou wast the "Man of Sorrows"<br/>Our grief too thou didst bear it<br/>Our bitter cup Thou drankest up<br/>The thorny crown didst wear it</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Thy name we love Lord Jesus<br/>God's Lamb thou was ordained<br/>To bear our sins (thyself all clean)<br/>And hast our guilt sustained<br/>We see Thee crowned in glory<br/>Above the heavens now seated<br/>The vict'ry won Thy work well done<br/>Our righteousness completed</lines>
+    </verse>
+  </lyrics>
+</song>

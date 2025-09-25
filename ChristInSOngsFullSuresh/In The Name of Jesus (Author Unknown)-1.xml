@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:47">
+  <properties>
+    <titles>
+      <title>In The Name of Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the name of Jesus, in the name of Jesus,<br/>we have the victory!<br/>In the name of Jesus, in the name of Jesus,<br/>Satan will have to flee.<br/>When we stand in the name of Jesus,<br/>tell me, who can stand before us?<br/>When we stand in Thy name, Lord Jesus,<br/>we have the victory!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-19T23:34:49">
+  <properties>
+    <titles>
+      <title>133 Thine Be The Glory</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/>Thine be the glory,<br/>risen conqu'ring Son<br/>Endless is the victory,<br/>Thou o'er death hast won<br/>Angels in bright raiment<br/>rolled the stone away<br/>Kept the folded grave clothes<br/>where Thy body lay</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Thine be the glory<br/>Risen, conqu'ring Son<br/>Endless is the victory<br/>Thou o'er death hast won</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lo! Jesus meets us,<br/>risen from the tomb<br/>Lovingly He greets us,<br/>scatters fear and gloom<br/>Let the Church with gladness<br/>hymns of triumph sing<br/>For her Lord now liveth,<br/>death hath lost its sting</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No more we doubt Thee,<br/>glorious Prince of Life!<br/>Life is nought without Thee;<br/>aid us in our strife<br/>Make us more than conqu'rers<br/>through Thy deathless love<br/>Bring us safe through Jordan<br/>to Thy home above</lines>
+    </verse>
+  </lyrics>
+</song>

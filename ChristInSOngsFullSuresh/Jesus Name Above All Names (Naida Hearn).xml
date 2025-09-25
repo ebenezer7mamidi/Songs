@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-12T15:55:52">
+  <properties>
+    <titles>
+      <title>Jesus Name Above All Names</title>
+    </titles>
+    <copyright>1974, 1978 Scripture In Song, Administered by Integrity Music, Inc.</copyright>
+    <ccliNo>21291</ccliNo>
+    <authors>
+      <author>Naida Hearn</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/><br/>Jesus name above all names<br/>Beautiful Savior glorious Lord<br/>Emmanuel God is with us<br/>Blessed Redeemer living Word</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Anointed above His Companions<br/>Man of sorrows, Lover Of righteousness<br/>Creator, Life-giving Spirit<br/>Mighty Deliverer, Priest and King</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I Am, Light of the gentiles,<br/>Lord God Almighty, Prince of Peace<br/>El Shaddai, God is sufficient,<br/>Shepherd of souls, King of kings</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lily of the valley,<br/>Son of David, Rose Of Sharon<br/>The Alpha and Omega<br/>Seed of Jesse, Morning Star</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus, our Intercessor,<br/>Promised Messiah, Bread of life<br/>The Giver of living water,<br/>Mighty Baptizer, Son of God</lines>
+    </verse>
+  </lyrics>
+</song>

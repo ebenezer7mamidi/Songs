@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>284 Full Salvation</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>G<br/>verse1<br/>Full salvation! Full salvation!<br/>Lo the fountain open wide<br/>Streams through every land and nation<br/>From the Savior's wounded side</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Full salvation! Full salvation!<br/>Streams an endless crimson tide (2x)</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Oh, the glorious revelation!<br/>See the cleansing current flow<br/>Washing stains of condemnation<br/>Whiter than the driven snow</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>Full salvation! Full salvation!<br/>Oh, the rapturous bliss to know (2x)</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Love's resistless current sweeping<br/>All the regions deep within<br/>Thought and wish and senses keeping<br/>Now, and every instant clean</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Full salvation! Full salvation!<br/>From the guilt and power of sin (2x)</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Life immortal, heaven descending<br/>Lo! My heart the Spirit's shrine<br/>God and man in oneness blending<br/>Oh, what fellowship is mine</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Full salvation! Full salvation!<br/>Raised in Christ to life divine! (2x)</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Care and doubting, gloom and sorrow<br/>Fear and shame are mine no more<br/>Faith knows naught of dark tomorrow<br/>For my Saviour goes before</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>Full salvation! Full salvation!<br/>Full and free forevermore (2x)</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>764 God Be With You (easy hymn of the Church)</title>
+    </titles>
+    <copyright>© Words: Public Domain &#13;
+Music: Public Domain</copyright>
+    <ccliNo>49273</ccliNo>
+    <authors>
+      <author>Jeremiah Eames Rankin | William Gould Tomer</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God be with you till we meet again<br/>By His counsels guide uphold you<br/>With His sheep securely fold you<br/>God be with you till we meet again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God be with you till we meet again<br/>'Neath His wings securely hide you<br/>Daily manna still provide you<br/>God be with you till we meet again</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Till we meet till we meet<br/>Till we meet at Jesus' feet<br/>Till we meet till we meet<br/>God be with you till we meet again</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God be with you till we meet again<br/>When life's perils thick confound you<br/>Put His arms unfailing 'round you<br/>God be with you till we meet again</lines>
+    </verse>
+    <verse name="v4">
+      <lines>God be with you till we meet again<br/>Keep love;s banner floating o'er you<br/>Smite death's threatening wave before you<br/>God be with you till we meet again</lines>
+    </verse>
+  </lyrics>
+</song>

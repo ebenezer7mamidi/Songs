@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>492 Lord Jesus Are We One With Thee</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord Jesus are we one with Thee<br/>O height O depth of love<br/>Thou one with us on Calvary<br/>We one with Thee above</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Such was Thy grace that for our sake<br/>Thou didst from heaven come down<br/>With us of flesh and blood partake<br/>In all our misery one</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Our sins our guilt in love Divine<br/>Confessed and borne by Thee<br/>The gall the curse the wrath were Thine<br/>To set Thy members free</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ascended now in glory bright<br/>Head of the Chruch Thou art<br/>Nor life nor death nor depth nor height<br/>Thy saints and Thee can part</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh teach us Lord to know and own<br/>This wonderous mystery<br/>That Thou in heaven with us art one<br/>And we are one with Thee</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Soon soon shall come that glorious day<br/>When seated on Thy throne<br/>Thou shalt to wondering worlds display<br/>That Thou with us art one</lines>
+    </verse>
+  </lyrics>
+</song>

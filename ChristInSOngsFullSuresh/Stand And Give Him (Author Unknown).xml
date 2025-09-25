@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T14:14:48">
+  <properties>
+    <titles>
+      <title>Stand And Give Him</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Holy Holy Holy Lord<br/>Worthy You are worthy<br/>Holy Lord<br/>To receive all glory and honor<br/>To receive all worship and praise</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Only You alone are worthy<br/>Worthy of all honor<br/>You alone are worthy<br/>Holy Lord<br/><br/>Only You alone are worthy<br/>Holy Lord</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Stand and give Him honor<br/> Sisters: Lift your voices high<br/>Stand and give Him glory<br/> Sisters: Come and Magnify<br/>Jesus Christ who comes to reign<br/>Over all the world</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Stand in adoration<br/> Sisters: With the angels cry<br/>He alone is worthy<br/> Sisters: Come and magnify<br/>Jesus Christ<br/>Who comes to reign<br/>Over all the world</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Jesus Christ who<br/>Comes to reign<br/>Over all the world</lines>
+    </verse>
+  </lyrics>
+</song>

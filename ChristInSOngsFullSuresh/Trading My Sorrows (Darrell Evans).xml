@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:52">
+  <properties>
+    <titles>
+      <title>Trading My Sorrows</title>
+    </titles>
+    <copyright>1998 Integrity's Hosanna! Music, Administered by Integrity Music, Inc.</copyright>
+    <ccliNo>2574653</ccliNo>
+    <authors>
+      <author>Darrell Evans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>I'm trading my sorrows<br/>I'm trading my shame<br/>I'm laying them down<br/>For the joy of the Lord</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I'm trading my sickness<br/>I'm trading my pain<br/>I'm laying them down<br/>For the joy of the Lord</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Yes Lord yes Lord yes yes Lord<br/>Yes Lord yes Lord yes yes Lord<br/>Yes Lord yes Lord yes yes Lord Amen</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>I am pressed but not crushed<br/>Persecuted not abandoned<br/>Struck down but not destroyed<br/>I am blessed beyond the curse</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>For His promise will endure<br/>That His joy is gonna be my strength<br/>Though the sorrow may last for the night<br/>His joy comes with the morning</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Yes yes Lord amen<br/>Yes yes Lord amen<br/>Yes yes Lord amen</lines>
+    </verse>
+  </lyrics>
+</song>

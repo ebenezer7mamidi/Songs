@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:47">
+  <properties>
+    <titles>
+      <title>I'd Rather Have Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'd rather have Jesus than silver or gold<br/>I'd rather be His than have riches untold<br/>I'd rather have Jesus than houses or lands<br/>I'd rather be led by His nail-pierced hand</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'd rather have Jesus than men's applause<br/>I'd rather be faithful to His dear cause<br/>I'd rather have Jesus than world wide fame<br/>I'd rather be true to His holy name</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He is fairer than the liles of the rarest bloom<br/>He is sweeter than honey from out of the comb<br/>He is all that my hungering spirit needs<br/>I'd rather have Jesus and let Him lead</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Than to be the king of a vast domain<br/>Or be held in sins dread away<br/>I'd rather have Jesus than anything<br/>This world affords today</lines>
+    </verse>
+  </lyrics>
+</song>

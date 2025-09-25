@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:52">
+  <properties>
+    <titles>
+      <title>Union With Christ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord Thou hast shown me mystery<br/>How on the Cross I died with Thee<br/>I need no other pow'r or way<br/>That I may triumph day by day</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Yet for the vic'try we rely<br/>Upon the death which Thou didst die<br/>We tread the path which Thou has trod<br/>Until we reach the goal in God</lines>
+    </verse>
+    <verse name="v7">
+      <lines>My death with Thee I now believe<br/>And all its meaning would recieve<br/>Thy death more deeply show to me<br/>That from my flesh I may be free</lines>
+    </verse>
+  </lyrics>
+</song>

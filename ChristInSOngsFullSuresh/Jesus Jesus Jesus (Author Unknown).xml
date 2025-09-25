@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:48">
+  <properties>
+    <titles>
+      <title>Jesus Jesus Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus Jesus Jesus<br/>There's just something about that name<br/>Master Savior Jesus<br/>Like a fragrance after the rain</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus Jesus Jesus<br/>Let all heaven and earth proclaim<br/>Kings and kingdoms may all pass away<br/>Oh but never that matchless name</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:37">
+  <properties>
+    <titles>
+      <title>050 Hark The Glad Sound</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>hark the glad sound<br/>the savior comes<br/>the savior promised long<br/>let every heart prepare a throne<br/>and every voice a song</lines>
+    </verse>
+    <verse name="v2">
+      <lines>he comes the prisoners to release<br/>in Satan's bondage held<br/>the gate of brass before Him burst<br/>the iron fetters yield</lines>
+    </verse>
+    <verse name="v3">
+      <lines>he comes from darkening scales of vice<br/>to clear the inward sight<br/>and on the eyes oppressed with night<br/>to pour celestial light</lines>
+    </verse>
+    <verse name="v4">
+      <lines>he comes the broken heart to bind<br/>the bleeding soul to cure<br/>and with the treasures of His grace<br/>to enrich the humble poor</lines>
+    </verse>
+    <verse name="v5">
+      <lines>our glad Hosannas Prince of Peace<br/>thy welcome shall proclaim<br/>and heaven's exalted arches ring<br/>with Thy beloved Name</lines>
+    </verse>
+  </lyrics>
+</song>

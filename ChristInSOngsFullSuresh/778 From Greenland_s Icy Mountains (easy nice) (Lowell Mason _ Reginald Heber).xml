@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>778 From Greenland's Icy Mountains (easy nice)</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <ccliNo>93638</ccliNo>
+    <authors>
+      <author>Lowell Mason | Reginald Heber</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>From Greenland's icy mountains<br/>From India's coral strand<br/>Where Afric's sunny fountains<br/>Roll down their golden sand<br/>From many an ancient river<br/>From many a palmy plain<br/>They call us to deliver<br/>Their land from error's chain</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What though the spicy breezes<br/>Blow soft o'er Ceylon's isle<br/>Though every prospect pleases<br/>And only man is vile<br/>In vain with lavish kindness<br/>The gifts of God are strewn<br/>The heathen in his blindness<br/>Bows down to wood and stone</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Can we whose souls are lighted<br/>With wisdom from on high<br/>Can we to man benighted<br/>The lamp of life deny<br/>Salvation O salvation<br/>The joyful sound proclaim<br/>Till earth's remotest nation<br/>Has learned Messiah's name</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Waft waft ye winds His story<br/>And you ye waters roll<br/>Till like a sea of glory<br/>It spreads from pole to pole<br/>Till o'er our ransomed nature<br/>The Lamb for sinners slain<br/>Redeemer King Creator<br/>In bliss returns to reign</lines>
+    </verse>
+  </lyrics>
+</song>

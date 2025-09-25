@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:49">
+  <properties>
+    <titles>
+      <title>My Greatest Love Is You</title>
+    </titles>
+    <copyright>1997 Hillsong Publishing, Administered by Integrity Music, Inc.</copyright>
+    <ccliNo>2301534</ccliNo>
+    <authors>
+      <author>Russell Fragar</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Call me deeper<br/>Into Your grace<br/>The river that flows<br/>From the holy place<br/>Wash over me<br/>Cleansing me through<br/>My greatest love is You</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ev'ry new day<br/>Your glory unfolds<br/>Filling my eyes<br/>With Your treasures untold<br/>The beauty of holiness<br/>Brings worship anew<br/>My greatest love is You</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>774 Rescue The Perishing (hymn of the church)</title>
+    </titles>
+    <copyright>© Words: Public Domain &#13;
+Music: Public Domain</copyright>
+    <ccliNo>34549</ccliNo>
+    <authors>
+      <author>Fanny Jane Crosby | William Howard Doane</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Rescue the perishing<br/>Care for the dying<br/>Jesus is merciful<br/>Jesus will save</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Rescue the perishing<br/>Care for the dying<br/>Snatch them in pity<br/>From sin and the grave<br/>Weep o'er the erring one<br/>Lift up the fallen<br/>Tell them of Jesus<br/>The mighty to save</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tho' they are slighting Him<br/>Still He is waiting<br/>Waiting the penitent<br/>Child to receive<br/>Plead with them earnestly<br/>Plead with them gently<br/>He will forgive<br/>If they only believe</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Down in the human heart<br/>Crushed by the tempter<br/>Feelings lie buried<br/>That grace can restore<br/>Touched by a loving heart<br/>Wakened by kindness<br/>Chords that are broken<br/>Will vibrate once more</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Rescue the perishing<br/>Duty demands it<br/>Strength for thy labor<br/>The Lord will provide<br/>Back to the narrow way<br/>Patiently win them<br/>Tell the poor wanderer<br/>A Saviour has died</lines>
+    </verse>
+  </lyrics>
+</song>

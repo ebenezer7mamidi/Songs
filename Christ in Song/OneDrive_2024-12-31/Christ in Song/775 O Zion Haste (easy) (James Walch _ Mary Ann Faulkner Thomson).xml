@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>775 O Zion Haste (easy)</title>
+    </titles>
+    <copyright>© Words: Public Domain &#13;
+Music: Public Domain</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <ccliNo>85316</ccliNo>
+    <authors>
+      <author>James Walch | Mary Ann Faulkner Thomson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Zion haste<br/>Your mission high fulfilling<br/>To tell to all the world<br/>That God is light<br/>That He who made all nations<br/>Is not willing<br/>One soul should perish<br/>Lost in shades of night</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Publish glad tidings<br/>Tidings of peace<br/>Tidings of Jesus<br/>Redemption and release</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Behold how many thousands<br/>Still are lying<br/>Bound in the darksome<br/>Prison-house of sin<br/>With none to tell them<br/>Of the Savior's dying<br/>Or of the life<br/>He died for them to win</lines>
+    </verse>
+    <verse name="v3">
+      <lines>'Tis thine to save<br/>From peril of perdition<br/>The souls for whom<br/>The Lord His life laid down<br/>Beware lest slothful<br/>To fulfill thy mission<br/>Thou lose one jewel<br/>That should deck His crown</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Proclaim to every people<br/>Tongue and nation<br/>That God in Whom<br/>They live and move is love<br/>Tell how He stooped<br/>To save His lost creation<br/>And died on earth<br/>That men might live above</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Give of thy sons<br/>To bear the message glorious<br/>Give of thy wealth<br/>To speed them on their way<br/>Pour out thy soul for them<br/>In prayer victorious<br/>And all thou spendest<br/>Jesus will repay</lines>
+    </verse>
+    <verse name="v6">
+      <lines>He comes again<br/>O Zion ere thou meet Him<br/>Make known to every heart<br/>His saving grace<br/>Let none whom He<br/>Hath ransomed<br/>Fail to greet Him<br/>Through thy neglect<br/>Unfit to see His face</lines>
+    </verse>
+  </lyrics>
+</song>

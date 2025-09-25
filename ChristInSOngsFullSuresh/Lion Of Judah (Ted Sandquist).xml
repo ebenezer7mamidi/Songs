@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:48">
+  <properties>
+    <titles>
+      <title>Lion Of Judah</title>
+    </titles>
+    <copyright>1976 Lion Of Judah Music, Administered by Brentwood-Benson Music Publishing, Inc.</copyright>
+    <ccliNo>16990</ccliNo>
+    <authors>
+      <author>Ted Sandquist</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lion of Judah on the throne<br/>I shout Your name let it be known<br/>That You are the King of kings<br/>You are the Prince of Peace<br/>May Your kingdom's reign never cease<br/>Hail to the King<br/>Hail to the King</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lion of Judah come to earth<br/>I want to thank You for Your birth<br/>For Your Living Word<br/>For Your death on the tree<br/>For Your resurrection victory<br/>Hallelujah hallelujah</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lion of Judah come again<br/>Take up Your throne Jerusalem<br/>Bring release to earth<br/>And the consummation<br/>Of Your kingdom's reign<br/>Let it come<br/>Maranatha Maranatha</lines>
+    </verse>
+  </lyrics>
+</song>

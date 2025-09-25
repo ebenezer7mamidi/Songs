@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:37">
+  <properties>
+    <titles>
+      <title>011 Immortal Invisible God only wise</title>
+    </titles>
+    <copyright>Public Domain, Administered by CCLI Administration Account</copyright>
+    <verseOrder>v1 v2 v3 v4 v1</verseOrder>
+    <ccliNo>124466</ccliNo>
+    <authors>
+      <author>John Roberts</author>
+      <author>Walter Chalmers Smith</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Immortal invisible<br/>God only wise<br/>In light inaccessible<br/>Hid from our eyes<br/>Most blessed most glorious<br/>The Ancient of Days<br/>Almighty victorious<br/>Thy great name we praise</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Unresting unhasting<br/>And silent as light<br/>Nor wanting nor wasting<br/>Thou rulest in might<br/>Thy justice like mountains<br/>High soaring above<br/>Thy clouds which are fountains<br/>Of goodness and love</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To all life Thou givest<br/>To both great and small<br/>In all life Thou livest<br/>The true life of all<br/>We blossom and flourish<br/>As leaves on the tree<br/>And wither and perish<br/>But naught changeth Thee</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Great Father of glory<br/>Pure Father of light<br/>Thine angels adore Thee<br/>All veiling their sight<br/>All laud we would render<br/>O help us to see<br/>'Tis only the splendor<br/>Of light hideth Thee</lines>
+    </verse>
+  </lyrics>
+</song>

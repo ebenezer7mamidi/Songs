@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:48">
+  <properties>
+    <titles>
+      <title>Lord Be Glorified</title>
+    </titles>
+    <copyright>1978 Bob Kilpatrick Ministries, Administered by Lorenz Corporation</copyright>
+    <ccliNo>26368</ccliNo>
+    <authors>
+      <author>Bob Kilpatrick</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In my life Lord<br/>Be glorified be glorified<br/>In my life Lord<br/>Be glorified today</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In my song Lord<br/>Be glorified be glorified<br/>In my song Lord<br/>Be glorified today</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In Your church Lord<br/>Be glorified be glorified<br/>In Your church Lord<br/>Be glorified today</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In our home Lord<br/>Be glorified be glorified<br/>In our home Lord<br/>Be glorified today</lines>
+    </verse>
+  </lyrics>
+</song>

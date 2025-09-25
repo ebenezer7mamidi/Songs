@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:45">
+  <properties>
+    <titles>
+      <title>Christ Arose</title>
+    </titles>
+    <copyright>Public Domain, Administered by CCLI Administration Account</copyright>
+    <ccliNo>27783</ccliNo>
+    <authors>
+      <author>Robert Lowry</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Up from the grave He arose,<br/>With a mighty triumph o'er His foes.<br/>He arose a victor from the dark domain,<br/>And He lives forever with His saints to reign.<br/>He arose, He arose,<br/>Hallelujah! Christ arose.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Low in the grave He lay,<br/>Jesus my Savior,<br/>Waiting the coming day,<br/>Jesus my Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vainly they watch His bed,<br/>Jesus my Savior,<br/>Vainly they seal the dead,<br/>Jesus my Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Death cannot keep his prey,<br/>Jesus my Savior,<br/>He tore the bars away,<br/>Jesus my Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

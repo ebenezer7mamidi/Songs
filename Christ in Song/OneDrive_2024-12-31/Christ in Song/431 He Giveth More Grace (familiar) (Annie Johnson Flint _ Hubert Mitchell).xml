@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-25T15:08:06">
+  <properties>
+    <titles>
+      <title>431 He Giveth More Grace (familiar)</title>
+    </titles>
+    <copyright>© 1941. Renewed 1969 Lillenas Publishing Company, Administered by Music Services, Inc.</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>14466</ccliNo>
+    <authors>
+      <author>Annie Johnson Flint | Hubert Mitchell</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/>He giveth more grace<br/>When the burden grows greater<br/>He sendeth more strength<br/>When the labors increase<br/>To added affliction<br/>He addeth His mercy<br/>To multiplied trials<br/>His multiplied peace</lines>
+    </verse>
+    <verse name="c1">
+      <lines>His love has no limit<br/>His grace has no measure<br/>His pow'r has no boundary<br/>Known to men<br/>For out of His infinite<br/>Riches in Jesus<br/>He giveth and giveth<br/>And giveth again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When we have exhausted<br/>Our store of endurance<br/>When our strength has failed<br/>Ere the day is half done<br/>When we reach the end<br/>Of our hoarded resources<br/>Our Father's full giving<br/>Is only begun</lines>
+    </verse>
+  </lyrics>
+</song>

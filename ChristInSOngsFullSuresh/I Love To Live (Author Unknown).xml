@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:47">
+  <properties>
+    <titles>
+      <title>I Love To Live</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>E<br/>I love to live in Your house oh Lord<br/>I love to sit here at Your feet<br/>And let Your words be the food I eat<br/>The food I eat</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I love to live in Your house oh Lord<br/>To dine at the table with my King<br/>And give to You the praise I bring<br/>The praise I bring</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For here in Your house<br/>I find Your embrace<br/>You set on my head<br/>A garland of grace</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When I lift my hands<br/>You fill me with more<br/>I love to live<br/>(sisters echo: I love to live)<br/>In the house of the Lord</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We love to live in Your house oh Lord<br/>We love to sit here at Your feet<br/>And let Your words be the food we eat<br/>The food we eat</lines>
+    </verse>
+    <verse name="v6">
+      <lines>We love to live in Your house oh Lord<br/>To dine at the table with our King<br/>And give to You the praise we bring<br/>The praise we bring</lines>
+    </verse>
+    <verse name="v7">
+      <lines>For here in Your house<br/>We find Your embrace<br/>You set on our heads<br/>garlands of grace</lines>
+    </verse>
+    <verse name="v8">
+      <lines>When we lift our hands<br/>You fill us with more<br/>We love to live<br/>(Sisters echo: We love to live)<br/>In the house of the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

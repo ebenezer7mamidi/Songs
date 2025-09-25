@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:41">
+  <properties>
+    <titles>
+      <title>570 The Heavens Declare Thy Glory</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <ccliNo>713664</ccliNo>
+    <authors>
+      <author>Isaac Watts | Lowell Mason</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The heavens declare Thy glory Lord<br/>In every star Thy wisdom shines<br/>But when our eyes behold Thy Word<br/>We read Thy name in fairer lines</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The rolling sun the changing light<br/>And night and days Thy pow'r confess<br/>But the blest volume Thou did'st write<br/>Reveals Thy justice and Thy grace</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sun moon and stars convey Thy praise<br/>Round the whole earth and never stand<br/>So when Thy truth began its race<br/>It touched and glanced on ev'ry land</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nor shall Thy spreading gospel rest<br/>Till through the world Thy truth has run<br/>Till Christ has all the nations blest<br/>That see the light or feel the sun</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Great Sun of righteousness arise<br/>Bless the dark world with heav'nly light<br/>Thy gospel makes the simple wise<br/>Thy laws are pure Thy judgements right</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Thy noblest wonders here we view<br/>In souls renewed and sins forgiven<br/>Lord cleanse my sins my soul renew<br/>And make Thy Word my guide to heav'n</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>367 Mine Mine Mine (easy)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dear Saviour Thou art mine<br/>How sweet the thought to me<br/>Let me repeat Thy name<br/>And lift my heart to Thee</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mine Mine Mine<br/>I know Thou art mine<br/>Savior dear Savior<br/>I know Thou art mine</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thou art the sinner's friend<br/>So I Thy friendship claim<br/>A sinner saved by grace<br/>When Thy sweet message came</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My hardened heart was touched<br/>Thy pard'ning voice I heard<br/>And joy and peace come in<br/>While linst'ning to Thy word</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So let me sing Thy praise<br/>So let me call Thee mine<br/>I cannot doubt Thy word<br/>I know that I am Thine</lines>
+    </verse>
+  </lyrics>
+</song>

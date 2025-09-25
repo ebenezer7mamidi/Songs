@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:42">
+  <properties>
+    <titles>
+      <title>655 Blessed Are The Pure In Heart (classic hymn ea</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <ccliNo>2766382</ccliNo>
+    <authors>
+      <author>John Keble | William John Hall</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blessed are the pure in heart<br/>For they shall see our God<br/>The secret of the Lord is theirs<br/>Their soul is Christ's abode</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The Lord who left the heavens<br/>Our life and peace to bring<br/>To dwell in lowliness with men<br/>Their pattern and their King</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He to the lowly soul<br/>Doth still Himself impart<br/>And for His dwelling and His throne<br/>Chooseth the pure in heart</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord we Thy presence seek<br/>May ours this blessing be<br/>Give us a pure and lowly heart<br/>A temple meet for Thee</lines>
+    </verse>
+  </lyrics>
+</song>

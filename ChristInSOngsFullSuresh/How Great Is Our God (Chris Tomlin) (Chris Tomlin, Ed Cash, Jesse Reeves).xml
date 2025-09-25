@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T04:06:10">
+  <properties>
+    <titles>
+      <title>How Great Is Our God (Chris Tomlin)</title>
+    </titles>
+    <copyright>2004 worshiptogether.com songs / sixsteps Music / Alletrop Music, Administered by EMI Christian Music Publishing / Music Services</copyright>
+    <verseOrder>v1 v2 c1 v3 v4 c1 b1 c1</verseOrder>
+    <ccliNo>4348399</ccliNo>
+    <authors>
+      <author>Chris Tomlin</author>
+      <author>Ed Cash</author>
+      <author>Jesse Reeves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>G<br/><br/>The splendor of the King<br/>Clothed in majesty<br/>Let all the earth rejoice<br/>All the earth rejoice</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He wraps Himself in light<br/>And darkness tries to hide<br/>And trembles at His voice<br/>And trembles at His voice</lines>
+    </verse>
+    <verse name="c1">
+      <lines>How great is our God<br/>Sing with me<br/>How great is our God<br/>And all will see how great<br/>How great is our God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And age to age He stands<br/>And time is in His hands<br/>Beginning and the End<br/>Beginning and the End</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The Godhead three in one<br/>Father Spirit Son<br/>The Lion and the Lamb<br/>The Lion and the Lamb</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Name above all names<br/>Worthy of all praise<br/>My heart will sing<br/>How great is our God<br/>(repeat)</lines>
+    </verse>
+  </lyrics>
+</song>

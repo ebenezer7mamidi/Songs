@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-11-05T16:59:27">
+  <properties>
+    <titles>
+      <title>Living Hope</title>
+    </titles>
+    <comments>
+      <comment>ending (optional)
+
+[above are Song Tags with notes imported from EasyWorship]</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c2 e1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>A<br/><br/>How great the chasm that lay between us<br/>How high the mountain I could not climb<br/>In desperation, I turned to heaven<br/>And spoke Your name into the night</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Then through the darkness, Your loving-kindness<br/>Tore through the shadows of my soul<br/>The work is finished, the end is written<br/>Jesus Christ, my living hope</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hallelujah, praise the One who set me free<br/>Hallelujah, death has lost its grip on me<br/>You have broken every chain<br/>There's salvation in Your name<br/>Jesus Christ, my living hope</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Who could imagine so great a mercy?<br/>What heart could fathom such boundless grace?<br/>The God of ages stepped down from glory<br/>To wear my sin and bear my shame</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>The cross has spoken, I am forgiven<br/>The King of kings calls me His own<br/>Beautiful Savior, I'm Yours forever<br/>Jesus Christ, my living hope</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Then came the morning that sealed the promise<br/>Your buried body began to breathe<br/>Out of the silence, the Roaring Lion<br/>Declared the grave has no claim on me<br/>Jesus, Yours is the victory</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Hallelujah, praise the One who set me free<br/>Hallelujah, death has lost its grip on me<br/>You have broken every chain<br/>There's salvation in Your name<br/>Jesus Christ, my living hope<br/>(repeat)</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Jesus Christ, my living hope<br/>Oh God, You are my living hope</lines>
+    </verse>
+  </lyrics>
+</song>

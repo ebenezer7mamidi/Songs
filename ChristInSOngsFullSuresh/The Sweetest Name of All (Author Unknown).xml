@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T15:02:06">
+  <properties>
+    <titles>
+      <title>The Sweetest Name of All</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/><br/>Jesus You're the sweetest name of all<br/>Jesus You always hear me when I call<br/>Oh Jesus You pick me up each time I fall<br/>You're the sweetest<br/>The sweetest name of all</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus how I love to praise Your name<br/>Jesus You're still the first the last the same<br/>Oh Jesus You died and took away my shame<br/>You're the sweetest<br/>The sweetest name of all</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus You're the soon and coming King<br/>Jesus we need the love that You can bring<br/>Oh Jesus we lift our voices up and sing<br/>You're the sweetest<br/>The sweetest name of all</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T13:51:44">
+  <properties>
+    <titles>
+      <title>Set Apart</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bm<br/>"Set apart" -- a chosen vessel<br/>To the King of kings<br/>"Set apart" -- forever severed<br/>From all earthly things</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chosen vessels, empty, weak and small<br/>Bearing heaven's greatest treasure<br/>Christ the Lord of all<br/>Christ the Lord of all</lines>
+    </verse>
+    <verse name="v2">
+      <lines>"Set apart" --<br/>to bear the fragrance<br/>Of His blessed Name<br/>And with Him<br/>to share the sufferings<br/>Of a cross of shame</lines>
+    </verse>
+    <verse name="v3">
+      <lines>"Set apart" --<br/>with Him to suffer<br/>O'er a world undone<br/>And to stand<br/>in fiercest conflict<br/>Till the fight be won</lines>
+    </verse>
+    <verse name="v4">
+      <lines>"Set apart" --<br/>an earthern vessel<br/>Empty - weak and small<br/>Yet the treasure<br/>that it beareth<br/>Christ the Lord of all</lines>
+    </verse>
+  </lyrics>
+</song>

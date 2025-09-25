@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-20T01:21:45">
+  <properties>
+    <titles>
+      <title>Marvelous Grace (Of our loving Lord)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Marvelous grace of our loving Lord<br/>Grace that exceeds our sin and our guilt<br/>Yonder on Calvary's mount outpoured<br/>There where the blood of the Lamb was spilt</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Grace grace God's grace<br/>Grace that will pardon and cleanse within<br/>Grace grace God's grace<br/>Grace that is greater than all our sin</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sin and despair like the sea waves cold<br/>Threaten the soul with infinite loss<br/>Grace that is greater<br/>Yes grace untold<br/>Points to the refuge the mighty Cross</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dark is the stain that we cannot hide<br/>What can avail to wash it away<br/>Look there is flowing a crimson tide<br/>Whiter than snow you may be today</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Marvelous infinite matchless grace<br/>Freely bestowed on all who believe<br/>You that are longing to see His face<br/>Will you this moment His grace receive</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:38">
+  <properties>
+    <titles>
+      <title>209 There is a name I love to hear (vs1-5 std)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Oh how I love Jesus<br/>Oh how I love Jesus<br/>Oh how I love Jesus<br/>Because He first loved me</lines>
+    </verse>
+    <verse name="v1">
+      <lines>There is a name I love to hear<br/>I love to sing its worth<br/>It sounds like music in my ear<br/>The sweetest name on earth</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It tells me of a Savior's love<br/>Who died to set me free<br/>It tells me of His precious blood<br/>The sinner's perfect plea</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It tells me what my Father hath<br/>In store for every day<br/>And tho' I tread a darksome path<br/>Yields sunshine all the way</lines>
+    </verse>
+    <verse name="v4">
+      <lines>It tells of One whose loving heart<br/>Can feel my deepest woe<br/>Who in each sorrow bears a part<br/>That none can bear below</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus the name I love so well<br/>The name I love to hear<br/>No saint on earth its worth can tell<br/>No heart conceive how dear</lines>
+    </verse>
+    <verse name="v6">
+      <lines>This name shall shed its fragrance still<br/>Along this thorny road<br/>Shall sweetly<br/>Smooth the rugged hill<br/>That leads me up to God</lines>
+    </verse>
+    <verse name="v7">
+      <lines>And there with all<br/>The blood-bought throng<br/>From sin<br/>And sorrow free<br/>I'll sing<br/>The new eternal song<br/>Of Jesus' love to me</lines>
+    </verse>
+  </lyrics>
+</song>

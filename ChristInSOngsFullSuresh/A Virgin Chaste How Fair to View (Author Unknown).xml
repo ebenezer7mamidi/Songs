@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:44">
+  <properties>
+    <titles>
+      <title>A Virgin Chaste How Fair to View</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>F<br/>A virgin chaste how fair to view<br/>the saints so loved to Thee kept true<br/>and spotless all the journey through<br/>espoused to Thee alone</lines>
+    </verse>
+    <verse name="v2">
+      <lines>with holy gems of wondrous worth<br/>and robes whose beauty not of earth<br/>invests a bride of heavenly birth <br/>adorned for Thee alone</lines>
+    </verse>
+    <verse name="v3">
+      <lines>borne as a seal Thy love's delight<br/>upon Thine heart and arm of might<br/>let onward in a path of light<br/>sustained by Thee alone</lines>
+    </verse>
+    <verse name="v4">
+      <lines>the Spirit's charge a heavenly Guide<br/>directs the journey of the bride<br/>each movement on the desert wide<br/>controlled for Thee alone</lines>
+    </verse>
+    <verse name="v5">
+      <lines>enraptured with her glorious Head<br/>her feet with haste the pathway tread<br/>her feet to every rival dead<br/>possessed by Thee alone</lines>
+    </verse>
+    <verse name="v6">
+      <lines>with strength of heart to cherish Thee<br/>with breadth of mind Thy thoughts to see<br/>with every bridal quality<br/>endowed for Thee alone</lines>
+    </verse>
+    <verse name="v7">
+      <lines>in holy robes in beauty rare<br/>the fruit of loves unceasing care<br/>the bride shall soon be greeted there<br/>presented Thine alone</lines>
+    </verse>
+  </lyrics>
+</song>

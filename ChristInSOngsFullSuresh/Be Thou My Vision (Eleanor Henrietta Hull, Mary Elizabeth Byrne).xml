@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T02:11:43">
+  <properties>
+    <titles>
+      <title>Be Thou My Vision</title>
+    </titles>
+    <copyright>Public Domain, Administered by CCLI Administration Account</copyright>
+    <ccliNo>30639</ccliNo>
+    <authors>
+      <author>Eleanor Henrietta Hull</author>
+      <author>Mary Elizabeth Byrne</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>D<br/>Be Thou my vision<br/>O Lord of my heart<br/>Naught be all else to me<br/>Save that Thou art</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Thou my best thought<br/>By day or by night<br/>Waking or sleeping<br/>Thy presence my light</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Be Thou my wisdom<br/>Be Thou my true Word<br/>I ever with Thee<br/>And Thou with me Lord</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Thou my great Father<br/>I Thy true son<br/>Thou in me dwelling<br/>And I with Thee one</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Riches I heed not<br/>Nor man's empty praise<br/>Thou mine inheritance<br/>Now and always</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Thou and Thou only<br/>Be first in my heart<br/>High King of heaven<br/>My treasure Thou art</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>High King of heaven<br/>My victory won<br/>May I reach heaven's joys<br/>O bright heaven's Sun</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Heart of my own heart<br/>Whatever befall<br/>Still be my vision<br/>O Ruler of all</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:52">
+  <properties>
+    <titles>
+      <title>They That Wait Upon The Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>They that wait upon the Lord<br/>Shall renew their strength<br/>They shall mount up with wings as eagles<br/>They shall run and not be weary<br/>They shall walk and not faint<br/>Precious Lord teach us how to wait</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-20T00:33:07">
+  <properties>
+    <titles>
+      <title>Let Us Break Bread Together (setting sun)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/><br/>Let us break bread together on our knees<br/>Let us break bread together on our knees<br/>When I fall on my knees<br/>With my face to the setting sun<br/>O Lord have mercy on me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let us praise God together on our knees<br/>Let us praise God together on our knees<br/>When I fall on my knees<br/>With my face to the setting sun<br/>O Lord have mercy on me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let us serve God together on our knees<br/>Let us serve God together on our knees<br/>When I fall on my knees<br/>With my face to the setting sun<br/>O Lord have mercy on me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>(optional)<br/>O Lord have mercy<br/>Lord have mercy have mercy</lines>
+    </verse>
+  </lyrics>
+</song>

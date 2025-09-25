@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:49">
+  <properties>
+    <titles>
+      <title>New Testament Song</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Matthew Mark Luke and John<br/>Acts and the letter to the Romans<br/>1st and 2nd Corinthians<br/>Galations and Ephesians</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Philipians Colossians<br/>1st and 2nd Thessalonians<br/>1st and 2nd Timothy<br/>Titus and Philemon</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hebrews and the book of James<br/>1st and 2nd Peter<br/>1st and 2nd, 3rd John<br/>Jude and Revelation.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:41">
+  <properties>
+    <titles>
+      <title>556 Abiding Oh So Wondrous Sweet (easy, very nice)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>E<br/>verse 1<br/>Abiding oh so wondrous sweet<br/>I'm resting at the Savior's feet<br/>I trust in Him - I'm satisfied<br/>I'm resting in the Crucified</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Abiding - Abiding<br/>Oh so wondrous sweet<br/>I'm Resting - Resting<br/>At the Savior's feet</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He speaks<br/>And by His word is given<br/>His peace a blessed<br/>Gift of heav'n<br/>Not as the world<br/>He peace doth give<br/>'Tis through this hope<br/>My soul shall live</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I live<br/>But through His grace alone<br/>By whom<br/>The mighty work is done<br/>Dead to myself<br/>Alive to Him<br/>I count all loss<br/>His rest to win</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Now rest<br/>My heart the work is done<br/>I'm saved by faith<br/>Through Christ the Son<br/>Let every power<br/>My soul employ<br/>To tell the world<br/>My peace and joy</lines>
+    </verse>
+  </lyrics>
+</song>

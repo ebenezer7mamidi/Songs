@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:47">
+  <properties>
+    <titles>
+      <title>I Am The Lords</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/>I am the Lord's<br/>Oh joy beyond expression<br/>Oh sweet response to<br/>Voice of love divine</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Faith's joyous 'Yes' to<br/>The assuring whisper<br/>'Fear not I have redeemed thee<br/>Thou art mine'</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>I am the Lord's<br/>It is the glad confession<br/>Wherewith the bride<br/>Recalls the happy day</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>When love's 'I will'<br/>Accepted him forever<br/>'The Lord's to love<br/>To honor and obey</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>I am the Lord's<br/>Yet teach me all it meaneth<br/>All it involves of love and loyalty</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Of holy service<br/>Absolute surrender<br/>And unreserved<br/>Obedience unto Thee</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>I am the Lord's<br/>Yes body soul and spirit<br/>Oh seal them<br/>Irrecoverably Thine</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>As Thou beloved<br/>In Thy grace and fullness<br/>Forever and forevermore<br/>Art mine</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-06T00:24:35">
+  <properties>
+    <titles>
+      <title>You are beautiful beyond description</title>
+    </titles>
+    <comments>
+      <comment>ending (optional)
+ending (optional)
+
+[above are Song Tags with notes imported from EasyWorship]</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 e1 o1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>G<br/><br/>You are beautiful beyond description<br/>Too marvelous for words<br/>Too wonderful for comprehension<br/>Like nothing ever seen or heard</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Who can grasp Your infinite wisdom<br/>Who can fathom the depth of Your love<br/>You are beautiful beyond description<br/>Majesty enthroned above</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And I stand I stand in awe of You<br/>I stand I stand in awe of You<br/>Holy God to Whom all praise is due<br/>I stand in awe of You</lines>
+    </verse>
+    <verse name="e1">
+      <lines>And we stand we stand in awe of You<br/>we stand we stand in awe of You<br/>Holy God to Whom all praise is due<br/>we stand in awe of You</lines>
+    </verse>
+    <verse name="o1">
+      <lines>And we stand we stand in love with You<br/>we stand we stand in love with You<br/>Holy God to Whom all praise is due<br/>we stand in love with You</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>You are beautiful beyond description<br/>Yet God crushed you for my sin<br/>In agony and deep affliction<br/>Cut off that I might enter in<br/></lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Who can grasp such tender compassion<br/>Who can fathom this mercy so free<br/>You are beautiful beyond compassion<br/>Lamb of God who died for me</lines>
+    </verse>
+  </lyrics>
+</song>

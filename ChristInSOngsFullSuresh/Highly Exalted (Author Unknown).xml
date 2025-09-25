@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-01-14T15:56:27">
+  <properties>
+    <titles>
+      <title>Highly Exalted</title>
+    </titles>
+    <verseOrder>v1 v2 v3 c1 v2 v3 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>E<br/><br/>You were despised,<br/>You were rejected,<br/>Lord those who passed by<br/>Even averted their gaze From the sight<br/>Such was the suffering You bore for us</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Led like a lamb,<br/>A lamb to the slaughter,<br/>You spoke not a word,<br/>But chose to be silent Though You did no wrong,<br/>Nor was deceitfulness Found in You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yet by Your wounds our Salvation has come<br/>Yet by Your suffering Our freedom is won</lines>
+    </verse>
+    <verse name="c1">
+      <lines>For God has highly exalted Your name<br/>He has enthroned You on high<br/>Jesus the name above All names<br/>(2x)</lines>
+    </verse>
+    <verse name="e1">
+      <lines>For God has highly exalted Your name<br/>He has enthroned You on high<br/>Jesus the name above All names<br/>(2x)</lines>
+    </verse>
+  </lyrics>
+</song>

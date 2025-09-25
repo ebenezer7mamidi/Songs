@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>317 Though Dark Be Our Way (Familiar tune - nice)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Though dark be our way<br/>Since God is our Guide<br/>'Tis ours to obey<br/>'Tis His to provide<br/>Though cisterns be broken<br/>And creatures all fail<br/>The word He hath spoken<br/>Shall surely prevail</lines>
+    </verse>
+    <verse name="v2">
+      <lines>His love in times past<br/>Forbids us to think<br/>He'll leave us at last<br/>In trouble to sink<br/>The Lamb in His glory<br/>Is ever in view<br/>The pledge and the proof<br/>He will help us quite through</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And since all we meet<br/>Must work for our good<br/>The bitter is sweet<br/>The med'cine is food<br/>Though painful at present<br/>'Twill cease before long<br/>And then how triumphant<br/>The conqueror's song</lines>
+    </verse>
+  </lyrics>
+</song>

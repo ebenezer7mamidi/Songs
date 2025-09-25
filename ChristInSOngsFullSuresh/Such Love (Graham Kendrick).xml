@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-19T13:45:01">
+  <properties>
+    <titles>
+      <title>Such Love</title>
+    </titles>
+    <copyright>1988 Make Way Music, Administered by Music Services</copyright>
+    <ccliNo>30536</ccliNo>
+    <authors>
+      <author>Graham Kendrick</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/><br/>Such love, pure as the whitest snow,<br/>Such love, weeps for the shame I know,<br/>Such love, paying the debt I owe,<br/>O, Jesus, such love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Such love, stilling my restlessness,<br/>Such love, filling my emptiness,<br/>Such love, showing me holiness,<br/>O, Jesus, such love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Such love, springs from eternity,<br/>Such love, streaming through history,<br/>Such love, fountain of life to me,<br/>O, Jesus, such love.</lines>
+    </verse>
+  </lyrics>
+</song>

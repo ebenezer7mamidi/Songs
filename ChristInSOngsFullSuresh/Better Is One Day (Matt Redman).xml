@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T02:19:21">
+  <properties>
+    <titles>
+      <title>Better Is One Day</title>
+    </titles>
+    <copyright>1995 Thankyou Music, Administered by EMI Christian Music Publishing</copyright>
+    <verseOrder>v1 c1 v2 c2 b1 c1</verseOrder>
+    <ccliNo>1097451</ccliNo>
+    <authors>
+      <author>Matt Redman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>E<br/>How lovely is Your dwelling place<br/>O Lord Almighty<br/>For my soul longs<br/>And even faints for You<br/>For here my heart is satisfied<br/>Within Your presence<br/>I sing beneath<br/>The shadow of Your wings</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Better is one day in Your courts<br/>Better is one day in Your house<br/>Better is one day in Your courts<br/>Than thousands elsewhere x2<br/>Than thousands elsewhere</lines>
+    </verse>
+    <verse name="v2">
+      <lines>One thing I ask and I would seek<br/>To see Your beauty<br/>To find You in<br/>The place your glory dwells x2</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Better is one day in Your courts<br/>Better is one day in Your house<br/>Better is one day in Your courts<br/>Than thousands elsewhere x2</lines>
+    </verse>
+    <verse name="b1">
+      <lines>My heart and flesh cry out<br/>For You the living God<br/>Your Spirit's water to my soul<br/>I've tasted and I've seen<br/>Come once again to me<br/>I will draw near to You<br/>I will draw near to You</lines>
+    </verse>
+  </lyrics>
+</song>

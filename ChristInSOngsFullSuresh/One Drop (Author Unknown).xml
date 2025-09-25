@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T13:22:55">
+  <properties>
+    <titles>
+      <title>One Drop</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/><br/>One drop of Your Precious blood<br/>One spark of Your Spirit's fire<br/>Courses through Me like a flood<br/>God's consuming fire!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rivers of eternal Life<br/>Flow from hearts believing<br/>But their Source Lies far beyond<br/>In the Savior's bleeding</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Grafted branches in the vine<br/>Fruitful when abiding<br/>Spirit flowing like new wine<br/>God's own heart confiding</lines>
+    </verse>
+    <verse name="v4">
+      <lines>One drop of Your Precious blood<br/>One spark of Your Spirit's fire<br/>Courses through Me like a flood<br/>God's consuming fire!</lines>
+    </verse>
+  </lyrics>
+</song>

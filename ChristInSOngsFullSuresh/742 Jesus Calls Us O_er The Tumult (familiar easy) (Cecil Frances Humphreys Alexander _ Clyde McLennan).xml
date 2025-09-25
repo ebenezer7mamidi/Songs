@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:42">
+  <properties>
+    <titles>
+      <title>742 Jesus Calls Us O'er The Tumult (familiar easy)</title>
+    </titles>
+    <copyright>© Words: Public Domain &#13;
+Music: 2006 McLennan, Clyde, Administered by Clyde McLennan</copyright>
+    <ccliNo>4942678</ccliNo>
+    <authors>
+      <author>Cecil Frances Humphreys Alexander | Clyde McLennan</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus calls us o'er the tumult<br/>Of our life's wild restless sea<br/>Day by day His sweet voice soundeth<br/>Saying Christian follow Me</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>As of old apostles heard it<br/>By the Galilean lake<br/>Turned from home and toil and kindred<br/>Leaving all for His dear sake</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Jesus calls us from the worship<br/>Of the vain world's golden store<br/>From each idol that would keep us<br/>Saying Christian love Me more</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In our joys and in our sorrows<br/>Days of toil and hours of ease<br/>Still He calls in cares and pleasures<br/>Christian love Me more than these</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus calls us by Thy mercies<br/>Saviour may we hear Thy call<br/>Give our hearts to Thine obedience<br/>Serve and love Thee best of all</lines>
+    </verse>
+  </lyrics>
+</song>

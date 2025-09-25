@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T02:04:02">
+  <properties>
+    <titles>
+      <title>As We Drink This Cup</title>
+    </titles>
+    <copyright>1988 Maranatha Praise, Inc., Administered by Music Services</copyright>
+    <ccliNo>120075</ccliNo>
+    <authors>
+      <author>Kirk Dearman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eb<br/>As we drink this cup<br/>We worship You<br/>As we eat this bread<br/>We honor You<br/>And we offer You our lives<br/>As You have offered Yours for us</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We remember all You've done for us<br/>We remember Your covenant with us<br/>We remember and worship You O Lord</lines>
+    </verse>
+  </lyrics>
+</song>

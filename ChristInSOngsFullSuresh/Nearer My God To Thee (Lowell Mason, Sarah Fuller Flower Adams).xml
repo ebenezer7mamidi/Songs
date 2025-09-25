@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-21T23:30:20">
+  <properties>
+    <titles>
+      <title>Nearer My God To Thee</title>
+    </titles>
+    <copyright>Public Domain, Administered by CCLI Administration Account</copyright>
+    <verseOrder>v1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <ccliNo>78835</ccliNo>
+    <authors>
+      <author>Lowell Mason</author>
+      <author>Sarah Fuller Flower Adams</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nearer my God to Thee<br/>Nearer to Thee<br/>E'en though it be a cross<br/>That raiseth me<br/>Still all my song shall be</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nearer my God to Thee<br/>Nearer my God to Thee<br/>Nearer to Thee</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Though like the wanderer<br/>The sun gone down<br/>Darkness be over me<br/>My rest a stone<br/>Yet in my dreams I'd be</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There let the way appear<br/>Steps unto heaven<br/>All that Thou sendest me<br/>In mercy giv'n<br/>Angels to beckon me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Then with my waking tho'ts<br/>Bright with Thy praise<br/>Out of my stony griefs<br/>Bethel I'll raise<br/>So by my woes to be</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Or if on joyful wing<br/>Cleaving the sky<br/>Sun moon and stars forgot<br/>Upward I fly<br/>Still all my song shall be</lines>
+    </verse>
+  </lyrics>
+</song>

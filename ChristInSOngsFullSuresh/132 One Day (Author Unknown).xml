@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-19T23:34:23">
+  <properties>
+    <titles>
+      <title>132 One Day</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>One day when heaven<br/>was filled with His praises<br/>One day when sin was<br/>As black as could be<br/>Jesus came forth to be born of a virgin<br/>Dwelt among men my example is He</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Living He loved me<br/>Dying He saved me<br/>Buried He carried my sins far away<br/>Rising He justified freely forever<br/>One day He's coming<br/>O glorious day</lines>
+    </verse>
+    <verse name="v2">
+      <lines>One day they led Him<br/>Up Calvary's mountain<br/>One day they nailed Him<br/>To die on the tree<br/>Suffering anguish<br/>Despised and rejected<br/>Bearing our sins<br/>My Redeemer is He</lines>
+    </verse>
+    <verse name="v3">
+      <lines>One day they left Him<br/>Alone in the garden<br/>One day He rested<br/>From suffering free<br/>Angels came down o'er<br/>His tomb to keep vigil<br/>Hope of the hopeless<br/>My Savior is He</lines>
+    </verse>
+    <verse name="v4">
+      <lines>One day the grave<br/>Could conceal Him no longer<br/>One day the stone rolled<br/>Away from the door<br/>Then He arose over death<br/>He had conquered<br/>Now is ascended<br/>My Lord evermore</lines>
+    </verse>
+    <verse name="v5">
+      <lines>One day the trumpet<br/>Will sound for His coming<br/>One day the skies with<br/>His glory will shine<br/>Wonderful day<br/>My beloved ones bringing<br/>Glorious Savior<br/>This Jesus is mine</lines>
+    </verse>
+  </lyrics>
+</song>

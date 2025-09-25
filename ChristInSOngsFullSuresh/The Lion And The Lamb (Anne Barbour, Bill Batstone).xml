@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T14:46:52">
+  <properties>
+    <titles>
+      <title>The Lion And The Lamb</title>
+    </titles>
+    <copyright>1990 Maranatha Praise, Inc., Administered by Music Services</copyright>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>477986</ccliNo>
+    <authors>
+      <author>Anne Barbour</author>
+      <author>Bill Batstone</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Jesus, From the Father's own right hand,<br/>Jesus, Son of God and Son of man,<br/>Jesus, Who died and rose again,<br/>Jesus, He's the Lion and the Lamb.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Who is He? Who's the mightiest of all<br/>Who is He? Creation trembles at His call<br/>Who is He? The lowly sacrifice,<br/>Who paid a victim's price,<br/>His name is Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Who is He? With the power none can tame<br/>Who is He? When ev'ry foe would fear His name<br/>Who is He? who was humbly led away<br/>To suffer that dark day,<br/>His name is Jesus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Who is He? With the eyes that burn like fire<br/>Who is He? Oh the wonder He inspires<br/>Who is He? He bore the guilt and shame<br/>For the ones who'd gone astray,<br/>His name is Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

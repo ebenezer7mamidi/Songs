@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-08-06T14:18:34">
+  <properties>
+    <titles>
+      <title>Our God is an Awesome God</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Our God is an awesome God<br/>He reigns from heaven above<br/>With wisdom pow'r and love<br/>Our God is an awesome God</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>G<br/><br/>When He rolls up His sleeves<br/>He ain't just puttin' on the ritz<br/>Our God is an awesome God<br/>There is thunder in His footsteps<br/>And lightning in His fists<br/>Our God is an awesome God</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>And the Lord wasn't jokin'<br/>When He kicked 'em out of Eden<br/>It wasn't for no reason<br/>That He shed His blood<br/>His return is very close<br/>And so you'd better be believin'<br/>That our God is an awesome God</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>When the sky was starless<br/>In the void of the night<br/>Our God is an awesome God<br/>He spoke into the darkness<br/>And created the light<br/>Our God is an awesome God</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Judgment and wrath<br/>He poured out on Sodom<br/>Mercy and grace<br/>He gave us at the cross<br/>I hope that we have not<br/>Too quickly forgotten<br/>That our God is an awesome God</lines>
+    </verse>
+  </lyrics>
+</song>

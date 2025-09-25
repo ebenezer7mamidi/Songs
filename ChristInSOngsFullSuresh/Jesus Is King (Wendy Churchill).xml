@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-12T15:48:56">
+  <properties>
+    <titles>
+      <title>Jesus Is King</title>
+    </titles>
+    <comments>
+      <comment>ending (optional)
+
+[above are Song Tags with notes imported from EasyWorship]</comment>
+    </comments>
+    <copyright>1982 Authentic Publishing, Administered by The Copyright Company</copyright>
+    <verseOrder>v1 v2 v3 v4 e1</verseOrder>
+    <ccliNo>56558</ccliNo>
+    <authors>
+      <author>Wendy Churchill</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>D<br/><br/>Jesus is King<br/>and I will extol Him<br/>Give Him the glory<br/>and honor His name</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>He reigns on high<br/>enthroned in the heavens<br/>Word of the Father<br/>exalted for us</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>We have a hope<br/>That is steadfast and certain<br/>Gone through the curtain<br/>And touching the throne</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>We have a priest<br/>Who is there interceding<br/>Pouring His grace on our lives<br/>Day by day</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>We come to Him<br/>Our Priest and Apostle<br/>Clothed in His glory<br/>And bearing His name</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Laying our lives<br/>With gladness before Him<br/>Filled with His Spirit<br/>We worship the King</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>O Holy One<br/>our hearts do adore You<br/>Thrilled with Your goodness<br/>We give You our praise</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Angels in light<br/>with worship surround Him<br/>Jesus our Savior<br/>forever the same</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Jesus is King<br/>and we will extol Him<br/>Give Him the glory<br/>and honor His name<br/>He reigns on high<br/>enthroned in the heavens<br/>Word of the Father<br/>exalted for us</lines>
+    </verse>
+  </lyrics>
+</song>

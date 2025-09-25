@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:42">
+  <properties>
+    <titles>
+      <title>641 Nothing Between (easy nice)</title>
+    </titles>
+    <copyright>© 2004 Hope Publishing Company</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>4418346</ccliNo>
+    <authors>
+      <author>C. Albert Tindley | H. E. Singley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nothing between my soul and the Savior<br/>Naught of this world's delusive dream<br/>I have renounced all sinful pleasure<br/>Jesus is mine there's nothing between</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nothing between my soul and the Savior<br/>So that His blessed face may be seen<br/>Nothing preventing the least of His favor<br/>Keep the way clear<br/>Let nothing between</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nothing between like worldly pleasure<br/>Habits of life though harmless they seem<br/>Must not my heart from Him ever sever<br/>He is my all there's nothing between</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nothing between like pride or station<br/>Self or friends shall not intervene<br/>Though it may cost me much tribulation<br/>I am resolved there's nothing between</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nothing between e'en many hard trials<br/>Though the whole world against me convene<br/>Watching with prayer and much self-denial<br/>I'll triumph at last with nothing between</lines>
+    </verse>
+  </lyrics>
+</song>

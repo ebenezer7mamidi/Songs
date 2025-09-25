@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:52">
+  <properties>
+    <titles>
+      <title>Thy Broken body, gracious Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thy broken body, gracious Lord<br/>Is shadowed by this broken bread;<br/>The wine which in this cup is poured,<br/>Points to the blood which Thou hast shed</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And while we meet together thus<br/>We show that we are one in Thee;<br/>Thy precious blood was shed for us,<br/>Thy death, O Lord, hast set us free!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We have one hope that Thou wilt come,<br/>Thee in the air we wait to see,<br/>When Thou wilt give Thy saints a home,<br/>And we shall ever reign with Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

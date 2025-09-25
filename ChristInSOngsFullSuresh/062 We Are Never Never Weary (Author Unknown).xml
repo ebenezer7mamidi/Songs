@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:37">
+  <properties>
+    <titles>
+      <title>062 We Are Never Never Weary</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>we are never never weary<br/>of the grand old song<br/>glory to god hallelujah<br/>we can sing it loud as ever<br/>with our faith more strong<br/>glory to god hallelujah</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>o the children of the lord<br/>have a right to shout and sing<br/>for the way is growing bright<br/>and our souls are on the wing<br/>we are going by and by<br/>to the palace of a king<br/>glory to god hallelujah</lines>
+    </verse>
+    <verse name="v2">
+      <lines>we are lost amid the rapture<br/>of redeeming love<br/>glory to god hallelujah<br/>we are rising on its pinions<br/>to the hills above<br/>glory to god hallelujah</lines>
+    </verse>
+    <verse name="v3">
+      <lines>we are going to a palace<br/>that is built of gold<br/>glory to god hallelujah<br/>where the King in all His splendor<br/>we shall soon behold<br/>glory to god hallelujah</lines>
+    </verse>
+    <verse name="v4">
+      <lines>there we'll shout redeeming mercy<br/>in a glad new song<br/>glory to god hallelujah<br/>there we'll sing<br/>the praise of jesus with<br/>the blood-washing throng<br/>glory to god hallelujah</lines>
+    </verse>
+  </lyrics>
+</song>

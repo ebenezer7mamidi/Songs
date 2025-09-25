@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-19T15:52:43">
+  <properties>
+    <titles>
+      <title>King Of Heaven Come</title>
+    </titles>
+    <copyright>© 2010 Sony/ATV Timber Publishing, Administered by Sony/ATV Sounds LLC</copyright>
+    <verseOrder>v1 c1 v2 c1 b1 c1</verseOrder>
+    <ccliNo>5997804</ccliNo>
+    <authors>
+      <author>Jason Ingram | Paul Baloche</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/>Jesus let Your kingdom come here<br/>Let Your will be done here in us<br/>Jesus there is no one greater<br/>We need You more than ever<br/>Show the world Your love</lines>
+    </verse>
+    <verse name="c1">
+      <lines>King of heaven come down<br/>King of heaven come now<br/>Let Your glory reign<br/>Shining like the day<br/>King of heaven come<br/>King of heaven rise up<br/>Who can stand against us<br/>You are strong to save in Your mighty name<br/>King of heaven come</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We are children of Your mercy<br/>Rescued for Your glory<br/>We cry Jesus<br/>Set our hearts towards You<br/>That ev'ry eye would see You lifted high</lines>
+    </verse>
+    <verse name="b1">
+      <lines>King of heaven come<br/>(Sisters echo - King of heaven come)<br/>King of heaven come<br/>(sisters echo - King of heaven come)<br/>King of heaven come<br/>(sisters echo - King of heaven come)<br/>Oh King of heaven come</lines>
+    </verse>
+  </lyrics>
+</song>

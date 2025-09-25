@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:47">
+  <properties>
+    <titles>
+      <title>I come to the garden alone</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>And He walks with me<br/>And He talks with me<br/>And He tells me I am His own</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>And the joy we share as we tarry there<br/>None other has ever known</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>I come to the garden alone<br/>While the dew is still on the roses</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>And the voice I hear falling on my ear<br/>The Son of God discloses</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>He speaks and the sound of His voice<br/>Is so sweet the birds hush their singing</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>And the melody that He gave to me<br/>Within my heart is ringing</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>I'd stay in the garden with Him<br/>Tho' the night around me be falling</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>But He bids me go thro' the voice of woe<br/>His voice to me is callin</lines>
+    </verse>
+  </lyrics>
+</song>

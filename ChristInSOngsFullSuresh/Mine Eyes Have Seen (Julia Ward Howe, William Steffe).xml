@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-20T01:31:43">
+  <properties>
+    <titles>
+      <title>Mine Eyes Have Seen</title>
+      <title>Glory glory hallelujah</title>
+    </titles>
+    <copyright>Public Domain, Administered by CCLI Administration Account</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1 c2</verseOrder>
+    <ccliNo>24133</ccliNo>
+    <authors>
+      <author>Julia Ward Howe</author>
+      <author>William Steffe</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mine eyes have seen the glory<br/>Of the coming of the Lord<br/>He is trampling out the vintage<br/>Where the grapes of wrath are stored<br/>He hath loosed the fateful lightning<br/>Of His terrible swift sword<br/>His truth is marching on</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Glory glory hallelujah<br/>Glory glory hallelujah<br/>Glory glory hallelujah<br/>His truth is marching on</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Glory glory hallelujah<br/>Glory glory hallelujah<br/>Glory glory hallelujah<br/>Our God is marching on</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I have seen Him in the watchfires<br/>Of a hundred circling camps<br/>They have builded Him an altar<br/>In the evening dews and damps<br/>I can read His righteous sentence<br/>By the dim and flaring lamps<br/>His day is marching on</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He has sounded forth the trumpet<br/>That shall never call retreat<br/>He is sifting out the hearts of men<br/>Before His judgment seat<br/>O be swift my soul to answer Him<br/>Be jubilant my feet<br/>Our God is marching on</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In the beauty of the lilies<br/>Christ was born across the sea<br/>With a glory in His bosom<br/>That transfigures you and me<br/>As He died to make men holy<br/>Let us live to make men free<br/>While God is marching on</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mine eyes have seen the glory<br/>Of the coming of the Lord<br/>It is flowing through the cities<br/>And the waste will be restored<br/>By the leading of the Spirit<br/>And their trusting in His Word<br/>His army marches on</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Arise and shine my people<br/>See the glory of the Lord<br/>As the church with signs and wonders<br/>Marches on in one accord<br/>His soldiers do not falter<br/>As for Him they wield the sword<br/>His army marches on</lines>
+    </verse>
+    <verse name="v7">
+      <lines>O join this mighty army<br/>There's a battle to be won<br/>Let us now put in sickle<br/>For the harvest time has come<br/>Countless multitudes are waiting<br/>Just to hear of God's own Son<br/>His army marches on</lines>
+    </verse>
+  </lyrics>
+</song>

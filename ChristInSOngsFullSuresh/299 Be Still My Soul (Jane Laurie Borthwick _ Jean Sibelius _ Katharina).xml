@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>299 Be Still My Soul</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <ccliNo>96910</ccliNo>
+    <authors>
+      <author>Jane Laurie Borthwick | Jean Sibelius | Katharina</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Be still my soul<br/>The Lord is on thy side<br/>Bear patiently the cross<br/>Of grief or pain<br/>Leave to thy God<br/>To order and provide<br/>In every change<br/>He faithful will remain<br/>Be still my soul<br/>Thy best thy heavenly Friend<br/>Thro' thorny ways<br/>Leads to a joyful end</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Be still my soul<br/>Thy God doth undertake<br/>To guide the future<br/>As He has the past<br/>Thy hope thy confidence<br/>Let nothing shake<br/>All now mysterious<br/>Shall be bright at last<br/>Be still my soul<br/>The waves and winds still know<br/>His voice who ruled them<br/>While He dwelt below</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Be still my soul<br/>When dearest friends depart<br/>And all is darkened<br/>In the vale of tears<br/>Then shall thou better know<br/>His love His heart<br/>Who comes to soothe<br/>Thy sorrows and thy fears<br/>Be still my soul<br/>Thy Jesus can repay<br/>From His own fullness<br/>All He takes away</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Be still my soul<br/>The hour is hast'ning on<br/>When we shall be forever<br/>With the Lord<br/>When disappointment grief<br/>And fear are gone<br/>Sorrow forgot<br/>Love's purest joys restored<br/>Be still my soul<br/>When change and tears are past<br/>All safe and blessed<br/>We shall meet at last</lines>
+    </verse>
+  </lyrics>
+</song>

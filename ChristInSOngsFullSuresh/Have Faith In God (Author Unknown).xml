@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:46">
+  <properties>
+    <titles>
+      <title>Have Faith In God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh Lord you lead me<br/>By the still waters<br/>Quietly restoring my soul<br/>You speak words of wisdom<br/>The promise of glory<br/>The power of the presence of God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Have faith in God<br/>Let your hope rest on the faith<br/>He has placed in your heart<br/>Never give up-never let go of the faith<br/>He has placed in your heart</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh Lord You guide me<br/>Through all the darkness<br/>Turning my nights into day<br/>You'll never leave me<br/>Never forsake me<br/>The power of the presence of God</lines>
+    </verse>
+  </lyrics>
+</song>

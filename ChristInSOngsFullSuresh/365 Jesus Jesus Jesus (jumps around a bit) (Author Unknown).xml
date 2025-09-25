@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>365 Jesus Jesus Jesus (jumps around a bit)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus Jesus Jesus<br/>Sweetest Name on earth<br/>How can I a sinner<br/>Come to know its worth</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh the sinful sorrow<br/>Oh the strangest shame<br/>That I saw no beauty<br/>In that sacred name</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Never felt the sweetness<br/>Never knew the grace<br/>Never saw the love-pain<br/>In that wounded face</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Never found the mystry<br/>In that simple word<br/>Jesus Jesus Jesus<br/>Savior - Lover - Lord</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Now 'tis past and over<br/>Gone my sin and shame<br/>Jesus Jesus did it<br/>Glory to His Name</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I have seen the glory<br/>Of His tender face<br/>I have felt with wonder<br/>Thrills of holy grace</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Wonderful compassion<br/>Reaching even me<br/>Bows my humbled spirit<br/>In captivity</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Jesus Jesus Jesus<br/>Loved me in my shame<br/>Oh the joy and rapture<br/>Of that sacred Name</lines>
+    </verse>
+  </lyrics>
+</song>

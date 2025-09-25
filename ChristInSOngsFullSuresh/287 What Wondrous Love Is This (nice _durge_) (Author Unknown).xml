@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>287 What Wondrous Love Is This (nice 'durge')</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dm<br/>Verse 1<br/>What wondrous love is this<br/>O my soul - O my soul<br/>What wondrous love is this<br/>O my soul<br/>What wondrous love is this<br/>That caused the Lord of bliss<br/>To bear the dreadful curse<br/>For my soul - for my soul<br/>To bear the dreadful curse<br/>For my soul</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When I was sinking down<br/>Sinking down - sinking down<br/>When I was sinking down<br/>Sinking down<br/>When I was sinking down<br/>Beneath God's righteous frown<br/>Christ laid aside His crown<br/>For my soul - for my soul<br/>Christ laid aside His crown<br/>For my soul</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To God and to the Lamb<br/>I will sing - I will sing<br/>To God and to the Lamb<br/>I will sing<br/>To God and to the Lamb<br/>Who is the great I Am<br/>While millions join the theme<br/>I will sing - I will sing<br/>While millions join the theme<br/>I will sing</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And when from death I'm free<br/>I'll sing on - I'll sing on<br/>And when from death I'm free<br/>I'll sing on<br/>And when from death I'm free<br/>I'll sing and joyful be<br/>And through eternity<br/>I'll sing on - I'll sing on<br/>And through eternity<br/>I'll sing on</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T02:58:44">
+  <properties>
+    <titles>
+      <title>Emmanuel</title>
+    </titles>
+    <copyright>1976 C.A. Music, Administered by Music Services</copyright>
+    <ccliNo>12949</ccliNo>
+    <authors>
+      <author>Bob McGee</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bb<br/><br/>Emmanuel Emmanuel<br/>His name is called Emmanuel<br/>He's God with us revealed in us<br/>His name is called Emmanuel</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Emmanuel Emmanuel<br/>Your name is called Emmanuel<br/>You're God with us revealed in us<br/>Your name is called Emmanuel</lines>
+    </verse>
+  </lyrics>
+</song>

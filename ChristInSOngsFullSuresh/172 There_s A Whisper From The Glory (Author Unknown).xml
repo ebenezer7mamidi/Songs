@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-19T23:49:53">
+  <properties>
+    <titles>
+      <title>172 There's A Whisper From The Glory</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>G<br/><br/>There's a whisper from the glory<br/>of the coming of the Lord<br/>Oh the joy my heart is tasting<br/>as I rest upon His Word<br/>And what peace amid earth's tumult<br/>doth this precious truth afford<br/>Hold fast I'm coming soon</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Glory glory hallelujah<br/>Glory glory hallelujah<br/>Glory glory hallelujah<br/>The King is coming soon</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the glory of His promise<br/>I am living day by day<br/>And the light of Heaven is dawning<br/>On earth's dreary desert way<br/>while I wait that sweetest whisper<br/>"Up my child and come away"<br/>The King is coming soon</lines>
+    </verse>
+    <verse name="v3">
+      <lines>What matters if the tumult of the<br/>world with sorrow rife<br/>For the conflict now is ending<br/>And the glorious Prince of Life<br/>Will present His shining laurels<br/>To the victor o'er the strife<br/>The King is coming soon</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There's a glory on the mountains<br/>And a glory on the sea<br/>And the valleys now are glowing<br/>And the desert way can be<br/>Just a pilgrimage to glory<br/>Since He whispered it to me<br/>Hold fast - I'm coming soon</lines>
+    </verse>
+  </lyrics>
+</song>

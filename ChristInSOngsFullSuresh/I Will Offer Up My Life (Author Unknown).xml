@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:47">
+  <properties>
+    <titles>
+      <title>I Will Offer Up My Life</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will offer up my life<br/>In spirit and truth<br/>Pouring out the oil of love,<br/>as my worship to You<br/>in surrender I must give my every part<br/>lord receive the sacrifice of a broken heart</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Jesus, what can I give,<br/>What can I bring<br/>To so faithful a Friend,<br/>To so loving a King?<br/>Savior what can be said,<br/>What can be sung?<br/>As a praise of Your name,<br/>For the things You have done?</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Oh my words could not tell,<br/>Not even in part,<br/>Of the debt of love that is owed<br/>By this thankful heart</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You deserve my every breath<br/>for You've paid the great cost<br/>Giving up your life to death,<br/>Even death on a cross<br/>You took all my shame away<br/>There defeated my sin<br/>Opened up the gates of heav'n<br/>and have beckoned me in</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-20T00:06:44">
+  <properties>
+    <titles>
+      <title>185 The Name Of Jesus Is So Sweet (Nice tune)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The name of Jesus is so sweet<br/>I love its music to repeat<br/>It makes my joys full and complete<br/>The precious name of Jesus</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus<br/>oh how sweet the name<br/>Jesus<br/>every day the same<br/>Jesus<br/>let all saints proclaim<br/>Its worthy praise forever</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I love the name of Him whose heart<br/>Knows all my griefs and bears a part<br/>Who bids all anxious fears depart<br/>I love the name of Jesus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>That name I fondly love to hear<br/>It never fails my heart to cheer<br/>Its music dries the falling tear<br/>Exalt the name of Jesus</lines>
+    </verse>
+    <verse name="v4">
+      <lines>No word of man can ever tell<br/>How sweet the name I love so well<br/>Oh let its praises ever swell<br/>Oh praise the name of Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

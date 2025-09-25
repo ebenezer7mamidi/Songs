@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:37">
+  <properties>
+    <titles>
+      <title>015 O God! We See Thee in The Lamb</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O God we see Thee in the Lamb<br/>To be our hope, our Joy, our rest<br/>The glories that compose Thy name<br/>Standing engaged To make us blest</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thou Great and Good<br/>Thou just and wise<br/>Hail as our Father and our God<br/>For we are Thine by sacred ties<br/>Thy sons and daughters Bought with blood</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Then Oh to us this grace afford<br/>That far from Thee we Ne'er may move<br/>Our Guard- the presence Of the lord<br/>Our Joy- Thy perfect Present love</lines>
+    </verse>
+    <verse name="v4">
+      <lines>This gives us ever to rejoice<br/>Turning to light our Darkest days<br/>And lifts on high each Feeble voice<br/>While we have breath To pray or praise</lines>
+    </verse>
+  </lyrics>
+</song>

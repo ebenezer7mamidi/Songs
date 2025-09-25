@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:50">
+  <properties>
+    <titles>
+      <title>Rushing Wind</title>
+    </titles>
+    <comments>
+      <comment>chorus (sing two verses then one chorus)
+
+[above are Song Tags with notes imported from EasyWorship]</comment>
+    </comments>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rushing wind blow through this temple<br/>Blowing out the dust within<br/>Come and breathe your<br/>Breath upon me<br/>I've been born again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Holy Spirit I surrender<br/>Take me where you want to go<br/>Plant me by your living waters<br/>Plant me deep so I can grow</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Jesus You're the one<br/>Who set my spirit free<br/>Use me Lord - glorify<br/>Your Holy Name through me</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Separate me from this world Lord<br/>Sanctify my life for you<br/>Daily change me to your image<br/>Help me bear good fruit for you</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Every day you're drawing closer<br/>Trials come to test my faith<br/>But when all is said and done Lord<br/>It's been worth the wait</lines>
+    </verse>
+  </lyrics>
+</song>

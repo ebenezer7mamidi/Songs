@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-11T15:58:00">
+  <properties>
+    <titles>
+      <title>It Is You</title>
+    </titles>
+    <copyright>1983 Integrity's Hosanna! Music, Administered by Integrity Music, Inc.</copyright>
+    <ccliNo>16244</ccliNo>
+    <authors>
+      <author>Pete</author>
+      <author>Jr. Sanchez</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/><br/>It is You it is You<br/>It is You that I love<br/>It is You my Lord and King<br/>I apprehend to know and follow</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>You it is You<br/>It is You that I worship<br/>Holy holy<br/>Worthy yes You're worthy<br/>How I love You Lord</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>It is You it is You<br/>It is You that we love<br/>It is You our Lord and King<br/>We apprehend to know and follow</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>You it is You<br/>It is You that we worship<br/>Holy holy<br/>Worthy yes You're worthy<br/>How we love You Lord</lines>
+    </verse>
+  </lyrics>
+</song>

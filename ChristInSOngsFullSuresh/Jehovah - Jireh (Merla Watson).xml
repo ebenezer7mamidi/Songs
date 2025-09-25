@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:48">
+  <properties>
+    <titles>
+      <title>Jehovah - Jireh</title>
+    </titles>
+    <copyright>1974 Sound III, Inc. / Universal - MCA Music Publishing, Administered by Universal - MCA Music Publishing / Unaffiliated Ad</copyright>
+    <ccliNo>21284</ccliNo>
+    <authors>
+      <author>Merla Watson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Jehovah-Jireh my Provider<br/>His grace is sufficient<br/>For me for me for me<br/>Jehovah-Jireh my Provider<br/>His grace is sufficient for me</lines>
+    </verse>
+    <verse name="v1">
+      <lines>My God shall supply all my needs<br/>According to His riches in glory<br/>He gives His angels charge over me<br/>Jehovah-Jireh cares for me for me for me<br/>Jehovah-Jireh cares for me</lines>
+    </verse>
+  </lyrics>
+</song>

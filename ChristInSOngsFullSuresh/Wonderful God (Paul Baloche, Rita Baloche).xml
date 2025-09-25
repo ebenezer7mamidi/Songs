@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-06T00:06:59">
+  <properties>
+    <titles>
+      <title>Wonderful God</title>
+    </titles>
+    <copyright>2009 Integrity Worship Music; Leadworship Songs; Sardache' Songs, Administered by Integrity Music, Inc.</copyright>
+    <verseOrder>v1 c1 v2 c1 b1 c1</verseOrder>
+    <ccliNo>5584970</ccliNo>
+    <authors>
+      <author>Paul Baloche</author>
+      <author>Rita Baloche</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>G<br/><br/>Amazed and overwhelmed at how Your mercy fell<br/>And changed a heart as hard as mine<br/>I tried to turn away<br/>deny the hand You gave<br/>But You refused to leave my side</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wonderful God<br/>Wonderful God<br/>Wonderful Savior<br/>Wonderful love<br/>Who could compare<br/>None can be found<br/>Wonderful Savior<br/>Wonderful God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Undeserving grace You stole my heart away<br/>Forever I am Yours my King<br/>The beauty of Your strength it draws me once again<br/>To stand before You now and sing</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You said You'd never leave me<br/>And You never did<br/>You say I have a future<br/>And there's a life for me to live<br/>Lord I want to praise You and say</lines>
+    </verse>
+  </lyrics>
+</song>

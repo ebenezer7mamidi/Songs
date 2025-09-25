@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:41">
+  <properties>
+    <titles>
+      <title>596 Follow On (easy nice)</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <ccliNo>98695</ccliNo>
+    <authors>
+      <author>Robert Lowry | Walter Orcutt Cushing</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Down in the valley<br/>With my Saviour I would go<br/>Where the flowers are blooming<br/>And the sweet waters flow<br/>Everywhere He leads me<br/>I would follow follow on<br/>Walking in His footsteps<br/>Till the crown be won</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Follow follow I would follow Jesus<br/>Anywhere everywhere I will follow on<br/>Follow follow I would follow Jesus<br/>Everywhere He leads me I would follow on</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Down in the valley<br/>With my Saviour I would go<br/>Where the storms are sweeping<br/>And the dark waters flow<br/>With His hand to lead me<br/>I will never never fear<br/>Danger cannot fright me<br/>If my Lord is near</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Down in the valley<br/>Or upon the mountain steep<br/>Close beside my Savior<br/>Would my heart ever keep<br/>He will lead me safely<br/>In the path that He has trod<br/>Up to where they gather<br/>On the hills of God</lines>
+    </verse>
+  </lyrics>
+</song>

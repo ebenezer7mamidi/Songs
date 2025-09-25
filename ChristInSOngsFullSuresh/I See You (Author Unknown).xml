@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:47">
+  <properties>
+    <titles>
+      <title>I See You</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, You're leading me (echo)<br/>With a cloud by day (echo)<br/>And then in the night (echo)<br/>The glow of a burning flame (echo)<br/>And everywhere I go, I see You (echo)<br/>And everywhere I go, I see You (echo)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And You take my hand (echo)<br/>And You wash it clean (echo)<br/>I know the promised land (echo)<br/>Is light years ahead of me (echo)<br/>And everywhere I go, I see You (echo)<br/>And everywhere I go, I see You (echo)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Well, the eagle flies (echo)<br/>And the rivers run (echo)<br/>I look through the night (echo)<br/>And I can see the rising sun (echo)<br/>And everywhere I go, I see You (echo)<br/>And everywhere I go, I see You (echo)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Well, the grass will die (echo)<br/>And the flowers fall (echo)<br/>But Your Word's alive (echo)<br/>And it will be after all (echo)<br/>And everywhere I go, I see You (echo)<br/>And everywhere I go, I see You (echo)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And everywhere I go, I see You (echo)<br/>And everywhere I go, I see You (echo)<br/>And everywhere I go, I see You (Together)<br/>And everywhere I go, I see You (Together)</lines>
+    </verse>
+  </lyrics>
+</song>

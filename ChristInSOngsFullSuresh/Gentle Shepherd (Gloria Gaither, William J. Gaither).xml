@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:45">
+  <properties>
+    <titles>
+      <title>Gentle Shepherd</title>
+    </titles>
+    <copyright>1974 William J. Gaither, Inc. ARR UBP of Gaither Copyright Management, Administered by Gaither Copyright Management</copyright>
+    <ccliNo>15609</ccliNo>
+    <authors>
+      <author>Gloria Gaither</author>
+      <author>William J. Gaither</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Gentle Shepherd come and lead us<br/>For we need You to help us find our way<br/>Gentle Shepherd come and feed us<br/>For we need Your strength from day to day<br/>There's no other we can turn to<br/>Who can help us face another day<br/>Gentle Shepherd come and lead us<br/>For we need You to help us find our way</lines>
+    </verse>
+  </lyrics>
+</song>

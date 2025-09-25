@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:52">
+  <properties>
+    <titles>
+      <title>Where Two or Three</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Where two or three are gathered in my name<br/>Together in my name<br/>There I am<br/>Where two or three are gathered in my name<br/>Together in my name<br/>There I am - There I am<br/>In the midst of them<br/>(Matthew 18:20)</lines>
+    </verse>
+  </lyrics>
+</song>

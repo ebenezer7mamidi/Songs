@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>453 O Breath Of Life (Awesome, Amazing &amp; easy )</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <ccliNo>40430</ccliNo>
+    <authors>
+      <author>Elizabeth Ann Porter Head | Mary Jane Hammond</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh Breath of Life<br/>Come sweeping through us<br/>Revive Thy church<br/>With life and power<br/>Oh Breath of Life<br/>Come cleanse renew us<br/>And fit Thy church<br/>To meet this hour</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh Wind of God<br/>Come bend us break us<br/>Till humbly<br/>We confess our need<br/>Then in Thy tenderness<br/>Remake us<br/>Revive restore<br/>For this we plead</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh Breath of Love<br/>Come breathe within us<br/>Renewing thought<br/>And will and heart<br/>Come love of Christ<br/>Afresh to win us<br/>Revive Thy church<br/>In every part</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh heart of Christ<br/>Once broken for us<br/>Tis there we find<br/>Our strength and rest<br/>Our broken contrite hearts<br/>Now solace<br/>And let Your waiting church<br/>Be blest</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Revive us Lord<br/>Is zeal abating<br/>While harvest fields<br/>Are vast and white<br/>Revive us Lord<br/>The world is waiting<br/>Equip Thy church<br/>To spread the light</lines>
+    </verse>
+  </lyrics>
+</song>

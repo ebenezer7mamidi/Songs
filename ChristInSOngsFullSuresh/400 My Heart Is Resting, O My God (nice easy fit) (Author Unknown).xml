@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>400 My Heart Is Resting, O My God (nice easy fit)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 v3 v4 c1 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My heart is resting<br/>O my God<br/>I will give thanks and sing<br/>My heart is at the<br/>Secret source<br/>Of ev'ry precious thing</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh peace of God<br/>That passeth thought<br/>I daily hourly sing<br/>My heart is at the secret source<br/>Of ev'ry precious thing</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now this frail vessel<br/>Thou hast made<br/>No hand but Thine<br/>Shall fill<br/>The waters of<br/>The earth have failed<br/>And I am thirsty still</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I thirst for springs<br/>Of heavenly life<br/>And here all day they rise<br/>I seek the treasure<br/>Of Thy love<br/>And close at hand it lies</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And a new song<br/>Is in my mouth<br/>To long loved music set<br/>Glory to Thee for<br/>All the grace<br/>I have not tasted yet</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I have a heritage of joy<br/>That yet I must not see<br/>The hand that bled<br/>To make it mine<br/>Is keeping it for me</lines>
+    </verse>
+    <verse name="v6">
+      <lines>There is a certainty of love<br/>That sets my heart at rest<br/>A calm assurance<br/>For today<br/>That to be poor is best</lines>
+    </verse>
+    <verse name="v7">
+      <lines>A prayer reposing<br/>On His truth<br/>Who hath made<br/>All things mine<br/>That draws my captive<br/>Will to Him<br/>And makes it one<br/>With Thine</lines>
+    </verse>
+  </lyrics>
+</song>

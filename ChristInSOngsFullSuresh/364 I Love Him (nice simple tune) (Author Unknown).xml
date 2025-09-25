@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>364 I Love Him (nice simple tune)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gone from my heart<br/>The world and all its charms<br/>Now through the blood<br/>I'm saved from all alarms<br/>Down at the cross<br/>My heart is bending low<br/>The precious blood of Jesus<br/>Cleanses white as snow</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I love Him<br/>I love Him<br/>Because He first loved me<br/>And purchased my salvation<br/>On Calvary's tree</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Once I was lost<br/>Upon the plains of sin<br/>Once was a slave<br/>To passions fierce within<br/>Once was afraid<br/>To meet an angry God<br/>But now I'm cleansed<br/>From every stain<br/>Thru Jesus' blood</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Once I was bound<br/>But now I am set free<br/>Once I was blind<br/>But now the light I see<br/>Once I was dead<br/>But now in Christ I live<br/>To tell the world<br/>Around the peace<br/>That He doth give</lines>
+    </verse>
+  </lyrics>
+</song>

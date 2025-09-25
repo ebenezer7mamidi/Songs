@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>279 Saved, Saved (Classical music, nice &amp; easy)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've found a friend<br/>Who is all to me<br/>His love is ever true<br/>I love to tell<br/>How He lifted me<br/>And what His grace can do for you</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Saved<br/>By His pow'r divine<br/>Saved<br/>To new life sublime<br/>Life now is sweet<br/>And my joy complete<br/>For I'm saved saved saved</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He saves me from<br/>Every sin and harm<br/>Secures my soul each day<br/>I'm leaning strong<br/>On His mighty arm<br/>I know He'll guide me<br/>All The way</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When poor and needy<br/>And all alone<br/>In love He said to me<br/>"Come unto Me<br/>And I'll lead you home<br/>To live with Me eternally"</lines>
+    </verse>
+  </lyrics>
+</song>

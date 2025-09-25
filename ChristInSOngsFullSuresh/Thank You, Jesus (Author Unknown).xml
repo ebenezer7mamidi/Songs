@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:51">
+  <properties>
+    <titles>
+      <title>Thank You, Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thank You, Jesus, thank You, Jesus,<br/>Thank You, Lord, for loving me.<br/>Thank You, Jesus, thank You, Jesus,<br/>Thank You, Lord, for loving me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You went to Calvary, there You died for me,<br/>Thank You, Lord, for loving me.<br/>You went to Calvary, there You died for me,<br/>Thank You, Lord, for loving me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You rose up from the grave,<br/>New life to me You gave,<br/>Thank You, Lord, for loving me.<br/>You rose up from the grave,<br/>New life to me You gave,<br/>Thank You, Lord, for loving me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sing Hallelujah! Sing Hallelujah!<br/>Thank You, Lord, for loving me.<br/>Sing Hallelujah! Sing Hallelujah!<br/>Thank You, Lord, for loving me.</lines>
+    </verse>
+  </lyrics>
+</song>

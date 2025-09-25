@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:41">
+  <properties>
+    <titles>
+      <title>515 Looking Unto Jesus (easy triumphant)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Looking unto Jesus<br/>Never need we yield<br/>Over all the armor<br/>Faith the battle shield<br/>Standard of salvation<br/>In our hearts unfurled<br/>Let its elevation<br/>Over come the world</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Looking unto Jesus<br/>Never need we yield<br/>Over all the armor<br/>Faith the battle shield</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Look away to Jesus<br/>Look away from all<br/>Then we need not stumble<br/>Then we shall not fall<br/>From each snare that lureth<br/>Foe or phantom grim<br/>Safety this ensureth<br/>Look away to Him</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Looking unto Jesus<br/>Wond'ringly we trace<br/>Heights of power and glory<br/>Depths of love and grace<br/>Vistas far unfolding<br/>Ever stretch before<br/>As we gaze beholding<br/>Ever more and more</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Looking up to Jesus<br/>On the emerald throne<br/>Faith shall pierce the heavens<br/>Where our King is gone<br/>Lord on Thee depending<br/>Now continually<br/>Heart and mind ascending<br/>Let us dwell with Thee</lines>
+    </verse>
+  </lyrics>
+</song>

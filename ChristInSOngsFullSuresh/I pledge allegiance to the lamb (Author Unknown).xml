@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:47">
+  <properties>
+    <titles>
+      <title>I pledge allegiance to the lamb</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>I pledge allegiance<br/>to the Lamb<br/>With all my strength<br/>with all I am<br/>I will seek to honor<br/>His commands<br/>I pledge allegiance<br/>to the Lamb</lines>
+    </verse>
+    <verse name="b1">
+      <lines>To the Lamb of God<br/>who bore my pain<br/>Who took my place<br/>who wore my shame<br/>I will seek to honor<br/>His commands<br/>I pledge allegiance<br/>to the Lamb</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>I have heard<br/>how Christians long ago<br/>Were brought<br/>before a tyrant's throne<br/>They were told<br/>that He would spare their lives<br/>If they would<br/>renounce the name of Christ</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>But one by one<br/>they chose to die<br/>The Son of God<br/>they would not deny<br/>Like a great angelic<br/>choir sings<br/>I can almost<br/>hear their voices ring</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Now the years<br/>have come<br/>And the years<br/>have gone<br/>And the cause<br/>of Jesus still goes on<br/>Now our time<br/>has come to count the cost</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>To reject this world<br/>to embrace the cross<br/>And one by one<br/>let us live our lives<br/>For the One<br/>who died to give us life<br/>Till the trumpet sounds<br/>on the final day<br/>Let us proudly stand<br/>and boldly say</lines>
+    </verse>
+  </lyrics>
+</song>

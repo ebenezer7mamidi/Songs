@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:37">
+  <properties>
+    <titles>
+      <title>041 What a wonderful savior</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Christ has for sin<br/>Atonement made<br/>What a wonderful Savior<br/>We are redeemed the price is paid<br/>What a wonderful Savior</lines>
+    </verse>
+    <verse name="c1">
+      <lines>What a wonderful Savior is Jesus my Jesus<br/>What a wonderful Savior is Jesus my Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I praise Him for His<br/>Cleansing blood what a wonderful Savior<br/>That reconciled my soul to God<br/>What a wonderful Savior</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He cleanses me from all my sin<br/>What a wonderful Savior<br/>And now He reigns and rules within<br/>What a wonderful Savior</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He walks beside me in the way<br/>What a wonderful Savior<br/>And keeps me faithful day by day<br/>What a wonderful Savior</lines>
+    </verse>
+    <verse name="v5">
+      <lines>He gives me<br/>Overcoming power<br/>What a wonderful Savior<br/>And triumph in each trying hour<br/>What a wonderful Savior</lines>
+    </verse>
+    <verse name="v6">
+      <lines>To Him I've given all my heart<br/>What a wonderful Savior<br/>The world shall never share a part<br/>What a wonderful Savior</lines>
+    </verse>
+  </lyrics>
+</song>

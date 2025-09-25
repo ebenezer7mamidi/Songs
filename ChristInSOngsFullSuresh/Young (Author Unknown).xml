@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:53">
+  <properties>
+    <titles>
+      <title>Young</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Don't let anyone<br/>Look down on you<br/>Because you are young<br/>But set an example for the believers<br/>x2</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>In speech, in life<br/>In love, in faith<br/>And in purity x2<br/>1 Timothy 4:12</lines>
+    </verse>
+  </lyrics>
+</song>

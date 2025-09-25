@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:53">
+  <properties>
+    <titles>
+      <title>You Are My Hiding Place</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>You are my hiding place<br/>You always fill my heart<br/>With songs of deliverance<br/>Whenever I am afraid<br/>I will trust in You<br/>I will trust in You<br/>Let the weak say I am strong<br/>In the strength of the Lord</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>You are my hiding place<br/>You always fill my heart<br/>With songs of deliverance<br/>Whenever I am afraid<br/>I will trust in You<br/>I will trust in You<br/>Let the weak say I am strong<br/>In the strength of the Lord<br/>I will trust in You</lines>
+    </verse>
+  </lyrics>
+</song>

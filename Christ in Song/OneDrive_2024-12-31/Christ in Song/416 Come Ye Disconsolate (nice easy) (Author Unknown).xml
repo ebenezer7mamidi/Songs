@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>416 Come Ye Disconsolate (nice easy)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come ye disconsolate<br/>Where'er ye languish<br/>Come to the mercy seat<br/>Fervently kneel<br/>Here bring<br/>Your wounded hearts<br/>Here tell your anguish<br/>Earth has no sorrows<br/>That heav'n cannot heal</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Joy of the comfortless<br/>Light of the straying<br/>Hope of the penitent<br/>Fadeless and pure<br/>Here speaks<br/>The Comforter<br/>In mercy saying<br/>Earth has no sorrows<br/>That heav'n cannot cure</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Here see the Bread of Life<br/>See waters flowing<br/>Forth from the throne of God<br/>Pure from above<br/>Come to the feast prepared<br/>Come ever knowing<br/>Earth has no sorrows<br/>But heav'n can remove</lines>
+    </verse>
+  </lyrics>
+</song>

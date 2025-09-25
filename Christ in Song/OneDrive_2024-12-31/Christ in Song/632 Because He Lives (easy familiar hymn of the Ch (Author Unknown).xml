@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-11T15:02:35">
+  <properties>
+    <titles>
+      <title>632 Because He Lives (easy familiar hymn of the Ch</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>F<br/>God sent His Son<br/>They called Him Jesus<br/>He came to love heal and forgive<br/>He bled and died<br/>To buy my pardon<br/>An empty grave<br/>Is there to prove<br/>My Savior lives</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Because He lives<br/>I can face tomorrow<br/>Because He lives<br/>All fear is gone<br/>Because I know<br/>He holds the future<br/>And life is worth the living<br/>Just because He lives</lines>
+    </verse>
+    <verse name="v2">
+      <lines>How sweet to hold<br/>A newborn baby<br/>And feel the pride<br/>And joy he gives<br/>But greater still<br/>The calm assurance<br/>This child can face<br/>Uncertain days<br/>Because Christ lives</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And then one day<br/>I'll cross that river<br/>I'll fight life's final<br/>War with pain<br/>And then as death<br/>Gives way to vict'ry<br/>I'll see the lights of glory<br/>And I'll know He lives</lines>
+    </verse>
+  </lyrics>
+</song>

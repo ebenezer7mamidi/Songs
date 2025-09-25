@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:41">
+  <properties>
+    <titles>
+      <title>576 Thy Way Not Mine O Lord (easy nice)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thy way not mine O Lord<br/>However dark it be<br/>Lead me by Thine own hand<br/>Choose out the path for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Smooth let it be or rough<br/>It will be still the best<br/>Winding or straight it leads<br/>Right onward to Thy rest</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I dare not choose my lot<br/>I would not if I might<br/>Choose Thou for me my God<br/>So shall I walk aright</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Take Thou my cup and it<br/>With joy or sorrow fill<br/>As best to Thee may seem<br/>Choose Thou my good and ill</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Choose Thou for me my friend<br/>My sickness or my health<br/>Choose thou my cares for me<br/>My poverty or wealth</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Not mine not mine the choice<br/>In things both great and small<br/>Be Thou my guide my strength<br/>My wisdom and my all</lines>
+    </verse>
+  </lyrics>
+</song>

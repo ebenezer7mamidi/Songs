@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:48">
+  <properties>
+    <titles>
+      <title>Let Our Praise to You be as Incense</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let our praise to you be as incense<br/>let our praise to you be as pillers of your throne<br/>let our praise to you be as incense<br/>as we come before you and worship you alone</lines>
+    </verse>
+    <verse name="v2">
+      <lines>as we see you in your splendour<br/>as we gaze upon your majesty<br/>as we join the angels<br/>and proclaim together your holiness</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Holy, holy, holy<br/>Holy is the Lord<br/>Holy, holy, holy<br/>Holy is the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

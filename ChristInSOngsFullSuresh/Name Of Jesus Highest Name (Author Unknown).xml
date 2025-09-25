@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:49">
+  <properties>
+    <titles>
+      <title>Name Of Jesus Highest Name</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Name of Jesus highest Name<br/>Name earth and heav'n adore<br/>From the heart of God it came<br/>Leads me to God's heart once more</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Name of Jesus living tide<br/>Days of drought for me are past<br/>How much more than satisfied<br/>are the thirsty lips at last</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Name of Jesus dearest Name<br/>Bread of heav'n and balm of love<br/>Oil of gladness surest claim<br/>To the treasures stored above</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Jesus gives free<br/>Jesus cleanses all my stains<br/>Jesus gives His life to me<br/>Jesus always He remains</lines>
+    </verse>
+    <verse name="v3c">
+      <lines>Only Jesus fairest Name<br/>Life and rest and peace and bliss<br/>Jesus evermore the same<br/>He is mine and I am His</lines>
+    </verse>
+  </lyrics>
+</song>

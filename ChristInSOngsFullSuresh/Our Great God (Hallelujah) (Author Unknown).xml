@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T13:31:36">
+  <properties>
+    <titles>
+      <title>Our Great God (Hallelujah)</title>
+    </titles>
+    <comments>
+      <comment>chorus (x2)
+
+[above are Song Tags with notes imported from EasyWorship]</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>A<br/><br/>Eternal God unchanging<br/>mysterious and unknown<br/>Your boundless love unfailing<br/>in grace and mercy shown</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Bright seraphim in ceaseless flight<br/>around Your glorious throne<br/>They raise their voices day and night<br/>in praise to You alone</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hallelujah<br/>Glory be to our Great God<br/>Hallelujah<br/>Glory be to our Great God</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Lord we are weak and frail<br/>Helpless in the storm<br/>Surround us with Your angels<br/>hold us in Your arms</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Our cold and ruthless enemy<br/>his pleasure is our harm<br/>Rise up O Lord and he will flee<br/>before our Sovereign God</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Let ev'ry creature in the sea<br/>and ev'ry flying bird<br/>let ev'ry mountain ev'ry field<br/>and valley of the earth</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Let all the moons and all the stars<br/>in all the universe<br/>sing praises to the Living God<br/>Who rules them by His Word</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Hallelujah<br/>(sisters echo)<br/>Glory be to our Great God<br/>(sisters echo: Glory to our God)<br/>Hallelujah<br/>(sisters echo)<br/>Glory be to our Great God<br/>(sisters echo: Glory to our God)</lines>
+    </verse>
+  </lyrics>
+</song>

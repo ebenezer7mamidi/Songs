@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-19T23:39:10">
+  <properties>
+    <titles>
+      <title>143 Far Above All</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>E<br/><br/>Far above all is our Savior enthroned<br/>Crowned is the Lamb who for sinners atoned<br/>Living forever to list to our call<br/>God hath exalted Him far above all</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Far above all - Far above all<br/>Jesus the crucified - Far above all<br/>Low at his footstool<br/>Adoring we fall<br/>God hath exalted Him<br/>Far above all</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When the fierce tempest uplifting its waves<br/>Seeks to engulf us we cry and He saves<br/>Looking to Jesus upheld by His hand<br/>Tread we the billows as safe as on Land</lines>
+    </verse>
+    <verse name="v3">
+      <lines>High are the cities that dare our assault<br/>Strong are the barriers that call us to halt<br/>March we on fearless<br/>And down they must fall<br/>Vanquished by faith in Him far above all</lines>
+    </verse>
+    <verse name="v4">
+      <lines>His is the Kingdom from pole unto pole<br/>Far above all while the ages shall roll<br/>With Him the victors who followed His call<br/>Share in His royalty far above all</lines>
+    </verse>
+  </lyrics>
+</song>

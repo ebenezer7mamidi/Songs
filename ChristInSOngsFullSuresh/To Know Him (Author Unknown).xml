@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:52">
+  <properties>
+    <titles>
+      <title>To Know Him</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>To know Him, to know Him,<br/>Is the cry of my heart.<br/>The Spirit reveals him to me.</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>To hear what He's saying<br/>Brings life to my soul.<br/>To know Him, to know Him alone.</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>To know You, to know You,<br/>Is the cry of my heart.<br/>O Jesus, Your face now I see.</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>To hear what You're saying<br/>Brings life to my soul.<br/>To know You, to know You alone.</lines>
+    </verse>
+    <verse name="c3a">
+      <lines>To know you to know you<br/>Is the cry of our hearts<br/>O Jesus Your face now we see</lines>
+    </verse>
+    <verse name="c3b">
+      <lines>To hear what You're saying<br/>brings life to our souls<br/>To know You to know You alone</lines>
+    </verse>
+    <verse name="c4a">
+      <lines>To serve you to serve you<br/>Is the cry of our hearts<br/>O Jesus Your face now we see</lines>
+    </verse>
+    <verse name="c4b">
+      <lines>To hear what You're saying<br/>brings life to our souls<br/>To serve You to serve You alone</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:25:11">
+  <properties>
+    <titles>
+      <title>001 Come Thou Almighty King</title>
+    </titles>
+    <copyright>Public Domain, Administered by CCLI Administration Account</copyright>
+    <ccliNo>29073</ccliNo>
+    <authors>
+      <author>Charles Wesley</author>
+      <author>Felice de Giardini</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>E<br/>Come Thou Almighty King<br/>Help us Thy name to sing<br/>Help us to praise<br/>Father all glorious<br/>O'er all victorious<br/>Come and reign over us<br/>Ancient of Days</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come Thou Incarnate Word<br/>Gird on Thy mighty sword<br/>Our prayer attend<br/>Come and Thy people bless<br/>And give Thy Word success<br/>Spirit of holiness<br/>On us descend</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come Holy Comforter<br/>Thy sacred witness bear<br/>In this glad hour<br/>Thou who almighty art<br/>Now rule in every heart<br/>And ne'er from us depart<br/>Spirit of power</lines>
+    </verse>
+    <verse name="v4">
+      <lines>To Thee, great One in Three<br/>Eternal praises be<br/>Hence evermore<br/>Thy sov'reign majesty<br/>May we in glory see<br/>And to eternity<br/>Love and adore</lines>
+    </verse>
+  </lyrics>
+</song>

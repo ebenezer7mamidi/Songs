@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:53">
+  <properties>
+    <titles>
+      <title>You're Calling Me To Lay Aside</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/>You're calling me to lay aside<br/>The worries of my day<br/>To quiet down my busy mind<br/>And find a hiding place<br/>You are worthy - You are worthy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I open up my heart<br/>And let my spirit worship yours<br/>I open up my mouth<br/>And let a song of praise come forth<br/>You are worthy - You are worthy</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Of a childlike faith<br/>And of my honest praise<br/>And of my unashamed love</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Of a holy life<br/>And of my sacrifice<br/>And of my unashamed love<br/>You are worthy - You are worthy</lines>
+    </verse>
+  </lyrics>
+</song>

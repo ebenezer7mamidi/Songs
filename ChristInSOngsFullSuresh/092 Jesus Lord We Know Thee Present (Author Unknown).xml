@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-19T20:28:30">
+  <properties>
+    <titles>
+      <title>092 Jesus Lord We Know Thee Present</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>C<br/><br/>Jesus Lord we know Thee present<br/>At Thy table freshly spread<br/>Seated at Thy priceless banquet<br/>With Thy banner overhead</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Precious moments at Thy table<br/>From all fear and doubt set free<br/>Here to rest so sweetly able<br/>Occupied alone with Thee</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Here rejoicing in Thy nearness<br/>Gladly by Thy Spirit led<br/>Calmly in the blest remembrance<br/>Of Thyself Thy blood once shed</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Lord we take each simple token<br/>In fond memory of Thee<br/>Muse upon Thy body broken<br/>And Thy blood shed on the tree</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Oh what joy it is to see Thee<br/>In these chosen emblems here<br/>In the bread and wine of blessing<br/>Bread to strengthen wine to cheer</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Lord behold us met together<br/>One in Thee our risen Head<br/>Thus we take the cup of blessing<br/>Thus we share the broken bread</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Lord we know how true Thy promise<br/>To be with us where we meet<br/>When in Thy loved name we gather<br/>To enjoy communion sweet</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Dearer still that looked-for promise<br/>To each waiting yearning heart<br/>That with Thee we soon shall be Lord<br/>Yes forever where Thou art</lines>
+    </verse>
+  </lyrics>
+</song>

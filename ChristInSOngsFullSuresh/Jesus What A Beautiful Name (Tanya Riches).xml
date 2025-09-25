@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-12T16:02:08">
+  <properties>
+    <titles>
+      <title>Jesus What A Beautiful Name</title>
+    </titles>
+    <copyright>1995 Hillsong Publishing, Administered by Integrity Music, Inc.</copyright>
+    <ccliNo>1866235</ccliNo>
+    <authors>
+      <author>Tanya Riches</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>D<br/><br/>Jesus what a beautiful name<br/>Son of God Son of Man<br/>Lamb that was slain</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Joy and peace strength and hope<br/>Grace that blows all fear away<br/>Jesus what a beautiful name</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Jesus what a beautiful name<br/>Truth revealed my future sealed<br/>Healed my pain</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Love and freedom life and warmth<br/>Grace that blows all fear away<br/>Jesus what a beautiful name</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Jesus what a beautiful name<br/>Rescued my soul my stronghold<br/>Lifts me from shame</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Forgiveness security power and love<br/>Grace that blows all fear away<br/>Jesus what a beautiful name</lines>
+    </verse>
+  </lyrics>
+</song>

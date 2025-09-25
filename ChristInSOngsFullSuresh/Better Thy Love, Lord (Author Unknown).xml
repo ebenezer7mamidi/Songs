@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:44">
+  <properties>
+    <titles>
+      <title>Better Thy Love, Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Better Thy love, Lord,<br/>better than wine,<br/>dust of the earth, yet<br/>Lord we are Thine.<br/>King of our hearts, Lord<br/>Jesus adored,<br/>Glory, O Lord, to Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

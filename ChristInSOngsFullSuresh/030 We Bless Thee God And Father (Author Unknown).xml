@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-19T19:01:06">
+  <properties>
+    <titles>
+      <title>030 We Bless Thee God And Father</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Bb<br/><br/>We bless Thee God And Father<br/>We joy before Thy face<br/>Beyond dark death forever<br/>We share Thy Son's Blest place</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>He lives a Man before Thee<br/>In cloudless light above<br/>In Thine unbounded favor<br/>Thine everlasting love</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>His Father and our Father<br/>His God and ours Thou art<br/>And He is Thy Beloved<br/>The gladness of Thy heart</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>We're His in joy He brings us<br/>To share His part and place<br/>To know Thy love and favor<br/>The shining of Thy face</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Thy love that now enfolds us<br/>Can ne'er wax cold or dim<br/>In Him that love doth center<br/>And we are loved in Him</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>In Him Thy love and glory<br/>Find their eternal rest<br/>The many sons His brethren<br/>In Him how near how blest</lines>
+    </verse>
+  </lyrics>
+</song>

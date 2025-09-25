@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-20T00:01:10">
+  <properties>
+    <titles>
+      <title>176 It May Be At Morn</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It may be at morn when the day is awaking<br/>When sunlight through darkness and<br/>Shadow is breaking<br/>That Jesus will come in the fullness of glory<br/>To receive from the world His own</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O Lord Jesus how long how long<br/>Ere we shout the glad song<br/>Christ returneth<br/>Hallelujah - Hallelujah<br/>Amen Hallelujah - Amen</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It may be at midday<br/>It may be at twilight<br/>It may be perchance<br/>That the blacknesss of midnight<br/>Will burst into light<br/>In the blaze of His glory<br/>When Jesus receives His own</lines>
+    </verse>
+    <verse name="v3">
+      <lines>While hosts cry Hosanna<br/>From heaven descending<br/>With glorified saints and the angels attending<br/>With grace on His brow<br/>Like a halo of glory<br/>Will Jesus receive His own</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Joy - O delight<br/>Should we go without dying<br/>No sickness no sadness<br/>No dread and no crying<br/>Caught up through the clouds<br/>With our Lord into glory<br/>When Jesus receives His own</lines>
+    </verse>
+  </lyrics>
+</song>

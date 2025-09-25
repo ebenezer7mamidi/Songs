@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:38">
+  <properties>
+    <titles>
+      <title>245 Rest Of The Weary (easy tune)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rest of the weary<br/>Joy of the sad<br/>Hope of the dreary<br/>Light of the glad<br/>Home of the stranger<br/>Strength to the end<br/>Refuge from danger<br/>Savior and Friend</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pillow where lying<br/>Love rests its head<br/>Peace of the dying<br/>Life of the dead<br/>Path of the lowly<br/>Prize at the end<br/>Breath of the holy<br/>Savior and Friend</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When my feet stumble<br/>To Thee I'll cry<br/>Crown of the humble<br/>Cross of the high<br/>When my steps wander<br/>Over me bend<br/>Truer and fonder<br/>Savior and Friend</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ever confessing Thee<br/>I will raise<br/>Unto Thee blessing<br/>Glory and praise<br/>All my endeavor<br/>World without end<br/>Thine to be ever<br/>Savior and Friend</lines>
+    </verse>
+  </lyrics>
+</song>

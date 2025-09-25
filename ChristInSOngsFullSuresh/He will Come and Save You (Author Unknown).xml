@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:46">
+  <properties>
+    <titles>
+      <title>He will Come and Save You</title>
+    </titles>
+    <verseOrder>v1 c1 v2 b1 c1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Say to those who are fearful hearted,<br/>"do not be afraid,"<br/>the Lord your God is strong, with His mighty mighty arm,<br/>when you call on His name, He will come and save</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>He will come and save you, He will come and save you<br/>Say to the weary one, "your God will surely come"<br/>He will come and save you</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>He will come and save you, He will come and save you<br/>Lift up your eyes to Him, you will arise again,<br/>He will come and save you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Say to those who are broken hearted,<br/>"do not lose your faith,"<br/>the Lord your God is strong, with His loving arms,<br/>when you call on His name,<br/>He will come and save</lines>
+    </verse>
+    <verse name="b1">
+      <lines>He is our refuge in the day of trouble,<br/>He is our shelter in the time of storm,<br/>He is our tower in the day of sorrow,<br/>Our fortress in the time of war</lines>
+    </verse>
+  </lyrics>
+</song>

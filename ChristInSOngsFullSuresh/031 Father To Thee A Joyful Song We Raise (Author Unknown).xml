@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:37">
+  <properties>
+    <titles>
+      <title>031 Father To Thee A Joyful Song We Raise</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Father to Thee a joyful Song we raise<br/>With all Thine own<br/>And in Thy presence sound A note of praise<br/>To Thee alone</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Bro't nigh bro't Home to Thee<br/>O wonderous grace<br/>That gives us now with<br/>Thine own Son our place</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>How deep the holy joy That fills that scene<br/>Where love is known<br/>Thy love our God And Father<br/>Now is seen in Him alone</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>As in the holy calm Of Thine own rest<br/>He leads the praise of those Thy love has blessed</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>He leads the praise<br/>How precious to Thine ear<br/>The song He sings<br/>How precious too to Thee<br/>How near how dear are Those He brings</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>To share His place 'twas Thus that Thou didst plan<br/>Thou lovedst Him before The world began</lines>
+    </verse>
+  </lyrics>
+</song>

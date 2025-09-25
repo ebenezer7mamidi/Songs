@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-20T00:54:27">
+  <properties>
+    <titles>
+      <title>Lord You Are So Precious To Me</title>
+    </titles>
+    <comments>
+      <comment>verse 1 (alternate)
+verse 2 (alternate)
+ending (alternate)
+
+[above are Song Tags with notes imported from EasyWorship]</comment>
+    </comments>
+    <copyright>1986 Thankyou Music, Administered by EMI Christian Music Publishing</copyright>
+    <ccliNo>1314</ccliNo>
+    <authors>
+      <author>Graham Kendrick</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Lord You are so precious to me<br/>Lord You are so precious to me<br/>And I love You yes I love You<br/>Because You first loved me</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Lord You are so gracious to me<br/>Lord You are so gracious to me<br/>And I love You yes I love You<br/>Because You first loved me</lines>
+    </verse>
+    <verse name="e1a">
+      <lines>And I love You yes I love You<br/>Because You first loved me</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Lord You are so precious to us<br/>Lord You are so precious to us<br/>And we love You yes we love You<br/>Because You first loved us</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Lord You are so gracious to us<br/>Lord You are so gracious to us<br/>And we love You yes we love You<br/>Because You first loved us</lines>
+    </verse>
+    <verse name="e1b">
+      <lines>And we love You yes we love You<br/>Because You first loved us</lines>
+    </verse>
+  </lyrics>
+</song>

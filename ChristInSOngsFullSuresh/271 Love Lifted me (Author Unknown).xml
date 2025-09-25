@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>271 Love Lifted me</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A<br/>Verse 1<br/>I was sinking deep in sin<br/>Far from the peaceful shore<br/>Very deeply stained within<br/>Sinking to rise no more<br/>But the Master of the sea<br/>Heard my despairing cry<br/>From the waters lifted me<br/>Now safe am I</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Love lifted me Love lifted me<br/>When nothing else could help<br/>Love lifted me x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All my heart to Him I give<br/>Ever to Him I'll cling<br/>In His blessed presense live<br/>Ever His praises sing<br/>Love so mighty and so true<br/>Merits my soul's best songs<br/>Faithful loving service too<br/>To Him belongs</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Souls in danger look above<br/>Jesus completely saves<br/>He will lift you by His love<br/>Out of the angry waves<br/>He's the Master of the sea<br/>Billows His will obey<br/>He your Savior wants to be<br/>Be saved today</lines>
+    </verse>
+  </lyrics>
+</song>

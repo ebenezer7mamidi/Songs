@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-19T23:38:36">
+  <properties>
+    <titles>
+      <title>138 He Lives</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>G<br/>I serve a risen Savior<br/>He's in the world today<br/>I know that He is living<br/>Whatever men may say</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I see His hand of mercy<br/>I hear His voice of cheer<br/>And just the time I need Him<br/>He's always near</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>He lives He lives<br/>Christ Jesus lives today<br/>He walks with me and talks with me<br/>Along life's narrow way</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>He lives He lives<br/>Salvation to impart<br/>You ask me how I know He lives<br/>He lives within my heart</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>In all the world around me<br/>I see His loving care<br/>And tho' my heart grows weary<br/>I never will despair</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>I know that He is leading<br/>Thro' all the stormy blast<br/>The day of His appearing<br/>Will come at last</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Rejoice rejoice O Christian<br/>Lift up your voice and sing<br/>Eternal hallelujahs<br/>To Jesus Christ the King</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>The Hope of all who seek Him<br/>The Help of all who find<br/>None other is so loving<br/>So good and kind</lines>
+    </verse>
+  </lyrics>
+</song>

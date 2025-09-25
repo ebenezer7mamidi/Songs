@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:44">
+  <properties>
+    <titles>
+      <title>Be Thou Near To Me</title>
+    </titles>
+    <authors>
+      <author>Jim Brickman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, Lord I come with heart here open<br/>For in my hour of darkness, I may be<br/>Seeking the joy unspoken<br/>O Lord, be thou near to me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And the holy voices sing hallelu<br/>Ever will thy reign be<br/>As I wander through this life,<br/>O Lord, Be thou near to me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Though in this burden of my making,<br/>Yet in the shadows still a light I see<br/>Maker, whose love is not forsaken,<br/>O Lord, be thou near to me</lines>
+    </verse>
+  </lyrics>
+</song>

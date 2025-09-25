@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-06T00:40:03">
+  <properties>
+    <titles>
+      <title>Your Love Oh Lord</title>
+    </titles>
+    <copyright>1999 New Spring / Vandura 2500 Songs / Gray Dot Songs, Administered by Brentwood-Benson Music Publishing, Inc.</copyright>
+    <verseOrder>v1 c1 e1</verseOrder>
+    <ccliNo>1894255</ccliNo>
+    <authors>
+      <author>Brad Avery</author>
+      <author>David Carr</author>
+      <author>Johnny Mac Powell</author>
+      <author>Mark</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>I will lift my voice<br/>To worship You my King<br/>I will find my strength<br/>In the shadow of Your wings</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Your love oh Lord<br/>Reaches to the heavens<br/>Your faithfulness<br/>Stretches to the sky<br/>Your righteousness<br/>Is like the mighty mountains<br/>Your justice flows<br/>Like the ocean's tide</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Your love O Lord<br/>Reaches to the heavens<br/>Your faithfulness<br/>Stretches to the sky</lines>
+    </verse>
+  </lyrics>
+</song>

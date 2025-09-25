@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:41">
+  <properties>
+    <titles>
+      <title>510 Has Thou No Scar (familiar tune nice)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hast thou no scar?<br/>No hidden scar<br/>On foot or side or hand?<br/>I hear thee sung<br/>Throughout the land<br/>I hear them hail thy shining star<br/>Hast thou no scar?<br/>No scar?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hast thou no wound?<br/>Yet I was wounded<br/>By the archers spent<br/>Leaned Me against<br/>A tree and rent<br/>By ravening beasts<br/>'Round me I swooned<br/>Hast thou no wound?<br/>No wound?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No wound? No scar?<br/>Yet as the Master<br/>Shall the servant be<br/>And pierced the feet<br/>That follow Me<br/>But whole?<br/>Can he have followed far<br/>Who has no wound<br/>No scar?</lines>
+    </verse>
+  </lyrics>
+</song>

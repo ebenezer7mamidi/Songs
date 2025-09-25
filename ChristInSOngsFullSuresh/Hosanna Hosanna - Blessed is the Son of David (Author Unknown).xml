@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:46">
+  <properties>
+    <titles>
+      <title>Hosanna Hosanna - Blessed is the Son of David</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hosanna! Hosanna!<br/>Blessed is the Son of David<br/>Hosanna! Hosanna!<br/>That cometh in the name of the Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Behold!<br/>Thy King<br/>has come unto thee<br/>Behold!<br/>Thy King<br/>He reigns forevermore!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Behold!<br/>we shall reign with Him<br/>if we endure<br/>Behold!<br/>we shall reign with Him<br/>if we endure</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Behold the Lamb of God<br/>Oh come let us adore<br/>Behold the Lamb of God<br/>O come let us adore</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Behold!<br/>the King of Kings<br/>Come worship Him in awe<br/>Behold!<br/>the King of Kings<br/>Come worship Him in awe</lines>
+    </verse>
+  </lyrics>
+</song>

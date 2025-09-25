@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>398 There Is Always Something Over (familiar tune</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>There is always something over<br/>When we taste our gracious Lord<br/>Every cup He fills o'er floweth<br/>Rich supply he doth afford<br/>Nothing narrow<br/>nothing stinted<br/>Ever issued from His store</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>To His own He gives full measure<br/>Running over evermore<br/>To His own He gives full measure<br/>Running over evermore</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>There is always something over<br/>When we from our Father's hand<br/>Take our portion with thanksgiving<br/>Praising for the things He planned<br/>Satisfaction full and deepening<br/>All our need He doth supply</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>When the heart has tasted Jesus<br/>Its desires to satisfy<br/>When the heart has tasted Jesus<br/>Its desires to satisfy</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>There is always something over<br/>When we share in all His love<br/>Unplumbed depths still lie beneath us<br/>Unscaled heights rise far above<br/>Human lips can never utter<br/>All His wondrous tenderness</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>We can only praise and wonder<br/>And His name forever bless<br/>We can only praise and wonder<br/>And His name forever bless</lines>
+    </verse>
+  </lyrics>
+</song>

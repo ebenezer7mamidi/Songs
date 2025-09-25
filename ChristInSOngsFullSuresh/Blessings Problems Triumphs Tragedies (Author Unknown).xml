@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-09-03T14:39:54">
+  <properties>
+    <titles>
+      <title>Blessings Problems Triumphs Tragedies</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>G<br/>Blessing, problems, triumphs, tragedies<br/>All are designed to bring us to the Lord<br/>Laughing, crying, good times, misery<br/>All are designed to bring us to the Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The Lord works all things together for good<br/>For those whom He loves He shows His design<br/>Til we all see Jesus as the center of our lives<br/>And bring everything to His throne</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Struggles, freedom, failures, victories<br/>Are all designed to bring us to the Lord<br/>Friendships, heartaches, farewells, longing hearts<br/>All are designed to bring us the Lord</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yes it's all ordained by the One Who Reigns<br/>Everything is all designed to lead us to the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

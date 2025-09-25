@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>261 Since I Have Been Redeemed (difficult)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have a song I love to sing<br/>Since I have been redeemed<br/>Of my Redeemer Savior King<br/>Since I have been redeemed</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Since I have been redeemed<br/>Since I have been redeemed<br/>I will glory in His name<br/>Since I have been redeemed<br/>I will glory in the Savior's name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I have a Christ that satisfies<br/>Since I have been redeemed<br/>To do His will my highest prize<br/>Since I have been redeemed</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I have a witness bright and clear<br/>Since I have been redeemed<br/>Dispelling every doubt and fear<br/>Since I have been redeemed</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I have a joy I can't express<br/>Since I have been redeemed<br/>All through His blood and righteousness<br/>Since I have been redeemed</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I have a home prepared for me<br/>Since I have been redeemed<br/>Where I shall dwell eternally<br/>Since I have been redeemed</lines>
+    </verse>
+  </lyrics>
+</song>

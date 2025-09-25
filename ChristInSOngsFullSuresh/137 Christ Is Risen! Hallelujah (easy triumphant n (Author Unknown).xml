@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-19T23:37:57">
+  <properties>
+    <titles>
+      <title>137 Christ Is Risen! Hallelujah (easy triumphant n</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Christ is risen - Hallelujah<br/>Risen our victorious Head<br/>Sing His praises - Hallelujah<br/>Christ is risen from the dead<br/>Gratefully our hearts adore Him<br/>As His light once more appears<br/>Bowing down in joy before Him<br/>Rising up from griefs and tears</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Christ is risen - Hallelujah<br/>Risen our victorious Head<br/>Sing His praises - Hallelujah<br/>Christ is risen from the dead</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Christ is risen - All the sadness<br/>Of His earthly life is o'er<br/>Through the open gates of gladness<br/>He returns to life once more<br/>Death and hell before Him bending<br/>He doth rise the Victor now<br/>Angels on His steps attending<br/>Glory round His wounded brow</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Christ is risen - Henceforth never<br/>Death nor hell shall us enthrall<br/>We are Christ's in Him forever<br/>We have triumphed over all<br/>All the doubting and dejection<br/>Of our trembling hearts have ceased<br/>'Tis His day of resurrection<br/>Let us rise and keep the feast</lines>
+    </verse>
+  </lyrics>
+</song>

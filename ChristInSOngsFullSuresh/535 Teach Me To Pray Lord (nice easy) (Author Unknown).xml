@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:41">
+  <properties>
+    <titles>
+      <title>535 Teach Me To Pray Lord (nice easy)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 v3 c1 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Teach me to pray<br/>Lord teach me to pray<br/>This is my heart cry day unto day<br/>I long to know<br/>Thy will And Thy way<br/>Teach me to pray<br/>Lord teach me to pray</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Living in Thee Lord<br/>And Thou in me<br/>Constant abiding this is my plea<br/>Grant me Thy power<br/>Boundless and free<br/>Power with men and power with Thee</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Power in prayer<br/>Lord power in prayer<br/>Here 'mid earth's sin<br/>And sorrow and care<br/>Men lost and dying<br/>Souls in despair<br/>O give me power<br/>Power in prayer</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My weakened will<br/>Lord Thou canst renew<br/>My sinful nature<br/>Thou canst subdue<br/>Fill me just now with power anew<br/>Power to pray and power to do</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Teach me to pray<br/>Lord teach me to pray<br/>Thou art my Pattern day unto day<br/>Thou art my Surety<br/>Now and for aye<br/>Teach me to pray<br/>Lord teach me to pray</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:46">
+  <properties>
+    <titles>
+      <title>I Am So Glad</title>
+    </titles>
+    <copyright>1978 Genesis Music, Administered by Genesis Music</copyright>
+    <ccliNo>1947638</ccliNo>
+    <authors>
+      <author>Laurice Waller</author>
+      <author>Philip Paul Bliss</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c2">
+      <lines>I am so glad that Jesus loves me<br/>Jesus loves me Jesus loves me<br/>I am so glad that Jesus loves me<br/>Jesus loves even me</lines>
+    </verse>
+    <verse name="v1">
+      <lines>I am so glad that our Father in heav'n<br/>Tells of His love in the book He has given<br/>Wonderful things in the Bible I see<br/>This is the dearest -- that Jesus loves me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh if there's only one song I can sing<br/>When in His beauty I see the great King<br/>This shall my song through eternity be<br/>Oh what a wonder that Jesus loves me</lines>
+    </verse>
+  </lyrics>
+</song>

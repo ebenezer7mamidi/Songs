@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:49">
+  <properties>
+    <titles>
+      <title>Lord reign in me-youth</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Lord reign in me reign in Your pow'r<br/>Over all my dreams in my darkest hour<br/>You are the Lord of all I am<br/>So won't You reign in me again</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Over all the earth You reign on high<br/>Every mountain stream every sunset sky<br/>But my one request Lord my only aim<br/>Is that You'd reign in me again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Over every thought over every word<br/>May my life reflect the beauty of my Lord<br/>'Cause You mean more to me<br/>Than any earthly thing<br/>So won't You reign in me again</lines>
+    </verse>
+  </lyrics>
+</song>

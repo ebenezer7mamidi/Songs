@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T02:29:07">
+  <properties>
+    <titles>
+      <title>Blessed Lord, Our Hallelujahs</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A<br/><br/>Blessed Lord, our hallelujahs<br/>Now to Thee we raise.<br/>Never could we fully utter<br/>All Thy worth and praise!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Praise the Lamb, for He is worthy!<br/>Sweet eternal strain!<br/>Hallelujah! Hallelujah!<br/>Praise the Lord, Amen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Praise the Lamb, yes, Thou art worthy,<br/>Who didst shed Thy blood<br/>To redeem Thy saints, and make us<br/>Kings and priests to God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hallelujah! Thou, Lord Jesus,<br/>Canst not cease to love.<br/>Thine we are and Thine forever,<br/>One with Thee above.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Praise the Lord, yes, hallelujah!<br/>Who would hush the song?<br/>Join with saints from every nation,<br/>Every tribe and tongue.</lines>
+    </verse>
+  </lyrics>
+</song>

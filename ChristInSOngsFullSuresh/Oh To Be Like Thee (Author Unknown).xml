@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-22T00:00:26">
+  <properties>
+    <titles>
+      <title>Oh To Be Like Thee</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O to be like Thee! Blessed Redeemer,<br/>This is my constant longing and prayer<br/>Gladly I'll forfeit all of earth's treasures,<br/>Jesus, Thy perfect likeness to wear</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O to be like Thee! O to be like thee!<br/>Blessed Redeemer, pure as Thou art!<br/>Come in Thy sweetness, come in Thy fullness<br/>Stamp thine own image deep on my heart</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O to be like Thee! Full of compassion<br/>Loving, forgiving, tender and kind,<br/>Helping the helpless, cheering the fainting<br/>Seeking the wand'ring sinners to find</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O to be like Thee! Lowly in spirit<br/>Holy and harmless, patient and brave<br/>Meekly enduring cruel reproaches<br/>Willing to suffer, others to save</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O to be like Thee! Lord I am coming,<br/>Now to receive th'anointing divine<br/>All that I am and have I am bringing<br/>Lord, from this moment all shall be Thine</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O to be like Thee! while I am pleading<br/>Pour out Thy Spirit, fill with Thy love<br/>Make me a temple meet for Thy dwelling<br/>Fit for a life which Thou wouldst approve.</lines>
+    </verse>
+  </lyrics>
+</song>

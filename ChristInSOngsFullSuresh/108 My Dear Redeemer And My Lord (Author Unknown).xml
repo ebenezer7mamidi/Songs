@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:37">
+  <properties>
+    <titles>
+      <title>108 My Dear Redeemer And My Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>my dear Redeemer and my Lord<br/>i read my duty in Thy word<br/>but in Thy life the law appears<br/>drawn out in living characters</lines>
+    </verse>
+    <verse name="v2">
+      <lines>such was Thy truth and such Thy zeal<br/>such deference to Thy Father's will<br/>such love and meekness so divine<br/>i would transcribe and make them mine</lines>
+    </verse>
+    <verse name="v3">
+      <lines>cold mountains and the midnight air<br/>witnessed the fervor of Thy prayer<br/>The desert Thy temptations knew<br/>Thy conflict and Thy victory too</lines>
+    </verse>
+    <verse name="v4">
+      <lines>be thou my pattern make me bear<br/>more of Thy gracious image here<br/>then god the Judge shall own my name<br/>among the followers of the Lamb</lines>
+    </verse>
+  </lyrics>
+</song>

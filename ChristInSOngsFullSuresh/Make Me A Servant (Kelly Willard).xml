@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:49">
+  <properties>
+    <titles>
+      <title>Make Me A Servant</title>
+    </titles>
+    <copyright>1982 Maranatha! Music / CCCM Music / Willing Heart Music, Administered by Maranatha! Music</copyright>
+    <ccliNo>33131</ccliNo>
+    <authors>
+      <author>Kelly Willard</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Make me a servant, humble and meek<br/>Lord let me lift up those who are weak<br/>And may the prayer of my heart always be<br/>Make me a servant, make me a servant<br/>Make me a servant today</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Make us your servants, humble and meek<br/>Lord let us lift up those who are weak<br/>And may the prayer of our hearts aslways be<br/>Make us your servants, make us your servants<br/>Make us your servants today</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-06T00:32:31">
+  <properties>
+    <titles>
+      <title>You Are My All In All</title>
+    </titles>
+    <copyright>1991 Shepherd's Heart Music, Inc., Administered by Word Music Group, Inc.</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6 e1</verseOrder>
+    <ccliNo>825356</ccliNo>
+    <authors>
+      <author>Dennis Jernigan</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>E<br/>You are my strength<br/>When I am weak<br/>You are the treasure<br/>That I seek<br/>You are my All in All<br/>Seeking You as a precious jew'l<br/>Lord to give up I'd be a fool<br/>You are my All in All</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Brothers:<br/>Jesus Lamb of God<br/>Worthy is Your name<br/>Sisters:<br/>You are my strength<br/>When I am weak<br/>You are the treasure<br/>That I seek<br/>You are my All in All</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Brothers:<br/>Jesus Lamb of God<br/>Worthy is Your name<br/>Sisters:<br/>Seeking You as a precious jew'l<br/>Lord to give up I'd be a fool<br/>You are my All in All</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Brothers:<br/>Taking my sin<br/>My cross my shame<br/>Rising again I bless Your name<br/>You are my All in All<br/>Sisters:<br/>Jesus Lamb of God<br/>Worthy is Your name</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Brothers:<br/>When I fall down You pick me up<br/>When I am dry You fill my cup<br/>You are my All in All<br/>Sisters:<br/>Jesus Lamb of God<br/>Worthy is Your name</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Brothers:<br/>Jesus Lamb of God<br/>Worthy is Your name<br/>Sisters:<br/>Taking my sin<br/>My cross my shame<br/>Rising again I bless Your name<br/>You are my All in All</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Brothers:<br/>Jesus Lamb of God<br/>Worthy is Your name<br/>Sisters:<br/>When I fall down You pick me up<br/>When I am dry You fill my cup<br/>You are my All in All</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Together:<br/>Jesus Lamb of God<br/>Worthy is Your name<br/>Jesus Lamb of God<br/>Worthy is Your name</lines>
+    </verse>
+  </lyrics>
+</song>

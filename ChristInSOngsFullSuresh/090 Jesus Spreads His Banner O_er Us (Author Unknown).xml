@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:37">
+  <properties>
+    <titles>
+      <title>090 Jesus Spreads His Banner O'er Us</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>jesus spreads His banner o'er us<br/>cheers our famished souls with food<br/>he the banquet spreads before us<br/>of His mystic flesh and blood</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>precious banquet bread of heaven<br/>wine of gladness flowing free<br/>may we taste it kindly given<br/>in rememberance lord of Thee</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>in Thy holy incarnation<br/>when the angels sang Thy birth<br/>in Thy fasting and temptation<br/>in Thy labors on the earth</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>in Thy trial and rejection<br/>in Thy suff'rings on the tree<br/>in Thy glorious resurrection<br/>may we lord remember Thee</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>in Thy wondrous crucifixion<br/>shunned by God<br/>condemned by man<br/>thou didst purchase<br/>our redemption<br/>bridged in love<br/>the dreadful span</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>now to heav'n thou hast ascended<br/>there for us to intercede<br/>coming soon in glory splendid<br/>blest remembrance<br/>lord of Thee</lines>
+    </verse>
+  </lyrics>
+</song>

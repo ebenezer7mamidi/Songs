@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>806 In Jesus (so so)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've tried in vain a thousand ways<br/>My fears to quell my hopes to raise<br/>But what I need the Bible says<br/>Is ever only Jesus</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My soul is night my heart is steel<br/>I cannot see I cannot feel<br/>For light for life I must appeal<br/>In simple faith to Jesus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He died - He lives - He reigns - He pleads<br/>There's love in all His words and deeds<br/>There's all a guilty sinner needs<br/>Forevermore in Jesus</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Though some should sneer<br/>And some should blame<br/>I'll go with all my guilt and shame<br/>I'll go to Him because His name<br/>Above all names is Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

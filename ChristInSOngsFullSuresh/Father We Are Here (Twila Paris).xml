@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T03:04:44">
+  <properties>
+    <titles>
+      <title>Father We Are Here</title>
+    </titles>
+    <copyright>1986 Ariose Music / Mountain Spring Music, Administered by EMI Christian Music Publishing</copyright>
+    <ccliNo>101788</ccliNo>
+    <authors>
+      <author>Twila Paris</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A<br/><br/>Father we are here<br/>We feel Your Spirit<br/>Drawing us nearer<br/>Your face is suddenly clearer<br/>Than all the world surrounding</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Father we are here<br/>As You increase Lord<br/>We become less<br/>Your creation<br/>Living to bless You<br/>Oh Father we are here</lines>
+    </verse>
+  </lyrics>
+</song>

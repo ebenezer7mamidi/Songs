@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T02:55:04">
+  <properties>
+    <titles>
+      <title>Don't You Know It's Time To Praise The Lord</title>
+    </titles>
+    <copyright>1981 Maranatha! Music / CCCM Music, Administered by Maranatha! Music</copyright>
+    <ccliNo>30907</ccliNo>
+    <authors>
+      <author>Bruce Borneman</author>
+      <author>Judi Borneman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/><br/>Don't you know it's time<br/>To praise the Lord<br/>In the sanctuary of His Holy Spirit<br/>So set your mind on Him</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>And let your praise begin<br/>And the glory of the Lord<br/>Will fill this place<br/>Praise the Lord<br/>(Sisters echo)<br/>praise the Lord<br/>(Sisters echo)<br/>Praise the Lord)</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>He lives within<br/>The praises of His people<br/>He loves to hear us<br/>Call upon His name<br/>So set your mind on Him</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>And let your praise begin<br/>And the glory of the Lord<br/>Will fill this place<br/>Praise the Lord praise the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

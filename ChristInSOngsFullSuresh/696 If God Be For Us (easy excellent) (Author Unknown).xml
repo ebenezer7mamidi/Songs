@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:42">
+  <properties>
+    <titles>
+      <title>696 If God Be For Us (easy excellent)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rejoice in the Lord<br/>Oh let His mercy cheer<br/>He sunders the bands that enthrall<br/>Redeemed by His blood<br/>Why should we ever fear<br/>Since Jesus is our all in all</lines>
+    </verse>
+    <verse name="c1">
+      <lines>If God be for us<br/>If God be for us<br/>If God be for us<br/>Who can be against us<br/>Who - Who - Who<br/>Who can be against us<br/>Against us</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Be strong in the Lord<br/>Rejoicing in His might<br/>Be loyal and true day by day<br/>When evils assail<br/>Be valiant for the right<br/>And He will be our strength<br/>And stay</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Confide in His Word<br/>His promises so sure<br/>In Christ they are<br/>Yea and amen<br/>Though earth pass away<br/>They ever shall endure<br/>'Tis written o'er and o'er again</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Abide in the Lord<br/>Secure in His control<br/>'Tis life everlasting begun<br/>To pluck from His hand<br/>The weakest trembling soul<br/>It never never can be done</lines>
+    </verse>
+  </lyrics>
+</song>

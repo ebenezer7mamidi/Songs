@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:41">
+  <properties>
+    <titles>
+      <title>601 More Love To Thee (familiar easy song of the C</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>G<br/>Verse 1<br/>More love to Thee O Christ<br/>More love to Thee<br/>Hear Thou the prayer I make<br/>On bended knee<br/>This is my earnest plea<br/>More love O Christ to Thee<br/>More love to Thee<br/>More love to Thee</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Once earthly joy I craved<br/>Sought peace and rest<br/>Now Thee alone I seek<br/>Give what is best<br/>This all my prayer shall be<br/>More love O Christ to Thee<br/>More love to Thee<br/>More love to Thee</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let sorrow do its work<br/>Send grief and pain<br/>Sweet are Thy messengers<br/>Sweet their refrain<br/>When they can sing with me<br/>More love O Christ to Thee<br/>More love to Thee<br/>More love to Thee</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Then shall my latest breath<br/>Whisper Thy praise<br/>This be the parting cry<br/>My heart shall raise<br/>This still its prayer shall be<br/>More love O Christ to Thee<br/>More love to Thee<br/>More love to Thee</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T01:25:21">
+  <properties>
+    <titles>
+      <title>All Hail The Power Of Jesus Name</title>
+    </titles>
+    <copyright>Public Domain, Administered by CCLI Administration Account</copyright>
+    <ccliNo>196858</ccliNo>
+    <authors>
+      <author>Edward Perronet</author>
+      <author>James Ellor</author>
+      <author>John Rippon</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/>All hail the pow'r of Jesus' name<br/>Let angels prostrate fall<br/>Bring forth the royal diadem<br/>and crown Him Lord of all<br/>Bring forth the royal diadem<br/>and crown Him Lord of all</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ye chosen seed of Israel's race<br/>Ye ransomed from the fall<br/>Hail Him who saves you by His grace<br/>and crown Him Lord of all<br/>Hail Him who saves you by His grace<br/>and crown Him Lord of all</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let every kindred ev'ry tribe<br/>On this terrestrial ball<br/>To Him all majesty ascribe<br/>and crown Him Lord of all<br/>To Him all majesty ascribe<br/>and crown Him Lord of all</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O that with yonder sacred throng<br/>We at His feet may fall<br/>We'll join the everlasting song<br/>and crown Him Lord of all<br/>We'll join the everlasting song<br/>and crown Him Lord of all</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Crown Him ye martyrs of our God,<br/>Who from His altar call<br/>Extol the stem of Jesse's rod<br/>And crown Him Lord of all!<br/>Extol the stem of Jesse's rod<br/>And crown Him Lord of all!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Sinners whose love can ne'er forget<br/>The wormwood and the gall<br/>Go, spread your trophies at His feet<br/>And crown Him Lord of all<br/>Go, spread your trophies at His feet<br/>And crown Him Lord of all</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T15:06:13">
+  <properties>
+    <titles>
+      <title>There is a place of quiet rest</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a place of quiet rest<br/>Near to the heart of God<br/>A place where sin cannot molest<br/>Near to the heart of God</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O Jesus blest Redeemer<br/>Sent from the heart of God<br/>Hold us who wait before Thee<br/>Near to the heart of God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is a place of comfort sweet<br/>Near to the heart of God<br/>A place where we our Savior meet<br/>Near to the heart of God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There is a place of full release<br/>Near to the heart of God<br/>A place where all is joy and peace<br/>Near to the heart of God</lines>
+    </verse>
+  </lyrics>
+</song>

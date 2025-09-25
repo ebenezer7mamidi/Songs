@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:41">
+  <properties>
+    <titles>
+      <title>552 O Master Let Me Walk With Thee (familiar easy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Master let me walk with Thee<br/>In lowly paths of service free<br/>Tell me Thy secret<br/>Help me bear<br/>The strain of toil<br/>The fret of care</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Help me the slow of heart<br/>To move<br/>By some clear winning<br/>Word of love<br/>Teach me the wayward<br/>Feet to stay<br/>And guide them<br/>In the homeward way</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Teach me Thy patience<br/>Still with Thee<br/>In closer dearer company<br/>In work that keeps<br/>Faith sweet and strong<br/>In trust that triumphs<br/>Over wrong</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In hope that sends<br/>A shinning ray<br/>Far down the future's<br/>Broad'ning way<br/>In peace that only<br/>Thou canst give<br/>With Thee<br/>O Master let me live</lines>
+    </verse>
+  </lyrics>
+</song>

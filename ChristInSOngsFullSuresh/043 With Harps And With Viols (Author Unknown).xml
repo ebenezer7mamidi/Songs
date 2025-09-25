@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-19T19:58:12">
+  <properties>
+    <titles>
+      <title>043 With Harps And With Viols</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>G<br/><br/>With harps and with viols<br/>There stands a great throng<br/>In the presence of Jesus<br/>And sing this new song</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Unto Him who hath loved us<br/>And washed us from sin<br/>Unto Him be the glory for ever - Amen</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All these once were sinners<br/>Defiled in His sight<br/>Now arrayed in pure garments<br/>In praise they unite</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He maketh the rebel<br/>A priest and a king<br/>He hath bought us<br/>And taught us<br/>This new song to sing</lines>
+    </verse>
+    <verse name="v4">
+      <lines>How helpless and hopeless<br/>We sinners had been<br/>If He never had loved us<br/>Till cleansed from our sin</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Aloud in His praises<br/>Our voices shall ring<br/>So that others believing<br/>This new song shall sing</lines>
+    </verse>
+  </lyrics>
+</song>

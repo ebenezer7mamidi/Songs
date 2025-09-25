@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:37">
+  <properties>
+    <titles>
+      <title>069 Tis The Church Triumphant</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>'Tis the Church triumphant singing<br/>Worthy the Lamb<br/>Heav'n throughout with praises ringing<br/>Worthy the Lamb</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Thrones and powers before Him bending<br/>Odors sweet with voice ascending<br/>Swell the chorus never ending<br/>Worthy the Lamb!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Ev'ry kindred tongue and nation<br/>Worthy the Lamb<br/>Join to sing the great salvation<br/>Worthy the Lamb</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Loud as mighty thunders roaring<br/>Floods of mighty waters pouring<br/>Prostrate at His feet adoring<br/>Worthy the Lamb!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Harps and songs forever sounding<br/>Worthy the Lamb<br/>Mighty grace o'er sin abounding<br/>Worthy the Lamb</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>By His blood He dearly bought us<br/>Wand'ring from the fold He sought us<br/>And to glory safely brought us<br/>Worthy the Lamb!</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Sing with blest anticipation<br/>Worthy the Lamb<br/>Through the vale of tribulation<br/>Worthy the Lamb</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Sweetest notes all notes excelling<br/>On the theme forever dwelling<br/>Still untold though ever telling<br/>Worthy the Lamb!</lines>
+    </verse>
+  </lyrics>
+</song>

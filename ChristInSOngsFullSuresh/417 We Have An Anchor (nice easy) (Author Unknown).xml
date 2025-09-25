@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>417 We Have An Anchor (nice easy)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Will your anchor hold<br/>In the storms of life<br/>When the clouds unfold<br/>Their wings of strife<br/>When the strong tides lift<br/>And the cables strain<br/>Will your anchor drift<br/>Or firm remain</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We have an anchor<br/>That keeps the soul<br/>Steadfast and sure<br/>While the billows roll<br/>Fastened to the Rock<br/>Which cannot move<br/>Grounded firm and deep<br/>In the Savior's love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It is safely moored<br/>'twill the storm withstand<br/>For 'tis well secured<br/>By the Savior's hand<br/>And the cables passed<br/>From His heart to mine<br/>Can defy the blast<br/>Through strength divine</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It will firmly hold<br/>in the straits of fear<br/>When the breakers<br/>Have told the reef is near<br/>Though the tempest rave<br/>And the wild winds blow<br/>Not an angry wave<br/>Shall our bark o'erflow</lines>
+    </verse>
+    <verse name="v4">
+      <lines>It will surely hold<br/>in the floods of death<br/>When the waters cold<br/>Chill our latest breath<br/>On the rising tide<br/>It can never fail<br/>While our hopes abide<br/>Within the veil</lines>
+    </verse>
+    <verse name="v5">
+      <lines>When our eyes behold<br/>Through the glaring night<br/>The city of gold<br/>Our harbor bright<br/>We shall anchor fast<br/>By the heavenly shore<br/>With the storms all past<br/>For evermore</lines>
+    </verse>
+  </lyrics>
+</song>

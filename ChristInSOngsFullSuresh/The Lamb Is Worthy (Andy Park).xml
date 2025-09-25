@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:51">
+  <properties>
+    <titles>
+      <title>The Lamb Is Worthy</title>
+    </titles>
+    <copyright>1999 Mercy / Vineyard Publishing, Administered by Vineyard Music USA</copyright>
+    <ccliNo>2760395</ccliNo>
+    <authors>
+      <author>Andy Park</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Lamb is worthy (echo)<br/>The Lamb is worthy (echo)<br/>The Lamb who was slain (echo)<br/>TOGETHER<br/>He is worthy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To receive power (echo)<br/>And the riches (echo)<br/>And the wisdom (echo)<br/> And the strength<br/>And the honor (echo) <br/>And the glory (echo)<br/>And the blessing (echo)<br/>TOGETHER<br/>The Lamb is worthy<br/>The Lamb who was slain</lines>
+    </verse>
+  </lyrics>
+</song>

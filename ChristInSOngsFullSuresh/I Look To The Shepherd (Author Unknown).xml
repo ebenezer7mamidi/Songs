@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T16:25:20">
+  <properties>
+    <titles>
+      <title>I Look To The Shepherd</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>E<br/><br/>I look to the Shepherd<br/>He meets all my needs<br/>Beside the still waters<br/>He faithfully leads<br/>Bringing peace to my soul<br/>As His love makes me whole</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Surely goodness and mercy shall follow me<br/>Follow me all the days of my life<br/>Surely goodness and mercy shall follow me<br/>All my life</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And when in the valley of deepest despair<br/>I look to the Shepherd<br/>His presence is there<br/>Bringing peace to my soul<br/>As His love makes me whole</lines>
+    </verse>
+  </lyrics>
+</song>

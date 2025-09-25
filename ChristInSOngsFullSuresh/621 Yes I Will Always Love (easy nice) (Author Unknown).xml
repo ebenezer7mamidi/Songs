@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:41">
+  <properties>
+    <titles>
+      <title>621 Yes I Will Always Love (easy nice)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Yes I will always love<br/>And as I ought<br/>Tune to the praise<br/>of love my ceaseless voice<br/>Prefering love<br/>Too vast for human thought<br/>In spite of erring men<br/>Who cavil at my choice</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I would cry - I would cry<br/>That all the world might hear<br/>Oh love your God alone<br/>And make Christ all your own</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Why have I not<br/>A thousand thousand hearts<br/>Lord of my soul<br/>That they might all be Thine<br/>If Thou approve<br/>The zeal Thy smile imparts<br/>How should it ever fail<br/>Can such a fire decline</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Love pure and holy<br/>Is a deathless fire<br/>Its object heavenly<br/>It must ever blaze<br/>Eternal love<br/>a God must needs inspire<br/>When once He wins the heart<br/>And fits it for His praise</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Self-love dismissed<br/>'Tis then we live indeed<br/>In her embrace<br/>Death only death is found<br/>Come then one noble effort<br/>And succeed<br/>Cast off the chain of self<br/>With which thy soul is bound</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O I would cry<br/>That all the world might hear<br/>Ye self-tormentors<br/>Love your God alone<br/>Let His unequalled<br/>Excellence be dear<br/>Dear to your inmost souls<br/>And make Him all your own</lines>
+    </verse>
+  </lyrics>
+</song>

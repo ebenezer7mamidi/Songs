@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:48">
+  <properties>
+    <titles>
+      <title>Jesus All for Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, all for Jesus<br/>All I am and have<br/>And ever hope to be (2x)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All of my ambitions,<br/>hopes, and plans<br/>I surrender these<br/>into Your hands (2x)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For it's only in Your will<br/>that I am free<br/>For it's only in Your will<br/>that I am free <br/>Jesus, all for Jesus<br/>All I am and have<br/>And ever hope to be</lines>
+    </verse>
+  </lyrics>
+</song>

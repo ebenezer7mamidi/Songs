@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>826 Life At Best Is Very Brief (easy nice)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Life at best is very brief<br/>Like the falling of a leaf<br/>Like the binding of a sheaf<br/>Be in time<br/>Fleeting days are telling fast<br/>That the die will soon be cast<br/>And the fatal line be passed<br/>Be in time</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Be in time<br/> Be in time<br/>Be in time<br/> Be in time<br/>While the voice of Jesus calls you<br/>Be in time<br/> Be in time<br/>If in sin you longer wait<br/>You may find no open gate<br/>And your cry be just too late<br/>Be in time</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fairest flowers soon decay<br/>Youth and beauty pass away<br/>O you have not long to stay<br/>Be in time<br/>While God's Spirit bids you come<br/>Sinner do not longer roam<br/>Lest you seal your hopeless doom<br/>Be in time</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Time is gliding swiftly by<br/>Death and judgement draweth nigh<br/>To the arms of Jesus fly<br/>Be in time<br/>O I pray you count the cost<br/>Ere the fatal line be crossed<br/>And your soul in hell be lost<br/>Be in time</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sinner heed the warning voice<br/>Make the Lord your final choice<br/>Then all heaven will rejoice<br/>Be in time<br/>Come from darkness into light<br/>Come let Jesus make you right<br/>Come and start for heaven tonight<br/>Be in time</lines>
+    </verse>
+  </lyrics>
+</song>

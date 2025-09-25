@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:48">
+  <properties>
+    <titles>
+      <title>Knowing the Time</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A<br/>Knowing the time<br/>that now it is high time<br/>To awake out of sleep<br/>For now is our salvation nearer<br/>than when we believed</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The night is far spent<br/>the day is at hand<br/>Let us therefore cast off<br/>the works of darkness<br/>and let us put on<br/>the armor of light<br/>the Lord Jesus Christ</lines>
+    </verse>
+  </lyrics>
+</song>

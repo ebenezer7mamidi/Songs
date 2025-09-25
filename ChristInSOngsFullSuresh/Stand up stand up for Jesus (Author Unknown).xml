@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T14:17:30">
+  <properties>
+    <titles>
+      <title>Stand up stand up for Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>G<br/>Stand up stand up for Jesus<br/>You soldiers of the cross<br/>Lift high His royal banner<br/>It must not suffer loss<br/>From victory unto victory<br/>His army He shall lead<br/>Till evil is defeated<br/>And Christ is Lord indeed</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Stand up stand up for Jesus<br/>The trumpet-call obey<br/>Then join the mighty conflict<br/>In this His glorious day<br/>Be strong in faith and serve Him<br/>Against unnumbered foes<br/>Let courage rise with danger<br/>And strength to strength oppose</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Stand up stand up for Jesus<br/>Stand in His power alone<br/>For human might will fail you<br/>You dare not trust your own<br/>Put on the gospel armor<br/>Keep watch with constant prayer<br/>Where duty calls or danger<br/>Be never failing there</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Stand up stand up for Jesus<br/>The fight will not be long<br/>This day the noise of battle<br/>The next the victor's song<br/>To everyone who conquers<br/>A crown of life shall be<br/>We with the King of glory<br/>Shall reign eternally</lines>
+    </verse>
+  </lyrics>
+</song>

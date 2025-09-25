@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>445 Give To The Winds Thy Fears (familiar tune - g</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Give to the winds thy fears<br/>Hope and be undismayed<br/>God hears thy sighs<br/>And counts thy tears<br/>God shall lift up thy head<br/>Through waves and clouds<br/>And storms<br/>He gently clears the way<br/>Wait thou His time<br/>So shall the night<br/>Soon end in joyous day</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Still heavy is thy heart<br/>Still sink thy spirits down<br/>Cast off the weight<br/>Let fear depart<br/>And every care be gone<br/>He everywhere hath sway<br/>And all things serve His might<br/>His every act pure blessing is<br/>His path unsullied light</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Far - Far above thy thought<br/>His counsel shall appear<br/>When fully He the work<br/>Hath wrought<br/>That caused thy needless fear<br/>Leave to His sovereign will<br/>To choose and to command<br/>With wonder filled<br/>Thou then shalt own<br/>How wise<br/>How strong His hand</lines>
+    </verse>
+  </lyrics>
+</song>

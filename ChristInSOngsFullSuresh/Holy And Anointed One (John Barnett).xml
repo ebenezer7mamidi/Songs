@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:46">
+  <properties>
+    <titles>
+      <title>Holy And Anointed One</title>
+    </titles>
+    <copyright>1988 Mercy / Vineyard Publishing, Administered by Vineyard Music USA</copyright>
+    <ccliNo>164361</ccliNo>
+    <authors>
+      <author>John Barnett</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Jesus Jesus<br/>Holy and Anointed One<br/>Jesus</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Jesus Jesus<br/>Risen and Exalted One<br/>Jesus</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Your name is like honey on my lips<br/>Your Spirit like water to my soul<br/>Your Word is a lamp unto my feet<br/>Jesus I love You I love You</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:41">
+  <properties>
+    <titles>
+      <title>560 Still Still With Thee (easy, nice, word fit no</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <ccliNo>122255</ccliNo>
+    <authors>
+      <author>Felix Mendelssohn | Harriet B. Stowe</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Still still with Thee<br/>When purple morning breaketh<br/>When the bird waketh<br/>And the shadows flee<br/>Fairer than morning<br/>Lovelier than the daylight<br/>Dawns the sweet consciousness<br/>I am with Thee</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As in the dawning<br/>O'-er the waveless ocean<br/>The image of<br/>The morning star doth rest<br/>So in this stillness<br/>Thou beholdest only<br/>Thine image in<br/>the waters of my breast</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When sinks the soul<br/>Subdued by toil to slumber<br/>Its closing eye<br/>looks up to Thee in prayer<br/>Sweet the repose<br/>Beneath thy wings o'ershadowing<br/>But sweeter still to wake<br/>And find Thee there</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So shall it be<br/>At last In that bright morning<br/>When the soul waketh<br/>And life's shadows flee<br/>Oh in that hour<br/>Fairer than daylight's dawning<br/>Shall rise the glorious thought<br/>I am with Thee</lines>
+    </verse>
+  </lyrics>
+</song>

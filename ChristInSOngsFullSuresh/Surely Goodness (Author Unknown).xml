@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:51">
+  <properties>
+    <titles>
+      <title>Surely Goodness</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/>Surely goodness and mercy<br/>Shall follow me<br/>All the days<br/>All the days of my life<br/>(repeat)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I shall dwell<br/>In the house of<br/>the Lord forever<br/>And I shall feast at the table<br/>Set for me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Surely goodness and mercy<br/>Shall follow me<br/>All the days<br/>All the days of my life</lines>
+    </verse>
+  </lyrics>
+</song>

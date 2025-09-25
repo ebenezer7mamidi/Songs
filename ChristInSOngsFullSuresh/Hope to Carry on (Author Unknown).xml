@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:46">
+  <properties>
+    <titles>
+      <title>Hope to Carry on</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I can see Jesus hangin' on a cross<br/>i can see jesus hangin' on a cross<br/>i can see jesus hangin' on a cross<br/>he came looking for the lost<br/>and love has come<br/>love has come<br/>love has come<br/>and He's given me hope to carry on</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I can hear jesus saying father forgive<br/>i can hear jesus saying father forgive<br/>i can hear jesus saying father forgive<br/>what a thing He did<br/>love has come<br/>love has come<br/>love has come<br/>and He's given me hope to carry on</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I can see love, love is all i want to see<br/>love can make a begger rich<br/>it can set a prisoner free<br/>I know He can do it for you<br/>god knows He did it for me<br/>And I can see love<br/>love is all i want to show you love</lines>
+    </verse>
+  </lyrics>
+</song>

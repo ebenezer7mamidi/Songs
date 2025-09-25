@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>388 Fade Fade Each Earthly Joy (simple easy nice)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fade Fade each earthly joy<br/>Jesus is mine<br/>Break ev'ry tender tie<br/>Jesus is mine<br/>Dark is the wilderness<br/>Earth has no resting place<br/>Jesus alone can bless<br/>Jesus is mine</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tempt not my soul away<br/>Jesus is mine<br/>Here would I ever stay<br/>Jesus is mine<br/>Perishing things of clay<br/>Born but for one brief day<br/>Pass from my heart away<br/>Jesus is mine</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Farewell ye dreams of night<br/>Jesus is mine<br/>Lost in this dawning bright<br/>Jesus is mine<br/>All that my soul has tried<br/>Left but a dismal void<br/>Jesus has satisfied<br/>Jesus is mine</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Farewell mortality<br/>Jesus is mine<br/>Welcome eternity<br/>Jesus is mine<br/>Welcome O Loved and Blest<br/>Welcome sweet scenes of rest<br/>Welcome my Savior's breast<br/>Jesus is mine</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>506 I Am Crucified With Jesus (litlle work nice)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am crucified with Jesus<br/>And the cross hath set me free<br/>I have ris'n again with Jesus<br/>And He lives and reigns in me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh it is so sweet<br/>To die with Jesus<br/>To the world and self and sin<br/>Oh it is so sweet<br/>To live with Jesus<br/>As He lives and reigns within</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mystery hid from ancient ages<br/>But at length to faith made plain<br/>Christ in me the Hope of Glory<br/>Tell it o'er and o'er again</lines>
+    </verse>
+    <verse name="v3">
+      <lines>This the secret nature hideth<br/>Summer dies and lives again<br/>Spring from winter's grave ariseth<br/>Harvest grows from buried grain</lines>
+    </verse>
+    <verse name="v4">
+      <lines>This the secret of the holy<br/>Not our holiness but Him<br/>O Lord empty us and fill us<br/>With Thy fullness to the brim</lines>
+    </verse>
+    <verse name="v5">
+      <lines>This the balm for pain and sickness<br/>Just to all our strength to die<br/>And to find His life and fullness<br/>All our being's need supply</lines>
+    </verse>
+    <verse name="v6">
+      <lines>This the story of the Master<br/>Through the Cross He reached the Throne<br/>And like Him our path to glory<br/>Ever leads through death alone</lines>
+    </verse>
+  </lyrics>
+</song>

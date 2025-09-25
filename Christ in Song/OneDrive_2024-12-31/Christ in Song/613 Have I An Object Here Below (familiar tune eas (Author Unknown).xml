@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:41">
+  <properties>
+    <titles>
+      <title>613 Have I An Object Here Below (familiar tune eas</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Have I an object here below<br/>Which would divide my heart with Thee<br/>Which would divert its even flow<br/>In answer to Thy constancy<br/>Oh teach me quickly to return<br/>And cause my heart afresh to burn</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Have I a hope however dear<br/>Which would defer Thy coming Lord<br/>Which would detain my spirit here<br/>Where naught can lasting joy afford<br/>From it my Savior set me free<br/>To look and long and wait for Thee</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Be Thou the object bright and fair<br/>To fill and satisfy the heart<br/>My hope to meet Thee in the air<br/>And nevermore from Thee to part<br/>That I may undistracted be<br/>To follow serve and wait for Thee</lines>
+    </verse>
+  </lyrics>
+</song>

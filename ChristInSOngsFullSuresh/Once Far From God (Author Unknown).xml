@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-22T00:05:27">
+  <properties>
+    <titles>
+      <title>Once Far From God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Once far from God and dead in sin,<br/> No light my heart could see;<br/> But in God's Word the light I found,<br/> Now Christ liveth in me.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Christ liveth in me, Christ liveth in me;<br/> Oh! what a salvation this,<br/> That Christ liveth in me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. As rays of light from yonder sun, <br/> The flow'rs of earth set free,<br/> So life and light and love come forth<br/> From Christ living in me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. As lives the flow'r within the seed, <br/> As in the cone the tree,<br/> So, praise the Christ of truth and grace,<br/> His Spirit dwelleth in me.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>4. With longing all my heart is filled, <br/> That like Him I may be,<br/> As on the wondrous thought I dwell<br/> That Christ liveth in me.</lines>
+    </verse>
+  </lyrics>
+</song>

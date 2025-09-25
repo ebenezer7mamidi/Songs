@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>770 Send Thou O Lord To Every Place</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Send Thou O Lord to ev'ry place<br/>Swift messengers before Thy face<br/>The heralds of Thy wondrous grace<br/>Where Thou Thyself wilt come</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Send men whose eyes have seen the King<br/>Men in whose ears His sweet words ring<br/>Send such Thy lost ones home to bring<br/>Send them where Thou wilt come</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To bring good news to souls in sin<br/>The bruised and broken hearts to win<br/>In every place to bring them in<br/>Where Thou Thyself wilt come</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gird each one with the Spirit's sword<br/>The sword of Thine own deathless word<br/>And make them conquerors conquering Lord<br/>Where Thou Thyself wilt come</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Raise up O Lord the Holy Ghost<br/>From this broad land a mighty host<br/>Their war-cry We will seek the lost<br/>Where Thou O Christ wilt come</lines>
+    </verse>
+  </lyrics>
+</song>

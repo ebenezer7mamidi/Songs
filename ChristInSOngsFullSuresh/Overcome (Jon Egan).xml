@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T13:36:01">
+  <properties>
+    <titles>
+      <title>Overcome</title>
+    </titles>
+    <copyright>© 2007 Vertical Worship Songs, Administered by EMI Christian Music Publishing (IMI</copyright>
+    <verseOrder>v1 p1 c1 v2 p1 c1 b1 c1</verseOrder>
+    <ccliNo>5064359</ccliNo>
+    <authors>
+      <author>Jon Egan</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>G<br/>Seated above enthroned<br/>in the Father's love<br/>Destined to die<br/>poured out for all mankind<br/>God's only Son<br/>perfect and spotless One<br/>He never sinned<br/>but suffered as if He did</lines>
+    </verse>
+    <verse name="p1">
+      <lines>All authority<br/>Every victory is Yours<br/>All authority<br/>Every victory is Yours</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Savior worthy of honor<br/>and glory<br/>Worthy of all our praise<br/>For You overcame<br/>Jesus awesome in<br/>power forever<br/>Awesome and great<br/>is Your Name<br/>For You overcame</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Power in hand<br/>speaking the Father's plan<br/>You're sending us out<br/>light in this broken land</lines>
+    </verse>
+    <verse name="b1">
+      <lines>We will overcome<br/>By the blood of the Lamb<br/>And the word of our testimony<br/>Everyone overcome<br/>(Repeat)</lines>
+    </verse>
+  </lyrics>
+</song>

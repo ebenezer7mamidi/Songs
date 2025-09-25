@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T03:56:52">
+  <properties>
+    <titles>
+      <title>Here Is Love</title>
+    </titles>
+    <comments>
+      <comment>ending (optional)
+
+[above are Song Tags with notes imported from EasyWorship]</comment>
+    </comments>
+    <copyright>Jubilate Hymns Limited, Administered by Hope Publishing Company</copyright>
+    <ccliNo>3107885</ccliNo>
+    <authors>
+      <author>Richard Thomas Bewes</author>
+      <author>William Edwards</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>F<br/><br/>Here is love vast as the ocean<br/>Loving kindness as the flood<br/>When the Prince of life our ransom<br/>Shed for us His precious blood</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Who His love will not remember<br/>Who can cease to sing His praise<br/>He can never be forgotten<br/>Throughout heaven's eternal days</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>On the mount of crucifixion<br/>Fountains opened deep and wide<br/>Through the floodgates of God's mercy<br/>Flowed a vast and gracious tide</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Grace and love like mighty rivers<br/>Poured incessant from above<br/>Heaven's peace and perfect justice<br/>Kissed a guilty world in love</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Let me all Thy love accepting<br/>Love Thee ever all my days<br/>Let me seek Thy kingdom only<br/>And my life be to Thy praise</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Thou alone shalt be my glory<br/>Nothing in the world I see<br/>Thou hast cleansed and sanctified me<br/>Thou Thyself hast set me free</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>In Thy truth Thou dost direct me<br/>By Thy Spirit through Thy word<br/>And Thy grace my need is meeting<br/>As I trust in Thee my Lord</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>All Thy fullness Thou art pouring<br/>In Thy love and power in me<br/>Without measure full and boundless<br/>As I yield myself to Thee</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Here is love vast as the ocean<br/>Loving kindness as the flood<br/>When the Prince of life our ransom<br/>Shed for us His precious blood</lines>
+    </verse>
+  </lyrics>
+</song>

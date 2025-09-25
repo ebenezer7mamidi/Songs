@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T01:28:00">
+  <properties>
+    <titles>
+      <title>All I once held dear</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/>All I once held dear built my life upon<br/>All this world reveres and wars to own<br/>All I once thought gain I have counted loss<br/>Spent and worthless now compared to this</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Knowing You Jesus knowing You<br/>There is no greater thing<br/>You're my all You're the best<br/>You're my joy my righteousness<br/>And I love You Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All my heart's desire is to know You more<br/>To be found in You and known as Yours<br/>To possess by faith what I could not earn<br/>All surpassing gift of righteousness</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh to know the pow'r of Your risen life<br/>And to know You in Your sufferings<br/>To become like You in Your death my Lord<br/>So in You to live and never die</lines>
+    </verse>
+  </lyrics>
+</song>

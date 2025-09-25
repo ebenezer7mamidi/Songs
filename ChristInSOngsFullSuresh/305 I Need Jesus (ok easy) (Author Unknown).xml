@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>305 I Need Jesus (ok easy)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>i need Jesus<br/>my need I now confess<br/>No friend like Him<br/>In times of deep distress<br/>I need Jesus<br/>The need I gladly own<br/>Tho' some may bear<br/>Their load alone<br/>Yet I need Jesus</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I need Jesus<br/>I need Jesus<br/>I need Jesus ev'ry day<br/>Need Him in the sunshine hour<br/>Need Him when the sorm clouds low'r<br/>Every day along my way<br/>Yes - I need Jesus</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I need Jesus<br/>I need a friend like Him<br/>A friend to guide<br/>When paths of life are dim<br/>I need Jesus<br/>When foes my soul assail<br/>Alone I know<br/>I can but fail<br/>So I need Jesus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I need jesus<br/>I need Him to the end<br/>No one like Him<br/>He is the sinner's friend<br/>I need Jesus<br/>No other friend will do<br/>So constant - kind<br/>So strong and true<br/>Yes I need Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

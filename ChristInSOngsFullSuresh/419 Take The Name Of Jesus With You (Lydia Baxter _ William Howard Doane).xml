@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>419 Take The Name Of Jesus With You</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <ccliNo>22410</ccliNo>
+    <authors>
+      <author>Lydia Baxter | William Howard Doane</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Take the name<br/>Of Jesus with you<br/>Child of sorrow and of woe<br/>It will joy<br/>And comfort give you<br/>Take it then<br/>Where'er you go</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Precious name O how sweet<br/>Hope of earth<br/>And joy of heaven<br/>Precious name O how sweet<br/>Hope of earth<br/>And joy of heaven</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Take the name of Jesus ever<br/>As a shield from every snare<br/>If temptations<br/>Round you gather<br/>Breathe that<br/>Holy name in prayer</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O the precious<br/>Name of Jesus<br/>How it thrills<br/>Our souls with joy<br/>When His loving<br/>Arms receive us<br/>And His songs<br/>Our tongues employ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>At the name<br/>Of Jesus bowing<br/>Falling prostrate at His feet<br/>King of kings in heaven<br/>We'll crown Him<br/>When our journey<br/>Is complete</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:46">
+  <properties>
+    <titles>
+      <title>Have We Not Known Thee</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We have not known Thee as we ought<br/>Nor learned Thy wisdom, grace and power<br/>The things of earth have filled our thought<br/>And trifles of the passing hour<br/>Lord, give us light Thy truth to see<br/>And make us wise in knowing Thee</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We have not feared Thee as we ought<br/>Nor bowed beneath Thine awful eye<br/>Nor guarded deed and word and thought<br/>Remembering that God was nigh<br/>Lord, give us faith to know Thee near<br/>And grant the grace of holy fear</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We have not loved Thee as we ought<br/>Nor cared that we are loved by Thee<br/>Thy presence we have coldly sought<br/>And feebly longed Thy face to see<br/>Lord, give a pure and loving heart<br/>To feel and know the love Thou art</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We have not served Thee as we ought<br/>Alas, the duties left undone<br/>The work with little fervor wrought<br/>The battles lost or scarcely won<br/>Lord, give the zeal, and give the might<br/>For Thee to toil, for Thee to fight</lines>
+    </verse>
+    <verse name="v5">
+      <lines>When shall we know Thee as we ought<br/>And fear and love and serve aright<br/>When shall we, out of trial brought<br/>Be perfect in the land of light<br/>Lord, may we day by day prepare<br/>To see Thy face and serve Thee there</lines>
+    </verse>
+  </lyrics>
+</song>

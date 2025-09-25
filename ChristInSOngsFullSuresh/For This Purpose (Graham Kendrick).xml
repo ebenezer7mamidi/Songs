@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T03:13:15">
+  <properties>
+    <titles>
+      <title>For This Purpose</title>
+    </titles>
+    <copyright>1985 Thankyou Music, Administered by EMI Christian Music Publishing</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>24126</ccliNo>
+    <authors>
+      <author>Graham Kendrick</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/><br/>For this purpose Christ was reveal'd<br/>To destroy all the works of the evil one<br/>Christ in us has overcome<br/>So with gladness we sing<br/>And welcome His kingdom in</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Over sin He has conquer'd<br/>(Hallelujah He has conquer'd)<br/>Over death victorious<br/>(Hallelujah victorious)<br/>Over sickness He Has triumph'd<br/>(Hallelujah He has triumph'd)<br/>Jesus reigns over all</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the name of Jesus we stand<br/>By the power of His blood<br/>We now claim this ground<br/>Satan has no authority here<br/>Powers of darkness must flee<br/>For Christ has the victory</lines>
+    </verse>
+  </lyrics>
+</song>

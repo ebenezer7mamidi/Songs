@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>818 Let Jesus come into your heart</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If you are tired of the Load of your sin<br/>Let Jesus come<br/>Into your heart<br/>If you desire a new Life to begin<br/>Let Jesus come<br/>Into your heart</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Just now, your doubtings Give over<br/>Just now, reject Him no more<br/>Just now, throw Open the door<br/>Let Jesus come<br/>Into your heart</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If 'tis for purity now That you sigh<br/>Let Jesus come<br/>Into your heart<br/>Fountains for cleansing Are flowing nearby<br/>Let Jesus come<br/>Into your heart</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If there's a tempest your Voice cannot still<br/>Let Jesus come<br/>Into your heart<br/>If there's a void this World can never fill<br/>Let Jesus come<br/>Into your heart</lines>
+    </verse>
+    <verse name="v4">
+      <lines>If you would join the glad Songs of the blest<br/>Let Jesus come<br/>Into your heart<br/>If you would enter the Mansions of rest<br/>Let Jesus come<br/>Into your heart</lines>
+    </verse>
+  </lyrics>
+</song>

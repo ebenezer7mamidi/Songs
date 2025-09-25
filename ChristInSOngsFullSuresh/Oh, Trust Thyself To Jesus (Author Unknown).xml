@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:50">
+  <properties>
+    <titles>
+      <title>Oh, Trust Thyself To Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh, trust thyself to Jesus <br/>When conscious of thy sin,<br/>Its heavy weight upon thee,<br/>Its mighty pow'r with-in,<br/>Then is the hour for pleading <br/>His finished work for thee;<br/>Then is the time for singing, <br/>His blood was shed for me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, trust thyself to Jesus<br/>When tempted to transgress,<br/>By word or look of anger, <br/>Or thought of bitterness;<br/>Then is the hour for claiming <br/>Thy Lord to fight for thee;<br/>Then is the time for singing,<br/>He doth deliver me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh, trust thyself to Jesus <br/>When daily cares perplex,<br/>And trifles seem so mighty <br/>Thy inner soul to vex;<br/>Then is the hour for grasping <br/>His hand who walked the sea;<br/>Then is the time for singing, <br/>He makes it calm for me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh, trust thyself to Jesus <br/>When thou art wearied sore,<br/>When head or hand refuses <br/>To think or labor more;<br/>Then is the hour for leaning <br/>Upon the Master's breast;<br/>Then is the time for singing, <br/>My Savior gives me rest.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh, trust thyself to Jesus<br/>When thou art full of care,<br/>For loved ones still refusing <br/>Our blessed hope to share<br/>Then is the hour for trusting<br/>Thy Lord to bring them nigh<br/>Then is the time for singing, <br/>He loves them more than I.</lines>
+    </verse>
+  </lyrics>
+</song>

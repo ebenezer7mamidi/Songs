@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:38">
+  <properties>
+    <titles>
+      <title>227 A Mind At Perfect Peace With God (familiar tun</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>F<br/>verse 1<br/>A mind at perfect peace with God<br/>O what a word is this<br/>A sinner reconciled through blood<br/>This - this indeed is peace</lines>
+    </verse>
+    <verse name="v2">
+      <lines>By nature and by practice far<br/>How very far from God<br/>Yet now by grace brought nigh to Him<br/>Through faith in Jesus' blood</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So nigh - so very nigh to God<br/>I cannot nearer be<br/>For in the person of his Son<br/>I am as near as He</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So dear so very dear to God<br/>More dear I cannot be<br/>The love wherewith He loves the Son<br/>Such is His love to me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Why should I ever anxious be<br/>Since such a God is mine<br/>He watches o'er me night and day<br/>And tells me<br/>"Mine is thine"</lines>
+    </verse>
+  </lyrics>
+</song>

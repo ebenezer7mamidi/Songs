@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>256 Wonderful (really nice singable)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wonderful birth<br/>To a manger He came<br/>Made in the likeness of man to proclaim<br/>God's boundless love for a world sick with sin<br/>Pleading with sinners to let Him come in</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wonderful name He bears<br/>Wonderful crown he wears<br/>Wonderful blessings his triumphs afford<br/>Wonderful Clavary<br/>Wonderful grace for me<br/>Wonderful love of my<br/>Wonderful Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wonderful life full of service so free<br/>Friend to the poor and the needy was He<br/>Unfailing goodness on all He bestowed<br/>Undying faith in the vilest He showed</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wonderful death for it meant not defeat<br/>Calvary made His great mission complete<br/>Wrought our redemption and when He arose<br/>Banished forever the last of our foes</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wonderful hope<br/>He is coming again<br/>Coming as King o'er the nations to reign<br/>Glorious promise<br/>His word cannot fail<br/>His righteous kingdom at last must prevail</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:47">
+  <properties>
+    <titles>
+      <title>I Serve A Risen Savior</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I serve a risen savior<br/>He's in the world today<br/>I know that He is living<br/>Whatever men may say<br/>I see His hand of mercy<br/>I hear His voice of cheer<br/>And just the time I need Him<br/>He's always near</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>He lives - He lives<br/>Christ Jesus lives today<br/>He walks with me<br/>And talks with me<br/>Along life's narrow way</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>He lives - He lives<br/>Salvation to impart<br/>You ask me how<br/>I know He lives<br/>He lives within<br/>My heart</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In all the world around me<br/>I see His loving care<br/>And tho' my heart grows weary<br/>I never will despair<br/>I know that He is leading<br/>Thro' all the stormy blast<br/>The day of His appearing<br/>Will come at last</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rejoice - Rejoice oh christian<br/>Lift up your voice and sing<br/>Eternal hallelujahs<br/>To Jesus Christ the King<br/>The hope of all who seek Him<br/>The help of all who find<br/>None other is so loving<br/>So good and kind</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>483 More Holiness Give Me (easy nice)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>More holiness give me<br/>More sweetness within<br/>More patience in suffering<br/>More sorrow for sin<br/>More faith in my Saviour<br/>More sense of His care<br/>More joy in His service<br/>More freedom in prayer</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Come my Savior and help me<br/>Comfort strengthen and keep me<br/>Thou each moment wilt save me<br/>Thou art saving me now</lines>
+    </verse>
+    <verse name="v2">
+      <lines>More gratitude give me<br/>More trust in the Lord<br/>More pride in His glory<br/>More hope in His word<br/>More tears for His sorrows<br/>More pain at His grief<br/>More meekness in trial<br/>More praise for relief</lines>
+    </verse>
+    <verse name="v3">
+      <lines>More victory give me<br/>More strength to o'er come<br/>More freedom from earth-stains<br/>More longings for home<br/>More fit for the kingdom<br/>More useful I'd be<br/>More blessed and holy<br/>More Saviour like Thee</lines>
+    </verse>
+  </lyrics>
+</song>

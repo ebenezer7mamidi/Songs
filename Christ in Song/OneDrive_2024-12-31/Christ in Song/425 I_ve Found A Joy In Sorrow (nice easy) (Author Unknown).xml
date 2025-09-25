@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>425 I've Found A Joy In Sorrow (nice easy)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>I've found a joy in sorrow<br/>A secret balm for pain<br/>A beautiful tommorrow<br/>Of sunshine after rain</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I've found a branch of healing<br/>Near ev'ry bitter spring<br/>A whispered promise stealing<br/>O'er ev'ry broken string</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>I've found a glad hosanna<br/>For every woe and wail<br/>A handful of sweet manna<br/>When grapes from Eshcol fail</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>I've found a Rock of Ages<br/>When desert wells were dry<br/>And after weary stages<br/>I've found an Elim nigh</lines>
+    </verse>
+    <verse name="v3a">
+      <lines/>
+    </verse>
+    <verse name="v3b">
+      <lines>An Elim with its coolness<br/>Its fountains and its shade<br/>A blessing in its fullness<br/>When buds of promise fade</lines>
+    </verse>
+    <verse name="v3c">
+      <lines>O'er tears of soft contrition<br/>I've seen a rainbow light<br/>A glory and fruition<br/>So near - Yet out of sight</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>My Savior - Thee possessing<br/>I have the joy the balm<br/>The healing and the blessing<br/>The sunshine and the psalm</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>The promise for the fearful<br/>The Elim for the faint<br/>The rainbow for the tearful<br/>The glory for the saint</lines>
+    </verse>
+  </lyrics>
+</song>

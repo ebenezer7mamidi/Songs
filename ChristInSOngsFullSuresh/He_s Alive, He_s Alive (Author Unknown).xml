@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:46">
+  <properties>
+    <titles>
+      <title>He's Alive, He's Alive</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He's alive, He's alive, He's alive forevermore,<br/>Jesus is risen from the dead.<br/>He's alive, He's alive, He's alive forevermore,<br/>now He's become my Living Head.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Death no longer hath dominion,<br/>satan's power is broken down.<br/>He has triumphed, Hallelujah!<br/>And He wears the victor's crown.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He's alive, He's alive, He's alive forevermore,<br/>Jesus is risen from the dead.</lines>
+    </verse>
+  </lyrics>
+</song>

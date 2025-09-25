@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:44">
+  <properties>
+    <titles>
+      <title>Angels We Have Heard On High</title>
+    </titles>
+    <copyright>Public Domain, Administered by CCLI Administration Account</copyright>
+    <ccliNo>27721</ccliNo>
+    <authors>
+      <author>Edward Shippen Barnes</author>
+      <author>James Chadwick</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Gloria in excelsis Deo<br/>Gloria in excelsis Deo</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Angels we have heard on high<br/>Sweetly singing o'er the plains<br/>And the mountains in reply<br/>Echoing their joyous strains</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Shepherds why this jubilee<br/>Why your joyous strains prolong<br/>Say what may the tidings be<br/>Which inspire your heav'nly song</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come to Bethlehem and see<br/>Him whose birth the angels sing<br/>Come adore on bended knee<br/>Christ the Lord the newborn King</lines>
+    </verse>
+    <verse name="v4">
+      <lines>See within a manger laid<br/>Jesus Lord of heav'n and earth<br/>Mary Joseph lend your aid<br/>With us sing our Savior's birth</lines>
+    </verse>
+  </lyrics>
+</song>

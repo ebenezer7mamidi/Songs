@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T03:41:08">
+  <properties>
+    <titles>
+      <title>He has made me glad</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>D<br/><br/>I will enter His gates<br/>with thanksgiving in my heart<br/>I will enter His courts with praise<br/>I will say this is the day<br/>that the LORD has made<br/>I will rejoice for He has made me glad</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>He has made me glad<br/>He has made me glad<br/>I will rejoice for He has made me glad<br/>(Repeat)</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>We will enter His gates<br/>with thanksgiving in our hearts<br/>We will enter His courts with praise<br/>We will say this is the day<br/>that the LORD has made<br/>We will rejoice for He has made us glad</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>He has made us glad<br/>He has made us glad<br/>we will rejoice for He has made us glad<br/>(Repeat)</lines>
+    </verse>
+  </lyrics>
+</song>

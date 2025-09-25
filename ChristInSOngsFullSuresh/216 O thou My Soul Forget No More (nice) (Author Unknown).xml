@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:38">
+  <properties>
+    <titles>
+      <title>216 O thou My Soul Forget No More (nice)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Thou my soul forget no more<br/>The Friend who all thy mis'ry bore<br/>Let ev'ry idol be forgot<br/>But O my soul<br/>Forget Him not</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus for thee a body takes<br/>Thy guilt assumes<br/>Thy fetters breaks<br/>Discharging all thy dreadful debt<br/>And can thou e'er such love forget</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Renounce thy works and ways with grief<br/>And fly to this most sure relief<br/>Nor Him forget<br/>Who left His throne<br/>And for thy life gave up His own</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Eternal truth and mercy shine<br/>In Him and He Himself is thine<br/>And can thou then with sin beset<br/>Such charms<br/>Such matchless charms forget</lines>
+    </verse>
+  </lyrics>
+</song>

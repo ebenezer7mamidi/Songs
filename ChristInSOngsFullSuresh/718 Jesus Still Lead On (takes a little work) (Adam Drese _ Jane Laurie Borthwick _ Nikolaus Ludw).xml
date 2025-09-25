@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:42">
+  <properties>
+    <titles>
+      <title>718 Jesus Still Lead On (takes a little work)</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <ccliNo>195921</ccliNo>
+    <authors>
+      <author>Adam Drese | Jane Laurie Borthwick | Nikolaus Ludw</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus lead Thou on<br/>Till our rest is won<br/>And although the way be cheerless<br/>We will follow calm and fearless<br/>Guide us by Thy hand<br/>to our fatherland</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If the way be drear<br/>if the foe be near<br/>Let not faithless fears o'ertake us<br/>Let not faith and hope forsake us<br/>For through many a woe<br/>To our home we go</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When we seek relief<br/>From a long felt grief<br/>When temptations come alluring<br/>Make us patient and enduring<br/>Show us that bright shore<br/>Where we weep no more</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus lead Thou on<br/>Till our rest is won<br/>Heavenly Leader still direct us<br/>Still support console protect us<br/>Till we safely stand<br/>In our fatherland</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:52">
+  <properties>
+    <titles>
+      <title>Who You Say I Am</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who am I that the highest King<br/>would welcome me<br/>I was lost but He brought me in<br/>Oh His love for me<br/>Oh His love for me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Who the Son sets free<br/>oh is free indeed<br/>I'm a child of God<br/>yes I am</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Free at last He has ransomed me<br/>His grace runs deep<br/>While I was a slave to sin<br/>Jesus died for me<br/>Yes He died for me</lines>
+    </verse>
+    <verse name="c2">
+      <lines>In my Father's house<br/>there's a place for me<br/>I'm a child of God<br/>yes I am</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>I am chosen not forsaken<br/>I am who you say I am<br/>You are for me not against me<br/>I am who You say I am</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>I am who You say I am<br/>Oh I am who You say I am<br/>Yes I am who You say I am</lines>
+    </verse>
+  </lyrics>
+</song>

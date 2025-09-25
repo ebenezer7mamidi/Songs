@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>488 I Am Not My Own (chorus echo takes work)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tell me not of earthly pleasures<br/>Tempt me not with sordid gain<br/>Mock me not with earth's illusions<br/>Vex me not with honors vain<br/>I am weaned from sinful idols<br/>I am henceforth not my own<br/>I have given my heart to Jesus<br/>I belong to Him alone</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I --- am not my own ---<br/>(I am not my own - I am not my own)<br/>I --- am not my own ---<br/>(I am not my own - I am not my own)<br/>I belong to Jesus<br/>(I belong yes I belong to Jesus)<br/>And I am not my own ---<br/>(I am I am not my own - my own)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O the blessed rest it brings us<br/>To belong to Christ alone<br/>We can draw on all His fullness<br/>When we've nothing of our own<br/>Blessed Jesus take me own me<br/>Make me keep me wholly Thine<br/>Deign to find in me Thy portion<br/>While I joy to call Thee mine</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Weary soul give up the struggle<br/>Cease at length thyself to own<br/>Give yourself away to Jesus<br/>And belong to Him alone<br/>Once He gave His all to win thee<br/>Now He asks as much of thee<br/>All He has He fully gives thee<br/>Let thy love His portion be</lines>
+    </verse>
+  </lyrics>
+</song>

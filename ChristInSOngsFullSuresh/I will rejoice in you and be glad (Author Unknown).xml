@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:47">
+  <properties>
+    <titles>
+      <title>I will rejoice in you and be glad</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will rejoice in You and be glad<br/>I will extol Your love more than wine<br/>draw me unto You<br/>And let us run together<br/>I will rejoice in You and be glad</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We will rejoice in you and be glad<br/>We will extol your name more than wine<br/>Draw us unto you and let us run together<br/>We will rejoice in you and be glad</lines>
+    </verse>
+  </lyrics>
+</song>

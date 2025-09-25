@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:44">
+  <properties>
+    <titles>
+      <title>Adam Fell</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Adam fell and we fell in him ages ago<br/>Death and sin had entered in the world, and so<br/>God sent down His Son for us;<br/>Victory He won for us.<br/>Hallelujah. (repeat 3x)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God looked down upon the world and evil He saw;<br/>Through the sons of Israel He gave us the Law<br/>But the standard was too high for us<br/>So Jesus came and died for us.<br/>Hallelujah. (repeat 3x)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Some day Jesus will return to take us all home;<br/>We will be content to praise Him all the day long<br/>"Worthy is the Lamb!" we'll sing<br/>Praising Jesus Christ our King.<br/>Hallelujah. (repeat 3x)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So until that glorious day we're here amongst men<br/>Holding Jesus' testimony until He comes again,<br/>Deep in Christ abiding,<br/>In His life we're hiding.<br/>Hallelujah.</lines>
+    </verse>
+  </lyrics>
+</song>

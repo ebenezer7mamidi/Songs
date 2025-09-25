@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:46">
+  <properties>
+    <titles>
+      <title>He is Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/>Verse 1<br/>He is Lord He is Lord<br/>He is risen from the dead<br/>And He is Lord<br/>Ev'ry knee shall bow<br/>Ev'ry tongue confess<br/>That Jesus Christ is Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are Lord You are Lord<br/>You have risen from the dead<br/>And You are Lord<br/>Ev'ry knee shall bow<br/>Ev'ry tongue confess<br/>That Jesus Christ is Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>king of Kings<br/>lord of Lords<br/>you have risen from the dead and you are lord<br/>Ev'ry knee shall bow<br/>Ev'ry tongue confess<br/>That Jesus Christ is Lord</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:44">
+  <properties>
+    <titles>
+      <title>Be Filled With The Spirit (Ephesians 5:19)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Be filled with the Spirit,<br/>speaking to yourselves in psalms and hymns<br/>and spiritual songs,<br/>singing and making melody in your heart to the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

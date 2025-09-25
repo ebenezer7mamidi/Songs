@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:50">
+  <properties>
+    <titles>
+      <title>On Toward the Goal!  Press On</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>"On toward the goal!" Press on!<br/>Alone, yet unafraid;<br/>He cut the path, who beckons thee,<br/>On then, and undismayed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>"On toward the goal!" Press on!<br/>The eyes that are aflame<br/>Are watching thee, what then are men?<br/>What matter praise, or blame?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>"On toward the goal!" Press on!<br/>Look not behind thee now,<br/>When just ahead lies His "Well done,"<br/>And crowns await thy brow.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>"On toward the goal!" Press on!<br/>Blind, deaf and sometimes dumb<br/>Along the blood marked, uphill way,<br/>Hard after Christ, press on!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T14:28:28">
+  <properties>
+    <titles>
+      <title>Thank You For Saving Me</title>
+    </titles>
+    <copyright>1993 Curious? Music UK, Administered by EMI Christian Music Publishing</copyright>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <ccliNo>1043168</ccliNo>
+    <authors>
+      <author>Martin Smith</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>E<br/><br/>Thank You for saving me<br/>What can I say<br/>You are my ev'rything<br/>I will sing Your praise</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>You shed Your blood for me<br/>What can I say<br/>You took my sin and shame<br/>A sinner called by name</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Great is the Lord<br/>So great is the Lord<br/>For we know Your truth has set us free<br/>You've set Your hope in me</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Mercy and grace are mine<br/>Forgiven is my sin<br/>Jesus my only hope<br/>The Saviour of the world</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Great is the Lord we cry<br/>Let Your kingdom come<br/>Your Word has let me see<br/>Thank You for saving me</lines>
+    </verse>
+  </lyrics>
+</song>

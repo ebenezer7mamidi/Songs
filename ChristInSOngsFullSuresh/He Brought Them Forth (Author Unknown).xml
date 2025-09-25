@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:46">
+  <properties>
+    <titles>
+      <title>He Brought Them Forth</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He brought them forth<br/>With silver and gold<br/>And there were not<br/>many feeble among their tribe</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He gave a cloud for covering<br/>And fire by the night<br/>He opened up the rock<br/>And the waters gushed forth<br/>Like a river in dry places</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And he brought forth his people with joy<br/>And he brought forth his people with joy<br/>He brought them forth with gladness<br/>He brought forth his people with joy</lines>
+    </verse>
+  </lyrics>
+</song>

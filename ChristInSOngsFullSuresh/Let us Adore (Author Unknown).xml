@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:48">
+  <properties>
+    <titles>
+      <title>Let us Adore</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Let us adore<br/>the ever living God<br/>and render praise<br/>unto Him<br/>Who spread out the heavens<br/>and established the earth<br/>and whose glory<br/>is revealed in the heavens above</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>and whose greatness<br/>is manifest throughout<br/>the whole wide earth<br/>He is our God there is none else.</lines>
+    </verse>
+  </lyrics>
+</song>

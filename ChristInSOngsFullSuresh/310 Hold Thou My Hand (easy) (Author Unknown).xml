@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>310 Hold Thou My Hand (easy)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hold Thou my hand<br/>So weak I am and helpless<br/>I dare not take<br/>One step without Thy Aid<br/>Hold Thou my hand<br/>For then O loving Savior<br/>No dread of ill<br/>Shall make my soul afraid</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hold Thou my hand<br/>And closer closer draw me<br/>To Thy dear self<br/>My hope my joy my all<br/>Hold Thou my hand<br/>Lest haply I should wander<br/>And missing Thee<br/>My trembling feet should fall</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hold Thou my hand<br/>The way is dark before me<br/>Without the sunlight<br/>Of Thy face divine<br/>But when by faith<br/>I catch its radiant glory<br/>What heights of joy<br/>What rapturous songs are mine</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hold Thou my hand<br/>That when I reach the margin<br/>Of that lone river<br/>Thou didst cross for me<br/>A heav'nly light<br/>May flash along its waters<br/>And every wave<br/>Like crystal bright shall be</lines>
+    </verse>
+  </lyrics>
+</song>

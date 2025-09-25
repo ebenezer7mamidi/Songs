@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:45">
+  <properties>
+    <titles>
+      <title>Father we adore you</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Father we adore you<br/>Bow down and we worship you<br/>Father we adore you<br/>Bow down and we worship you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alleluia - Alleluia - Alleluia<br/>We love you Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus we adore you<br/>Bow down and we worship you<br/>Jesus we adore you<br/>Bow down and we worship you</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Allelia - Alleluia - Alleluia<br/>We love you Lord</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Spirit we adore you<br/>Bow down and we worship you<br/>Spirit we adore you<br/>Bow down and we worship you</lines>
+    </verse>
+  </lyrics>
+</song>

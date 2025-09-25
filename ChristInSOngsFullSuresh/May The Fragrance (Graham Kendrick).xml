@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-20T01:22:38">
+  <properties>
+    <titles>
+      <title>May The Fragrance</title>
+    </titles>
+    <copyright>1986 Thankyou Music, Administered by EMI Christian Music Publishing</copyright>
+    <ccliNo>59177</ccliNo>
+    <authors>
+      <author>Graham Kendrick</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/>May the fragrance of Jesus fill this place<br/>sisters: May the fragrance<br/> of Jesus fill this place<br/>May the fragrance of Jesus fill this place<br/>sisters: Lovely fragrance of Jesus<br/>Rising from the sacrifice<br/>Of lives laid down in adoration</lines>
+    </verse>
+    <verse name="v2">
+      <lines>May the glory of Jesus fill His church<br/>sisters: May the glory of<br/> Jesus fill His church<br/>May the glory of Jesus fill His church<br/>sisters: Radiant glory of Jesus<br/>Shining from our faces<br/>As we gaze in adoration</lines>
+    </verse>
+    <verse name="v3">
+      <lines>May the beauty of Jesus fill my life<br/>sisters: May the beauty<br/> of Jesus fill my life<br/>May the beauty of Jesus fill my life<br/>sisters: Perfect beauty of Jesus<br/>Fill my thoughts my words my deeds<br/>My all I give in adoration</lines>
+    </verse>
+  </lyrics>
+</song>

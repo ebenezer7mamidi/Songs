@@ -3,6 +3,7 @@ var intfadeout = 300;
 
 window.OpenLP = {
     allowedLangs: [],
+    fontCache: new Map(),   // cache for autoScaleText
 
     myWebSocket: function () {
         const host = window.location.hostname;
@@ -15,13 +16,10 @@ window.OpenLP = {
                 const data = JSON.parse(reader.result.toString()).results;
 
                 OpenLP.curStatus = 'live';
-                if (data.theme)
-                    OpenLP.curStatus = 'theme';
-                if (data.display)
-                    OpenLP.curStatus = 'display';
-                if (data.blank)
-                    OpenLP.curStatus = 'blank';
-                OpenLP.curStatus = 'live'; // overrriding -  always live
+                if (data.theme) OpenLP.curStatus = 'theme';
+                if (data.display) OpenLP.curStatus = 'display';
+                if (data.blank) OpenLP.curStatus = 'blank';
+                OpenLP.curStatus = 'live'; // overriding - always live
 
                 if (OpenLP.currentItem != data.item || OpenLP.currentService != data.service) {
                     OpenLP.currentItem = data.item;
@@ -138,12 +136,10 @@ window.OpenLP = {
     },
 
     autoScaleText: function (wrapper) {
-        if (!wrapper)
-            return;
+        if (!wrapper) return;
 
         const textContent = wrapper.querySelector('.text-content');
-        if (!textContent)
-            return;
+        if (!textContent) return;
 
         const langDivs = Array.from(textContent.children).filter(c => c.textContent.trim() !== '');
         const isVertical = wrapper.classList.contains('vertical');
@@ -154,20 +150,36 @@ window.OpenLP = {
             const availableHeight = textContent.clientHeight;
 
             langDivs.forEach(child => {
-                let fontSize = Math.floor(Math.min(availableWidth, availableHeight) * 0.8);
+                const key = child.textContent.length + "|" + isVertical + "|" + multiLang + "|" + availableWidth + "x" + availableHeight;
+                if (OpenLP.fontCache.has(key)) {
+                    child.style.fontSize = OpenLP.fontCache.get(key) + "px";
+                    return;
+                }
 
-                // Fit to container
-                child.style.fontSize = fontSize + "px";
-                while ((child.scrollHeight > availableHeight || child.scrollWidth > availableWidth) && fontSize > 10) {
-                    fontSize -= 2;
-                    child.style.fontSize = fontSize + "px";
+                // Binary search fit
+                let min = 10;
+                let max = Math.floor(Math.min(availableWidth, availableHeight) * 0.8);
+                let best = min;
+
+                while (min <= max) {
+                    const mid = Math.floor((min + max) / 2);
+                    child.style.fontSize = mid + "px";
+
+                    if (child.scrollHeight <= availableHeight && child.scrollWidth <= availableWidth) {
+                        best = mid;
+                        min = mid + 1;
+                    } else {
+                        max = mid - 1;
+                    }
                 }
 
                 // Apply vertical + multi-lang reduction
                 if (isVertical && multiLang) {
-                    fontSize = Math.floor(fontSize * 0.7);
-                    child.style.fontSize = fontSize + "px";
+                    best = Math.floor(best * 0.7);
                 }
+
+                child.style.fontSize = best + "px";
+                OpenLP.fontCache.set(key, best);
             });
         });
     },
@@ -187,12 +199,13 @@ window.OpenLP = {
         resizeCanvas();
         window.addEventListener("resize", resizeCanvas);
 
-        for (let i = 0; i < 50; i++) {
+        // fewer particles for OBS performance
+        for (let i = 0; i < 20; i++) {
             particles.push({
                 x: Math.random() * canvas.width,
                 y: Math.random() * canvas.height,
                 r: Math.random() * 2 + 1,
-                d: Math.random() * 1
+                d: Math.random() * 0.5
             });
         }
 

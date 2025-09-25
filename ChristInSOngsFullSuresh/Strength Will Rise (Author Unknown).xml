@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T14:19:10">
+  <properties>
+    <titles>
+      <title>Strength Will Rise</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A<br/>Strength will rise as we wait<br/>upon the Lord<br/>We will wait upon the Lord<br/>We will wait upon the Lord<br/>Strength will rise as we wait<br/>upon the Lord<br/>We will wait upon the Lord<br/>We will wait upon the Lord</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Our God You reign forever<br/>Our Hope our strong Deliv'rer</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You are the everlasting God<br/>The everlasting God<br/>You do not faint<br/>You won't grow weary<br/>You're the defender of the weak<br/>You comfort those in need<br/>You lift us up on wings like eagles</lines>
+    </verse>
+  </lyrics>
+</song>

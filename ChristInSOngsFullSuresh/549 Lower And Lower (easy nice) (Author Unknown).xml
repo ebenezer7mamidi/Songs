@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:41">
+  <properties>
+    <titles>
+      <title>549 Lower And Lower (easy nice)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lower and lower<br/>Dear Lord at Thy feet<br/>Seeking Thy Spirit<br/>Thy mercy so sweet<br/>Down in our need<br/>Blessed Master we fall<br/>Lower and lower<br/>Be Thou all in all</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lower and lower<br/>Down at Thy cross<br/>All the world's treasure<br/>Counting but dross<br/>Down at thy feet<br/>Blessed Savior we fall<br/>Lower still lower<br/>Christ all in all</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lower and lower<br/>Dear Savior we pray<br/>Losing the self-life<br/>Still more every day<br/>Weak and unworthy<br/>We're looking above<br/>Empty us wholly<br/>Then fill us with love</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lower and lower<br/>Yet higher we rise<br/>Lifted in Jesus<br/>Led on to the skies<br/>Humbly we follow<br/>The way of the cross<br/>Then crowns of glory<br/>And gain for all loss</lines>
+    </verse>
+  </lyrics>
+</song>

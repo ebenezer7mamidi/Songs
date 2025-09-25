@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:41">
+  <properties>
+    <titles>
+      <title>512 Jesus Keep Me Near The Cross</title>
+    </titles>
+    <copyright>© 1979 Richmond Music Press, Inc. Assigned 1999 Lorenz Publishing Company, Administered by Lorenz Corporation</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>3984280</ccliNo>
+    <authors>
+      <author>Fanny Jane Crosby | Robert W. Thygerson | William</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus keep me Near the cross<br/>There a precious fountain<br/>Free to all a healing Stream<br/>Flows from Calv'ry's Mountain</lines>
+    </verse>
+    <verse name="c1">
+      <lines>In the cross<br/>In the cross<br/>Be my glory ever<br/>Till my raptured Soul shall find<br/>Rest beyond the river</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Near the cross a Trembling soul<br/>Love and mercy found me<br/>There the bright and Morning star<br/>Sheds its beams Around me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Near the cross O Lamb of God<br/>Bring its scenes Before me<br/>Help me walk from Day to day<br/>With its shadow o'er me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Near the cross I'll Watch and wait<br/>Hoping trusting ever<br/>Till I reach the Golden strand<br/>Just beyond the river</lines>
+    </verse>
+  </lyrics>
+</song>

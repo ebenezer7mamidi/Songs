@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:48">
+  <properties>
+    <titles>
+      <title>Jesus Lord My Best Love Thou Art</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 c1 v3 c1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Jesus Lord, my best love Thou art,<br/>Thou hast fully captured my heart;<br/>There is none in heav'n<br/>nor on earth like Thee,<br/>With Thy beauty none can compete.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>When Thy voice first came to my ear,<br/>Whisp'ring in my heart words most dear,<br/>All past loves and aims<br/>lost their charm for me,<br/>All my boasts so vain now appear.</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Throughout all the world,<br/>who compares with Thee?<br/>Who so full of worth,<br/>who so fair and sweet?<br/>Only Thou art worthy my love to win,<br/>O Lord Jesus, how I love Thee!</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>No more I who live, no more self-deceived,<br/>No more in the self's world indulged to be,<br/>Deep within I know<br/>You're my only love,<br/>My best love is none else but Thee!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Jesus Lord, my best love Thou art,<br/>Rid all rocks that hide in my heart;<br/>Gladly I Thy bondslave<br/>of love would be,<br/>One heart, one will ever with Thee</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Though my heart is oft not subdued,<br/>Still Thy way alone<br/>it would choose;<br/>All I yearn for is what<br/>Thy heart desires,<br/>In Thy love alone peace I find.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Jesus Lord, my best love Thou art,<br/>Ne'er again from Thee I'd depart;<br/>Never hide Thy dear,<br/>smiling face from me.<br/>To none else I'd cling, Lord, but Thee.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>To Thee, Lord, my all I outpour,<br/>How Thy love my heart deeply fills,<br/>My eternal portion, most precious Lord,<br/>None but Thee I want evermore</lines>
+    </verse>
+  </lyrics>
+</song>

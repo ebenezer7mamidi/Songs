@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:49">
+  <properties>
+    <titles>
+      <title>May it never be (that I should boast)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>May it never be<br/>that I should boast<br/>Except in the cross<br/>of our Lord Jesus Christ<br/>Through which the world<br/>is crucified to me<br/>and I to the world</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For from Him and through Him<br/>And to Him are all things<br/>For from Him and through Him<br/>And to Him are all things<br/>To God be the glory<br/>forever, Amen<br/>To God be the glory<br/>Forever, Amen</lines>
+    </verse>
+    <verse name="e1">
+      <lines>To God be the glory<br/>forever, Amen<br/>To God be the glory<br/>Forever, Amen</lines>
+    </verse>
+  </lyrics>
+</song>

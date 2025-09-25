@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:38">
+  <properties>
+    <titles>
+      <title>239 This Is My Wonderful Story (nice tune)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This is my<br/>Wonderful story<br/>Christ to my heart has come<br/>Jesus the King of Glory<br/>Finds in my heart a home</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Christ in me<br/>Christ in me<br/>Christ in me<br/>O wonderful story</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Was there e'er<br/>Story so moving<br/>Story of love and pain<br/>Was there e'er<br/>Bridegroom so loving<br/>Seeking our hearts to gain</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I am so glad<br/>I recieved Him<br/>Jesus my heart's dear King<br/>I who so often have grieved Him<br/>All to His feet would bring</lines>
+    </verse>
+    <verse name="v4">
+      <lines>How can I ever be lonely<br/>How can I ever fall<br/>What can I want if only<br/>Christ is my all in all</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Now in His bosom confiding<br/>This my glad song shall be<br/>I am in Jesus abiding<br/>Jesus abides in me</lines>
+    </verse>
+  </lyrics>
+</song>

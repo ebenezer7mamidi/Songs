@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>426 Count Your Blessings (familiar)</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <ccliNo>40416</ccliNo>
+    <authors>
+      <author>Edwin Othello Excell | Johnson</author>
+      <author>Jr. Oatman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When upon life's billows<br/>You are tempest tossed<br/>When you are discouraged<br/>Thinking all is lost<br/>Count your many blessings<br/>Name them one by one<br/>And it will surprise you<br/>What the Lord hath done</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Count your blessings<br/>Name them one by one<br/>Count your blessings<br/>See what God hath done<br/>Count your blessings<br/>Name them one by one<br/>And it will surprise you<br/>What the Lord hath done</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Are you ever burdened<br/>With a load of care<br/>Does the cross seem heavy<br/>You are called to bear<br/>Count your many blessings<br/>Every doubt will fly<br/>And you will be singing<br/>As the days go by</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When you look at others<br/>With their lands and gold<br/>Think that Christ has promised<br/>You His wealth untold<br/>Count your many blessings<br/>Money cannot buy<br/>Your reward in heaven<br/>Nor your home on high</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So amid the conflict<br/>Whether great or small<br/>Do not be discouraged<br/>God is over all<br/>Count your many blessings<br/>Angels will attend<br/>Help and comfort give you<br/>To your journey's end</lines>
+    </verse>
+  </lyrics>
+</song>

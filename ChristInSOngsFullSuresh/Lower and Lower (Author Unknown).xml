@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:49">
+  <properties>
+    <titles>
+      <title>Lower and Lower</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lower and lower, dear Lord,<br/>at Thy feet, Seeking Thy Spirit,<br/>Thy mercy so sweet; Down in our need,<br/>blessed Master, we fall,<br/>Lower and lower, be Thou all in all.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lower and lower, down at Thy cross,<br/>All the world's treasure counting but dross;<br/>Down at Thy feet, blessed Savior, we fall,<br/>Lower, still lower, Christ all in all!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lower and lower, dear Savior,<br/>we pray, Losing the self-life still more every day;<br/>Weak and unworthy, we're looking above,<br/>Empty us wholly; then fill us with love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lower and lower, yet higher we rise,<br/>Lifted in Jesus, led on to the skies;<br/>Humbly we follow the way of the cross,<br/>Then, crowns of glory, and gain for all loss.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-11T15:41:19">
+  <properties>
+    <titles>
+      <title>I'm So Glad I'm A Part of the Family of God</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/>I'm so glad I'm a part<br/>Of the family of God<br/>I've been washed in the fountain<br/>Cleansed by His blood<br/>Joint heirs with Jesus<br/>As we travel this sod<br/>For I'm part of the family<br/>The Family of God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You will notice we say 'brother'<br/>and 'sister' round here<br/>It's because we're a family<br/>And these folks are so dear<br/>When one has a heartache<br/>We all share the tears<br/>And rejoice in each victory<br/>In this family so dear</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I'm so glad I'm a part<br/>Of the family of God<br/>I've been washed in the fountain<br/>Cleansed by His blood<br/>Joint heirs with Jesus<br/>As we travel this sod<br/>For I'm part of the family<br/>The Family of God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>From the door of an orphanage<br/>To the house of the King<br/>No longer an outcast<br/>A new song I sing<br/>From rags unto riches<br/>From the weak to the strong<br/>I'm not worthy to be here<br/>But praise God I belong!</lines>
+    </verse>
+  </lyrics>
+</song>

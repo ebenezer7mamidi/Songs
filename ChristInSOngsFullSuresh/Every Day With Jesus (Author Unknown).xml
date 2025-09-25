@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:45">
+  <properties>
+    <titles>
+      <title>Every Day With Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Every day with Jesus<br/>Is sweeter than the day before<br/>Everyday with Jesus<br/>I love Him more and more<br/>Jesus saves and keeps me<br/>And He's the one I'm waiting for<br/>Everyday with Jesus<br/>Is sweeter than the day<br/>Is more lovely than the day<br/>More awesome than the day before</lines>
+    </verse>
+  </lyrics>
+</song>

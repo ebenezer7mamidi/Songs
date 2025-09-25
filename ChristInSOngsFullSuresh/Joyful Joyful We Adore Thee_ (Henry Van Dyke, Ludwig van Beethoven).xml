@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-19T15:49:46">
+  <properties>
+    <titles>
+      <title>Joyful Joyful We Adore Thee*</title>
+    </titles>
+    <copyright>Public Domain, Administered by CCLI Administration Account</copyright>
+    <ccliNo>25321</ccliNo>
+    <authors>
+      <author>Henry Van Dyke</author>
+      <author>Ludwig van Beethoven</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>E<br/><br/>Joyful joyful we adore Thee<br/>God of glory Lord of love<br/>Hearts unfold like flow'rs before Thee<br/>Opening to the sun above</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Melt the clouds of sin and sadness<br/>Drive the dark of doubt away<br/>Giver of immortal gladness<br/>Fill us with the light of day</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>All Thy works with joy surround Thee<br/>Earth and heav'n reflect Thy rays<br/>Stars and angels sing around Thee<br/>Center of unbroken praise</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Field and forest vale and mountain<br/>Flowery meadow flashing sea<br/>Chanting bird and flowing fountain<br/>Call us to rejoice in Thee</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Thou art giving and forgiving<br/>Ever blessing ever blest<br/>Wellspring of the joy of living<br/>Ocean depth of happy rest</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Thou our Father Christ our Brother<br/>All who live in love are Thine<br/>Teach us how to love each other<br/>Lift us to the joy divine</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Mortals join the mighty chorus<br/>Which the morning stars began<br/>Father love is reigning o'er us<br/>Brother love binds man to man</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Ever singing march we onward<br/>Victors in the midst of strife<br/>Joyful music lifts us sunward<br/>In the triumph song of life</lines>
+    </verse>
+  </lyrics>
+</song>

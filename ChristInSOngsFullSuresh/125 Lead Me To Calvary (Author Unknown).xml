@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-19T20:42:41">
+  <properties>
+    <titles>
+      <title>125 Lead Me To Calvary</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/><br/>King of my life I crown Thee now<br/>Thine shall the glory be<br/>Lest I forget Thy thorn-crowned brow<br/>Lead me to Calvary</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lest I forget Gethsemane<br/>Lest I forget Thine agony<br/>Lest I forget Thy love for me<br/>Lead me to Calvary</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Show me the tomb where Thou wast laid<br/>Tenderly mourned and wept<br/>Angels in robes of light arrayed<br/>Guarded Thee whilst Thou slept</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let me like Mary through the gloom<br/>Come with a gift to Thee<br/>Show to me now the empty tomb<br/>Lead me to Calvary</lines>
+    </verse>
+    <verse name="v4">
+      <lines>May I be willing Lord to bear<br/>Daily my cross for Thee<br/>Even Thy cup of grief to share<br/>Thou hast borne all for me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Fill me, O Lord, with Thy desire<br/>For all that know not Thee;<br/>Then touch my lips with holy fire<br/>To speak of Calvary</lines>
+    </verse>
+  </lyrics>
+</song>

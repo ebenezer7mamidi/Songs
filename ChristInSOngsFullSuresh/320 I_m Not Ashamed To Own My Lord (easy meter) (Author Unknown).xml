@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:39">
+  <properties>
+    <titles>
+      <title>320 I'm Not Ashamed To Own My Lord (easy meter)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm not ashamed<br/>To own my Lord<br/>Or to defend His cause<br/>Maintain the honor<br/>Of His Word<br/>The glory of His cross</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus my God<br/>I know His name<br/>His Name is all my trust<br/>Nor will He put<br/>My soul to shame<br/>Nor let my hope be lost</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Firm as His throne<br/>His promise stands<br/>And He can well secure<br/>What I've committed<br/>To his hands<br/>Till the decisive hour</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Then will He own<br/>My worthless name<br/>Before His Father's face<br/>And in the<br/>New Jerusalem<br/>Appoint my soul a place</lines>
+    </verse>
+  </lyrics>
+</song>

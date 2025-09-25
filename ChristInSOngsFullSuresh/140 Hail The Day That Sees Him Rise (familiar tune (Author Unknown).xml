@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:38">
+  <properties>
+    <titles>
+      <title>140 Hail The Day That Sees Him Rise (familiar tune</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hail the day that sees Him rise<br/>Alleluia<br/>to His throne above the skies<br/>Alleluia<br/>Christ the Lamb for sinners giv'n<br/>Alleluia<br/>Enter now trhe highest heaven<br/>Alleluia</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There the glorious triumph waits<br/>Alleluia<br/>Lift your heads eternal gates<br/>Alleluia<br/>Christ hat conquered death and sin<br/>Alleluia<br/>Take the King of glory in<br/>Alleluia</lines>
+    </verse>
+    <verse name="v3">
+      <lines>See He lifts His hands above<br/>Alleluia<br/>See He shows the prints of love<br/>Alleluia<br/>Hark - His gracious lips bestow<br/>Alleluia<br/>Blessings on His chrch below<br/>Alleluia</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ever upward let us move<br/>Alleluia<br/>Wafted on the wings of love<br/>Alleluia<br/>Lokking when our Lord shal come<br/>Alleluia<br/>Longing gasping after home<br/>Alleluia</lines>
+    </verse>
+    <verse name="v5">
+      <lines>There we shall with Thee remain<br/>Alleluia<br/>Partners of Thy endless reign<br/>Alleluia<br/>There Thy face unclouded see<br/>Alleluia<br/>Find our heav'n of heav'ns in Thee<br/>Alleluia</lines>
+    </verse>
+  </lyrics>
+</song>

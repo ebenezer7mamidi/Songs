@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:48">
+  <properties>
+    <titles>
+      <title>Joy, Joy, Joy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Joy, joy, joy in my heart is ringing.<br/>Joy, joy, joy, Jesus sets me singing.<br/>Singing of His mighty love for me,<br/>telling how He died to set me free,<br/>filling all my life with melody,<br/>singing joy, joy, joy.</lines>
+    </verse>
+  </lyrics>
+</song>

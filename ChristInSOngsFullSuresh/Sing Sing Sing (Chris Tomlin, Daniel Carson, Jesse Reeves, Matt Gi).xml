@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T13:57:37">
+  <properties>
+    <titles>
+      <title>Sing Sing Sing</title>
+    </titles>
+    <copyright>2008 worshiptogether.com songs; sixsteps Music; Vamos Publishing; Ryan House Music, Administered by EMI Christian Music Publishing; Music Services, In</copyright>
+    <ccliNo>5114065</ccliNo>
+    <authors>
+      <author>Chris Tomlin</author>
+      <author>Daniel Carson</author>
+      <author>Jesse Reeves</author>
+      <author>Matt Gi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Sing Sing Sing<br/>And make music with the heavens<br/>We will sing sing sing<br/>Grateful that You hear us<br/>When we shout Your praise<br/>Lift high the name of Jesus</lines>
+    </verse>
+    <verse name="v1">
+      <lines>What's not to love about You<br/>Heaven and earth adore You<br/>Kings and kingdoms bow down<br/>Son of God You are the One<br/>You are the One we're living for</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are the love that frees us<br/>You are the light that leads us<br/>Like a fire burning<br/>Son of God You are the One<br/>You are the One we're living for</lines>
+    </verse>
+  </lyrics>
+</song>

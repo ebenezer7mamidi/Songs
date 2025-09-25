@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T03:38:06">
+  <properties>
+    <titles>
+      <title>Hallelujah!  I Have Found Him</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/><br/>All my life long I had panted<br/>For a drink from some clear spring,<br/>That I hoped would quench the burning<br/>Of the thirst I felt within.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hallelujah!<br/>I have found Him<br/>Whom my soul so long has craved!<br/>Jesus satisfies my longings -<br/>Thru His blood I now am saved.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Feeding on the husks around me,<br/>Till my strength was almost gone,<br/>Longed my soul for something better,<br/>Only still to hunger on.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Well of water ever springing,<br/>Bread of life so rich and free,<br/>Untold wealth that never faileth,<br/>My Redeemer is to me.</lines>
+    </verse>
+  </lyrics>
+</song>

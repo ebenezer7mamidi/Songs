@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>869 Asleep In Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Asleep in Jesus, blessed sleep<br/>From which none ever wakes to weep;<br/>A calm and undisturbed repose,<br/>Unbroken by the last of foes.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Asleep in Jesus; oh, how sweet<br/>To be for such a slumber meet,<br/>With holy confidence to sing,<br/>That death hath lost its venomed sting.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Asleep in Jesus, peaceful rest,<br/>Hence waking we're supremly blest;<br/>No fear, no woe, shall dim that hour.<br/>That manifests the Savior's pow'r.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T14:20:26">
+  <properties>
+    <titles>
+      <title>Take Me In (Youth Song)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/><br/>Take me past the outer courts<br/>And thru the Holy place<br/>Past the brazen alter<br/>Lord I want to see your face</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pass me by<br/>the crowds of people<br/>the priests who sing your praise<br/>I hunger and thirst<br/>for your righteousness<br/>and it's only found in one place</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Take me in to the Holy of Holies<br/>Take me in by the blood of the Lamb<br/>Take me in to the Holy of Holies<br/>Take the coal touch my lips<br/>Here I am</lines>
+    </verse>
+  </lyrics>
+</song>

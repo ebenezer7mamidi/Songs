@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:41">
+  <properties>
+    <titles>
+      <title>561 Abide With Me (familiar nice)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Abide with me<br/>Fast falls the eventide<br/>The darkness deepens<br/>Lord with me abide<br/>When other helpers<br/>Fail and comforts flee<br/>Help of the helpless<br/>Oh abide with me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Swift to its close<br/>Ebbs out life's little day<br/>Earth's joys grow dim<br/>Its glories pass away<br/>Change and decay<br/>In all around I see<br/>O Thou who changest not<br/>Abide with me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come not in terrors<br/>As the King of kings<br/>But kind and good<br/>With healing in Thy wings<br/>Tears for all woes<br/>A heart for every plea<br/>Come Friend of sinners<br/>Thus abide with me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I need Thy presence<br/>Every passing hour<br/>What but Thy grace<br/>Can foil the tempter's power<br/>Who like Thyself<br/>My guide and stay can be<br/>Through cloud and sunshine<br/>Oh abide with me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I fear no foe<br/>With Thee at hand to bless<br/>Ills have no weight<br/>And tears no bitterness<br/>Where is death's sting<br/>Where grave thy victory<br/>I triumph still<br/>If Thou abide with me</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Reveal Thyself<br/>Before my closing eyes<br/>Shine through the gloom<br/>And point me to the skies<br/>Heaven's morning breaks<br/>And earth's vain shadows flee<br/>In life - In death<br/>O Lord abide with me</lines>
+    </verse>
+  </lyrics>
+</song>

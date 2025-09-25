@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>846 Never Further Than Thy Cross (easy)</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <ccliNo>4044349</ccliNo>
+    <authors>
+      <author>Elizabeth Rundle Charles</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Never further than thy Cross<br/>Never higher than thy feet<br/>Here earth's precious things seem dross<br/>Here earth's bitter things grow sweet</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gazing thus our sin we see<br/>Learn thy love while gazing thus<br/>Sin which laid the Cross on Thee<br/>Love which bore the Cross for us</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Here we learn to serve and give<br/>And rejoicing self deny<br/>Here we gather love to live<br/>Here we gather faith to die</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Symbols of our liberty<br/>And our service here unite<br/>Captives by Thy Cross set free<br/>Soldiers of Thy cross we fight</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Pressing onwards as we can<br/>Still to this our hearts must tend<br/>Where our earliest hopes began<br/>There our last aspirings end</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Till amid the hosts of light<br/>We in thee redeemed complete<br/>Through Thy Cross made pure and white<br/>Cast our crowns before Thy feet</lines>
+    </verse>
+  </lyrics>
+</song>

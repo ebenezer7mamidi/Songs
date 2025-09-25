@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:42">
+  <properties>
+    <titles>
+      <title>631 Once I was Dead (easy familiar tune)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Once I was dead in sin<br/>And hope within me died<br/>But now I'm dead to sin<br/>With Jesus crucified</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And can it be that<br/>He loved me<br/>And gave Himself for me<br/>And can it be that<br/>He loved me<br/>And gave Himself for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O height I cannot reach<br/>O depth I cannot sound<br/>O love - O boundless love<br/>In my Redeemer found</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I live - and yet not I<br/>But Christ that lives in me<br/>Who from the law of sin<br/>And death has made me free</lines>
+    </verse>
+  </lyrics>
+</song>

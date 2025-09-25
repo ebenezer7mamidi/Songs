@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-19T20:44:32">
+  <properties>
+    <titles>
+      <title>126 The Unveiled Christ</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Once our blessed Christ of beauty<br/> Was veiled off from human view;<br/> But thro' suffering death and sorrow<br/> He has rent the veil in two.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O behold the man of sorrows,<br/> O behold Him in plain view,<br/> Lo! He is the mighty conqueror,<br/> Since He rent the veil in two. <br/> Lo! He is the mighty conqueror,<br/> Since He rent the veil in two.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yes, He is with God, the Father,<br/> Interceding there for you:<br/> For He is the Well-beloved,<br/> Since He rent the veil in two.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Holy angels bow before Him,<br/> Men of earth give praises due;<br/> For He is the mighty conqueror,<br/> Since He rent the veil in two.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Through-out time and endless ages,<br/> Heights and depths of love so true;<br/> He alone can be the giver,<br/> Since He rent the veil in two.</lines>
+    </verse>
+  </lyrics>
+</song>

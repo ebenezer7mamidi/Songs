@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-06T00:12:43">
+  <properties>
+    <titles>
+      <title>Wonderful Grace Of Jesus (with parts)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wonderful grace of Jesus<br/>Greater than all my sin<br/>How shall my tongue describe it<br/>Where shall its praise begin<br/>Taking away my burden<br/>Setting my spirit free<br/>For the wonderful grace of Jesus reaches me</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Brothers: Wonderful the matchless grace of Jesus<br/>  Sisters: the matchless grace of Jesus<br/>Brothers: Deeper than the mighty rolling sea<br/>  Sisters: the rolling sea </lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Brothers: Higher than the mountain sparkling like a fountain<br/>  Sisters: Wond....er...ful grace.....all....suf<br/>Brothers: All sufficient grace for even me<br/>  Sisters: fi..........cient for me, for even me</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Sisters: Broader than the scope of my transgressions<br/> Brothers: gressions - sing it<br/>Sisters: Greater far than all my sin and shame<br/> Brothers: my sin and shame<br/>All: O magnify the precious name of Jesus - Praise His name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wonderful grace of Jesus<br/>Reaching to all the lost<br/>By it I have been pardoned<br/>Saved to the uttermost<br/>Chains have been torn asunder<br/>Giving me liberty<br/>For the wonderful grace of Jesus reaches me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wonderful grace of Jesus<br/>Reaching the most defiled<br/>By its transforming power<br/>Making Him God's dear child<br/>Purchasing peace and heaven<br/>For all eternity<br/>And the wonderful grace of Jesus reaches me</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>432 Does Jesus Care (lovely easy)</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <ccliNo>101812</ccliNo>
+    <authors>
+      <author>Frank E. Graeff | Joseph Lincoln Hall</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Does Jesus care<br/>When my heart is pained<br/>Too deeply for mirth and song<br/>As the burdens press<br/>And the cares distress<br/>And the way grows<br/>Weary and long</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O yes He cares<br/>I know He cares<br/>His heart is touched<br/>With my grief<br/>When the days are weary<br/>The long nights dreary<br/>I know my Savior cares</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Does Jesus care<br/>When my way is dark<br/>With a nameless dread and fear<br/>As the daylight fades<br/>Into deep night shades<br/>Does He care enough to be near</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Does Jesus care<br/>When I've tried and failed<br/>To resist some temptation strong<br/>When for my deep grief<br/>There is no relief<br/>Tho' my tears flow<br/>All the night long</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Does Jesus care<br/>When I've said goodbye<br/>To the dearest on earth to me<br/>And my sad heart aches<br/>Till it nearly breaks<br/>Is it aught to Him<br/>Does He see</lines>
+    </verse>
+  </lyrics>
+</song>

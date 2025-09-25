@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:49">
+  <properties>
+    <titles>
+      <title>Lord Your Name is A Tower</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A<br/>Lord, Your Name is a tower,<br/>Where I run when I'm afraid.<br/>And when I reach your tower,<br/>I feel safe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I feel safe, in Your Name,<br/>I feel no fear, I feel no shame.<br/>I feel safe, Oh Lord, In Your tower</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>494 He Died For Me That I Might Live (easy, nice,</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He died for me that I might live<br/>I live for Him who died<br/>My life my love to Him I give<br/>Jesus the Crucified</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O Jesus my Lord and Savior<br/>Help me to fully follow Thee<br/>In life and death and loving service<br/>As Thou hast lived and died for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He died for me that I might die<br/>To Satan self and sin<br/>O death so deep O life so high<br/>Help me to enter in</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He lives for me that I may live<br/>As spotless e'en as He<br/>Savior to me Thy nature give<br/>And live Thy life in me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He lives for me that I may give<br/>His love to hearts that pine<br/>Let me like Him for others live<br/>And trace His steps divine</lines>
+    </verse>
+  </lyrics>
+</song>

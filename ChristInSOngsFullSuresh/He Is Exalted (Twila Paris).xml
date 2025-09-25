@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T03:46:12">
+  <properties>
+    <titles>
+      <title>He Is Exalted</title>
+    </titles>
+    <comments>
+      <comment>ending (optional)
+
+[above are Song Tags with notes imported from EasyWorship]</comment>
+    </comments>
+    <copyright>1985 Straightway Music / Mountain Spring Music, Administered by EMI Christian Music Publishing</copyright>
+    <ccliNo>17827</ccliNo>
+    <authors>
+      <author>Twila Paris</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>F<br/><br/>He is exalted<br/>The King is exalted on high<br/>I will praise Him<br/>He is exalted forever exalted<br/>And I will praise His name</lines>
+    </verse>
+    <verse name="c1">
+      <lines>He is the Lord<br/>Forever His truth shall reign<br/>Heaven and earth<br/>Rejoice in His holy name<br/>He is exalted<br/>The King is exalted on high</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are exalted<br/>You're the King You're exalted on high<br/>We will praise You<br/>You are exalted forever exalted<br/>And we will praise Your name</lines>
+    </verse>
+    <verse name="c2">
+      <lines>You are the Lord<br/>Forever Your truth shall reign<br/>Heaven and earth<br/>Rejoice in Your holy name<br/>You are exalted<br/>You're The King You're exalted on high</lines>
+    </verse>
+    <verse name="e1">
+      <lines>You are exalted<br/>You're The King You're exalted on high</lines>
+    </verse>
+  </lyrics>
+</song>

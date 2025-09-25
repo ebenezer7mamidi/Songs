@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:51">
+  <properties>
+    <titles>
+      <title>The Lord is My Light</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Lord is my light,<br/>Is my light and my salvation:<br/>Whom shall I fear?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The Lord is the strength,<br/>Is the strength of my life:<br/>Of whom shall I be afraid?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tho' a host should encamp against me,<br/>My heart shall not fear;<br/>Tho' war should rise against me,<br/>In this I will be confident</lines>
+    </verse>
+  </lyrics>
+</song>

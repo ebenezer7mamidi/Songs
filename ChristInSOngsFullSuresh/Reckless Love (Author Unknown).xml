@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T13:45:36">
+  <properties>
+    <titles>
+      <title>Reckless Love</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 c1 b1 c1 c2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/><br/>Before I spoke a word,<br/>You were singing over me<br/>You have been so, so good to me<br/>Before I took a breath,<br/>You breathed Your life in me<br/>You have been so, so kind to me</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Oh, the overwhelming,<br/>Never-ending, reckless love of God<br/>Oh, it chases me down,<br/>Fights 'til I'm found,<br/>Leaves the ninety-nine</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>I couldn't earn it,<br/>I don't deserve it,<br/>Still You give Yourself away<br/>Oh, the overwhelming,<br/>Never-ending, reckless love of God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When I was Your foe,<br/>Still Your love fought for me<br/>You have been so, so good to me<br/>When I felt no worth,<br/>You paid it all for me<br/>You have been so, so kind to me</lines>
+    </verse>
+    <verse name="b1">
+      <lines>There's no shadow<br/>You won't light up<br/>Mountain You won't climb up<br/>Coming after me<br/>There's no wall You won't kick down<br/>Lie You won't tear down<br/>Coming after me x2</lines>
+    </verse>
+    <verse name="c2">
+      <lines>I couldn't earn it,<br/>I don't deserve it,<br/>Still You give Yourself away<br/>Oh, the overwhelming,<br/>Never-ending,<br/>Reckless love of God</lines>
+    </verse>
+  </lyrics>
+</song>

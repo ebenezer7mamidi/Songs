@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T13:36:41">
+  <properties>
+    <titles>
+      <title>People of God</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>C<br/><br/>With our lips<br/>Let us sing one confession<br/>With our hearts<br/>Hold to one truth alone</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>For He has erased<br/>Our transgression<br/>Claimed us and called us<br/>His own His very own</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We're the people of God<br/>Called by His name<br/>Called from the dark<br/>And delivered from shame<br/>One holy race saints ev'ryone<br/>Because of the blood<br/>Of Christ Jesus the Son</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Hear us O spirits of darkness<br/>So you will know<br/>Where we stand<br/>We are His servants</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Purchased with scars<br/>Bought by the blood<br/>Of the Lamb<br/>The blood of the Lamb</lines>
+    </verse>
+  </lyrics>
+</song>

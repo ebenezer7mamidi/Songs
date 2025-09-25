@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:45">
+  <properties>
+    <titles>
+      <title>Glory Glory Glory To The Lamb</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Glory Glory Glory to the Lamb<br/>Glory Glory Glory to the Lamb</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>For He is glorious<br/>And worthy to be praised<br/>The Lamb upon the throne<br/>And unto Him<br/>We lift our voice in praise<br/>The Lamb upon the throne</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Worthy Worthy Worthy is the Lamb<br/>Worthy Worthy Worthy is the Lamb</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Holy Holy Holy is the Lamb<br/>Holy Holy Holy is the Lamb</lines>
+    </verse>
+  </lyrics>
+</song>

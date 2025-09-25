@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:42">
+  <properties>
+    <titles>
+      <title>688 Light After Darkness (easy sweet)</title>
+    </titles>
+    <copyright>© 1999 Dick Grout</copyright>
+    <ccliNo>4977306</ccliNo>
+    <authors>
+      <author>Dick Grout | Francis Ridley Havergal</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Light after darkness<br/>gain after loss<br/>Strength after weakness<br/>crown after cross<br/>Sweet after bitter<br/>hope after fears<br/>Home after wandering<br/>praise after tears</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sheaves after sowing<br/>sun after rain<br/>Sight after mystery<br/>peace after pain<br/>Joy after sorrow<br/>calm after blast<br/>Rest after weariness<br/>sweet rest at last</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Near after distant<br/>gleam after gloom<br/>Love after loneliness<br/>life after tomb<br/>After long agony<br/>rapture of bliss<br/>Right was the pathway<br/>leading to this</lines>
+    </verse>
+  </lyrics>
+</song>

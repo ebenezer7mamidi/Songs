@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:52">
+  <properties>
+    <titles>
+      <title>Thy mighty love,</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thy mighty love, O God, constraineth me,<br/>As some strong tide it presseth on its way,<br/>Seeking a channel in my self-bound soul,<br/>Yearning to sweep all barriers away.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Shall I not yield to that constraining power?<br/>Shall I not say, O tide of love, flow in?<br/>My God, Thy gentleness hath conquered me,<br/>Life cannot be as it hath hither been.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Break through my nature, mighty heavenly love,<br/>Clear every avenue of thought and brain,<br/>Flood my affections, purify my will,<br/>Let nothing but thine own pure life remain.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Thus wholly mastered and possessed by God,<br/>Forth from my life, spontaneous and free,<br/>Shall flow a stream of tenderness and grace,<br/>Loving, because God loved, eternally.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>by E. May Grimes</lines>
+    </verse>
+  </lyrics>
+</song>

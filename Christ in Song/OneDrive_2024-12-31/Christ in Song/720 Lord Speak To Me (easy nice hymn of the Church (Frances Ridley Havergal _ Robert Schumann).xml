@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:42">
+  <properties>
+    <titles>
+      <title>720 Lord Speak To Me (easy nice hymn of the Church</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <ccliNo>103391</ccliNo>
+    <authors>
+      <author>Frances Ridley Havergal | Robert Schumann</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord speak to me that I may speak<br/>In living echoes of Thy tone<br/>As Thou hast sought so let me seek<br/>Thy erring children lost and lone</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O lead me Lord that I may lead<br/>The wandering and the wavering feet<br/>O feed me Lord that I may feed<br/>Thy hungering ones with manna sweet</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O strengthen me that while I stand<br/>Firm as the rock and strong in Thee<br/>I may stretch out a loving hand<br/>To wrestlers with the troubled sea</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O teach me Lord that I may teach<br/>The precious things Thou dost impart<br/>And wing my words that they may reach<br/>The hidden depths of many a heart</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O give Thine own sweet rest to me<br/>That I may speak with soothing power<br/>A word in season as from Thee<br/>To weary ones in needful hour</lines>
+    </verse>
+    <verse name="v6">
+      <lines>O fill me with Thy fullness Lord<br/>Until my very heart o'erflow<br/>In kindling thought and glowing word<br/>Thy love to tell Thy praise to show</lines>
+    </verse>
+    <verse name="v7">
+      <lines>O use me Lord use even me<br/>Just as Thou wilt and when and where<br/>Until Thy blessed face I see<br/>Thy rest Thy joy Thy glory share</lines>
+    </verse>
+  </lyrics>
+</song>

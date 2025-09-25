@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:50">
+  <properties>
+    <titles>
+      <title>Oh The Spirit Of The Lord Is Here</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh the spirit of the Lord is here<br/>I can feel his presence ever so near<br/>As we lift Him up in worship and praise<br/>As we magnify His holy name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He will touch us if we'll only believe<br/>So open up your heart and now receive<br/>Cast aside your every doubt and fear<br/>For the spirit of the Lord is here</lines>
+    </verse>
+  </lyrics>
+</song>

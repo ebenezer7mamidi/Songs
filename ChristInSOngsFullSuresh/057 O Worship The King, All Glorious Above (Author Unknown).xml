@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-19T20:04:58">
+  <properties>
+    <titles>
+      <title>057 O Worship The King, All Glorious Above</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>E<br/><br/>Oh, worship the King,<br/>All glorious above,<br/>Oh, gratefully sing<br/>His power and His love.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Our Shield and Defender,<br/>The Ancient of Days,<br/>Pavilioned in splendor<br/>And girded with praise.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Oh, tell of His might,<br/>Oh, sing of His grace<br/>Whose robe is the light,<br/>Whose canopy space.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>His chariots of wrath<br/>The deep Thunderclouds form<br/>And dark is His path<br/>On the wings<br/>Of the storm.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Thy bountiful care<br/>What tongue Can recite?<br/>It breathes in the air,<br/>It shines in the light.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>It streams from The hills,<br/>It descends to the plain<br/>And sweetly distills<br/>In the dew and The rain.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Frail children of dust<br/>And feeble as frail<br/>In Thee do we trust,<br/>Nor find Thee to fail.</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Thy mercies how Tender,<br/>How firm to the end,<br/>Our Maker, Defender,<br/>Redeemer, and Friend.</lines>
+    </verse>
+  </lyrics>
+</song>

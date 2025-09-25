@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:50">
+  <properties>
+    <titles>
+      <title>Seek ye first the kingdom of God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Seek ye first the kingdom of God<br/>And His righteousness<br/>And all these things<br/>Shall be added unto you<br/>Allelu alleluia</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Man shall not live by bread alone<br/>But by ev'ry word that proceeds<br/>From the mouth of God<br/>Allelu alleluia</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ask and it shall be given unto you<br/>Seek and ye shall find<br/>Knock and the door shall be<br/>Opened unto you<br/>Allelu alleluia</lines>
+    </verse>
+  </lyrics>
+</song>

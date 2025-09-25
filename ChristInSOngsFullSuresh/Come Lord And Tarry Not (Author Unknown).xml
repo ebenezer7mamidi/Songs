@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:45">
+  <properties>
+    <titles>
+      <title>Come Lord And Tarry Not</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come Lord and tarry not<br/>Bring the long looked for day<br/>O why these years of waiting here<br/>These ages of decay</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come for Thy saints still wait<br/>Daily ascends their sigh<br/>The Spirit and the Bride say "Come"<br/>Dost Thos not hear the cry</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come for creation groans<br/>Inpatient of Thy stay<br/>Worn out with these long years of ill<br/>These ages of delay</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Come for the good are few<br/>They lift the voice in vain<br/>Faith waxes fainter on the earth<br/>And love is on the wane</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Come for the truth is weak<br/>And error pours abroad<br/>Its suble poison o'er the earth<br/>An earth that hates her God</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Come for love waxes cold<br/>Its steps are faint and slow<br/>Faith now is lost in unbelief<br/>Hope's lamp burns dim and low</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Come for the corn is ripe<br/>Put in Thy sicle now<br/>Reap the great harvest of the earth<br/>Sower and reaper Thou</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Come and make all thing new<br/>Build up this ruined earth<br/>Restore our faded paradise<br/>Creation's second birth</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Come and begin thy reign<br/>Of everlasting peace<br/>Come take the kingdom to Thyself<br/>Great King of Righteousness</lines>
+    </verse>
+  </lyrics>
+</song>

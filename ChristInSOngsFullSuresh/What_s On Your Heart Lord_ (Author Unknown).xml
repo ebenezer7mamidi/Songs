@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:52">
+  <properties>
+    <titles>
+      <title>What's On Your Heart Lord?</title>
+    </titles>
+    <verseOrder>v1 v2 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What's on Your heart, Lord?<br/>What's on Your heart?<br/>Where would You<br/>establish Your throne<br/>And make Your<br/>Righteousness known?<br/>What must be taken away<br/>That You may have a clear way?<br/>What's on Your heart, Lord<br/>What's on Your heart?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Search out our hearts, Lord.<br/>Search out our hearts.<br/>There may You<br/>establish Your throne<br/>And make Your<br/>Righteousness known.<br/>What must be taken away<br/>Take, so You have a clear way.<br/>Search out our hearts, Lord.<br/>Search out our hearts.</lines>
+    </verse>
+  </lyrics>
+</song>

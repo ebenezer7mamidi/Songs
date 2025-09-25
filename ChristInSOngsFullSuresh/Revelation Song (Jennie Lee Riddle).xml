@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T13:49:05">
+  <properties>
+    <titles>
+      <title>Revelation Song</title>
+    </titles>
+    <copyright>2004 Gateway Create Publishing, Administered by Integrity Music, Inc.</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 c1</verseOrder>
+    <ccliNo>4447960</ccliNo>
+    <authors>
+      <author>Jennie Lee Riddle</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/><br/>Worthy is the<br/>Lamb Who was slain<br/>Holy holy is He<br/>Sing a new song<br/>To Him who sits on<br/>Heaven's mercy seat</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Holy holy holy<br/>Is the Lord God Almighty<br/>Who was and is<br/>And is to come</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>With all creation I sing<br/>Praise to the King of kings<br/>You are my ev'rything<br/>And I will adore You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Crowned with rainbows of living color<br/>Flashes of lightning<br/>Rolls of thunder<br/>Blessing and honor strength and<br/>Glory and power be<br/>To You the only wise King</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Filled with wonder<br/>Awestruck wonder<br/>At the mention of Your name<br/>Jesus Your name is power<br/>Breath and living water<br/>Such a marv'lous mystery</lines>
+    </verse>
+  </lyrics>
+</song>

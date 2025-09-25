@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:41">
+  <properties>
+    <titles>
+      <title>578 Teach Me Thy Way O Lord (easy)</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <ccliNo>87077</ccliNo>
+    <authors>
+      <author>Benjamin Mansell Ramsey</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Teach me Thy Way O Lord<br/>Teach me Thy Way<br/>Thy gracious aid afford<br/>Teach me Thy Way<br/>Help me to walk aright<br/>More by faith less by sight<br/>Lead me with heav'nly light<br/>Teach me Thy Way</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When doubts and fears arise<br/>Teach me Thy Way<br/>When storms o'erspread the skies<br/>Teach me Thy Way<br/>Shine through the cloud and rain<br/>Through sorrow toil and pain<br/>Make Thou my pathway plain<br/>Teach me Thy Way</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Long as my life shall last<br/>Teach me Thy Way<br/>Where'er my lot be cast<br/>Teach me Thy Way<br/>Until the race is run<br/>Until the journey's done<br/>Until the crown is won<br/>Teach me Thy Way</lines>
+    </verse>
+  </lyrics>
+</song>

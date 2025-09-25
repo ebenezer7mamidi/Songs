@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:49">
+  <properties>
+    <titles>
+      <title>Mighty Is Our God</title>
+    </titles>
+    <copyright>1989 Integrity's Hosanna! Music, Administered by Integrity Music, Inc.</copyright>
+    <ccliNo>60867</ccliNo>
+    <authors>
+      <author>Don Moen</author>
+      <author>Eugene Greco</author>
+      <author>Gerrit Gustafson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Mighty is our God<br/>Mighty is our King<br/>Mighty is our Lord<br/>Ruler of ev'rything<br/>Glory to our God<br/>Glory to our King<br/>Glory to our Lord<br/>Ruler of ev'rything</lines>
+    </verse>
+    <verse name="v1">
+      <lines>His name is higher<br/>Higher than any other name<br/>His pow'r is greater<br/>For He has created ev'rything</lines>
+    </verse>
+  </lyrics>
+</song>

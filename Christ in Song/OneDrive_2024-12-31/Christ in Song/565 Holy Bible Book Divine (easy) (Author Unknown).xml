@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:41">
+  <properties>
+    <titles>
+      <title>565 Holy Bible Book Divine (easy)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy Bible book divine<br/>Precious treasure thou art mine<br/>Mine to tell me whence I came<br/>Mine to teach me what I am</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mine to chide me when I rove<br/>Mine to show a Savior's love<br/>Mine thou art to guide and guard<br/>Mine to punish or reward</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mine to comfort in distress<br/>Suffering in this wilderness<br/>Mine to show by living faith<br/>Man can triumph over death</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mine to tell of joys to come<br/>And the rebel sinner's doom<br/>O thou holy book divine<br/>Precious treasure<br/>Thou art mine</lines>
+    </verse>
+  </lyrics>
+</song>

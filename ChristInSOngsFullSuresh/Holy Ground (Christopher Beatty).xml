@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:46">
+  <properties>
+    <titles>
+      <title>Holy Ground</title>
+    </titles>
+    <copyright>1982 Birdwing Music | / BMG Songs, Inc. |, Administered by EMI Christian Music Publishing | BMG Music Publish</copyright>
+    <ccliNo>19526</ccliNo>
+    <authors>
+      <author>Christopher Beatty</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This is holy ground<br/>We're standing on holy ground<br/>For the Lord is here<br/>And where He is is holy<br/>x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>These are holy hands,<br/>We're lifting up holy hands,<br/>For the Lord has cleansed,<br/>And what He's cleansed is holy<br/>x2</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>We are standing on holy ground<br/>And we know that<br/>there are angels all around.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Let us praise Jesus now.<br/>We are standing<br/>in His presence on holy ground.</lines>
+    </verse>
+  </lyrics>
+</song>

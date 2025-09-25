@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-06-05T13:17:12">
+  <properties>
+    <titles>
+      <title>Once it was the blessing</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Once it was the blessing<br/>Now it is the Lord<br/>Once it was the feeling<br/>Now it is His Word<br/>Once His gift I wanted<br/>Now the Giver own<br/>Once I sought for healing<br/>Now Himself alone</lines>
+    </verse>
+    <verse name="c1">
+      <lines>All in all forever<br/>Only Christ I'll sing<br/>Everything is in Christ<br/>And Christ is ev'ry-thing</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Once 'twas painful trying<br/>Now 'tis perfect trust<br/>Once a half salvation<br/>Now the uttermost<br/>Once 'twas ceaseless holding<br/>Now He holds me fast<br/>Once 'twas constant drifting<br/>Now my anchor's cast</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Once 'twas busy planning<br/>Now 'tis trustful prayer<br/>Once 'twas anxious caring<br/>Now He has the care<br/>Once 'twas what I wanted<br/>Now what Jesus says<br/>Once 'twas constant asking<br/>Now 'tis ceaseless praise</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Once it was my working<br/>His it hence shall be<br/>Once I tried to use Him<br/>Now He uses me<br/>Once the pow'r I wanted<br/>Now the Mighty One<br/>Once for self I labored<br/>Now for Him alone</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Once I hoped in Jesus<br/>Now I know He's mine<br/>Once my lamps were dying<br/>Now they brightly shine<br/>Once for death I waited<br/>Now his coming hail<br/>And my hopes are anchored <br/>Safe within the veil</lines>
+    </verse>
+  </lyrics>
+</song>

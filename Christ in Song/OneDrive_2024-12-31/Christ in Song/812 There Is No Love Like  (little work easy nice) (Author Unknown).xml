@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:43">
+  <properties>
+    <titles>
+      <title>812 There Is No Love Like  (little work easy nice)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is no love like the love of Jesus<br/>Never to fade or fall<br/>Till into the fold of the peace of God<br/>He has gathered us all</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Jesus' love precious love<br/>Boundless and pure and free<br/>Oh turn to that love weary wand'ring soul<br/>Jesus pleadeth for thee</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is no heart like the heart of Jesus<br/>Filled with a tender love<br/>No throb nor throe that our hearts can know<br/>But He feels it above</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There is no eye like the eye of Jesus<br/>Piercing so far away<br/>Ne'er out of the sight of its tender light<br/>Can the wanderer stray</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There is no voice like the voice of jesus<br/>Tender and sweet its chime<br/>Like musical ring of a flowing spring<br/>In the bright summertime</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh let us hark to the voice of Jesus<br/>Oh may we never roam<br/>Till safe we rest on His loving breast<br/>In the dear heavenly home</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>CCLI Song # 3250024</lines>
+    </verse>
+  </lyrics>
+</song>

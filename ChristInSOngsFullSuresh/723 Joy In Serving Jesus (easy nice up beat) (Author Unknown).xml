@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:42">
+  <properties>
+    <titles>
+      <title>723 Joy In Serving Jesus (easy nice up beat)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is joy in serving Jesus<br/>As I journey on my way<br/>Joy that fills the heart with praises<br/>Every hour and every day</lines>
+    </verse>
+    <verse name="c1">
+      <lines>There is joy - joy<br/>Joy in serving Jesus<br/>Joy that throbs within my heart<br/>Every moment every hour<br/>As I draw upon His pow'r<br/>There is joy - joy<br/>Joy that never shall depart</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is joy in serving Jesus<br/>Joy that triumphs over pain<br/>Fills my soul with heaven's music<br/>Till I join the glad refrain</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There is joy in seving Jesus<br/>As I walk alone with God<br/>'Tis the joy of Christ my Savior<br/>Who the path of suff'ring trod</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There is joy in serving Jesus<br/>Joy amid the darkest night<br/>For I've learned the wondrous secret<br/>And I'm walking in the light</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:41">
+  <properties>
+    <titles>
+      <title>524 Lord Whate'er In Mortal Eyes (familiar tune -</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord whate'er in mortal eyes<br/>My conscious soul appear<br/>Seen beneath that fair disguise<br/>Which veils the most sincere<br/>Thou dost with all piercing view<br/>Search my inmost spirit through</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In my native vileness seen<br/>Ere Grace subdued my will<br/>All the sinner might have been<br/>All that makes me still<br/>Sigh or tremble doubt or moan<br/>Known to Thee and Thee alone</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In abasment at Thy feet<br/>Lord I would ever lie<br/>Yet it is a Mercy-seat<br/>And I may venture nigh<br/>Who the contrite shall condemn<br/>Christ hath died and pleads for them</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let me still in human sight<br/>A holy semblance wear<br/>What but Mercy Infinite<br/>Could perfect knowledge bear<br/>He who fashioned knows my frame<br/>And Forgiveness is His name</lines>
+    </verse>
+    <verse name="v5">
+      <lines>But if Thine approving smile<br/>My Father cheer my breast<br/>Let the world account me vile<br/>It shall not break my rest<br/>Strong in weakness I shall be<br/>Rich however poor in Thee</lines>
+    </verse>
+  </lyrics>
+</song>

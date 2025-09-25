@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-02-05T16:02:26">
+  <properties>
+    <titles>
+      <title>018 Great Is Thy Faithfulness</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>C<br/><br/>Great is Thy faithfulness<br/>O God my Father<br/>There is no shadow<br/>Of turning with Thee</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Thou changest not<br/>Thy compassions they fail not<br/>As Thou hast been<br/>Thou forever wilt be</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Great is Thy faithfulness<br/>Great is Thy faithfulness<br/>Morning by morning<br/>New mercies I see</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>All I have needed<br/>Thy hand hath provided<br/>Great is Thy faithfulness<br/>Lord unto me</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Summer and winter<br/>And springtime and harvest<br/>Sun moon and stars<br/>In their courses above</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Join with all nature<br/>In manifold witness<br/>To Thy great faithfulness<br/>Mercy and love</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Pardon for sin<br/>And a peace that endureth<br/>Thine own dear presence<br/>To cheer and to guide</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Strength for today<br/>And bright hope for tomorrow<br/>Blessings all mine<br/>With ten thousand beside</lines>
+    </verse>
+  </lyrics>
+</song>

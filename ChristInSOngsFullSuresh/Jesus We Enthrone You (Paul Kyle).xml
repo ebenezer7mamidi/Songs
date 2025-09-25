@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-12T16:01:28">
+  <properties>
+    <titles>
+      <title>Jesus We Enthrone You</title>
+    </titles>
+    <copyright>1980 Thankyou Music, Administered by EMI Christian Music Publishing</copyright>
+    <ccliNo>37845</ccliNo>
+    <authors>
+      <author>Paul Kyle</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>G<br/><br/>Jesus we enthrone You<br/>We proclaim You our King<br/>Standing here in the midst of us<br/>We raise You up with our praise</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And as we worship build a throne<br/>And as we worship build a throne<br/>And as we worship build a throne<br/>Come Lord Jesus and take Your place</lines>
+    </verse>
+  </lyrics>
+</song>

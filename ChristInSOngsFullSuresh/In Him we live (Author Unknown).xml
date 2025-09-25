@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:47">
+  <properties>
+    <titles>
+      <title>In Him we live</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>In Him we live and move<br/>And have our being<br/>In Him we live and move<br/>And have our being</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Make a joyful noise<br/>Sing unto the Lord<br/>Tell Him of your love<br/>Dance before Him<br/>Make a joyful noise<br/>Sing unto the Lord<br/>Tell Him of your love<br/>Hallelujah</lines>
+    </verse>
+  </lyrics>
+</song>

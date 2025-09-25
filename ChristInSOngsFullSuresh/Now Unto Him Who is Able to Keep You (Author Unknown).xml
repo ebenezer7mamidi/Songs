@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:49">
+  <properties>
+    <titles>
+      <title>Now Unto Him Who is Able to Keep You</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Now unto Him Who is able to keep you<br/>Who is able to keep you from stumbling</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And to make you stand in the presence<br/>Of His glory blameless with great joy</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To the only God our Saviour<br/>Through Jesus Christ our Lord<br/>Be all glory majesty dominion and power<br/>Before all time both now and forever</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Amen and amen<br/>Amen and amen<br/>Amen and amen<br/>Amen and amen and amen</lines>
+    </verse>
+  </lyrics>
+</song>

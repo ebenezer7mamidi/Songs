@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:47">
+  <properties>
+    <titles>
+      <title>I was made to praise you</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/>I was made to praise You,<br/>I was made to glorify Your name,<br/>In every circumstance,<br/>To find a chance to thank you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I was made to love you,<br/>I was made to worship at Your feet<br/>And to obey You Lord<br/>I was made for You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will always praise You<br/>I will always glorify Your name,<br/>In every circumstance<br/>To Find a chance to thank You.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will always love You.<br/>I will always worship at Your feet,<br/>And I'll obey You Lord,<br/>I was made for You.</lines>
+    </verse>
+  </lyrics>
+</song>

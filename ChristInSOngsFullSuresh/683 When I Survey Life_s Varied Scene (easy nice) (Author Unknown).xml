@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:42">
+  <properties>
+    <titles>
+      <title>683 When I Survey Life's Varied Scene (easy nice)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I survey life's varied scene<br/>Amid the darkest hours<br/>Sweet rays of comfort shine between<br/>And thorns are mixed with flowers</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord teach me to adore Thy hand<br/>From whence my comforts flow<br/>And let me in this desert land<br/>A glimpse of glory know</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Father whate'er of earthly bliss<br/>Thy sovereign hand denies<br/>Accepted at Thy throne of grace<br/>Let this petition rise</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Give me a calm - a thankful heart<br/>From every murmur free<br/>The blessings of Thy grace impart<br/>And let me live to Thee</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Let the sweet hope that Thou art mine<br/>My life and death attend<br/>Thy Presence through my journey shine<br/>And crown my journey's end</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:37">
+  <properties>
+    <titles>
+      <title>021 God Our Father We Adore Thee</title>
+    </titles>
+    <authors>
+      <author>George W. Frazer and Alfred S. Loizeaux</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>God, our Father, we adore Thee<br/>We Thy children, bless Thy Name<br/>Chosen in the Christ before Thee<br/>We are holy without blame</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>We adore Thee<br/>We adore Thee<br/>Abba's praises we proclaim<br/>We adore Thee<br/>We adore Thee<br/>Abba's praises we proclaim</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Son Eternal we adore Thee<br/>Lamb upon the throne on high<br/>Lamb of God we bow before Thee<br/>Thou hast brought Thy people nigh</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>We adore Thee<br/>We adore Thee<br/>Son of God who came to die<br/>We adore Thee<br/>We adore Thee<br/>Son of God who came to die</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Father Son and Holy Spirit<br/>Three in One<br/>We give Thee praise<br/>For the riches we inherit<br/>heart and voice to Thee we raise</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>We adore Thee<br/>We adore Thee<br/>Thee we bless through endless days<br/>We adore Thee<br/>We adore Thee<br/>Thee we bless through endless days</lines>
+    </verse>
+  </lyrics>
+</song>

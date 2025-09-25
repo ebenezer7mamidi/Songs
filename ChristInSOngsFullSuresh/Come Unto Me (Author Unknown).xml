@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-10T02:46:10">
+  <properties>
+    <titles>
+      <title>Come Unto Me</title>
+    </titles>
+    <verseOrder>c1 v1 c2 v2 c2 v3 c2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>C<br/><br/>Come unto me<br/>All who are weak<br/>Weary and heavy-laden<br/>Gentle am I<br/>Humble in heart<br/>And you shall find<br/>Rest for your soul</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>All things are given<br/>Unto those who believe<br/>Princes and lowely ones<br/>His blessings receive</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>And just when I think<br/>That means everyone but me<br/>Jesus comes beckoning to me</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Come unto me<br/>All who are weak<br/>Weary and heavy-laden<br/>Gentle am I<br/>Humble in heart<br/>And you shall find<br/>Rest for your soul</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We are His little ones<br/>Children of God<br/>Children and fellow-heirs<br/>Of His kingdom come<br/>And we share the greatest love<br/>The world has ever seen<br/>Here in the Lord's family</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Enter His holy gates<br/>Just as you are<br/>No need for a happy face<br/>Just come with your heart<br/>And Jesus will bring us<br/>A joyful melody<br/>If only His calling we heed</lines>
+    </verse>
+  </lyrics>
+</song>

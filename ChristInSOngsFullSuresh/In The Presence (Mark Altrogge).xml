@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-11T15:46:51">
+  <properties>
+    <titles>
+      <title>In The Presence</title>
+    </titles>
+    <copyright>1989 Integrity's Praise! Music / Sovereign Grace Praise, Administered by Integrity Music, Inc.</copyright>
+    <verseOrder>v1 v2 c1 v3 c2</verseOrder>
+    <ccliNo>29688</ccliNo>
+    <authors>
+      <author>Mark Altrogge</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>G<br/><br/>In the presence of a holy God<br/>There's new meaning now to grace<br/>You took all my sins upon Yourself<br/>I can only stand amazed</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the presence of Your infinite might<br/>I'm so small and frail and weak<br/>When I see Your pow'r and wisdom Lord<br/>I have no words left to speak</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>And I cry Holy Holy Holy God<br/>How awesome is Your name<br/>Holy Holy Holy God<br/>How majestic is Your reign</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>And I am changed<br/>In the presence of a holy God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In the presence of Your glory<br/>All my crowns lie in the dust<br/>You are righteous in Your judgments Lord<br/>You are faithful true and just</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>Holy Holy Holy God<br/>How awesome is Your name<br/>Holy Holy Holy God<br/>How majestic is Your reign</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>And I am changed<br/>In the presence of a holy God<br/> (repeat)</lines>
+    </verse>
+  </lyrics>
+</song>

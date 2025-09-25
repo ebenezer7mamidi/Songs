@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:38">
+  <properties>
+    <titles>
+      <title>159 Jesus Thy Head Once Crowned (nice easy)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>D<br/>verse 1<br/>Jesus Thy head once crowned with thorns<br/>Is crowned with glory now<br/>Heaven's royal diadem adorns<br/>The mighty Victors brow</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thou glorious light of courts above<br/>Joy of the saints below<br/>To us still manifest Thy love<br/>That we its depths may know</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To us Thy cross with all its shame<br/>With all its grace be giv'n<br/>Though earth disowns Thy lowly name<br/>God honors it in heav'n</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Who suffer with Thee Lord below<br/>Shall reign with Thee above<br/>Then let it be our joy to know<br/>This way of peace and love</lines>
+    </verse>
+    <verse name="v5">
+      <lines>To us Thy cross is life and health<br/>'Twas shame and death to Thee<br/>Our present glory joy and wealth<br/>Our evertlasting stay</lines>
+    </verse>
+  </lyrics>
+</song>

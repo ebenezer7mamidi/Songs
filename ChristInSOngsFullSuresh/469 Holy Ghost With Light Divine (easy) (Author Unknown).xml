@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:40">
+  <properties>
+    <titles>
+      <title>469 Holy Ghost With Light Divine (easy)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy Ghost with light divine<br/>Shine upon this heart of mine<br/>Chase the shades of night away<br/>Turn my darkness into day</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let me see my Savior's face<br/>Let me all His beauties trace<br/>Show those glorious truths to me<br/>Which are only known to Thee</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Holy Ghost with power divine<br/>Cleanse this guilty heart of mine<br/>Long has sin without control<br/>Held dominion o'er my soul</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Holy Ghost with joy divine<br/>Cheer this saddened heart of mine<br/>Bid my many woes depart<br/>Heal my wounded bleeding heart</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Holy Spirit all divine<br/>Dwell within this heart of mine<br/>Cast down every idol throne<br/>Reign supreme and reign alone</lines>
+    </verse>
+  </lyrics>
+</song>

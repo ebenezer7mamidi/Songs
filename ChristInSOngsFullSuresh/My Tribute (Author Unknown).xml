@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-03-20T01:39:22">
+  <properties>
+    <titles>
+      <title>My Tribute</title>
+    </titles>
+    <verseOrder>v1 c1 b1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bb<br/>How can I say thanks for the things<br/>You have done for me<br/>Things so undeserved<br/>Yet You give to prove Your love for me<br/>The voices of a million angels<br/>Could not express my gratitude<br/>All that I am and ever hope to be<br/>I owe it all to Thee</lines>
+    </verse>
+    <verse name="c1">
+      <lines>To God be the glory<br/>To God be the glory<br/>To God be the glory<br/>For the things He has done<br/>With His blood He has saved me<br/>With His pow'r He has raised me<br/>To God be the glory<br/>For the things He has done</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Just let me live my life<br/>Let it be pleasing Lord to Thee<br/>And should I gain any praise<br/>Let it go to Calvary</lines>
+    </verse>
+  </lyrics>
+</song>

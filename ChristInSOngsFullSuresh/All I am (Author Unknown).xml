@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2023-01-09T20:17:44">
+  <properties>
+    <titles>
+      <title>All I am</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C<br/>All I am - I give to You<br/>A servant of the most high God<br/>Here I am - take my heart<br/>Sit upon the throne of my affection</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All we are we give to you<br/>As servants of the most high God<br/>Here we are take our hearts<br/>Sit upon the throne of our affections</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It's you we love - It's you we want<br/>It's you that we desire to please<br/>We give you now<br/>All glory<br/>May You Lord be honored through us always</lines>
+    </verse>
+    <verse name="v4">
+      <lines>All we are - we give to You<br/>As servants of the most high God<br/>Here we are - take our hearts<br/>Sit upon the throne of our affection</lines>
+    </verse>
+  </lyrics>
+</song>
